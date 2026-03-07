@@ -1,0 +1,684 @@
+{
+  "AFG": {
+    "religion": "Islam",
+    "denomination": "Sunni"
+  },
+  "AGO": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "ALB": {
+    "religion": "Islam",
+    "denomination": "Sunni"
+  },
+  "ARE": {
+    "religion": "Islam",
+    "denomination": "Sunni"
+  },
+  "ARG": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "ARM": {
+    "religion": "Christianity",
+    "denomination": "Eastern Orthodoxy"
+  },
+  "AUS": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "AUT": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "AZE": {
+    "religion": "Islam",
+    "denomination": "Shia"
+  },
+  "BDI": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "BEL": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "BEN": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "BFA": {
+    "religion": "Islam",
+    "denomination": "Sunni"
+  },
+  "BGD": {
+    "religion": "Islam",
+    "denomination": "Sunni"
+  },
+  "BGR": {
+    "religion": "Christianity",
+    "denomination": "Eastern Orthodoxy"
+  },
+  "BHS": {
+    "religion": "Christianity",
+    "denomination": "Protestantism"
+  },
+  "BIH": {
+    "religion": "Islam",
+    "denomination": "Sunni"
+  },
+  "BLR": {
+    "religion": "Christianity",
+    "denomination": "Eastern Orthodoxy"
+  },
+  "BLZ": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "BOL": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "BRA": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "BRN": {
+    "religion": "Islam",
+    "denomination": "Sunni"
+  },
+  "BTN": {
+    "religion": "Buddhism",
+    "denomination": null
+  },
+  "BWA": {
+    "religion": "Christianity",
+    "denomination": "Protestantism"
+  },
+  "CAF": {
+    "religion": "Christianity",
+    "denomination": "Protestantism"
+  },
+  "CAN": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "CHE": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "CHL": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "CHN": {
+    "religion": "Rest",
+    "denomination": null
+  },
+  "CIV": {
+    "religion": "Islam",
+    "denomination": "Sunni"
+  },
+  "CMR": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+
+  "OMN": {
+    "religion": "Islam",
+    "denomination": "Ibadi"
+  },
+
+  "COD": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "COG": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "COL": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "CRI": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "CUB": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "CYP": {
+    "religion": "Christianity",
+    "denomination": "Eastern Orthodoxy"
+  },
+  "CZE": {
+    "religion": "Rest",
+    "denomination": null
+  },
+  "DEU": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "DJI": {
+    "religion": "Islam",
+    "denomination": "Sunni"
+  },
+  "DNK": {
+    "religion": "Christianity",
+    "denomination": "Protestantism"
+  },
+  "DOM": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "DZA": {
+    "religion": "Islam",
+    "denomination": "Sunni"
+  },
+  "ECU": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "EGY": {
+    "religion": "Islam",
+    "denomination": "Sunni"
+  },
+  "ERI": {
+    "religion": "Christianity",
+    "denomination": "Eastern Orthodoxy"
+  },
+  "ESH": {
+    "religion": "Islam",
+    "denomination": "Sunni"
+  },
+  "ESP": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "EST": {
+    "religion": "Rest",
+    "denomination": null
+  },
+  "ETH": {
+    "religion": "Christianity",
+    "denomination": "Eastern Orthodoxy"
+  },
+  "FIN": {
+    "religion": "Christianity",
+    "denomination": "Protestantism"
+  },
+  "FJI": {
+    "religion": "Christianity",
+    "denomination": "Protestantism"
+  },
+  "FRA": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "GAB": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "GBR": {
+    "religion": "Christianity",
+    "denomination": "Protestantism"
+  },
+  "GEO": {
+    "religion": "Christianity",
+    "denomination": "Eastern Orthodoxy"
+  },
+  "GHA": {
+    "religion": "Christianity",
+    "denomination": "Protestantism"
+  },
+  "GIN": {
+    "religion": "Islam",
+    "denomination": "Sunni"
+  },
+  "GMB": {
+    "religion": "Islam",
+    "denomination": "Sunni"
+  },
+  "GNB": {
+    "religion": "Islam",
+    "denomination": "Sunni"
+  },
+  "GNQ": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "GRC": {
+    "religion": "Christianity",
+    "denomination": "Eastern Orthodoxy"
+  },
+  "GTM": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "GUY": {
+    "religion": "Christianity",
+    "denomination": "Protestantism"
+  },
+  "HND": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "HRV": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "HTI": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "HUN": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "IDN": {
+    "religion": "Islam",
+    "denomination": "Sunni"
+  },
+  "IND": {
+    "religion": "Hinduism",
+    "denomination": null
+  },
+  "SML": {
+    "religion": "Islam",
+    "denomination": "Sunni"
+  },
+  "KOS": {
+    "religion": "Islam",
+    "denomination": "Sunni"
+  },
+  "IRL": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "IRN": {
+    "religion": "Islam",
+    "denomination": "Shia"
+  },
+  "IRQ": {
+    "religion": "Islam",
+    "denomination": "Shia"
+  },
+  "ISL": {
+    "religion": "Christianity",
+    "denomination": "Protestantism"
+  },
+  "ISR": {
+    "religion": "Judaism",
+    "denomination": null
+  },
+  "ITA": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "JAM": {
+    "religion": "Christianity",
+    "denomination": "Protestantism"
+  },
+  "JOR": {
+    "religion": "Islam",
+    "denomination": "Sunni"
+  },
+  "JPN": {
+    "religion": "Rest",
+    "denomination": null
+  },
+  "KAZ": {
+    "religion": "Islam",
+    "denomination": "Sunni"
+  },
+  "KEN": {
+    "religion": "Christianity",
+    "denomination": "Protestantism"
+  },
+  "KGZ": {
+    "religion": "Islam",
+    "denomination": "Sunni"
+  },
+  "KHM": {
+    "religion": "Buddhism",
+    "denomination": null
+  },
+  "KOR": {
+    "religion": "Rest",
+    "denomination": null
+  },
+  "KWT": {
+    "religion": "Islam",
+    "denomination": "Sunni"
+  },
+  "LAO": {
+    "religion": "Buddhism",
+    "denomination": null
+  },
+  "LBN": {
+    "religion": "Islam",
+    "denomination": "Sunni"
+  },
+  "LBR": {
+    "religion": "Christianity",
+    "denomination": "Protestantism"
+  },
+  "LBY": {
+    "religion": "Islam",
+    "denomination": "Sunni"
+  },
+  "LKA": {
+    "religion": "Buddhism",
+    "denomination": null
+  },
+  "LSO": {
+    "religion": "Christianity",
+    "denomination": "Protestantism"
+  },
+  "LTU": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "LUX": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "LVA": {
+    "religion": "Christianity",
+    "denomination": "Protestantism"
+  },
+  "MAR": {
+    "religion": "Islam",
+    "denomination": "Sunni"
+  },
+  "MDA": {
+    "religion": "Christianity",
+    "denomination": "Eastern Orthodoxy"
+  },
+  "MDG": {
+    "religion": "Christianity",
+    "denomination": "Protestantism"
+  },
+  "MEX": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "MKD": {
+    "religion": "Christianity",
+    "denomination": "Eastern Orthodoxy"
+  },
+  "MLI": {
+    "religion": "Islam",
+    "denomination": "Sunni"
+  },
+  "MMR": {
+    "religion": "Buddhism",
+    "denomination": null
+  },
+  "MNE": {
+    "religion": "Christianity",
+    "denomination": "Eastern Orthodoxy"
+  },
+  "MNG": {
+    "religion": "Buddhism",
+    "denomination": null
+  },
+  "MOZ": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "MRT": {
+    "religion": "Islam",
+    "denomination": "Sunni"
+  },
+  "MWI": {
+    "religion": "Christianity",
+    "denomination": "Protestantism"
+  },
+  "MYS": {
+    "religion": "Islam",
+    "denomination": "Sunni"
+  },
+  "NAM": {
+    "religion": "Christianity",
+    "denomination": "Protestantism"
+  },
+  "NER": {
+    "religion": "Islam",
+    "denomination": "Sunni"
+  },
+  "NGA": {
+    "religion": "Islam",
+    "denomination": "Sunni"
+  },
+  "NIC": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "NLD": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "NOR": {
+    "religion": "Christianity",
+    "denomination": "Protestantism"
+  },
+  "NPL": {
+    "religion": "Hinduism",
+    "denomination": null
+  },
+  "NZL": {
+    "religion": "Christianity",
+    "denomination": "Protestantism"
+  },
+  "OMN": {
+    "religion": "Islam",
+    "denomination": "Ibadi"
+  },
+  "PAK": {
+    "religion": "Islam",
+    "denomination": "Sunni"
+  },
+  "PAN": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "PER": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "PHL": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "PNG": {
+    "religion": "Christianity",
+    "denomination": "Protestantism"
+  },
+  "POL": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "PRI": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "PRK": {
+    "religion": "Rest",
+    "denomination": null
+  },
+  "PRT": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "PRY": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "QAT": {
+    "religion": "Islam",
+    "denomination": "Sunni"
+  },
+  "ROU": {
+    "religion": "Christianity",
+    "denomination": "Eastern Orthodoxy"
+  },
+  "RUS": {
+    "religion": "Christianity",
+    "denomination": "Eastern Orthodoxy"
+  },
+  "RWA": {
+    "religion": "Christianity",
+    "denomination": "Protestantism"
+  },
+  "SAU": {
+    "religion": "Islam",
+    "denomination": "Sunni"
+  },
+  "SDN": {
+    "religion": "Islam",
+    "denomination": "Sunni"
+  },
+  "SDS": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "SEN": {
+    "religion": "Islam",
+    "denomination": "Sunni"
+  },
+  "SLE": {
+    "religion": "Islam",
+    "denomination": "Sunni"
+  },
+  "SLV": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "SOM": {
+    "religion": "Islam",
+    "denomination": "Sunni"
+  },
+  "SRB": {
+    "religion": "Christianity",
+    "denomination": "Eastern Orthodoxy"
+  },
+  "SUR": {
+    "religion": "Christianity",
+    "denomination": "Protestantism"
+  },
+  "SVK": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "SVN": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "SWE": {
+    "religion": "Christianity",
+    "denomination": "Protestantism"
+  },
+  "SWZ": {
+    "religion": "Christianity",
+    "denomination": "Protestantism"
+  },
+  "SYR": {
+    "religion": "Islam",
+    "denomination": "Sunni"
+  },
+  "TCD": {
+    "religion": "Islam",
+    "denomination": "Sunni"
+  },
+  "TGO": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "THA": {
+    "religion": "Buddhism",
+    "denomination": null
+  },
+  "TJK": {
+    "religion": "Islam",
+    "denomination": "Sunni"
+  },
+  "TKM": {
+    "religion": "Islam",
+    "denomination": "Sunni"
+  },
+  "TLS": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "TTO": {
+    "religion": "Christianity",
+    "denomination": "Protestantism"
+  },
+  "TUN": {
+    "religion": "Islam",
+    "denomination": "Sunni"
+  },
+  "TUR": {
+    "religion": "Islam",
+    "denomination": "Sunni"
+  },
+  "TWN": {
+    "religion": "Rest",
+    "denomination": null
+  },
+  "TZA": {
+    "religion": "Christianity",
+    "denomination": "Protestantism"
+  },
+  "UGA": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "UKR": {
+    "religion": "Christianity",
+    "denomination": "Eastern Orthodoxy"
+  },
+  "URY": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "USA": {
+    "religion": "Christianity",
+    "denomination": "Protestantism"
+  },
+  "UZB": {
+    "religion": "Islam",
+    "denomination": "Sunni"
+  },
+  "SSD": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "VEN": {
+    "religion": "Christianity",
+    "denomination": "Catholicism"
+  },
+  "VNM": {
+    "religion": "Rest",
+    "denomination": null
+  },
+  "YEM": {
+    "religion": "Islam",
+    "denomination": "Sunni"
+  },
+  "ZAF": {
+    "religion": "Christianity",
+    "denomination": "Protestantism"
+  },
+  "ZMB": {
+    "religion": "Christianity",
+    "denomination": "Protestantism"
+  },
+  "ZWE": {
+    "religion": "Christianity",
+    "denomination": "Protestantism"
+  }
+}

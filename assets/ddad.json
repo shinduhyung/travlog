@@ -1,0 +1,486 @@
+[
+  // --- Afghanistan (아프가니스탄) ---
+  {
+    "name": "Minaret and Archaeological Remains of Jam",
+    "type": "Cultural",
+    "latitude": 34.3967,
+    "longitude": 64.5161,
+    "countriesIsoA3": ["AFG"],
+    "city": "Ghor",
+    "inscription": "2002",
+    "overview": "The 65m-tall Minaret of Jam is a graceful, soaring structure, dating back to the 12th century. Covered in elaborate brickwork with a blue tile inscription at the top, it is noteworthy for the quality of its architecture and decoration.",
+    "history_significance": "A masterpiece of Islamic architecture and the only surviving monument of the Ghurid Empire's summer capital.",
+    "highlights": "The intricate brickwork, Kufic inscriptions, and the surrounding river canyon.",
+    "locations": []
+  },
+  {
+    "name": "Cultural Landscape and Archaeological Remains of the Bamiyan Valley",
+    "type": "Cultural",
+    "latitude": 34.8469,
+    "longitude": 67.8253,
+    "countriesIsoA3": ["AFG"],
+    "city": "Bamiyan",
+    "inscription": "2003",
+    "overview": "The cultural landscape and archaeological remains of the Bamiyan Valley represent the artistic and religious developments which from the 1st to the 13th centuries characterized ancient Bakhtria, integrating various cultural influences into the Gandhara school of Buddhist art.",
+    "history_significance": "Site of the famous giant Buddha statues (destroyed in 2001) and a major center of Buddhism on the Silk Road.",
+    "highlights": "The Buddha niches, the caves with mural paintings, and the Shahr-i-Gholghola fortress.",
+    "locations": []
+  },
+
+  // --- Botswana (보츠와나) ---
+  {
+    "name": "Tsodilo",
+    "type": "Cultural",
+    "latitude": -18.7500,
+    "longitude": 21.7333,
+    "countriesIsoA3": ["BWA"],
+    "city": "North-West District",
+    "inscription": "2001",
+    "overview": "With one of the highest concentrations of rock art in the world, Tsodilo has been called the 'Louvre of the Desert'. Over 4,500 paintings are preserved in an area of only 10 km2 of the Kalahari Desert.",
+    "history_significance": "A sacred place for the San people, documenting human activities and environmental changes over at least 100,000 years.",
+    "highlights": "The Rhino Cave, the Male and Female Hills, and the vibrant rock paintings.",
+    "locations": []
+  },
+  {
+    "name": "Okavango Delta",
+    "type": "Natural",
+    "latitude": -19.2833,
+    "longitude": 22.8167,
+    "countriesIsoA3": ["BWA"],
+    "city": "North-West District",
+    "inscription": "2014",
+    "overview": "This delta in north-west Botswana comprises permanent marshlands and seasonally flooded plains. It is one of the very few major interior delta systems that do not flow into a sea or ocean.",
+    "history_significance": "An exceptional example of the interaction between climatic, hydrological and biological processes, supporting large populations of mammals.",
+    "highlights": "The seasonal flooding, the wildlife (elephants, lions, hippos), and the mokoro canoe trips.",
+    "locations": []
+  },
+
+  // --- Chad (차드) ---
+  {
+    "name": "Lakes of Ounianga",
+    "type": "Natural",
+    "latitude": 19.0594,
+    "longitude": 20.5025,
+    "countriesIsoA3": ["TCD"],
+    "city": "Ennedi",
+    "inscription": "2012",
+    "overview": "The site includes eighteen interconnected lakes in the hyper-arid Ennedi region of the Sahara desert covering an area of 62,808 ha. It constitutes an exceptional natural landscape of great beauty with striking colors and shapes.",
+    "history_significance": "A unique hydrological system in a desert setting, sustaining a diverse aquatic fauna.",
+    "highlights": "Lake Yoa (largest), Lake Katam, and the contrasting colors of the lakes.",
+    "locations": []
+  },
+  {
+    "name": "Ennedi Massif: Natural and Cultural Landscape",
+    "type": "Mixed",
+    "latitude": 17.0417,
+    "longitude": 21.9917,
+    "countriesIsoA3": ["TCD"],
+    "city": "Ennedi",
+    "inscription": "2016",
+    "overview": "Located in the northeast of the country, the Ennedi Massif is sculpted by water and wind erosion into a plateau featuring spectacular canyons and valleys. It is also home to thousands of images painted and carved into the rock surface.",
+    "history_significance": "Features one of the largest ensembles of rock art in the Sahara and relict biodiversity like the desert crocodile.",
+    "highlights": "The Aloba Arch, Guelta d'Archei, and the extensive rock art galleries.",
+    "locations": []
+  },
+
+  // --- Gabon (가봉) ---
+  {
+    "name": "Ecosystem and Relict Cultural Landscape of Lopé-Okanda",
+    "type": "Mixed",
+    "latitude": -0.5000,
+    "longitude": 11.5000,
+    "countriesIsoA3": ["GAB"],
+    "city": "Ogooué-Ivindo",
+    "inscription": "2007",
+    "overview": "This site demonstrates an unusual interface between dense and well-conserved tropical rainforest and relict savannah environments with a great diversity of species.",
+    "history_significance": "Contains evidence of successive passages of different peoples over the last 400,000 years, including rock art and Iron Age sites.",
+    "highlights": "The forest-savannah mosaic, Mandrills, and the rock carvings of Elarmekora.",
+    "locations": []
+  },
+  {
+    "name": "Ivindo National Park",
+    "type": "Natural",
+    "latitude": 0.0833,
+    "longitude": 12.6333,
+    "countriesIsoA3": ["GAB"],
+    "city": "Ogooué-Ivindo",
+    "inscription": "2021",
+    "overview": "Situated on the equator in northern Gabon, the largely pristine site encompasses an area of almost 300,000 ha crossed by a network of picturesque blackwater rivers.",
+    "history_significance": "Features the spectacular Kongou and Mingouli waterfalls and is a critical habitat for forest elephants and gorillas.",
+    "highlights": "Kongou Falls, Langoué Bai (forest clearing), and the rich biodiversity.",
+    "locations": []
+  },
+
+  // --- Ghana (가나) ---
+  {
+    "name": "Forts and Castles, Volta, Greater Accra, Central and Western Regions",
+    "type": "Cultural",
+    "latitude": 5.1047,
+    "longitude": -1.2464,
+    "countriesIsoA3": ["GHA"],
+    "city": "Various",
+    "inscription": "1979",
+    "overview": "The remains of fortified trading-posts, erected between 1482 and 1786, can be seen along the coast of Ghana between Keta and Beyin. They were links in the trade routes established by the Portuguese, Dutch, English, French and Prussians.",
+    "history_significance": "Testifies to the history of European-African trade, particularly the gold trade and the transatlantic slave trade.",
+    "highlights": "Cape Coast Castle, St. George's Castle (Elmina), and Fort Christiansborg.",
+    "locations": [
+      { "name": "Cape Coast Castle", "latitude": 5.1047, "longitude": -1.2464 },
+      { "name": "St. George's Castle (Elmina)", "latitude": 5.0825, "longitude": -1.3486 },
+      { "name": "Fort San Sebastian", "latitude": 5.0719, "longitude": -1.3736 },
+      { "name": "Fort St. Jago (Coenraadsburg)", "latitude": 5.0847, "longitude": -1.3522 },
+      { "name": "Fort Amsterdam", "latitude": 5.1817, "longitude": -1.0933 },
+      { "name": "Fort Patience (Apam)", "latitude": 5.2856, "longitude": -0.7328 }
+    ]
+  },
+  {
+    "name": "Asante Traditional Buildings",
+    "type": "Cultural",
+    "latitude": 6.4086,
+    "longitude": -1.6167,
+    "countriesIsoA3": ["GHA"],
+    "city": "Kumasi",
+    "inscription": "1980",
+    "overview": "To the north-east of Kumasi, these remain the last material remains of the great Asante civilization, which reached its peak in the 18th century. The buildings are made of earth, wood and straw.",
+    "history_significance": "Rare surviving examples of traditional Asante architecture with unique bas-relief decorations.",
+    "highlights": "The intricate relief decorations on the walls and the steep thatched roofs.",
+    "locations": [
+      { "name": "Abirim", "latitude": 6.4086, "longitude": -1.6167 },
+      { "name": "Asawase", "latitude": 6.3833, "longitude": -1.6333 },
+      { "name": "Asenemaso", "latitude": 6.4333, "longitude": -1.6833 },
+      { "name": "Bodwease", "latitude": 6.4667, "longitude": -1.5333 }
+    ]
+  },
+
+  // --- Honduras (온두라스) ---
+  {
+    "name": "Maya Site of Copan",
+    "type": "Cultural",
+    "latitude": 14.8417,
+    "longitude": -89.1436,
+    "countriesIsoA3": ["HND"],
+    "city": "Copán",
+    "inscription": "1980",
+    "overview": "Discovered in 1570 by Diego García de Palacio, the Maya site of Copan is one of the most important sites of the Mayan civilization. The ruined citadel and imposing public squares reveal the three main stages of development before the city was abandoned in the early 10th century.",
+    "history_significance": "Famous for its intricate stelae and the Hieroglyphic Stairway, which contains the longest known Mayan text.",
+    "highlights": "The Hieroglyphic Stairway, Altar Q, and the Ball Court.",
+    "locations": []
+  },
+  {
+    "name": "Río Plátano Biosphere Reserve",
+    "type": "Natural",
+    "latitude": 15.7333,
+    "longitude": -84.7333,
+    "countriesIsoA3": ["HND"],
+    "city": "La Mosquitia",
+    "inscription": "1982",
+    "overview": "Located on the watershed of the Río Plátano, the reserve is one of the few remains of a tropical rainforest in Central America. It has an abundant and varied plant and wildlife.",
+    "history_significance": "Home to over 2,000 indigenous people who have preserved their traditional way of life.",
+    "highlights": "The primary rainforest, diverse wildlife (jaguars, macaws), and the indigenous communities.",
+    "locations": []
+  },
+
+  // --- Ireland (아일랜드) ---
+  {
+    "name": "Brú na Bóinne - Archaeological Ensemble of the Bend of the Boyne",
+    "type": "Cultural",
+    "latitude": 53.6947,
+    "longitude": -6.4753,
+    "countriesIsoA3": ["IRL"],
+    "city": "County Meath",
+    "inscription": "1993",
+    "overview": "The three main prehistoric sites of the Brú na Bóinne Complex, Newgrange, Knowth and Dowth, are situated on the north bank of the River Boyne. It is Europe's largest and most important concentration of prehistoric megalithic art.",
+    "history_significance": "These passage graves dating from c. 3200 BC are older than Stonehenge and the Pyramids of Giza.",
+    "highlights": "Newgrange passage tomb (Winter Solstice alignment), Knowth, and the megalithic art.",
+    "locations": [
+      { "name": "Newgrange", "latitude": 53.6947, "longitude": -6.4753 },
+      { "name": "Knowth", "latitude": 53.7011, "longitude": -6.4917 },
+      { "name": "Dowth", "latitude": 53.7036, "longitude": -6.4503 }
+    ]
+  },
+  {
+    "name": "Sceilg Mhichíl",
+    "type": "Cultural",
+    "latitude": 51.7719,
+    "longitude": -10.5400,
+    "countriesIsoA3": ["IRL"],
+    "city": "County Kerry",
+    "inscription": "1996",
+    "overview": "This monastic complex, perched on the steep slopes of the rocky island of Skellig Michael, illustrates the very Spartan existence of the first Irish Christians. Since the extreme remoteness of Skellig Michael has until recently discouraged visitors, the site is exceptionally well preserved.",
+    "history_significance": "A unique example of an early Christian monastic settlement founded in the 7th century.",
+    "highlights": "The beehive huts, the stone stairs, and the puffin colony.",
+    "locations": []
+  },
+
+  // --- Jamaica (자메이카) ---
+  {
+    "name": "Blue and John Crow Mountains",
+    "type": "Mixed",
+    "latitude": 18.0667,
+    "longitude": -76.5500,
+    "countriesIsoA3": ["JAM"],
+    "city": "Eastern Jamaica",
+    "inscription": "2015",
+    "overview": "The site encompasses a rugged and extensively forested mountainous region in the south-east of Jamaica, which provided refuge for the indigenous Tainos and later for Maroons (escaped enslaved Africans).",
+    "history_significance": "A symbol of resistance against the colonial system and a biodiversity hotspot with high endemism.",
+    "highlights": "Blue Mountain Peak, the Maroon heritage trails, and the endemic flora.",
+    "locations": []
+  },
+
+  // --- Mauritania (모리타니) ---
+  {
+    "name": "Banc d'Arguin National Park",
+    "type": "Natural",
+    "latitude": 20.2333,
+    "longitude": -16.1000,
+    "countriesIsoA3": ["MRT"],
+    "city": "Nouadhibou",
+    "inscription": "1989",
+    "overview": "Fringing the Atlantic coast, the park comprises sand dunes, coastal swamps, small islands and shallow coastal waters. The austerity of the desert and the biodiversity of the marine zone result in a land- and seascape of exceptional contrasting natural value.",
+    "history_significance": "A major breeding site for migratory birds and a vital nursery for fish.",
+    "highlights": "The vast flocks of migratory birds and the traditional Imraguen fishermen.",
+    "locations": []
+  },
+  {
+    "name": "Ancient Ksour of Ouadane, Chinguetti, Tichitt and Oualata",
+    "type": "Cultural",
+    "latitude": 20.9300,
+    "longitude": -11.6200,
+    "countriesIsoA3": ["MRT"],
+    "city": "Adrar & Tagant",
+    "inscription": "1996",
+    "overview": "Founded in the 11th and 12th centuries to serve the caravans crossing the Sahara, these trading and religious centers became focal points of Islamic culture.",
+    "history_significance": "Outstanding examples of traditional Saharan settlements with stone architecture.",
+    "highlights": "The Friday Mosque of Chinguetti, the libraries of desert manuscripts, and the decorative stone architecture.",
+    "locations": [
+      { "name": "Ouadane", "latitude": 20.9300, "longitude": -11.6200 },
+      { "name": "Chinguetti", "latitude": 20.4622, "longitude": -12.3664 },
+      { "name": "Tichitt", "latitude": 18.4406, "longitude": -9.4939 },
+      { "name": "Oualata", "latitude": 17.3022, "longitude": -7.0264 }
+    ]
+  },
+
+  // --- Mauritius (모리셔스) ---
+  {
+    "name": "Aapravasi Ghat",
+    "type": "Cultural",
+    "latitude": -20.1586,
+    "longitude": 57.5031,
+    "countriesIsoA3": ["MUS"],
+    "city": "Port Louis",
+    "inscription": "2006",
+    "overview": "In the district of Port Louis lies the 1,640 m2 site where the modern indentured labour diaspora began. Between 1834 and 1920, almost half a million indentured labourers arrived from India to work in the sugar plantations.",
+    "history_significance": "The site stands as a major historic testimony to the 19th-century indenture system ('Great Experiment').",
+    "highlights": "The Immigration Depot steps and the interpretation centre.",
+    "locations": []
+  },
+  {
+    "name": "Le Morne Cultural Landscape",
+    "type": "Cultural",
+    "latitude": -20.4561,
+    "longitude": 57.3175,
+    "countriesIsoA3": ["MUS"],
+    "city": "Black River District",
+    "inscription": "2008",
+    "overview": "Le Morne Brabant is a rugged mountain that juts into the Indian Ocean in the southwest of Mauritius. It was used as a shelter by runaway slaves, the maroons, through the 18th and early 19th centuries.",
+    "history_significance": "A symbol of the slaves' fight for freedom, their suffering, and their sacrifice.",
+    "highlights": "Le Morne Brabant peak, the 'Underwater Waterfall' illusion (nearby), and the Maroon heritage sites.",
+    "locations": []
+  },
+
+  // --- Myanmar (미얀마) ---
+  {
+    "name": "Pyu Ancient Cities",
+    "type": "Cultural",
+    "latitude": 22.4833,
+    "longitude": 95.8167,
+    "countriesIsoA3": ["MMR"],
+    "city": "Various",
+    "inscription": "2014",
+    "overview": "The site includes the remains of three brick, walled and moated cities – Halin, Beikthano and Sri Ksetra – located in the vast irrigated landscapes of the dry zone of the Ayeyarwady (Irrawaddy) River basin.",
+    "history_significance": "Testifies to the Pyu Kingdoms that flourished for over 1,000 years between 200 BC and AD 900.",
+    "highlights": "Bawbawgyi Stupa (Sri Ksetra), the city walls, and the burial urns.",
+    "locations": [
+      { "name": "Halin", "latitude": 22.4833, "longitude": 95.8167 },
+      { "name": "Beikthano", "latitude": 20.0000, "longitude": 95.3667 },
+      { "name": "Sri Ksetra", "latitude": 18.8167, "longitude": 95.2833 }
+    ]
+  },
+  {
+    "name": "Bagan",
+    "type": "Cultural",
+    "latitude": 21.1717,
+    "longitude": 94.8583,
+    "countriesIsoA3": ["MMR"],
+    "city": "Mandalay Region",
+    "inscription": "2019",
+    "overview": "Bagan is a sacred landscape featuring an exceptional range of Buddhist art and architecture. It contains more than 3,500 surviving stupas, temples, monasteries, and other structures.",
+    "history_significance": "The capital of the Pagan Kingdom (11th-13th centuries), representing the peak of Buddhist temple construction in Southeast Asia.",
+    "highlights": "Ananda Temple, Dhammayangyi Temple, and the sunset views over the plains.",
+    "locations": []
+  },
+
+  // --- Namibia (나미비아) ---
+  {
+    "name": "Twyfelfontein or /Ui-//aes",
+    "type": "Cultural",
+    "latitude": -20.5950,
+    "longitude": 14.3736,
+    "countriesIsoA3": ["NAM"],
+    "city": "Kunene",
+    "inscription": "2007",
+    "overview": "Twyfelfontein has one of the largest concentrations of rock engravings in Africa. Most of these well-preserved engravings represent rhinoceroses, elephants, ostriches, and giraffes, as well as footprints of men and animals.",
+    "history_significance": "An extensive record of ritual practices relating to hunter-gatherer communities in this part of southern Africa over at least 2,000 years.",
+    "highlights": "The 'Lion Man' engraving, the Dancing Kudu, and the stunning red sandstone landscape.",
+    "locations": []
+  },
+  {
+    "name": "Namib Sand Sea",
+    "type": "Natural",
+    "latitude": -24.8911,
+    "longitude": 15.3972,
+    "countriesIsoA3": ["NAM"],
+    "city": "Namib Desert",
+    "inscription": "2013",
+    "overview": "The Namib Sand Sea is the only coastal desert in the world that includes extensive dune fields influenced by fog. It features two dune systems, an ancient semi-consolidated one overlaid by a younger active one.",
+    "history_significance": "An outstanding example of the scenic, geomorphological, ecological and evolutionary consequences of wind-driven processes.",
+    "highlights": "Sossusvlei, Deadvlei (with dead camel thorn trees), and Dune 45.",
+    "locations": []
+  },
+
+  // --- Nicaragua (니카라과) ---
+  {
+    "name": "Ruins of León Viejo",
+    "type": "Cultural",
+    "latitude": 12.3992,
+    "longitude": -86.6186,
+    "countriesIsoA3": ["NIC"],
+    "city": "Puerto Momotombo",
+    "inscription": "2000",
+    "overview": "León Viejo is one of the oldest Spanish colonial settlements in the Americas. It was founded in 1524 but abandoned in 1610 following an eruption of the Momotombo volcano.",
+    "history_significance": "Preserves the original layout of an early Spanish colonial city without later alterations.",
+    "highlights": "The ruins of the Cathedral, the La Merced convent, and the view of Momotombo Volcano.",
+    "locations": []
+  },
+  {
+    "name": "León Cathedral",
+    "type": "Cultural",
+    "latitude": 12.4350,
+    "longitude": -86.8792,
+    "countriesIsoA3": ["NIC"],
+    "city": "León",
+    "inscription": "2011",
+    "overview": "Built between 1747 and the early 19th century, the Cathedral of León represents the transition from Baroque to Neoclassical architecture.",
+    "history_significance": "The largest cathedral in Central America, known for its robust construction designed to withstand earthquakes.",
+    "highlights": "The roof promenade, the 'Atlantes' statues, and the tomb of Rubén Darío.",
+    "locations": []
+  },
+
+  // --- Nigeria (나이지리아) ---
+  {
+    "name": "Sukur Cultural Landscape",
+    "type": "Cultural",
+    "latitude": 10.7406,
+    "longitude": 13.5683,
+    "countriesIsoA3": ["NGA"],
+    "city": "Adamawa",
+    "inscription": "1999",
+    "overview": "The Sukur Cultural Landscape, with the Palace of the Hidi (Chief) on a hill dominating the villages below, the terraced fields and their sacred symbols, and the extensive remains of a former flourishing iron industry.",
+    "history_significance": "An exceptional testimony to a strong and continuing spiritual and cultural tradition that has endured for many centuries.",
+    "highlights": "The Hidi's Palace, the terraced fields, and the paved walkways.",
+    "locations": []
+  },
+  {
+    "name": "Osun-Osogbo Sacred Grove",
+    "type": "Cultural",
+    "latitude": 7.7553,
+    "longitude": 4.5522,
+    "countriesIsoA3": ["NGA"],
+    "city": "Osogbo",
+    "inscription": "2005",
+    "overview": "The dense forest of the Osun Sacred Grove, on the outskirts of the city of Osogbo, is one of the last remnants of primary high forest in southern Nigeria. It contains sculptures and sanctuaries dedicated to the river goddess Osun.",
+    "history_significance": "A symbol of identity for the Yoruba people and probably the last sacred grove in Yoruba culture.",
+    "highlights": "The river Osun, the shrines, and the sculptures by Suzanne Wenger.",
+    "locations": []
+  },
+
+  // --- Rwanda (르완다) ---
+  {
+    "name": "Nyungwe National Park",
+    "type": "Natural",
+    "latitude": -2.5500,
+    "longitude": 29.2500,
+    "countriesIsoA3": ["RWA"],
+    "city": "Western/Southern Province",
+    "inscription": "2023",
+    "overview": "This serial property represents an important area for rainforest conservation in Central Africa. It contains significant habitats for a number of species, including chimpanzees and the owl-faced monkey.",
+    "history_significance": "One of the oldest rainforests in Africa, vital for its biodiversity and as a water catchment area.",
+    "highlights": "The Canopy Walkway, Chimpanzee tracking, and the waterfalls.",
+    "locations": []
+  },
+  {
+    "name": "Memorial sites of the Genocide: Nyamata, Murambi, Gisozi and Bisesero",
+    "type": "Cultural",
+    "latitude": -2.1486,
+    "longitude": 30.0931,
+    "countriesIsoA3": ["RWA"],
+    "city": "Various",
+    "inscription": "2023",
+    "overview": "This serial property comprises four sites that commemorate the 1994 Genocide against the Tutsi. They are places of remembrance and learning.",
+    "history_significance": "Testifies to the calculated mass killings and the resilience of the survivors.",
+    "highlights": "Kigali Genocide Memorial (Gisozi) and the Nyamata Church.",
+    "locations": [
+      { "name": "Kigali Genocide Memorial (Gisozi)", "latitude": -1.9300, "longitude": 30.0600 },
+      { "name": "Nyamata Genocide Memorial", "latitude": -2.1486, "longitude": 30.0931 },
+      { "name": "Murambi Genocide Memorial", "latitude": -2.4561, "longitude": 29.5678 },
+      { "name": "Bisesero Genocide Memorial", "latitude": -2.1931, "longitude": 29.3414 }
+    ]
+  },
+
+  // --- Seychelles (세이셸) ---
+  {
+    "name": "Aldabra Atoll",
+    "type": "Natural",
+    "latitude": -9.4167,
+    "longitude": 46.3667,
+    "countriesIsoA3": ["SYC"],
+    "city": "Aldabra Group",
+    "inscription": "1982",
+    "overview": "The atoll is comprised of four large coral islands which enclose a shallow lagoon. It is home to the world's largest population of giant tortoises.",
+    "history_significance": "One of the largest raised coral atolls in the world, virtually untouched by humans.",
+    "highlights": "The Aldabra Giant Tortoise population (over 100,000) and the pristine marine environment.",
+    "locations": []
+  },
+  {
+    "name": "Vallée de Mai Nature Reserve",
+    "type": "Natural",
+    "latitude": -4.3217,
+    "longitude": 55.7386,
+    "countriesIsoA3": ["SYC"],
+    "city": "Praslin Island",
+    "inscription": "1983",
+    "overview": "Located on the island of Praslin, this reserve has a natural palm forest preserved in almost its original state. The famous Coco de Mer, the largest seed in the plant kingdom, grows here.",
+    "history_significance": "A remnant of the ancient palm forests of Gondwana, once believed to be the Garden of Eden.",
+    "highlights": "The Coco de Mer palms and the rare Seychelles Black Parrot.",
+    "locations": []
+  },
+
+  // --- United Arab Emirates (아랍에미리트) ---
+  {
+    "name": "Cultural Sites of Al Ain (Hafit, Hili, Bidaa Bint Saud and Oases Areas)",
+    "type": "Cultural",
+    "latitude": 24.0678,
+    "longitude": 55.7989,
+    "countriesIsoA3": ["ARE"],
+    "city": "Abu Dhabi (Al Ain)",
+    "inscription": "2011",
+    "overview": "The property provides testimony to the sedentary human occupation of a desert region since the Neolithic period with vestiges of many prehistoric cultures.",
+    "history_significance": "Illustrates the transition from hunting and gathering to sedentary agriculture and the development of the 'falaj' irrigation system.",
+    "highlights": "The Al Ain Oasis, Jebel Hafit Tombs, and Hili Archaeological Park.",
+    "locations": [
+      { "name": "Al Ain Oasis", "latitude": 24.2175, "longitude": 55.7758 },
+      { "name": "Hili Archaeological Park", "latitude": 24.2883, "longitude": 55.7878 },
+      { "name": "Jebel Hafit Tombs", "latitude": 24.0433, "longitude": 55.7994 },
+      { "name": "Bidaa Bint Saud", "latitude": 24.3967, "longitude": 55.8167 }
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Seoul",
+    "country": "Korea",
+    "continent": "Asia",
+    "country_iso": "KR",
+    "Starbucks": 284
+  },
+  {
+    "name": "New York City",
+    "country": "United States",
+    "continent": "North America",
+    "country_iso": "US",
+    "Starbucks": 277
+  },
+  {
+    "name": "Shanghai",
+    "country": "China",
+    "continent": "Asia",
+    "country_iso": "CN",
+    "Starbucks": 256
+  },
+  {
+    "name": "London",
+    "country": "United Kingdom",
+    "continent": "Europe",
+    "country_iso": "GB",
+    "Starbucks": 202
+  },
+  {
+    "name": "Chicago",
+    "country": "United States",
+    "continent": "North America",
+    "country_iso": "US",
+    "Starbucks": 164
+  },
+  {
+    "name": "Toronto",
+    "country": "Canada",
+    "continent": "North America",
+    "country_iso": "CA",
+    "Starbucks": 160
+  },
+  {
+    "name": "Mexico City",
+    "country": "Mexico",
+    "continent": "North America",
+    "country_iso": "MX",
+    "Starbucks": 160
+  },
+  {
+    "name": "Seattle",
+    "country": "United States",
+    "continent": "North America",
+    "country_iso": "US",
+    "Starbucks": 142
+  },
+  {
+    "name": "Beijing",
+    "country": "China",
+    "continent": "Asia",
+    "country_iso": "CN",
+    "Starbucks": 137
+  },
+  {
+    "name": "Las Vegas",
+    "country": "United States",
+    "continent": "North America",
+    "country_iso": "US",
+    "Starbucks": 136
+  }
+]

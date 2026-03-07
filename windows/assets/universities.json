@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Harvard University",
+    "country": "USA",
+    "latitude": 42.3770,
+    "longitude": -71.1167
+  },
+  {
+    "name": "Stanford University",
+    "country": "USA",
+    "latitude": 37.4275,
+    "longitude": -122.1697
+  },
+  {
+    "name": "University of Cambridge",
+    "country": "UK",
+    "latitude": 52.2053,
+    "longitude": 0.1218
+  },
+  {
+    "name": "University of Oxford",
+    "country": "UK",
+    "latitude": 51.7548,
+    "longitude": -1.2547
+  },
+  {
+    "name": "Seoul National University",
+    "country": "South Korea",
+    "latitude": 37.4598,
+    "longitude": 126.9519
+  },
+  {
+    "name": "The University of Tokyo",
+    "country": "Japan",
+    "latitude": 35.7126,
+    "longitude": 139.7624
+  },
+  {
+    "name": "Peking University",
+    "country": "China",
+    "latitude": 39.9929,
+    "longitude": 116.3102
+  }
+]

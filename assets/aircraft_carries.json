@@ -1,0 +1,16 @@
+[
+  { "iso_a3": "USA", "aircraft_carriers_total": 20 },
+  { "iso_a3": "CHN", "aircraft_carriers_total": 7 },
+  { "iso_a3": "JPN", "aircraft_carriers_total": 4 },
+  { "iso_a3": "FRA", "aircraft_carriers_total": 4 },
+  { "iso_a3": "IND", "aircraft_carriers_total": 2 },
+  { "iso_a3": "EGY", "aircraft_carriers_total": 2 },
+  { "iso_a3": "GBR", "aircraft_carriers_total": 2 },
+  { "iso_a3": "ITA", "aircraft_carriers_total": 2 },
+  { "iso_a3": "KOR", "aircraft_carriers_total": 2 },
+  { "iso_a3": "AUS", "aircraft_carriers_total": 2 },
+  { "iso_a3": "BRA", "aircraft_carriers_total": 1 },
+  { "iso_a3": "RUS", "aircraft_carriers_total": 1 },
+  { "iso_a3": "TUR", "aircraft_carriers_total": 1 },
+  { "iso_a3": "THA", "aircraft_carriers_total": 1 }
+]

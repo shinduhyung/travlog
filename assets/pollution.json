@@ -1,0 +1,12 @@
+[
+  {"name": "Byrnihat", "country": "India", "pollution": "128.2", "continent": "Asia"},
+  {"name": "Delhi", "country": "India", "pollution": "108.3", "continent": "Asia"},
+  {"name": "Karaganda", "country": "Kazakhstan", "pollution": "104.8", "continent": "Asia"},
+  {"name": "Mullanpur", "country": "India", "pollution": "102.3", "continent": "Asia"},
+  {"name": "Lahore", "country": "Pakistan", "pollution": "102.1", "continent": "Asia"},
+  {"name": "Faridabad", "country": "India", "pollution": "101.2", "continent": "Asia"},
+  {"name": "Dera Ismail Khan", "country": "Pakistan", "pollution": "93", "continent": "Asia"},
+  {"name": "N'Djamena", "country": "Chad", "pollution": "91.8", "continent": "Africa"},
+  {"name": "Loni", "country": "India", "pollution": "91.7", "continent": "Asia"},
+  {"name": "New Delhi", "country": "India", "pollution": "91.6", "continent": "Asia"}
+]

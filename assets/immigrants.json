@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Miami",
+    "country": "United States",
+    "continent": "North America",
+    "country_iso": "US",
+    "Foreign": "40.9"
+  },
+  {
+    "name": "San Jose",
+    "country": "United States",
+    "continent": "North America",
+    "country_iso": "US",
+    "Foreign": "39.1"
+  },
+  {
+    "name": "Los Angeles",
+    "country": "United States",
+    "continent": "North America",
+    "country_iso": "US",
+    "Foreign": "32.7"
+  },
+  {
+    "name": "San Francisco",
+    "country": "United States",
+    "continent": "North America",
+    "country_iso": "US",
+    "Foreign": "30.7"
+  },
+  {
+    "name": "New York City",
+    "country": "United States",
+    "continent": "North America",
+    "country_iso": "US",
+    "Foreign": "29.3"
+  },
+  {
+    "name": "Houston",
+    "country": "United States",
+    "continent": "North America",
+    "country_iso": "US",
+    "Foreign": "23.3"
+  },
+  {
+    "name": "San Diego",
+    "country": "United States",
+    "continent": "North America",
+    "country_iso": "US",
+    "Foreign": "22.9"
+  },
+  {
+    "name": "Washington",
+    "country": "United States",
+    "continent": "North America",
+    "country_iso": "US",
+    "Foreign": "22.8"
+  },
+  {
+    "name": "Las Vegas",
+    "country": "United States",
+    "continent": "North America",
+    "country_iso": "US",
+    "Foreign": "22.1"
+  },
+  {
+    "name": "Riverside",
+    "country": "United States",
+    "continent": "North America",
+    "country_iso": "US",
+    "Foreign": "21.1"
+  },
+  {
+    "name": "Seattle",
+    "country": "United States",
+    "continent": "North America",
+    "country_iso": "US",
+    "Foreign": "19.2"
+  },
+  {
+    "name": "Boston",
+    "country": "United States",
+    "continent": "North America",
+    "country_iso": "US",
+    "Foreign": "18.9"
+  },
+  {
+    "name": "Orlando",
+    "country": "United States",
+    "continent": "North America",
+    "country_iso": "US",
+    "Foreign": "18.8"
+  },
+  {
+    "name": "Dallas",
+    "country": "United States",
+    "continent": "North America",
+    "country_iso": "US",
+    "Foreign": "18.5"
+  },
+  {
+    "name": "Sacramento",
+    "country": "United States",
+    "continent": "North America",
+    "country_iso": "US",
+    "Foreign": "18.5"
+  }
+]

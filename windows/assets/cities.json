@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Tokyo",
+    "country": "Japan",
+    "continent": "Asia",
+    "population": 37435191,
+    "latitude": 35.6895,
+    "longitude": 139.6917
+  },
+  {
+    "name": "Delhi",
+    "country": "India",
+    "continent": "Asia",
+    "population": 29399141,
+    "latitude": 28.7041,
+    "longitude": 77.1025
+  },
+  {
+    "name": "Shanghai",
+    "country": "China",
+    "continent": "Asia",
+    "population": 26317104,
+    "latitude": 31.2304,
+    "longitude": 121.4737
+  },
+  {
+    "name": "New York",
+    "country": "USA",
+    "continent": "North America",
+    "population": 18804000,
+    "latitude": 40.7128,
+    "longitude": -74.0060
+  },
+  {
+    "name": "London",
+    "country": "UK",
+    "continent": "Europe",
+    "population": 9002488,
+    "latitude": 51.5074,
+    "longitude": -0.1278
+  },
+  {
+    "name": "Lagos",
+    "country": "Nigeria",
+    "continent": "Africa",
+    "population": 14800000,
+    "latitude": 6.5244,
+    "longitude": 3.3792
+  },
+  {
+    "name": "São Paulo",
+    "country": "Brazil",
+    "continent": "South America",
+    "population": 21846507,
+    "latitude": -23.5505,
+    "longitude": -46.6333
+  },
+  {
+    "name": "Sydney",
+    "country": "Australia",
+    "continent": "Oceania",
+    "population": 5312163,
+    "latitude": -33.8688,
+    "longitude": 151.2093
+  },
+  {
+    "name": "Seoul",
+    "country": "South Korea",
+    "continent": "Asia",
+    "population": 9776000,
+    "latitude": 37.5665,
+    "longitude": 126.9780
+  },
+  {
+    "name": "Busan",
+    "country": "South Korea",
+    "continent": "Asia",
+    "population": 3411000,
+    "latitude": 35.1796,
+    "longitude": 129.0756
+  },
+  {
+    "name": "Incheon",
+    "country": "South Korea",
+    "continent": "Asia",
+    "population": 2957000,
+    "latitude": 37.4563,
+    "longitude": 126.7052
+  },
+  {
+    "name": "Daegu",
+    "country": "South Korea",
+    "continent": "Asia",
+    "population": 2432000,
+    "latitude": 35.8714,
+    "longitude": 128.6014
+  }
+]

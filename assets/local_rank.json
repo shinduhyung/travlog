@@ -1,0 +1,1841 @@
+[
+  {
+    "country": "USA",
+    "items": [
+      { "name": "Statue of Liberty", "local_rank": 1 },
+      { "name": "Central Park", "local_rank": 2 },
+      { "name": "Times Square", "local_rank": 3 },
+      { "name": "Golden Gate Bridge", "local_rank": 4 },
+      { "name": "Grand Canyon", "local_rank": 5 },
+      { "name": "Mount Rushmore", "local_rank": 6 },
+      { "name": "The White House", "local_rank": 7 },
+      { "name": "United States Capitol", "local_rank": 8 },
+      { "name": "Lincoln Memorial", "local_rank": 9 },
+      { "name": "Brooklyn Bridge", "local_rank": 10 }
+    ]
+  },
+  {
+    "country": "FRA",
+    "items": [
+      { "name": "Eiffel Tower", "local_rank": 1 },
+      { "name": "Louvre Museum", "local_rank": 2 },
+      { "name": "Notre-Dame de Paris", "local_rank": 3 },
+      { "name": "Palace of Versailles", "local_rank": 4 },
+      { "name": "Arc de Triomphe", "local_rank": 5 },
+      { "name": "Mont-Saint-Michel", "local_rank": 6 },
+      { "name": "Sacré-Cœur Basilica", "local_rank": 7 },
+      { "name": "Champs-Élysées", "local_rank": 8 },
+      { "name": "Pont du Gard", "local_rank": 9 },
+      { "name": "Cité de Carcassonne", "local_rank": 10 }
+    ]
+  },
+  {
+  "country": "CHN",
+  "items": [
+    { "name": "Forbidden City", "local_rank": 1 },
+    { "name": "Great Wall of China", "local_rank": 2 },
+    { "name": "Terracotta Army", "local_rank": 3 },
+    { "name": "Tiananmen Square", "local_rank": 4 },
+    { "name": "Summer Palace", "local_rank": 5 },
+    { "name": "Temple of Heaven", "local_rank": 6 },
+    { "name": "Potala Palace", "local_rank": 7 },
+    { "name": "Leshan Giant Buddha", "local_rank": 8 },
+    { "name": "Mogao Caves", "local_rank": 9 },
+    { "name": "The Bund", "local_rank": 10 }
+  ]
+  },
+  {
+    "country": "DEU",
+    "items": [
+      { "name": "Neuschwanstein Castle", "local_rank": 1 },
+      { "name": "Brandenburg Gate", "local_rank": 2 },
+      { "name": "Cologne Cathedral", "local_rank": 3 },
+      { "name": "Berlin Wall Memorial", "local_rank": 4 },
+      { "name": "Heidelberg Castle", "local_rank": 5 },
+      { "name": "Rothenburg Old Town", "local_rank": 6 },
+      { "name": "Marienplatz", "local_rank": 7 },
+      { "name": "Sanssouci Palace", "local_rank": 8 },
+      { "name": "Aachen Cathedral", "local_rank": 9 },
+      { "name": "Eltz Castle", "local_rank": 10 }
+    ]
+  },
+  {
+    "country": "ITA",
+    "items": [
+      { "name": "Colosseum", "local_rank": 1 },
+      { "name": "Pantheon", "local_rank": 2 },
+      { "name": "Trevi Fountain", "local_rank": 3 },
+      { "name": "Roman Forum", "local_rank": 4 },
+      { "name": "St. Mark's Basilica", "local_rank": 5 },
+      { "name": "Florence Cathedral", "local_rank": 6 },
+      { "name": "Leaning Tower of Pisa", "local_rank": 7 },
+      { "name": "Duomo di Milano", "local_rank": 8 },
+      { "name": "Pompeii", "local_rank": 9 },
+      { "name": "Uffizi Gallery", "local_rank": 10 }
+    ]
+  },
+  {
+    "country": "JPN",
+    "items": [
+      { "name": "Mount Fuji", "local_rank": 1 },
+      { "name": "Senso-ji", "local_rank": 2 },
+      { "name": "Fushimi Inari Taisha", "local_rank": 3 },
+      { "name": "Kinkaku-ji", "local_rank": 4 },
+      { "name": "Tokyo Skytree", "local_rank": 5 },
+      { "name": "Himeji Castle", "local_rank": 6 },
+      { "name": "Itsukushima Shrine", "local_rank": 7 },
+      { "name": "Meiji Jingu", "local_rank": 8 },
+      { "name": "Osaka Castle", "local_rank": 9 },
+      { "name": "Hiroshima Peace Memorial", "local_rank": 10 }
+    ]
+  },
+  {
+    "country": "GBR",
+    "items": [
+      { "name": "Big Ben", "local_rank": 1 },
+      { "name": "Buckingham Palace", "local_rank": 2 },
+      { "name": "Tower of London", "local_rank": 3 },
+      { "name": "Stonehenge", "local_rank": 4 },
+      { "name": "Westminster Abbey", "local_rank": 5 },
+      { "name": "Tower Bridge", "local_rank": 6 },
+      { "name": "British Museum", "local_rank": 7 },
+      { "name": "Edinburgh Castle", "local_rank": 8 },
+      { "name": "Windsor Castle", "local_rank": 9 },
+      { "name": "London Eye", "local_rank": 10 }
+    ]
+  },
+  {
+    "country": "ESP",
+    "items": [
+      { "name": "Sagrada Familia", "local_rank": 1 },
+      { "name": "Alhambra", "local_rank": 2 },
+      { "name": "Prado Museum", "local_rank": 3 },
+      { "name": "Royal Palace of Madrid", "local_rank": 4 },
+      { "name": "Park Güell", "local_rank": 5 },
+      { "name": "Mezquita-Cathedral of Córdoba", "local_rank": 6 },
+      { "name": "Plaza Mayor", "local_rank": 7 },
+      { "name": "Guggenheim Museum Bilbao", "local_rank": 8 },
+      { "name": "Alcázar of Seville", "local_rank": 9 },
+      { "name": "Cathedral of Santiago de Compostela", "local_rank": 10 }
+    ]
+  },
+  {
+    "country": "CAN",
+    "items": [
+      { "name": "CN Tower", "local_rank": 1 },
+      { "name": "Niagara Falls", "local_rank": 2 },
+      { "name": "Old Québec", "local_rank": 3 },
+      { "name": "Parliament Hill", "local_rank": 4 },
+      { "name": "Notre-Dame Basilica of Montreal", "local_rank": 5 },
+      { "name": "Banff National Park", "local_rank": 6 },
+      { "name": "Lake Louise", "local_rank": 7 },
+      { "name": "Capilano Suspension Bridge", "local_rank": 8 },
+      { "name": "L'Anse aux Meadows", "local_rank": 9 },
+      { "name": "Old Montreal", "local_rank": 10 }
+    ]
+  },
+  {
+    "country": "IND",
+    "items": [
+      { "name": "Taj Mahal", "local_rank": 1 },
+      { "name": "Red Fort", "local_rank": 2 },
+      { "name": "Qutub Minar", "local_rank": 3 },
+      { "name": "Gateway of India", "local_rank": 4 },
+      { "name": "Golden Temple", "local_rank": 5 },
+      { "name": "Hawa Mahal", "local_rank": 6 },
+      { "name": "Ajanta Caves", "local_rank": 7 },
+      { "name": "Ellora Caves", "local_rank": 8 },
+      { "name": "Varanasi Ghats", "local_rank": 9 },
+      { "name": "Mysore Palace", "local_rank": 10 }
+    ]
+  },
+  {
+    "country": "AUS",
+    "items": [
+      { "name": "Sydney Opera House", "local_rank": 1 },
+      { "name": "Sydney Harbour Bridge", "local_rank": 2 },
+      { "name": "Uluru", "local_rank": 3 },
+      { "name": "Bondi Beach", "local_rank": 4 },
+      { "name": "The Twelve Apostles", "local_rank": 5 },
+      { "name": "Great Barrier Reef", "local_rank": 6 },
+      { "name": "Blue Mountains", "local_rank": 7 },
+      { "name": "Royal Exhibition Building", "local_rank": 8 },
+      { "name": "Port Arthur Historic Site", "local_rank": 9 },
+      { "name": "Fraser Island (K'gari)", "local_rank": 10 }
+    ]
+  },
+  {
+    "country": "RUS",
+    "items": [
+      { "name": "Red Square", "local_rank": 1 },
+      { "name": "Moscow Kremlin", "local_rank": 2 },
+      { "name": "St. Basil's Cathedral", "local_rank": 3 },
+      { "name": "Hermitage Museum", "local_rank": 4 },
+      { "name": "Lake Baikal", "local_rank": 5 },
+      { "name": "Peterhof Palace", "local_rank": 6 },
+      { "name": "Church of the Savior on Spilled Blood", "local_rank": 7 },
+      { "name": "Kizhi Pogost", "local_rank": 8 },
+      { "name": "Mount Elbrus", "local_rank": 9 },
+      { "name": "Kazan Kremlin", "local_rank": 10 }
+    ]
+  },
+  {
+    "country": "MEX",
+    "items": [
+      { "name": "Chichen Itza", "local_rank": 1 },
+      { "name": "Teotihuacan", "local_rank": 2 },
+      { "name": "Zocalo", "local_rank": 3 },
+      { "name": "Basilica of Our Lady of Guadalupe", "local_rank": 4 },
+      { "name": "National Palace", "local_rank": 5 },
+      { "name": "Tulum Ruins", "local_rank": 6 },
+      { "name": "Palenque", "local_rank": 7 },
+      { "name": "Monte Alban", "local_rank": 8 },
+      { "name": "Angel of Independence", "local_rank": 9 },
+      { "name": "San Miguel de Allende Old Town", "local_rank": 10 }
+    ]
+  },
+  {
+    "country": "IDN",
+    "items": [
+      { "name": "Borobudur Temple", "local_rank": 1 },
+      { "name": "Prambanan Temple", "local_rank": 2 },
+      { "name": "Bali", "local_rank": 3 },
+      { "name": "Komodo National Park", "local_rank": 4 },
+      { "name": "Tanah Lot", "local_rank": 5 },
+      { "name": "Uluwatu Temple", "local_rank": 6 },
+      { "name": "Lake Toba", "local_rank": 7 },
+      { "name": "Mount Bromo", "local_rank": 8 },
+      { "name": "Garuda Wisnu Kencana", "local_rank": 9 },
+      { "name": "Kota Tua Jakarta", "local_rank": 10 }
+    ]
+  },
+  {
+    "country": "BRA",
+    "items": [
+      { "name": "Christ the Redeemer", "local_rank": 1 },
+      { "name": "Iguazu Falls", "local_rank": 2 },
+      { "name": "Copacabana Beach", "local_rank": 3 },
+      { "name": "Historic Town of Ouro Preto", "local_rank": 4 },
+      { "name": "Pelourinho", "local_rank": 5 },
+      { "name": "Amazon River", "local_rank": 6 },
+      { "name": "Fernando de Noronha", "local_rank": 7 },
+      { "name": "Lençóis Maranhenses", "local_rank": 8 },
+      { "name": "Metropolitan Cathedral of Saint Sebastian", "local_rank": 9 },
+      { "name": "National Congress of Brazil", "local_rank": 10 }
+    ]
+  },
+  {
+    "country": "CHE",
+    "items": [
+      { "name": "Matterhorn", "local_rank": 1 },
+      { "name": "Chillon Castle", "local_rank": 2 },
+      { "name": "Old City of Bern (Altstadt)", "local_rank": 3 },
+      { "name": "Lake Geneva", "local_rank": 4 },
+      { "name": "Kapellbrücke (Chapel Bridge)", "local_rank": 5 },
+      { "name": "Zytglogge", "local_rank": 6 },
+      { "name": "Rhine Falls", "local_rank": 7 },
+      { "name": "Lucerne Old Town", "local_rank": 8 },
+      { "name": "Jungfrau", "local_rank": 9 },
+      { "name": "Federal Palace", "local_rank": 10 }
+    ]
+  },
+  {
+    "country": "AUT",
+    "items": [
+      { "name": "Schönbrunn Palace", "local_rank": 1 },
+      { "name": "St Stephen's Cathedral", "local_rank": 2 },
+      { "name": "Hofburg Palace", "local_rank": 3 },
+      { "name": "Belvedere Palace", "local_rank": 4 },
+      { "name": "Hallstatt Village", "local_rank": 5 },
+      { "name": "Salzburg Old Town", "local_rank": 6 },
+      { "name": "Hohensalzburg Fortress", "local_rank": 7 },
+      { "name": "Melk Abbey", "local_rank": 8 },
+      { "name": "Grossglockner", "local_rank": 9 },
+      { "name": "Ringstrasse", "local_rank": 10 }
+    ]
+  },
+  {
+    "country": "EGY",
+    "items": [
+      { "name": "Pyramids of Giza", "local_rank": 1 },
+      { "name": "Great Sphinx of Giza", "local_rank": 2 },
+      { "name": "Valley of the Kings", "local_rank": 3 },
+      { "name": "Karnak Temple Complex", "local_rank": 4 },
+      { "name": "Luxor Temple", "local_rank": 5 },
+      { "name": "Abu Simbel Temples", "local_rank": 6 },
+      { "name": "Egyptian Museum", "local_rank": 7 },
+      { "name": "Cairo Citadel", "local_rank": 8 },
+      { "name": "Nile River", "local_rank": 9 },
+      { "name": "Saint Catherine's Monastery", "local_rank": 10 }
+    ]
+  },
+  {
+    "country": "KOR",
+    "items": [
+      { "name": "Gyeongbokgung Palace", "local_rank": 1 },
+      { "name": "Changdeokgung Palace and Huwon", "local_rank": 2 },
+      { "name": "Bulguksa Temple", "local_rank": 3 },
+      { "name": "Seokguram Grotto", "local_rank": 4 },
+      { "name": "N Seoul Tower", "local_rank": 5 },
+      { "name": "Hwaseong Fortress", "local_rank": 6 },
+      { "name": "Bukchon Hanok Village", "local_rank": 7 },
+      { "name": "DMZ", "local_rank": 8 },
+      { "name": "Jeju Island", "local_rank": 9 },
+      { "name": "Haeundae Beach", "local_rank": 10 }
+    ]
+  },
+  {
+    "country": "NLD",
+    "items": [
+      { "name": "Rijksmuseum", "local_rank": 1 },
+      { "name": "Anne Frank House", "local_rank": 2 },
+      { "name": "Van Gogh Museum", "local_rank": 3 },
+      { "name": "Canal Ring", "local_rank": 4 },
+      { "name": "Dam Square", "local_rank": 5 },
+      { "name": "Royal Palace Amsterdam", "local_rank": 6 },
+      { "name": "Kinderdijk", "local_rank": 7 },
+      { "name": "Zaanse Schans", "local_rank": 8 },
+      { "name": "Keukenhof", "local_rank": 9 },
+      { "name": "Binnenhof", "local_rank": 10 }
+    ]
+  },
+  {
+    "country": "THA",
+    "items": [
+      { "name": "The Grand Palace", "local_rank": 1 },
+      { "name": "Wat Phra Kaew", "local_rank": 2 },
+      { "name": "Wat Arun", "local_rank": 3 },
+      { "name": "Ayutthaya Historical Park", "local_rank": 4 },
+      { "name": "Wat Pho", "local_rank": 5 },
+      { "name": "Sukhothai Historical Park", "local_rank": 6 },
+      { "name": "Phuket Old Town", "local_rank": 7 },
+      { "name": "Wat Phra That Doi Suthep", ",local_rank": 8 },
+      { "name": "Maya Bay", "local_rank": 9 },
+      { "name": "Khao San Road", "local_rank": 10 }
+    ]
+  },
+  {
+    "country": "TUR",
+    "items": [
+      { "name": "Hagia Sophia", "local_rank": 1 },
+      { "name": "Topkapi Palace", "local_rank": 2 },
+      { "name": "Ephesus Archaeological Site", "local_rank": 3 },
+      { "name": "Cappadocia Fairy Chimneys", "local_rank": 4 },
+      { "name": "Pamukkale Travertine Terraces", "local_rank": 5 },
+      { "name": "Troy Archaeological Site", "local_rank": 6 },
+      { "name": "Mount Nemrut", "local_rank": 7 },
+      { "name": "Gobekli Tepe", "local_rank": 8 },
+      { "name": "Blue Mosque", "local_rank": 9 },
+      { "name": "Sumela Monastery", "local_rank": 10 }
+    ]
+  },
+  {
+    "country": "PRT",
+    "items": [
+      { "name": "Jerónimos Monastery", "local_rank": 1 },
+      { "name": "Belém Tower", "local_rank": 2 },
+      { "name": "Pena Palace", "local_rank": 3 },
+      { "name": "São Jorge Castle", "local_rank": 4 },
+      { "name": "Ribeira District", "local_rank": 5 },
+      { "name": "Praça do Comércio", "local_rank": 6 },
+      { "name": "Alfama District", "local_rank": 7 }
+    ]
+  },
+  {
+    "country": "GRC",
+    "items": [
+      { "name": "Parthenon", "local_rank": 1 },
+      { "name": "Delphi Archaeological Site", "local_rank": 2 },
+      { "name": "Monasteries of Meteora", "local_rank": 3  },
+      { "name": "Santorini", "local_rank": 4 },
+      { "name": "Acropolis Museum", "local_rank": 5},
+      { "name": "Mycenae Archaeological Site", "local_rank": 6 },
+      { "name": "Temple of Poseidon at Sounion", "local_rank": 7 }
+    ]
+  },
+  {
+    "country": "TWN",
+    "items": [
+      { "name": "Taipei 101", "local_rank": 1 },
+      { "name": "National Palace Museum", "local_rank": 2 },
+      { "name": "Chiang Kai-shek Memorial Hall", "local_rank": 3 },
+      { "name": "Longshan Temple", "local_rank": 4 },
+      { "name": "Jiufen Old Street", "local_rank": 5 },
+      { "name": "Taroko Gorge", "local_rank": 6 },
+      { "name": "Sun Moon Lake", "local_rank": 7 }
+    ]
+  },
+  {
+    "country": "VNM",
+    "items": [
+      { "name": "Ha Long Bay", "local_rank": 1 },
+      { "name": "Hoi An Old Town", "local_rank": 2 },
+      { "name": "The Imperial City", "local_rank": 3 },
+      { "name": "Cu Chi Tunnels", "local_rank": 4 },
+      { "name": "Ho Chi Minh Mausoleum", "local_rank": 5 },
+      { "name": "My Son Sanctuary", "local_rank": 6 },
+      { "name": "Hanoi Old Quarter", "local_rank": 7 }
+    ]
+  },
+
+  {
+    "country": "PHL",
+    "items": [
+      { "name": "Boracay", "local_rank": 1 },
+      { "name": "Palawan", "local_rank": 2 },
+      { "name": "Chocolate Hills", "local_rank": 3 },
+      { "name": "Banaue Rice Terraces", "local_rank": 4 },
+      { "name": "Intramuros", "local_rank": 5 },
+      { "name": "Fort Santiago", "local_rank": 6 },
+      { "name": "Mayon Volcano", "local_rank": 7 }
+    ]
+  },
+  {
+    "country": "BEL",
+    "items": [
+      { "name": "Grand Place", "local_rank": 1 },
+      { "name": "Atomium", "local_rank": 2 },
+      { "name": "Historic Centre of Bruges", "local_rank": 3 },
+      { "name": "Manneken Pis", "local_rank": 4 },
+      { "name": "Royal Palace of Brussels", "local_rank": 5 },
+      { "name": "Gravensteen", "local_rank": 6 },
+      { "name": "Belfry of Bruges", "local_rank": 7 }
+    ]
+  },
+  {
+    "country": "PER",
+    "items": [
+      { "name": "Machu Picchu", "local_rank": 1 },
+      { "name": "Nazca Lines", "local_rank": 2 },
+      { "name": "Lake Titicaca", "local_rank": 3 },
+      { "name": "Sacsayhuaman", "local_rank": 4 },
+      { "name": "Ollantaytambo", "local_rank": 5 },
+      { "name": "Cusco Cathedral", "local_rank": 6 },
+      { "name": "Rainbow Mountain", "local_rank": 7 }
+    ]
+  },
+  {
+    "country": "ARG",
+    "items": [
+      { "name": "Iguazu Falls", "local_rank": 1 },
+      { "name": "Perito Moreno Glacier", "local_rank": 2 },
+      { "name": "Obelisco de Buenos Aires", "local_rank": 3 },
+      { "name": "Plaza de Mayo", "local_rank": 4 },
+      { "name": "Casa Rosada", "local_rank": 5 },
+      { "name": "Mount Fitz Roy", "local_rank": 6 },
+      { "name": "Quebrada de Humahuaca", "local_rank": 7 }
+    ]
+  },
+  {
+    "country": "MYS",
+    "items": [
+      { "name": "Petronas Towers", "local_rank": 1 },
+      { "name": "Batu Caves", "local_rank": 2 },
+      { "name": "George Town UNESCO Zone", "local_rank": 3 },
+      { "name": "Langkawi", "local_rank": 4 },
+      { "name": "Mount Kinabalu", "local_rank": 5 },
+      { "name": "Merdeka Square", "local_rank": 6 },
+      { "name": "A Famosa", "local_rank": 7 }
+    ]
+  },
+  {
+    "country": "NOR",
+    "items": [
+      { "name": "Bryggen", "local_rank": 1 },
+      { "name": "Lofoten", "local_rank": 2 },
+      { "name": "Preikestolen", "local_rank": 3 },
+      { "name": "Trolltunga", "local_rank": 4 },
+      { "name": "Akershus Fortress", "local_rank": 5 },
+      { "name": "Nidaros Cathedral", "local_rank": 6 },
+      { "name": "Geirangerfjord", "local_rank": 7 }
+    ]
+  },
+  {
+    "country": "NZL",
+    "items": [
+      { "name": "Milford Sound", "local_rank": 1 },
+      { "name": "Mount Cook", "local_rank": 2 },
+      { "name": "Hobbiton Movie Set", "local_rank": 3 },
+      { "name": "Waitangi Treaty Grounds", "local_rank": 4 },
+      { "name": "Tongariro Alpine Crossing", "local_rank": 5 },
+      { "name": "Cathedral Cove", "local_rank": 6 },
+      { "name": "Lake Tekapo", "local_rank": 7 }
+    ]
+  },
+  {
+    "country": "ZAF",
+    "items": [
+      { "name": "Table Mountain", "local_rank": 1 },
+      { "name": "Robben Island Prison", "local_rank": 2 },
+      { "name": "Cradle of Humankind", "local_rank": 3 },
+      { "name": "Apartheid Museum", "local_rank": 4 },
+      { "name": "Blyde River Canyon", "local_rank": 5 },
+      { "name": "Castle of Good Hope", "local_rank": 6 },
+      { "name": "Tugela Falls", "local_rank": 7 }
+    ]
+  },
+  {
+    "country": "MAR",
+    "items": [
+      { "name": "Jemaa el-Fnaa", "local_rank": 1 },
+      { "name": "Hassan II Mosque", "local_rank": 2 },
+      { "name": "Chefchaouen Medina", "local_rank": 3 },
+      { "name": "Fes el Bali", "local_rank": 4 },
+      { "name": "Ksar of Ait-Ben-Haddou", "local_rank": 5 },
+      { "name": "Volubilis", "local_rank": 6 },
+      { "name": "Mount Toubkal", "local_rank": 7 }
+    ]
+  },
+  {
+    "country": "SWE",
+    "items": [
+      { "name": "Gamla Stan", "local_rank": 1 },
+      { "name": "Vasa Museum", "local_rank": 2 },
+      { "name": "Stockholm Palace", "local_rank": 3 },
+      { "name": "Drottningholm Palace", "local_rank": 4 },
+      { "name": "Öresund Bridge", "local_rank": 5 },
+      { "name": "Icehotel", "local_rank": 6 },
+      { "name": "Tanum Rock Carvings", "local_rank": 7 }
+    ]
+  },
+  {
+    "country": "SGP",
+    "items": [
+      { "name": "Marina Bay Sands", "local_rank": 1 },
+      { "name": "Gardens by the Bay", "local_rank": 2 },
+      { "name": "Merlion Park", "local_rank": 3 },
+      { "name": "Singapore Botanic Gardens", "local_rank": 4 },
+      { "name": "Jewel Changi Airport", "local_rank": 5 },
+      { "name": "Sentosa", "local_rank": 6 },
+      { "name": "Buddha Tooth Relic Temple", "local_rank": 7 }
+    ]
+  },
+  {
+    "country": "CHL",
+    "items": [
+      { "name": "Easter Island", "local_rank": 1 },
+      { "name": "Torres del Paine", "local_rank": 2 },
+      { "name": "Valparaiso Historic Quarter", "local_rank": 3 },
+      { "name": "La Moneda Palace", "local_rank": 4 },
+      { "name": "Atacama Desert", "local_rank": 5 },
+      { "name": "Marble Caves", "local_rank": 6 },
+      { "name": "Ahu Tongariki", "local_rank": 7 }
+    ]
+  },
+  {
+    "country": "DNK",
+    "items": [
+      { "name": "Nyhavn", "local_rank": 1 },
+      { "name": "The Little Mermaid", "local_rank": 2 },
+      { "name": "Amalienborg", "local_rank": 3 },
+      { "name": "Rosenborg Castle", "local_rank": 4 },
+      { "name": "Kronborg", "local_rank": 5 },
+      { "name": "Roskilde Cathedral", "local_rank": 6 },
+      { "name": "Jelling Stones", "local_rank": 7 }
+    ]
+  },
+  {
+    "country": "ISL",
+    "items": [
+      { "name": "Blue Lagoon", "local_rank": 1 },
+      { "name": "Gullfoss", "local_rank": 2 },
+      { "name": "Seljalandsfoss", "local_rank": 3 },
+      { "name": "Skógafoss", "local_rank": 4 },
+      { "name": "Thingvellir National Park", "local_rank": 5 },
+      { "name": "Jökulsárlón Glacier Lagoon", "local_rank": 6 },
+      { "name": "Kirkjufell", "local_rank": 7 }
+    ]
+  },
+  {
+    "country": "ARE",
+    "items": [
+      { "name": "Burj Khalifa", "local_rank": 1 },
+      { "name": "Sheikh Zayed Grand Mosque", "local_rank": 2 },
+      { "name": "Burj Al Arab", "local_rank": 3 },
+      { "name": "Palm Jumeirah", "local_rank": 4 },
+      { "name": "Rub' al Khali", "local_rank": 5 }
+    ]
+  },
+  {
+    "country": "COL",
+    "items": [
+      { "name": "Walled City of Cartagena", "local_rank": 1 },
+      { "name": "Castillo San Felipe de Barajas", "local_rank": 2 },
+      { "name": "Salt Cathedral of Zipaquira", "local_rank": 3 },
+      { "name": "Ciudad Perdida", "local_rank": 4 },
+      { "name": "Caño Cristales", "local_rank": 5 }
+    ]
+  },
+  {
+    "country": "HKG",
+    "items": [
+      { "name": "Victoria Harbour", "local_rank": 1 },
+      { "name": "Tian Tan Buddha", "local_rank": 2 },
+      { "name": "Victoria Peak", "local_rank": 3 },
+      { "name": "Avenue of Stars", "local_rank": 4 },
+      { "name": "Ngong Ping 360", "local_rank": 5 }
+    ]
+  },
+  {
+    "country": "POL",
+    "items": [
+      { "name": "Kraków Old Town", "local_rank": 1 },
+      { "name": "Auschwitz-Birkenau Memorial and Museum", "local_rank": 2 },
+      { "name": "Wawel Castle", "local_rank": 3 },
+      { "name": "Wieliczka Salt Mine", "local_rank": 4 },
+      { "name": "Warsaw Old Town", "local_rank": 5 }
+    ]
+  },
+  {
+    "country": "PAK",
+    "items": [
+      { "name": "Badshahi Mosque", "local_rank": 1 },
+      { "name": "Lahore Fort", "local_rank": 2 },
+      { "name": "Faisal Mosque", "local_rank": 3 },
+      { "name": "Mohenjo-daro", "local_rank": 4 },
+      { "name": "K2", "local_rank": 5 }
+    ]
+  },
+  {
+    "country": "CZE",
+    "items": [
+      { "name": "Prague Castle", "local_rank": 1 },
+      { "name": "Charles Bridge", "local_rank": 2 },
+      { "name": "Old Town Square", "local_rank": 3 },
+      { "name": "Prague Astronomical Clock", "local_rank": 4 },
+      { "name": "Český Krumlov Castle", "local_rank": 5 }
+    ]
+  },
+  {
+    "country": "IRN",
+    "items": [
+      { "name": "Persepolis", "local_rank": 1 },
+      { "name": "Naqsh-e Jahan Square", "local_rank": 2 },
+      { "name": "Golestan Palace", "local_rank": 3 },
+      { "name": "Yazd Old City", "local_rank": 4 },
+      { "name": "Mount Damavand", "local_rank": 5 }
+    ]
+  },
+  {
+    "country": "HUN",
+    "items": [
+      { "name": "Hungarian Parliament Building", "local_rank": 1 },
+      { "name": "Buda Castle", "local_rank": 2 },
+      { "name": "Fisherman's Bastion", "local_rank": 3 },
+      { "name": "Heroes' Square", "local_rank": 4 },
+      { "name": "Lake Balaton", "local_rank": 5 }
+    ]
+  },
+  {
+    "country": "IRL",
+    "items": [
+      { "name": "Dublin Castle", "local_rank": 1 },
+      { "name": "St Patrick's Cathedral", "local_rank": 2 },
+      { "name": "Newgrange", "local_rank": 3 },
+      { "name": "Cliffs of Moher", "local_rank": 4 },
+      { "name": "Blarney Castle", "local_rank": 5 }
+    ]
+  },
+  {
+    "country": "ISR",
+    "items": [
+      { "name": "Western Wall", "local_rank": 1 },
+      { "name": "Dome of the Rock", "local_rank": 2 },
+      { "name": "Church of the Holy Sepulchre", "local_rank": 3 },
+      { "name": "Masada", "local_rank": 4 },
+      { "name": "Dead Sea", "local_rank": 5 }
+    ]
+  },
+  {
+    "country": "ETH",
+    "items": [
+      { "name": "Rock-Hewn Churches of Lalibela", "local_rank": 1 },
+      { "name": "Fasil Ghebbi", "local_rank": 2 },
+      { "name": "Obelisk of Axum", "local_rank": 3 },
+      { "name": "Harar Jugol", "local_rank": 4 },
+      { "name": "Danakil Depression", "local_rank": 5 }
+    ]
+  },
+  {
+    "country": "CUB",
+    "items": [
+      { "name": "Old Havana (Habana Vieja)", "local_rank": 1 },
+      { "name": "El Capitolio", "local_rank": 2 },
+      { "name": "Morro Castle (Havana)", "local_rank": 3 },
+      { "name": "Plaza de la Revolución", "local_rank": 4 },
+      { "name": "Varadero Beach", "local_rank": 5 }
+    ]
+  },
+  {
+    "country": "FIN",
+    "items": [
+      { "name": "Suomenlinna", "local_rank": 1 },
+      { "name": "Helsinki Cathedral", "local_rank": 2 },
+      { "name": "Temppeliaukio Church", "local_rank": 3 },
+      { "name": "Old Rauma", "local_rank": 4 },
+      { "name": "Lake Saimaa", "local_rank": 5 }
+    ]
+  },
+  {
+    "country": "KEN",
+    "items": [
+      { "name": "Fort Jesus", "local_rank": 1 },
+      { "name": "Lamu Old Town", "local_rank": 2 },
+      { "name": "Gede Ruins", "local_rank": 3 },
+      { "name": "Mount Kenya", "local_rank": 4 },
+      { "name": "Lake Nakuru", "local_rank": 5 }
+    ]
+  },
+  {
+    "country": "ROU",
+    "items": [
+      { "name": "Palace of the Parliament", "local_rank": 1 },
+      { "name": "Bran Castle", "local_rank": 2 },
+      { "name": "Peleș Castle", "local_rank": 3 },
+      { "name": "Sighișoara Citadel", "local_rank": 4 },
+      { "name": "Salina Turda", "local_rank": 5 }
+    ]
+  },
+  {
+    "country": "SAU",
+    "items": [
+      { "name": "Masjid al-Haram", "local_rank": 1 },
+      { "name": "Al-Masjid an-Nabawi", "local_rank": 2 },
+      { "name": "Hegra", "local_rank": 3 },
+      { "name": "Al-Balad", "local_rank": 4 },
+      { "name": "At-Turaif District", "local_rank": 5 }
+    ]
+  },
+  {
+    "country": "UKR",
+    "items": [
+      { "name": "Kyiv Pechersk Lavra", "local_rank": 1 },
+      { "name": "St. Sophia's Cathedral", "local_rank": 2 },
+      { "name": "Maidan Nezalezhnosti", "local_rank": 3 },
+      { "name": "Lviv Old Town", "local_rank": 4 },
+      { "name": "Chernobyl Exclusion Zone", "local_rank": 5 }
+    ]
+  },
+  {
+    "country": "HRV",
+    "items": [
+      { "name": "Dubrovnik Old Town", "local_rank": 1 },
+      { "name": "Diocletian's Palace", "local_rank": 2 },
+      { "name": "Plitvice Lakes", "local_rank": 3 },
+      { "name": "Pula Arena", "local_rank": 4 },
+      { "name": "Hvar", "local_rank": 5 }
+    ]
+  },
+  {
+    "country": "NGA",
+    "items": [
+      { "name": "Osun-Osogbo Sacred Grove", "local_rank": 1 },
+      { "name": "Emir's Palace Kano", "local_rank": 2 },
+      { "name": "Kano City Walls", "local_rank": 3 },
+      { "name": "Sukur Cultural Landscape", "local_rank": 4 },
+      { "name": "Lake Chad", "local_rank": 5 }
+    ]
+  },
+  {
+    "country": "VEN",
+    "items": [
+      { "name": "Angel Falls", "local_rank": 1 },
+      { "name": "Mount Roraima", "local_rank": 2 },
+      { "name": "Coro and its Port", "local_rank": 3 },
+      { "name": "University City of Caracas", "local_rank": 4 },
+      { "name": "Lake Maracaibo", "local_rank": 5 }
+    ]
+  },
+  {
+    "country": "UZB",
+    "items": [
+      { "name": "Registan Square", "local_rank": 1 },
+      { "name": "Shah-i-Zinda", "local_rank": 2 },
+      { "name": "Gur-e-Amir", "local_rank": 3 },
+      { "name": "Ichan Kala", "local_rank": 4 },
+      { "name": "Ark of Bukhara", "local_rank": 5 }
+    ]
+  },
+  {
+    "country": "ECU",
+    "items": [
+      { "name": "Galapagos Islands", "local_rank": 1 },
+      { "name": "Historic Centre of Quito", "local_rank": 2 },
+      { "name": "Middle of the World City", "local_rank": 3 },
+      { "name": "Cotopaxi", "local_rank": 4 }
+    ]
+  },
+  {
+    "country": "TZA",
+    "items": [
+      { "name": "Mount Kilimanjaro", "local_rank": 1 },
+      { "name": "Stone Town of Zanzibar", "local_rank": 2 },
+      { "name": "Zanzibar", "local_rank": 3 },
+      { "name": "Olduvai Gorge", "local_rank": 4 }
+    ]
+  },
+  {
+    "country": "GTM",
+    "items": [
+      { "name": "Tikal", "local_rank": 1 },
+      { "name": "Antigua Guatemala", "local_rank": 2 },
+      { "name": "Lake Atitlán", "local_rank": 3 },
+      { "name": "Quirigua", "local_rank": 4 }
+    ]
+  },
+  {
+    "country": "NPL",
+    "items": [
+      { "name": "Mount Everest", "local_rank": 1 },
+      { "name": "Pashupatinath Temple", "local_rank": 2 },
+      { "name": "Swayambhunath Stupa", "local_rank": 3 },
+      { "name": "Boudhanath Stupa", "local_rank": 4 },
+      { "name": "Kathmandu Durbar Square", "local_rank": 5 }
+    ]
+  },
+  {
+    "country": "PRK",
+    "items": [
+      { "name": "Juche Tower", "local_rank": 1 },
+      { "name": "Kim Il Sung Square", "local_rank": 2 },
+      { "name": "Kumsusan Palace of the Sun", "local_rank": 3 },
+      { "name": "Ryugyong Hotel", "local_rank": 4 }
+    ]
+  },
+  {
+    "country": "BOL",
+    "items": [
+      { "name": "Salar de Uyuni", "local_rank": 1 },
+      { "name": "Tiwanaku", "local_rank": 2 },
+      { "name": "Lake Titicaca", "local_rank": 3 },
+      { "name": "Historic City of Sucre", "local_rank": 4 }
+    ]
+  },
+  {
+    "country": "DZA",
+    "items": [
+      { "name": "Casbah of Algiers", "local_rank": 1 },
+      { "name": "Timgad", "local_rank": 2 },
+      { "name": "Djemila", "local_rank": 3 },
+      { "name": "Sahara Desert", "local_rank": 4 }
+    ]
+  },
+  {
+    "country": "KAZ",
+    "items": [
+      { "name": "Baikonur Cosmodrome", "local_rank": 1 },
+      { "name": "Mausoleum of Khoja Ahmed Yasawi", "local_rank": 2 },
+      { "name": "Bayterek Tower", "local_rank": 3 },
+      { "name": "Tamgaly Petroglyphs", "local_rank": 4 }
+    ]
+  },
+  {
+    "country": "LKA",
+    "items": [
+      { "name": "Sigiriya", "local_rank": 1 },
+      { "name": "Temple of the Sacred Tooth Relic", "local_rank": 2 },
+      { "name": "Galle Fort", "local_rank": 3 },
+      { "name": "Dambulla Cave Temple", "local_rank": 4 }
+    ]
+  },
+  {
+    "country": "SVN",
+    "items": [
+      { "name": "Lake Bled", "local_rank": 1 },
+      { "name": "Ljubljana Castle", "local_rank": 2 },
+      { "name": "Postojna Cave", "local_rank": 3 },
+      { "name": "Škocjan Caves", "local_rank": 4 }
+    ]
+  },
+  {
+    "country": "TUN",
+    "items": [
+      { "name": "Amphitheatre of El Jem", "local_rank": 1 },
+      { "name": "Archaeological Site of Carthage", "local_rank": 2 },
+      { "name": "Medina of Tunis", "local_rank": 3 },
+      { "name": "Sahara Desert", "local_rank": 4 }
+    ]
+  },
+  {
+    "country": "GEO",
+    "items": [
+      { "name": "Gergeti Trinity Church", "local_rank": 1 },
+      { "name": "Old Tbilisi", "local_rank": 2 },
+      { "name": "Uplistsikhe", "local_rank": 3 },
+      { "name": "Narikala Fortress", "local_rank": 4 }
+    ]
+  },
+  {
+    "country": "KHM",
+    "items": [
+      { "name": "Angkor Wat", "local_rank": 1 },
+      { "name": "Bayon Temple", "local_rank": 2 },
+      { "name": "Ta Prohm", "local_rank": 3 },
+      { "name": "Royal Palace of Cambodia", "local_rank": 4 }
+    ]
+  },
+  {
+    "country": "MMR",
+    "items": [
+      { "name": "Shwedagon Pagoda", "local_rank": 1 },
+      { "name": "Bagan Archaeological Zone", "local_rank": 2 },
+      { "name": "Mandalay Palace", "local_rank": 3 },
+      { "name": "U Bein Bridge", "local_rank": 4 }
+    ]
+  },
+  {
+    "country": "COD",
+    "items": [
+      { "name": "Congo River", "local_rank": 1 },
+      { "name": "Mount Nyiragongo", "local_rank": 2 },
+      { "name": "Boyoma Falls", "local_rank": 3 }
+    ]
+  },
+  {
+    "country": "BGD",
+    "items": [
+      { "name": "Somapura Mahavihara", "local_rank": 1 },
+      { "name": "Lalbagh Fort", "local_rank": 2 },
+      { "name": "Sixty Dome Mosque", "local_rank": 3 }
+    ]
+  },
+  {
+    "country": "BGR",
+    "items": [
+      { "name": "Rila Monastery", "local_rank": 1 },
+      { "name": "Alexander Nevsky Cathedral, Sofia", "local_rank": 2 },
+      { "name": "Plovdiv Old Town", "local_rank": 3 },
+      { "name": "Nessebar Old Town", "local_rank": 4 }
+    ]
+  },
+  {
+    "country": "MAC",
+    "items": [
+      { "name": "Ruins of St. Paul's", "local_rank": 1 },
+      { "name": "Senado Square", "local_rank": 2 },
+      { "name": "Macau Tower", "local_rank": 3 }
+    ]
+  },
+  {
+    "country": "OMN",
+    "items": [
+      { "name": "Sultan Qaboos Grand Mosque", "local_rank": 1 },
+      { "name": "Nizwa Fort", "local_rank": 2 },
+      { "name": "Bahla Fort", "local_rank": 3 },
+      { "name": "Wahiba Sands", "local_rank": 4 }
+    ]
+  },
+  {
+    "country": "AZE",
+    "items": [
+      { "name": "Icherisheher", "local_rank": 1 },
+      { "name": "Heydar Aliyev Center", "local_rank": 2 },
+      { "name": "Maiden Tower of Baku", "local_rank": 3 }
+    ]
+  },
+  {
+    "country": "SVK",
+    "items": [
+      { "name": "Spiš Castle", "local_rank": 1 },
+      { "name": "Bratislava Castle", "local_rank": 2 },
+      { "name": "Vlkolínec", "local_rank": 3 }
+    ]
+  },
+  {
+    "country": "URY",
+    "items": [
+      { "name": "Colonia del Sacramento Historic Quarter", "local_rank": 1 },
+      { "name": "Palacio Salvo", "local_rank": 2 },
+      { "name": "Casapueblo", "local_rank": 3 }
+    ]
+  },
+  {
+    "country": "ALB",
+    "items": [
+      { "name": "Butrint Archaeological Site", "local_rank": 1 },
+      { "name": "Berat Old Town", "local_rank": 2 },
+      { "name": "Gjirokastër Old Town", "local_rank": 3 }
+    ]
+  },
+  {
+    "country": "ARM",
+    "items": [
+      { "name": "Geghard Monastery", "local_rank": 1 },
+      { "name": "Etchmiadzin Cathedral", "local_rank": 2 },
+      { "name": "Temple of Garni", "local_rank": 3 }
+    ]
+  },
+  {
+    "country": "BLR",
+    "items": [
+      { "name": "Mir Castle", "local_rank": 1 },
+      { "name": "Nesvizh Castle", "local_rank": 2 },
+      { "name": "Brest Fortress", "local_rank": 3 }
+    ]
+  },
+  {
+    "country": "JOR",
+    "items": [
+      { "name": "Petra", "local_rank": 1 },
+      { "name": "Wadi Rum", "local_rank": 2 },
+      { "name": "Jerash Archaeological City", "local_rank": 3 },
+      { "name": "Dead Sea", "local_rank": 4 }
+    ]
+  },
+  {
+    "country": "LAO",
+    "items": [
+      { "name": "Luang Prabang Old Town", "local_rank": 1 },
+      { "name": "Plain of Jars", "local_rank": 2 },
+      { "name": "Kuang Si Falls", "local_rank": 3 }
+    ]
+  },
+  {
+    "country": "MLT",
+    "items": [
+      { "name": "Valletta Old Town", "local_rank": 1 },
+      { "name": "Hal Saflieni Hypogeum", "local_rank": 2 },
+      { "name": "Mdina Old City", "local_rank": 3 }
+    ]
+  },
+  {
+    "country": "MNG",
+    "items": [
+      { "name": "Genghis Khan Statue Complex", "local_rank": 1 },
+      { "name": "Gobi Desert", "local_rank": 2 },
+      { "name": "Erdene Zuu Monastery", "local_rank": 3 }
+    ]
+  },
+  {
+    "country": "PRY",
+    "items": [
+      { "name": "Jesuit Mission of La Santisima Trinidad de Parana", "local_rank": 1 },
+      { "name": "Itaipu Dam", "local_rank": 2 }
+    ]
+  },
+  {
+    "country": "SDN",
+    "items": [
+      { "name": "Pyramids of Meroe", "local_rank": 1 },
+      { "name": "Jebel Barkal", "local_rank": 2 }
+    ]
+  },
+  {
+    "country": "SYR",
+    "items": [
+      { "name": "Palmyra", "local_rank": 1 },
+      { "name": "Citadel of Aleppo", "local_rank": 2 },
+      { "name": "Krak des Chevaliers", "local_rank": 3 }
+    ]
+  },
+  {
+    "country": "CYP",
+    "items": [
+      { "name": "Paphos Archaeological Park", "local_rank": 1 },
+      { "name": "Tombs of the Kings", "local_rank": 2 }
+    ]
+  },
+  {
+    "country": "GRL",
+    "items": [
+      { "name": "Ilulissat Icefjord", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "IRQ",
+    "items": [
+      { "name": "Erbil Citadel", "local_rank": 1 },
+      { "name": "Hatra", "local_rank": 2 },
+      { "name": "Great Ziggurat of Ur", "local_rank": 3 }
+    ]
+  },
+  {
+    "country": "LBN",
+    "items": [
+      { "name": "Baalbek", "local_rank": 1 },
+      { "name": "Jeita Grotto", "local_rank": 2 },
+      { "name": "Byblos Citadel", "local_rank": 3 }
+    ]
+  },
+  {
+    "country": "LTU",
+    "items": [
+      { "name": "Vilnius Old Town", "local_rank": 1 },
+      { "name": "Trakai Island Castle", "local_rank": 2 }
+    ]
+  },
+  {
+    "country": "TKM",
+    "items": [
+      { "name": "Darvaza Gas Crater", "local_rank": 1 },
+      { "name": "Ancient Merv", "local_rank": 2 }
+    ]
+  },
+  {
+    "country": "MLI",
+    "items": [
+      { "name": "Great Mosque of Djenne", "local_rank": 1 },
+      { "name": "Cliff of Bandiagara", "local_rank": 2 }
+    ]
+  },
+  {
+    "country": "NAM",
+    "items": [
+      { "name": "Namib Desert", "local_rank": 1 },
+      { "name": "Fish River Canyon", "local_rank": 2 }
+    ]
+  },
+  {
+    "country": "SEN",
+    "items": [
+      { "name": "Goree Island", "local_rank": 1 },
+      { "name": "House of Slaves", "local_rank": 2 }
+    ]
+  },
+  {
+    "country": "BIH",
+    "items": [
+      { "name": "Stari Most", "local_rank": 1 },
+      { "name": "Baščaršija", "local_rank": 2 }
+    ]
+  },
+  {
+    "country": "KGZ",
+    "items": [
+      { "name": "Issyk-Kul", "local_rank": 1 },
+      { "name": "Burana Tower", "local_rank": 2 }
+    ]
+  },
+  {
+    "country": "KWT",
+    "items": [
+      { "name": "Kuwait Towers & Corniche", "local_rank": 1 },
+      { "name": "Liberation Tower", "local_rank": 2 }
+    ]
+  },
+  {
+    "country": "LBY",
+    "items": [
+      { "name": "Leptis Magna", "local_rank": 1 },
+      { "name": "Sabratha", "local_rank": 2 },
+      { "name": "Cyrene", "local_rank": 3 }
+    ]
+  },
+  {
+    "country": "LVA",
+    "items": [
+      { "name": "Riga Old Town", "local_rank": 1 },
+      { "name": "House of the Blackheads", "local_rank": 2 }
+    ]
+  },
+  {
+    "country": "MDV",
+    "items": [
+      { "name": "Meeru Island Beach", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "SRB",
+    "items": [
+      { "name": "Belgrade Fortress (Kalemegdan)", "local_rank": 1 },
+      { "name": "St. Sava Temple", "local_rank": 2 }
+    ]
+  },
+  {
+    "country": "UGA",
+    "items": [
+      { "name": "Murchison Falls", "local_rank": 1 },
+      { "name": "Lake Victoria", "local_rank": 2 }
+    ]
+  },
+  {
+    "country": "YEM",
+    "items": [
+      { "name": "Old City of Sana'a", "local_rank": 1 },
+      { "name": "Shibam", "local_rank": 2 },
+      { "name": "Socotra", "local_rank": 3 }
+    ]
+  },
+  {
+    "country": "ZMB",
+    "items": [
+      { "name": "Victoria Falls", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "EST",
+    "items": [
+      { "name": "Tallinn Old Town", "local_rank": 1 },
+      { "name": "Alexander Nevsky Cathedral, Tallinn", "local_rank": 2 }
+    ]
+  },
+  {
+    "country": "DOM",
+    "items": [
+      { "name": "Ciudad Colonial", "local_rank": 1 },
+      { "name": "Punta Cana", "local_rank": 2 }
+    ]
+  },
+  {
+    "country": "GHA",
+    "items": [
+      { "name": "Cape Coast Castle", "local_rank": 1 },
+      { "name": "Elmina Castle", "local_rank": 2 }
+    ]
+  },
+  {
+    "country": "PSE",
+    "items": [
+      { "name": "Church of the Nativity, Bethlehem", "local_rank": 1 },
+      { "name": "Dead Sea", "local_rank": 2 }
+    ]
+  },
+  {
+    "country": "CMR",
+    "items": [
+      { "name": "Foumban Royal Palace", "local_rank": 1 },
+      { "name": "Bandjoun Chiefdom", "local_rank": 2 }
+    ]
+  },
+  {
+    "country": "CRI",
+    "items": [
+      { "name": "Guayabo National Monument", "local_rank": 1 },
+      { "name": "Catarata del Toro", "local_rank": 2 }
+    ]
+  },
+  {
+    "country": "JAM",
+    "items": [
+      { "name": "Bob Marley Museum", "local_rank": 1 },
+      { "name": "Seven Mile Beach, Negril", "local_rank": 2 }
+    ]
+  },
+  {
+    "country": "LUX",
+    "items": [
+      { "name": "Vianden Castle", "local_rank": 1 },
+      { "name": "Bock Casemates", "local_rank": 2 }
+    ]
+  },
+  {
+    "country": "MDG",
+    "items": [
+      { "name": "Tsingy de Bemaraha", "local_rank": 1 },
+      { "name": "Royal Hill of Ambohimanga", "local_rank": 2 }
+    ]
+  },
+  {
+    "country": "PAN",
+    "items": [
+      { "name": "Panama Canal (Miraflores Locks)", "local_rank": 1 },
+      { "name": "Casco Viejo", "local_rank": 2 }
+    ]
+  },
+  {
+    "country": "ZWE",
+    "items": [
+      { "name": "Victoria Falls", "local_rank": 1 },
+      { "name": "Great Zimbabwe", "local_rank": 2 }
+    ]
+  },
+  {
+    "country": "AFG",
+    "items": [
+      { "name": "Buddhas of Bamiyan", "local_rank": 1 },
+      { "name": "Minaret of Jam", "local_rank": 2 }
+    ]
+  },
+  {
+    "country": "BTN",
+    "items": [
+      { "name": "Paro Taktsang", "local_rank": 1 },
+      { "name": "Punakha Dzong", "local_rank": 2 }
+    ]
+  },
+  {
+    "country": "GUM",
+    "items": [
+      { "name": "Two Lovers Point", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "MNE",
+    "items": [
+      { "name": "Kotor Old Town", "local_rank": 1 },
+      { "name": "Sveti Stefan", "local_rank": 2 }
+    ]
+  },
+  {
+    "country": "MOZ",
+    "items": [
+      { "name": "Island of Mozambique", "local_rank": 1 },
+      { "name": "Fort of Sao Sebastiao", "local_rank": 2 }
+    ]
+  },
+  {
+    "country": "MUS",
+    "items": [
+      { "name": "Le Morne Brabant", "local_rank": 1 },
+      { "name": "Seven Colored Earths", "local_rank": 2 }
+    ]
+  },
+  {
+    "country": "QAT",
+    "items": [
+      { "name": "Souq Waqif", "local_rank": 1 },
+      { "name": "Museum of Islamic Art, Doha", "local_rank": 2 }
+    ]
+  },
+  {
+    "country": "TJK",
+    "items": [
+      { "name": "Sarazm", "local_rank": 1 },
+      { "name": "Ismoil Somoni Peak", "local_rank": 2 }
+    ]
+  },
+  {
+    "country": "AGO",
+    "items": [
+      { "name": "Fortaleza de Sao Miguel", "local_rank": 1 },
+      { "name": "Namib Desert", "local_rank": 2 }
+    ]
+  },
+  {
+    "country": "BHR",
+    "items": [
+      { "name": "Bahrain Fort", "local_rank": 1 },
+      { "name": "Al Fateh Grand Mosque", "local_rank": 2 }
+    ]
+  },
+  {
+    "country": "BHS",
+    "items": [
+      { "name": "Pink Sands Beach", "local_rank": 1 },
+      { "name": "Pig Beach", "local_rank": 2 }
+    ]
+  },
+  {
+    "country": "BWA",
+    "items": [
+      { "name": "Tsodilo Hills", "local_rank": 1 },
+      { "name": "Kalahari Desert", "local_rank": 2 }
+    ]
+  },
+  {
+    "country": "NER",
+    "items": [
+      { "name": "Historic Centre of Agadez", "local_rank": 1 },
+      { "name": "Sahara Desert", "local_rank": 2 }
+    ]
+  },
+  {
+    "country": "NIC",
+    "items": [
+      { "name": "Granada Old Town", "local_rank": 1 },
+      { "name": "Leon Cathedral", "local_rank": 2 }
+    ]
+  },
+  {
+    "country": "PRI",
+    "items": [
+      { "name": "Old San Juan", "local_rank": 1 },
+      { "name": "Castillo San Felipe del Morro", "local_rank": 2 }
+    ]
+  },
+  {
+    "country": "RWA",
+    "items": [
+      { "name": "Kigali Genocide Memorial", "local_rank": 1 },
+      { "name": "Lake Kivu", "local_rank": 2 }
+    ]
+  },
+  {
+    "country": "VAT",
+    "items": [
+      { "name": "St. Peter's Basilica", "local_rank": 1 },
+      { "name": "St. Peter's Square", "local_rank": 2 }
+    ]
+  },
+  {
+    "country": "BEN",
+    "items": [
+      { "name": "Royal Palaces of Abomey", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "CIV",
+    "items": [
+      { "name": "Historic Town of Grand-Bassam", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "FRO",
+    "items": [
+      { "name": "Mulafossur", "local_rank": 1 },
+      { "name": "Sorvagsvatn", "local_rank": 2 }
+    ]
+  },
+  {
+    "country": "HND",
+    "items": [
+      { "name": "Copan Ruinas", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "MCO",
+    "items": [
+      { "name": "Prince's Palace of Monaco", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "MKD",
+    "items": [
+      { "name": "Ohrid Old Town", "local_rank": 1 },
+      { "name": "Lake Ohrid", "local_rank": 2 }
+    ]
+  },
+  {
+    "country": "TTO",
+    "items": [
+      { "name": "Temple in the Sea", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "BRB",
+    "items": [
+      { "name": "Historic Bridgetown and its Garrison", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "BRN",
+    "items": [
+      { "name": "Omar Ali Saifuddien Mosque", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "CAF",
+    "items": []
+  },
+  {
+    "country": "COG",
+    "items": []
+  },
+  {
+    "country": "CPV",
+    "items": [
+      { "name": "Cidade Velha", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "MDA",
+    "items": [
+      { "name": "Orheiul Vechi", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "MNP",
+    "items": [
+      { "name": "Saipan", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "MRT",
+    "items": [
+      { "name": "Richat Structure", "local_rank": 1 },
+      { "name": "Chinguetti Old Town", "local_rank": 2 }
+    ]
+  },
+  {
+    "country": "SLV",
+    "items": [
+      { "name": "Joya de Ceren", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "ABW",
+    "items": [
+      { "name": "Eagle Beach", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "BDI",
+    "items": []
+  },
+  {
+    "country": "COM",
+    "items": []
+  },
+  {
+    "country": "ERI",
+    "items": [
+      { "name": "Fiat Tagliero Building", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "FJI",
+    "items": [
+      { "name": "Levuka Historical Port Town", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "SOM",
+    "items": []
+  },
+  {
+    "country": "SYC",
+    "items": [
+      { "name": "Anse Source d'Argent", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "TGO",
+    "items": []
+  },
+  {
+    "country": "TLS",
+    "items": []
+  },
+  {
+    "country": "AND",
+    "items": [
+      { "name": "Andorra la Vella Old Town", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "BFA",
+    "items": [
+      { "name": "Ruins of Loropeni", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "BLZ",
+    "items": [
+      { "name": "Great Blue Hole", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "CUW",
+    "items": [
+      { "name": "Willemstad Historic Area", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "GAB",
+    "items": []
+  },
+  {
+    "country": "GMB",
+    "items": [
+      { "name": "Kunta Kinteh Island", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "KOS",
+    "items": [
+      { "name": "Prizren Stone Bridge", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "LIE",
+    "items": [
+      { "name": "Vaduz Castle", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "PNG",
+    "items": []
+  },
+  {
+    "country": "ATG",
+    "items": [
+      { "name": "Nelson's Dockyard", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "BMU",
+    "items": [
+      { "name": "St. George's Town", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "DJI",
+    "items": []
+  },
+  {
+    "country": "DMA",
+    "items": [
+      { "name": "Boiling Lake", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "GIN",
+    "items": []
+  },
+  {
+    "country": "GUY",
+    "items": [
+      { "name": "Kaieteur Falls", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "HTI",
+    "items": [
+      { "name": "Citadelle Laferriere", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "LBR",
+    "items": []
+  },
+  {
+    "country": "LSO",
+    "items": []
+  },
+  {
+    "country": "MWI",
+    "items": [
+      { "name": "Lake Malawi", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "SMR",
+    "items": [
+      { "name": "Three Towers of San Marino", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "TCD",
+    "items": []
+  },
+  {
+    "country": "VIR",
+    "items": [
+      { "name": "Trunk Bay", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "VUT",
+    "items": [
+      { "name": "Mount Yasur", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "CYM",
+    "items": [
+      { "name": "Seven Mile Beach", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "GNQ",
+    "items": []
+  },
+  {
+    "country": "GRD",
+    "items": []
+  },
+  {
+    "country": "LCA",
+    "items": [
+      { "name": "Pigeon Island National Landmark", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "MAF",
+    "items": [
+      { "name": "Orient Bay Beach", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "PYF",
+    "items": [
+      { "name": "Taputapuatea Marae", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "SLE",
+    "items": []
+  },
+  {
+    "country": "SSD",
+    "items": []
+  },
+  {
+    "country": "STP",
+    "items": []
+  },
+  {
+    "country": "SUR",
+    "items": [
+      { "name": "Historic Inner City of Paramaribo", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "SWZ",
+    "items": []
+  },
+  {
+    "country": "SXM",
+    "items": [
+      { "name": "Maho Beach", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "TCA",
+    "items": [
+      { "name": "Grace Bay", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "VCT",
+    "items": []
+  },
+  {
+    "country": "AIA",
+    "items": [
+      { "name": "Shoal Bay East", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "ALA",
+    "items": [
+      { "name": "Kastelholm Castle", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "GIB",
+    "items": [
+      { "name": "Moorish Castle", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "GNB",
+    "items": []
+  },
+  {
+    "country": "IMN",
+    "items": [
+      { "name": "Peel Castle", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "KIR",
+    "items": []
+  },
+  {
+    "country": "KNA",
+    "items": [
+      { "name": "Brimstone Hill Fortress", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "PLW",
+    "items": [
+      { "name": "Jellyfish Lake", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "SML",
+    "items": [
+      { "name": "Laas Geel", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "TON",
+    "items": [
+      { "name": "Ha'amonga 'a Maui", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "WSM",
+    "items": [
+      { "name": "Upolu", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "ASM",
+    "items": []
+  },
+  {
+    "country": "COK",
+    "items": [
+      { "name": "Rarotonga", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "ESH",
+    "items": []
+  },
+  {
+    "country": "GGY",
+    "items": [
+      { "name": "Castle Cornet", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "JEY",
+    "items": [
+      { "name": "Mont Orgueil Castle", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "NCL",
+    "items": [
+      { "name": "Île des Pins", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "NRU",
+    "items": []
+  },
+  {
+    "country": "SLB",
+    "items": []
+  },
+  {
+    "country": "SPM",
+    "items": []
+  },
+  {
+    "country": "WLF",
+    "items": []
+  },
+  {
+    "country": "BLM",
+    "items": [
+      { "name": "Fort Gustave", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "FSM",
+    "items": [
+      { "name": "Nan Madol", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "MHL",
+    "items": []
+  },
+  {
+    "country": "MSR",
+    "items": []
+  },
+  {
+    "country": "NFK",
+    "items": [
+      { "name": "Kingston and Arthur's Vale Historic Area", "local_rank": 1 }
+    ]
+  },
+  {
+    "country": "PCN",
+    "items": []
+  },
+  {
+    "country": "TUV",
+    "items": []
+  },
+  {
+    "country": "VGB",
+    "items": []
+  }
+]

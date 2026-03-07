@@ -1,0 +1,4017 @@
+[
+  {
+    "name": "Afghanistan",
+    "countryCode": "AF",
+    "P": {
+      "countryWealth": -0.8,
+      "countryType": -0.5,
+      "countryNightlife": -1.0,
+      "nature_culture": -0.8,
+      "relaxed_intensive": 1.0,
+      "budget_luxury": -1.0,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": 0.5
+    },
+    "W": {
+      "countryType": 10,
+      "countryNightlife": 10,
+      "budget_luxury": 9,
+      "relaxed_intensive": 8,
+      "nature_culture": 8,
+      "landmark_ancient_modern": 7,
+      "countryWealth": 5
+    }
+  },
+  {
+    "name": "Albania",
+    "countryCode": "AL",
+    "P": {
+      "countryWealth": 0.1,
+      "countryType": -0.3,
+      "countryNightlife": 0.2,
+      "nature_culture": 0.5,
+      "budget_luxury": -0.8,
+      "transit_drive": 0.5,
+      "landmark_urban_rural": 0.6
+    },
+    "W": {
+      "budget_luxury": 9,
+      "nature_culture": 8,
+      "countryType": 6,
+      "landmark_urban_rural": 5,
+      "countryNightlife": 3
+    }
+  },
+  {
+    "name": "Algeria",
+    "countryCode": "DZ",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.3,
+      "countryNightlife": -0.8,
+      "nature_culture": 0.0,
+      "landmark_ancient_modern": 0.9,
+      "landmark_urban_rural": 0.7
+    },
+    "W": {
+      "countryNightlife": 9,
+      "landmark_ancient_modern": 8,
+      "countryType": 6,
+      "nature_culture": 5
+    }
+  },
+  {
+    "name": "American Samoa",
+    "countryCode": "AS",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.8,
+      "countryNightlife": -0.5,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0,
+      "landmark_crowd": -0.9
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 9,
+      "landmark_crowd": 7,
+      "countryNightlife": 1
+    }
+  },
+  {
+    "name": "Andorra",
+    "countryCode": "AD",
+    "P": {
+      "countryWealth": 0.5,
+      "countryType": -0.5,
+      "countryNightlife": 0.1,
+      "nature_culture": 0.8,
+      "budget_luxury": 0.5,
+      "landmark_urban_rural": 0.8
+    },
+    "W": {
+      "nature_culture": 9,
+      "countryType": 8,
+      "budget_luxury": 6,
+      "landmark_urban_rural": 6
+    }
+  },
+  {
+    "name": "Angola",
+    "countryCode": "AO",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.6,
+      "countryNightlife": -0.3,
+      "nature_culture": 0.8,
+      "landmark_urban_rural": 0.8
+    },
+    "W": {
+      "nature_culture": 9,
+      "countryType": 7,
+      "landmark_urban_rural": 5
+    }
+  },
+  {
+    "name": "Anguilla",
+    "countryCode": "AI",
+    "P": {
+      "countryWealth": 0.4,
+      "countryType": -0.8,
+      "countryNightlife": -0.2,
+      "nature_culture": 1.0,
+      "budget_luxury": 0.8,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "budget_luxury": 7,
+      "landmark_urban_rural": 8
+    }
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "countryCode": "AG",
+    "P": {
+      "countryWealth": 0.3,
+      "countryType": -0.8,
+      "countryNightlife": 0.1,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 8
+    }
+  },
+  {
+    "name": "Argentina",
+    "countryCode": "AR",
+    "P": {
+      "countryWealth": 0.1,
+      "countryType": -0.3,
+      "countryNightlife": 0.7,
+      "nature_culture": 0.4,
+      "solo_social": 0.7,
+      "landmark_urban_rural": 0.0
+    },
+    "W": {
+      "countryNightlife": 8,
+      "nature_culture": 7,
+      "solo_social": 6,
+      "countryType": 5
+    }
+  },
+  {
+    "name": "Armenia",
+    "countryCode": "AM",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": 0.4,
+      "countryNightlife": 0.0,
+      "nature_culture": -0.5,
+      "landmark_ancient_modern": 0.9,
+      "landmark_urban_rural": 0.2
+    },
+    "W": {
+      "landmark_ancient_modern": 9,
+      "nature_culture": 7,
+      "countryType": 6
+    }
+  },
+  {
+    "name": "Aruba",
+    "countryCode": "AW",
+    "P": {
+      "countryWealth": 0.3,
+      "countryType": -0.8,
+      "countryNightlife": 0.5,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 8
+    }
+  },
+  {
+    "name": "Australia",
+    "countryCode": "AU",
+    "P": {
+      "countryWealth": 0.7,
+      "countryType": -0.6,
+      "countryNightlife": 0.6,
+      "nature_culture": 0.8,
+      "transit_drive": 0.8,
+      "landmark_urban_rural": 0.5
+    },
+    "W": {
+      "nature_culture": 9,
+      "transit_drive": 8,
+      "countryType": 7,
+      "countryWealth": 5
+    }
+  },
+  {
+    "name": "Austria",
+    "countryCode": "AT",
+    "P": {
+      "countryWealth": 0.6,
+      "countryType": 0.3,
+      "countryNightlife": 0.4,
+      "nature_culture": 0.2,
+      "landmark_ancient_modern": 0.8,
+      "landmark_urban_rural": 0.0
+    },
+    "W": {
+      "nature_culture": 7,
+      "landmark_ancient_modern": 8,
+      "countryWealth": 6,
+      "countryType": 5
+    }
+  },
+  {
+    "name": "Azerbaijan",
+    "countryCode": "AZ",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": 0.1,
+      "countryNightlife": 0.1,
+      "nature_culture": -0.3,
+      "landmark_ancient_modern": 0.6
+    },
+    "W": {
+      "landmark_ancient_modern": 7,
+      "countryType": 5,
+      "nature_culture": 5
+    }
+  },
+  {
+    "name": "Bahamas",
+    "countryCode": "BS",
+    "P": {
+      "countryCode": "BS",
+      "countryWealth": 0.3,
+      "countryType": -0.9,
+      "countryNightlife": 0.4,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 8
+    }
+  },
+  {
+    "name": "Bahrain",
+    "countryCode": "BH",
+    "P": {
+      "countryWealth": 0.4,
+      "countryType": 0.6,
+      "countryNightlife": 0.3,
+      "nature_culture": -0.8,
+      "transit_drive": 0.9,
+      "landmark_urban_rural": -0.8
+    },
+    "W": {
+      "nature_culture": 9,
+      "transit_drive": 8,
+      "countryType": 7,
+      "landmark_urban_rural": 6
+    }
+  },
+  {
+    "name": "Bangladesh",
+    "countryCode": "BD",
+    "P": {
+      "countryWealth": -0.3,
+      "countryType": -0.4,
+      "countryNightlife": -0.9,
+      "relaxed_intensive": 1.0,
+      "budget_luxury": -0.9,
+      "landmark_crowd": 1.0
+    },
+    "W": {
+      "relaxed_intensive": 10,
+      "landmark_crowd": 9,
+      "countryNightlife": 9,
+      "budget_luxury": 8
+    }
+  },
+  {
+    "name": "Barbados",
+    "countryCode": "BB",
+    "P": {
+      "countryWealth": 0.3,
+      "countryType": -0.7,
+      "countryNightlife": 0.4,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 8
+    }
+  },
+  {
+    "name": "Belarus",
+    "countryCode": "BY",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": 0.0,
+      "countryNightlife": 0.1,
+      "nature_culture": -0.2,
+      "landmark_urban_rural": -0.4
+    },
+    "W": {
+      "countryType": 5,
+      "nature_culture": 5,
+      "landmark_urban_rural": 4
+    }
+  },
+  {
+    "name": "Belgium",
+    "countryCode": "BE",
+    "P": {
+      "countryWealth": 0.6,
+      "countryType": 0.7,
+      "countryNightlife": 0.6,
+      "nature_culture": -0.8,
+      "transit_drive": -0.8,
+      "landmark_ancient_modern": 0.7
+    },
+    "W": {
+      "nature_culture": 9,
+      "transit_drive": 8,
+      "landmark_ancient_modern": 7,
+      "countryType": 7
+    }
+  },
+  {
+    "name": "Belize",
+    "countryCode": "BZ",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.7,
+      "countryNightlife": 0.1,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 0.9
+    },
+    "W": {
+      "countryType": 9,
+      "nature_culture": 10,
+      "landmark_urban_rural": 7
+    }
+  },
+  {
+    "name": "Benin",
+    "countryCode": "BJ",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": 0.2,
+      "countryNightlife": -0.4,
+      "nature_culture": 0.5,
+      "landmark_ancient_modern": 0.8
+    },
+    "W": {
+      "nature_culture": 7,
+      "landmark_ancient_modern": 8,
+      "countryType": 5
+    }
+  },
+  {
+    "name": "Bermuda",
+    "countryCode": "BM",
+    "P": {
+      "countryWealth": 0.9,
+      "countryType": -0.7,
+      "countryNightlife": 0.2,
+      "nature_culture": 1.0,
+      "budget_luxury": 1.0,
+      "landmark_urban_rural": 0.8
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "budget_luxury": 9,
+      "landmark_urban_rural": 7,
+      "countryWealth": 4
+    }
+  },
+  {
+    "name": "Bhutan",
+    "countryCode": "BT",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.5,
+      "countryNightlife": -0.9,
+      "nature_culture": 1.0,
+      "relaxed_intensive": -0.9,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": 0.9,
+      "landmark_spiritual_secular": 1.0
+    },
+    "W": {
+      "nature_culture": 10,
+      "countryNightlife": 10,
+      "landmark_ancient_modern": 9,
+      "relaxed_intensive": 9,
+      "countryType": 7,
+      "landmark_spiritual_secular": 8
+    }
+  },
+  {
+    "name": "Bolivia",
+    "countryCode": "BO",
+    "P": {
+      "countryWealth": -0.2,
+      "countryType": -0.6,
+      "countryNightlife": 0.1,
+      "nature_culture": 1.0,
+      "budget_luxury": -0.9,
+      "landmark_urban_rural": 1.0,
+      "landmark_adventure_relax": 1.0
+    },
+    "W": {
+      "nature_culture": 10,
+      "countryType": 9,
+      "budget_luxury": 9,
+      "landmark_urban_rural": 8,
+      "landmark_adventure_relax": 7
+    }
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "countryCode": "BA",
+    "P": {
+      "countryWealth": 0.1,
+      "countryType": 0.2,
+      "countryNightlife": 0.3,
+      "nature_culture": 0.2,
+      "budget_luxury": -0.7,
+      "landmark_ancient_modern": 0.9,
+      "landmark_urban_rural": 0.4
+    },
+    "W": {
+      "budget_luxury": 9,
+      "landmark_ancient_modern": 8,
+      "nature_culture": 6,
+      "countryType": 5
+    }
+  },
+  {
+    "name": "Botswana",
+    "countryCode": "BW",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.9,
+      "countryNightlife": -0.4,
+      "nature_culture": 1.0,
+      "budget_luxury": 0.4,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 8,
+      "countryWealth": 3
+    }
+  },
+  {
+    "name": "Brazil",
+    "countryCode": "BR",
+    "P": {
+      "countryWealth": 0.1,
+      "countryType": -0.5,
+      "countryNightlife": 0.9,
+      "nature_culture": 0.8,
+      "solo_social": 0.9,
+      "morning_night": 0.9,
+      "landmark_urban_rural": 0.5
+    },
+    "W": {
+      "countryNightlife": 10,
+      "solo_social": 9,
+      "nature_culture": 9,
+      "morning_night": 8,
+      "countryType": 7
+    }
+  },
+  {
+    "name": "Brunei",
+    "countryCode": "BN",
+    "P": {
+      "countryWealth": 0.5,
+      "countryType": 0.2,
+      "countryNightlife": -0.9,
+      "nature_culture": 0.3,
+      "landmark_ancient_modern": 0.6,
+      "landmark_spiritual_secular": 0.8
+    },
+    "W": {
+      "countryNightlife": 10,
+      "landmark_spiritual_secular": 7,
+      "countryWealth": 6,
+      "countryType": 4
+    }
+  },
+  {
+    "name": "Bulgaria",
+    "countryCode": "BG",
+    "P": {
+      "countryWealth": 0.2,
+      "countryType": 0.1,
+      "countryNightlife": 0.5,
+      "nature_culture": 0.3,
+      "budget_luxury": -0.7,
+      "landmark_ancient_modern": 0.8
+    },
+    "W": {
+      "budget_luxury": 9,
+      "landmark_ancient_modern": 7,
+      "countryNightlife": 6,
+      "nature_culture": 6
+    }
+  },
+  {
+    "name": "Burkina Faso",
+    "countryCode": "BF",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.2,
+      "countryNightlife": -0.5,
+      "nature_culture": 0.4,
+      "landmark_urban_rural": 0.6
+    },
+    "W": {
+      "nature_culture": 7,
+      "landmark_urban_rural": 5,
+      "countryType": 4
+    }
+  },
+  {
+    "name": "Burundi",
+    "countryCode": "BI",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.7,
+      "countryNightlife": -0.7,
+      "nature_culture": 0.9,
+      "landmark_urban_rural": 0.9
+    },
+    "W": {
+      "countryType": 9,
+      "nature_culture": 9,
+      "landmark_urban_rural": 7
+    }
+  },
+  {
+    "name": "Cape Verde",
+    "countryCode": "CV",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.6,
+      "countryNightlife": 0.1,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "nature_culture": 10,
+      "countryType": 9,
+      "landmark_urban_rural": 8
+    }
+  },
+  {
+    "name": "Cambodia",
+    "countryCode": "KH",
+    "P": {
+      "countryWealth": -0.3,
+      "countryType": 0.4,
+      "countryNightlife": 0.3,
+      "nature_culture": -0.6,
+      "budget_luxury": -0.8,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": 0.2
+    },
+    "W": {
+      "landmark_ancient_modern": 10,
+      "budget_luxury": 9,
+      "nature_culture": 8,
+      "countryType": 6
+    }
+  },
+  {
+    "name": "Cameroon",
+    "countryCode": "CM",
+    "P": {
+      "countryWealth": -0.4,
+      "countryType": -0.6,
+      "countryNightlife": -0.3,
+      "nature_culture": 0.8,
+      "landmark_urban_rural": 0.8
+    },
+    "W": {
+      "nature_culture": 9,
+      "countryType": 8,
+      "landmark_urban_rural": 6
+    }
+  },
+  {
+    "name": "Canada",
+    "countryCode": "CA",
+    "P": {
+      "countryWealth": 0.6,
+      "countryType": -0.7,
+      "countryNightlife": 0.6,
+      "nature_culture": 0.9,
+      "transit_drive": 0.8,
+      "landmark_urban_rural": 0.9
+    },
+    "W": {
+      "nature_culture": 10,
+      "countryType": 9,
+      "landmark_urban_rural": 8,
+      "transit_drive": 7,
+      "countryWealth": 4
+    }
+  },
+  {
+    "name": "Cayman Islands",
+    "countryCode": "KY",
+    "P": {
+      "countryWealth": 0.9,
+      "countryType": -0.6,
+      "countryNightlife": 0.3,
+      "nature_culture": 1.0,
+      "budget_luxury": 0.9,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "nature_culture": 10,
+      "countryType": 8,
+      "budget_luxury": 8,
+      "landmark_urban_rural": 7
+    }
+  },
+  {
+    "name": "Central African Republic",
+    "countryCode": "CF",
+    "P": {
+      "countryWealth": -0.7,
+      "countryType": -0.8,
+      "countryNightlife": -0.8,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 9
+    }
+  },
+  {
+    "name": "Chad",
+    "countryCode": "TD",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.8,
+      "countryNightlife": -0.7,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 9
+    }
+  },
+  {
+    "name": "Chile",
+    "countryCode": "CL",
+    "P": {
+      "countryWealth": 0.3,
+      "countryType": -0.6,
+      "countryNightlife": 0.5,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 0.8
+    },
+    "W": {
+      "nature_culture": 10,
+      "countryType": 9,
+      "landmark_urban_rural": 7,
+      "countryNightlife": 4
+    }
+  },
+  {
+    "name": "China",
+    "countryCode": "CN",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.2,
+      "countryNightlife": 0.2,
+      "nature_culture": -0.3,
+      "landmark_ancient_modern": 0.4,
+      "landmark_crowd": 0.9
+    },
+    "W": {
+      "landmark_crowd": 8,
+      "landmark_ancient_modern": 6,
+      "countryType": 5,
+      "nature_culture": 4
+    }
+  },
+  {
+    "name": "Colombia",
+    "countryCode": "CO",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.2,
+      "countryNightlife": 0.8,
+      "nature_culture": 0.5,
+      "solo_social": 0.8,
+      "landmark_urban_rural": 0.2
+    },
+    "W": {
+      "countryNightlife": 9,
+      "solo_social": 8,
+      "nature_culture": 7,
+      "countryType": 5
+    }
+  },
+  {
+    "name": "Comoros",
+    "countryCode": "KM",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.8,
+      "countryNightlife": -0.9,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 9
+    }
+  },
+  {
+    "name": "Republic of the Congo",
+    "countryCode": "CG",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.8,
+      "countryNightlife": -0.4,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 9
+    }
+  },
+  {
+    "name": "DR Congo",
+    "countryCode": "CD",
+    "P": {
+      "countryWealth": -0.7,
+      "countryType": -0.8,
+      "countryNightlife": -0.5,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 9,
+      "countryWealth": 4
+    }
+  },
+  {
+    "name": "Cook Islands",
+    "countryCode": "CK",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.9,
+      "countryNightlife": -0.6,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 9
+    }
+  },
+  {
+    "name": "Costa Rica",
+    "countryCode": "CR",
+    "P": {
+      "countryWealth": 0.2,
+      "countryType": -0.8,
+      "countryNightlife": 0.4,
+      "nature_culture": 1.0,
+      "transit_drive": 0.8,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "transit_drive": 9,
+      "landmark_urban_rural": 8,
+      "countryWealth": 3
+    }
+  },
+  {
+    "name": "Croatia",
+    "countryCode": "HR",
+    "P": {
+      "countryWealth": 0.3,
+      "countryType": -0.1,
+      "countryNightlife": 0.7,
+      "nature_culture": 0.0,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": -0.1
+    },
+    "W": {
+      "landmark_ancient_modern": 9,
+      "countryNightlife": 8,
+      "countryType": 5,
+      "nature_culture": 5
+    }
+  },
+  {
+    "name": "Cuba",
+    "countryCode": "CU",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": 0.3,
+      "countryNightlife": 0.6,
+      "nature_culture": -0.6,
+      "solo_social": 0.8,
+      "landmark_ancient_modern": 1.0
+    },
+    "W": {
+      "landmark_ancient_modern": 10,
+      "solo_social": 8,
+      "countryNightlife": 7,
+      "nature_culture": 7
+    }
+  },
+  {
+    "name": "Curacao",
+    "countryCode": "CW",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.5,
+      "countryNightlife": 0.5,
+      "nature_culture": 0.8,
+      "landmark_urban_rural": 0.6
+    },
+    "W": {
+      "nature_culture": 9,
+      "countryType": 7,
+      "countryNightlife": 5
+    }
+  },
+  {
+    "name": "Cyprus",
+    "countryCode": "CY",
+    "P": {
+      "countryWealth": 0.4,
+      "countryType": -0.2,
+      "countryNightlife": 0.7,
+      "nature_culture": 0.0,
+      "landmark_ancient_modern": 0.8
+    },
+    "W": {
+      "countryNightlife": 8,
+      "landmark_ancient_modern": 7,
+      "countryType": 5
+    }
+  },
+  {
+    "name": "Czech Republic",
+    "countryCode": "CZ",
+    "P": {
+      "countryWealth": 0.3,
+      "countryType": 0.8,
+      "countryNightlife": 0.7,
+      "nature_culture": -0.8,
+      "transit_drive": -0.9,
+      "landmark_ancient_modern": 1.0
+    },
+    "W": {
+      "landmark_ancient_modern": 10,
+      "nature_culture": 9,
+      "transit_drive": 8,
+      "countryType": 7
+    }
+  },
+  {
+    "name": "Ivory Coast",
+    "countryCode": "CI",
+    "P": {
+      "countryWealth": -0.3,
+      "countryType": -0.3,
+      "countryNightlife": -0.2,
+      "nature_culture": 0.6,
+      "landmark_urban_rural": 0.5
+    },
+    "W": {
+      "nature_culture": 8,
+      "landmark_urban_rural": 5
+    }
+  },
+  {
+    "name": "Denmark",
+    "countryCode": "DK",
+    "P": {
+      "countryWealth": 0.7,
+      "countryType": 0.4,
+      "countryNightlife": 0.5,
+      "nature_culture": -0.4,
+      "transit_drive": -0.8,
+      "landmark_ancient_modern": 0.4
+    },
+    "W": {
+      "transit_drive": 9,
+      "countryWealth": 7,
+      "countryType": 6,
+      "nature_culture": 6
+    }
+  },
+  {
+    "name": "Djibouti",
+    "countryCode": "DJ",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.5,
+      "countryNightlife": -0.6,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 8
+    }
+  },
+  {
+    "name": "Dominica",
+    "countryCode": "DM",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.9,
+      "countryNightlife": -0.2,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 9
+    }
+  },
+  {
+    "name": "Dominican Republic",
+    "countryCode": "DO",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.6,
+      "countryNightlife": 0.7,
+      "nature_culture": 0.8,
+      "landmark_urban_rural": 0.7
+    },
+    "W": {
+      "nature_culture": 9,
+      "countryNightlife": 8,
+      "countryType": 7
+    }
+  },
+  {
+    "name": "Ecuador",
+    "countryCode": "EC",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.5,
+      "countryNightlife": 0.3,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 0.9
+    },
+    "W": {
+      "nature_culture": 10,
+      "countryType": 9,
+      "landmark_urban_rural": 7
+    }
+  },
+  {
+    "name": "Egypt",
+    "countryCode": "EG",
+    "P": {
+      "countryWealth": -0.3,
+      "countryType": 0.8,
+      "countryNightlife": -0.3,
+      "nature_culture": -1.0,
+      "relaxed_intensive": 1.0,
+      "landmark_ancient_modern": 1.0,
+      "landmark_crowd": 1.0
+    },
+    "W": {
+      "landmark_ancient_modern": 10,
+      "nature_culture": 10,
+      "relaxed_intensive": 9,
+      "landmark_crowd": 8,
+      "countryType": 7
+    }
+  },
+  {
+    "name": "El Salvador",
+    "countryCode": "SV",
+    "P": {
+      "countryWealth": -0.2,
+      "countryType": -0.3,
+      "countryNightlife": 0.2,
+      "nature_culture": 0.8,
+      "landmark_urban_rural": 0.6
+    },
+    "W": {
+      "nature_culture": 9,
+      "countryType": 6
+    }
+  },
+  {
+    "name": "Equatorial Guinea",
+    "countryCode": "GQ",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.5,
+      "countryNightlife": -0.6,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 9,
+      "nature_culture": 10,
+      "landmark_urban_rural": 8
+    }
+  },
+  {
+    "name": "Eritrea",
+    "countryCode": "ER",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.2,
+      "countryNightlife": -0.8,
+      "nature_culture": 0.2,
+      "landmark_ancient_modern": 0.8
+    },
+    "W": {
+      "countryNightlife": 9,
+      "landmark_ancient_modern": 8
+    }
+  },
+  {
+    "name": "Estonia",
+    "countryCode": "EE",
+    "P": {
+      "countryWealth": 0.3,
+      "countryType": 0.2,
+      "countryNightlife": 0.4,
+      "nature_culture": -0.2,
+      "landmark_ancient_modern": 0.8
+    },
+    "W": {
+      "landmark_ancient_modern": 8,
+      "countryWealth": 5,
+      "countryType": 4
+    }
+  },
+  {
+    "name": "Eswatini",
+    "countryCode": "SZ",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.7,
+      "countryNightlife": -0.5,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 9
+    }
+  },
+  {
+    "name": "Ethiopia",
+    "countryCode": "ET",
+    "P": {
+      "countryWealth": -0.4,
+      "countryType": 0.1,
+      "countryNightlife": -0.5,
+      "nature_culture": -0.4,
+      "landmark_ancient_modern": 1.0
+    },
+    "W": {
+      "landmark_ancient_modern": 10,
+      "nature_culture": 7,
+      "countryType": 5
+    }
+  },
+  {
+    "name": "Falkland Islands",
+    "countryCode": "FK",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -1.0,
+      "countryNightlife": -0.7,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0,
+      "landmark_crowd": -1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 10,
+      "landmark_crowd": 9
+    }
+  },
+  {
+    "name": "Faroe Islands",
+    "countryCode": "FO",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -1.0,
+      "countryNightlife": -0.8,
+      "nature_culture": 1.0,
+      "transit_drive": 1.0,
+      "landmark_urban_rural": 1.0,
+      "landmark_crowd": -1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "transit_drive": 10,
+      "landmark_urban_rural": 10,
+      "landmark_crowd": 9
+    }
+  },
+  {
+    "name": "Fiji",
+    "countryCode": "FJ",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.9,
+      "countryNightlife": 0.0,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 9
+    }
+  },
+  {
+    "name": "Finland",
+    "countryCode": "FI",
+    "P": {
+      "countryWealth": 0.6,
+      "countryType": -0.4,
+      "countryNightlife": 0.3,
+      "nature_culture": 0.5,
+      "landmark_urban_rural": 0.4
+    },
+    "W": {
+      "nature_culture": 8,
+      "countryType": 6,
+      "countryWealth": 6
+    }
+  },
+  {
+    "name": "France",
+    "countryCode": "FR",
+    "P": {
+      "countryWealth": 0.6,
+      "countryType": 0.7,
+      "countryNightlife": 0.6,
+      "nature_culture": -0.8,
+      "transit_drive": -0.6,
+      "landmark_ancient_modern": 0.6
+    },
+    "W": {
+      "nature_culture": 9,
+      "countryType": 8,
+      "transit_drive": 6,
+      "landmark_ancient_modern": 5
+    }
+  },
+  {
+    "name": "French Polynesia",
+    "countryCode": "PF",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.9,
+      "countryNightlife": -0.2,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 9
+    }
+  },
+  {
+    "name": "Gabon",
+    "countryCode": "GA",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.8,
+      "countryNightlife": -0.4,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 9
+    }
+  },
+  {
+    "name": "Gambia",
+    "countryCode": "GM",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.5,
+      "countryNightlife": 0.0,
+      "nature_culture": 0.8,
+      "landmark_urban_rural": 0.8
+    },
+    "W": {
+      "nature_culture": 9,
+      "countryType": 7
+    }
+  },
+  {
+    "name": "Georgia",
+    "countryCode": "GE",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.2,
+      "countryNightlife": 0.4,
+      "nature_culture": 0.3,
+      "budget_luxury": -0.8,
+      "landmark_ancient_modern": 0.9,
+      "landmark_urban_rural": 0.4
+    },
+    "W": {
+      "budget_luxury": 9,
+      "landmark_ancient_modern": 8,
+      "nature_culture": 7,
+      "countryNightlife": 6
+    }
+  },
+  {
+    "name": "Germany",
+    "countryCode": "DE",
+    "P": {
+      "countryWealth": 0.6,
+      "countryType": 0.6,
+      "countryNightlife": 0.9,
+      "nature_culture": -0.6,
+      "transit_drive": -0.6,
+      "landmark_ancient_modern": 0.4
+    },
+    "W": {
+      "countryNightlife": 9,
+      "countryType": 7,
+      "nature_culture": 6,
+      "transit_drive": 6
+    }
+  },
+  {
+    "name": "Ghana",
+    "countryCode": "GH",
+    "P": {
+      "countryWealth": -0.3,
+      "countryType": 0.0,
+      "countryNightlife": 0.1,
+      "nature_culture": 0.5,
+      "landmark_ancient_modern": 0.6
+    },
+    "W": {
+      "nature_culture": 7,
+      "landmark_ancient_modern": 6,
+      "countryType": 5
+    }
+  },
+  {
+    "name": "Gibraltar",
+    "countryCode": "GI",
+    "P": {
+      "countryWealth": 0.5,
+      "countryType": 0.5,
+      "countryNightlife": 0.2,
+      "nature_culture": -0.2,
+      "landmark_urban_rural": -0.4
+    },
+    "W": {
+      "countryType": 8,
+      "countryWealth": 6,
+      "landmark_urban_rural": 5
+    }
+  },
+  {
+    "name": "Greece",
+    "countryCode": "GR",
+    "P": {
+      "countryWealth": 0.2,
+      "countryType": 0.6,
+      "countryNightlife": 0.8,
+      "nature_culture": -0.4,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": -0.5
+    },
+    "W": {
+      "landmark_ancient_modern": 10,
+      "countryNightlife": 9,
+      "nature_culture": 8,
+      "countryType": 7
+    }
+  },
+  {
+    "name": "Greenland",
+    "countryCode": "GL",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -1.0,
+      "countryNightlife": -0.5,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0,
+      "landmark_crowd": -1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 10,
+      "landmark_crowd": 9
+    }
+  },
+  {
+    "name": "Grenada",
+    "countryCode": "GD",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.8,
+      "countryNightlife": 0.1,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 9
+    }
+  },
+  {
+    "name": "Guam",
+    "countryCode": "GU",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.6,
+      "countryNightlife": 0.3,
+      "nature_culture": 0.8,
+      "landmark_urban_rural": 0.7
+    },
+    "W": {
+      "countryType": 9,
+      "nature_culture": 9,
+      "landmark_urban_rural": 6
+    }
+  },
+  {
+    "name": "Guatemala",
+    "countryCode": "GT",
+    "P": {
+      "countryWealth": -0.2,
+      "countryType": 0.1,
+      "countryNightlife": 0.2,
+      "nature_culture": 0.8,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": 0.4
+    },
+    "W": {
+      "landmark_ancient_modern": 9,
+      "nature_culture": 9,
+      "countryType": 6
+    }
+  },
+  {
+    "name": "Guernsey",
+    "countryCode": "GG",
+    "P": {
+      "countryWealth": 0.5,
+      "countryType": -0.3,
+      "countryNightlife": -0.2,
+      "nature_culture": 0.7,
+      "landmark_urban_rural": 0.6
+    },
+    "W": {
+      "countryWealth": 7,
+      "nature_culture": 7,
+      "landmark_urban_rural": 5
+    }
+  },
+  {
+    "name": "Guinea",
+    "countryCode": "GN",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.7,
+      "countryNightlife": -0.5,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 9
+    }
+  },
+  {
+    "name": "Guinea-Bissau",
+    "countryCode": "GW",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.6,
+      "countryNightlife": -0.6,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 9,
+      "nature_culture": 10,
+      "landmark_urban_rural": 9
+    }
+  },
+  {
+    "name": "Guyana",
+    "countryCode": "GY",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.9,
+      "countryNightlife": -0.1,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 9
+    }
+  },
+  {
+    "name": "Haiti",
+    "countryCode": "HT",
+    "P": {
+      "countryWealth": -0.6,
+      "countryType": -0.5,
+      "countryNightlife": -0.6,
+      "nature_culture": 0.8,
+      "landmark_urban_rural": 0.6
+    },
+    "W": {
+      "nature_culture": 8,
+      "countryWealth": 7
+    }
+  },
+  {
+    "name": "Honduras",
+    "countryCode": "HN",
+    "P": {
+      "countryWealth": -0.2,
+      "countryType": -0.4,
+      "countryNightlife": 0.0,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 0.8
+    },
+    "W": {
+      "nature_culture": 10,
+      "countryType": 8,
+      "landmark_urban_rural": 6
+    }
+  },
+  {
+    "name": "Hong Kong",
+    "countryCode": "HK",
+    "P": {
+      "countryWealth": 0.6,
+      "countryType": 0.9,
+      "countryNightlife": 0.7,
+      "nature_culture": -0.8,
+      "transit_drive": -1.0,
+      "landmark_ancient_modern": -0.8,
+      "landmark_urban_rural": -1.0,
+      "landmark_crowd": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "transit_drive": 10,
+      "landmark_urban_rural": 9,
+      "landmark_crowd": 8,
+      "nature_culture": 7
+    }
+  },
+  {
+    "name": "Hungary",
+    "countryCode": "HU",
+    "P": {
+      "countryWealth": 0.3,
+      "countryType": 0.6,
+      "countryNightlife": 0.7,
+      "nature_culture": -0.4,
+      "landmark_ancient_modern": 0.9
+    },
+    "W": {
+      "landmark_ancient_modern": 9,
+      "countryNightlife": 8,
+      "countryType": 7
+    }
+  },
+  {
+    "name": "Iceland",
+    "countryCode": "IS",
+    "P": {
+      "countryWealth": 0.8,
+      "countryType": -1.0,
+      "countryNightlife": 0.2,
+      "nature_culture": 1.0,
+      "transit_drive": 1.0,
+      "landmark_urban_rural": 1.0,
+      "landmark_crowd": -0.8
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "transit_drive": 10,
+      "landmark_urban_rural": 9,
+      "landmark_crowd": 6
+    }
+  },
+  {
+    "name": "India",
+    "countryCode": "IN",
+    "P": {
+      "countryWealth": -0.5,
+      "countryType": 0.5,
+      "countryNightlife": -0.4,
+      "nature_culture": 0.0,
+      "relaxed_intensive": 1.0,
+      "landmark_ancient_modern": 1.0,
+      "landmark_crowd": 1.0
+    },
+    "W": {
+      "landmark_ancient_modern": 10,
+      "landmark_crowd": 10,
+      "relaxed_intensive": 10,
+      "nature_culture": 8,
+      "countryType": 6
+    }
+  },
+  {
+    "name": "Indonesia",
+    "countryCode": "ID",
+    "P": {
+      "countryWealth": -0.1,
+      "countryType": -0.6,
+      "countryNightlife": -0.2,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 0.8
+    },
+    "W": {
+      "nature_culture": 10,
+      "countryType": 8,
+      "landmark_urban_rural": 7
+    }
+  },
+  {
+    "name": "Iran",
+    "countryCode": "IR",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": 0.5,
+      "countryNightlife": -0.9,
+      "nature_culture": -0.8,
+      "landmark_ancient_modern": 1.0
+    },
+    "W": {
+      "landmark_ancient_modern": 10,
+      "countryNightlife": 10,
+      "nature_culture": 7
+    }
+  },
+  {
+    "name": "Iraq",
+    "countryCode": "IQ",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": 0.6,
+      "countryNightlife": -0.8,
+      "nature_culture": -0.9,
+      "landmark_ancient_modern": 1.0
+    },
+    "W": {
+      "landmark_ancient_modern": 10,
+      "countryNightlife": 9
+    }
+  },
+  {
+    "name": "Ireland",
+    "countryCode": "IE",
+    "P": {
+      "countryWealth": 0.8,
+      "countryType": -0.4,
+      "countryNightlife": 0.8,
+      "nature_culture": 0.6,
+      "solo_social": 0.9,
+      "landmark_urban_rural": 0.6
+    },
+    "W": {
+      "solo_social": 9,
+      "countryNightlife": 8,
+      "nature_culture": 8,
+      "countryWealth": 7
+    }
+  },
+  {
+    "name": "Isle of Man",
+    "countryCode": "IM",
+    "P": {
+      "countryWealth": 0.5,
+      "countryType": -0.2,
+      "countryNightlife": -0.2,
+      "nature_culture": 0.8,
+      "landmark_urban_rural": 0.7
+    },
+    "W": {
+      "nature_culture": 8,
+      "countryWealth": 6
+    }
+  },
+  {
+    "name": "Israel",
+    "countryCode": "IL",
+    "P": {
+      "countryWealth": 0.5,
+      "countryType": 0.7,
+      "countryNightlife": 0.8,
+      "nature_culture": -0.8,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": -0.5
+    },
+    "W": {
+      "landmark_ancient_modern": 10,
+      "countryNightlife": 8,
+      "nature_culture": 8,
+      "countryType": 6
+    }
+  },
+  {
+    "name": "Italy",
+    "countryCode": "IT",
+    "P": {
+      "countryWealth": 0.5,
+      "countryType": 0.8,
+      "countryNightlife": 0.6,
+      "nature_culture": -1.0,
+      "transit_drive": -0.4,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": -0.7
+    },
+    "W": {
+      "landmark_ancient_modern": 10,
+      "nature_culture": 10,
+      "countryType": 8,
+      "countryNightlife": 6
+    }
+  },
+  {
+    "name": "Jamaica",
+    "countryCode": "JM",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.6,
+      "countryNightlife": 0.6,
+      "nature_culture": 0.8,
+      "landmark_urban_rural": 0.8
+    },
+    "W": {
+      "nature_culture": 9,
+      "countryNightlife": 7,
+      "countryType": 7
+    }
+  },
+  {
+    "name": "Japan",
+    "countryCode": "JP",
+    "P": {
+      "countryWealth": 0.6,
+      "countryType": 0.3,
+      "countryNightlife": 0.7,
+      "nature_culture": -1.0,
+      "transit_drive": -1.0,
+      "landmark_ancient_modern": 0.5,
+      "landmark_urban_rural": -0.7
+    },
+    "W": {
+      "nature_culture": 10,
+      "transit_drive": 10,
+      "countryNightlife": 7,
+      "landmark_ancient_modern": 7,
+      "countryType": 6
+    }
+  },
+  {
+    "name": "Jersey",
+    "countryCode": "JE",
+    "P": {
+      "countryWealth": 0.5,
+      "countryType": -0.1,
+      "countryNightlife": 0.1,
+      "nature_culture": 0.7,
+      "landmark_urban_rural": 0.5
+    },
+    "W": {
+      "countryWealth": 7,
+      "nature_culture": 7,
+      "landmark_urban_rural": 5
+    }
+  },
+  {
+    "name": "Jordan",
+    "countryCode": "JO",
+    "P": {
+      "countryWealth": -0.1,
+      "countryType": 0.4,
+      "countryNightlife": -0.3,
+      "nature_culture": -0.8,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": 0.6
+    },
+    "W": {
+      "landmark_ancient_modern": 10,
+      "nature_culture": 8,
+      "countryType": 6
+    }
+  },
+  {
+    "name": "Kazakhstan",
+    "countryCode": "KZ",
+    "P": {
+      "countryWealth": 0.1,
+      "countryType": -0.5,
+      "countryNightlife": 0.1,
+      "nature_culture": 0.8,
+      "landmark_urban_rural": 0.8
+    },
+    "W": {
+      "nature_culture": 9,
+      "countryType": 8,
+      "landmark_urban_rural": 6
+    }
+  },
+  {
+    "name": "Kenya",
+    "countryCode": "KE",
+    "P": {
+      "countryWealth": -0.3,
+      "countryType": -0.8,
+      "countryNightlife": -0.2,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 9
+    }
+  },
+  {
+    "name": "Kiribati",
+    "countryCode": "KI",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.9,
+      "countryNightlife": -0.8,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 10
+    }
+  },
+  {
+    "name": "Kosovo",
+    "countryCode": "XK",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": 0.1,
+      "countryNightlife": 0.1,
+      "nature_culture": 0.3,
+      "landmark_ancient_modern": 0.7
+    },
+    "W": {
+      "landmark_ancient_modern": 7,
+      "nature_culture": 6
+    }
+  },
+  {
+    "name": "Kuwait",
+    "countryCode": "KW",
+    "P": {
+      "countryWealth": 0.4,
+      "countryType": 0.8,
+      "countryNightlife": -0.9,
+      "nature_culture": -1.0,
+      "transit_drive": 1.0,
+      "landmark_budget_luxury": 0.9
+    },
+    "W": {
+      "countryType": 10,
+      "countryNightlife": 10,
+      "nature_culture": 10,
+      "transit_drive": 9,
+      "landmark_budget_luxury": 8
+    }
+  },
+  {
+    "name": "Kyrgyzstan",
+    "countryCode": "KG",
+    "P": {
+      "countryWealth": -0.4,
+      "countryType": -0.8,
+      "countryNightlife": -0.4,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 9
+    }
+  },
+  {
+    "name": "Laos",
+    "countryCode": "LA",
+    "P": {
+      "countryWealth": -0.3,
+      "countryType": -0.4,
+      "countryNightlife": 0.1,
+      "nature_culture": 0.7,
+      "relaxed_intensive": -0.8,
+      "landmark_urban_rural": 0.7
+    },
+    "W": {
+      "relaxed_intensive": 9,
+      "nature_culture": 8,
+      "countryType": 6
+    }
+  },
+  {
+    "name": "Latvia",
+    "countryCode": "LV",
+    "P": {
+      "countryWealth": 0.3,
+      "countryType": 0.1,
+      "countryNightlife": 0.3,
+      "nature_culture": 0.2,
+      "landmark_ancient_modern": 0.8
+    },
+    "W": {
+      "landmark_ancient_modern": 8,
+      "countryWealth": 5
+    }
+  },
+  {
+    "name": "Lebanon",
+    "countryCode": "LB",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": 0.3,
+      "countryNightlife": 0.5,
+      "nature_culture": -0.2,
+      "solo_social": 0.8,
+      "landmark_ancient_modern": 0.8
+    },
+    "W": {
+      "solo_social": 8,
+      "countryNightlife": 7,
+      "landmark_ancient_modern": 7
+    }
+  },
+  {
+    "name": "Lesotho",
+    "countryCode": "LS",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.8,
+      "countryNightlife": -0.6,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 9
+    }
+  },
+  {
+    "name": "Liberia",
+    "countryCode": "LR",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.7,
+      "countryNightlife": -0.5,
+      "nature_culture": 0.8
+    },
+    "W": {
+      "nature_culture": 8,
+      "countryType": 7
+    }
+  },
+  {
+    "name": "Libya",
+    "countryCode": "LY",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.3,
+      "countryNightlife": -0.9,
+      "landmark_ancient_modern": 1.0
+    },
+    "W": {
+      "countryNightlife": 10,
+      "landmark_ancient_modern": 9
+    }
+  },
+  {
+    "name": "Liechtenstein",
+    "countryCode": "LI",
+    "P": {
+      "countryWealth": 0.9,
+      "countryType": -0.4,
+      "countryNightlife": -0.2,
+      "nature_culture": 0.8,
+      "landmark_urban_rural": 0.7
+    },
+    "W": {
+      "countryWealth": 8,
+      "nature_culture": 8,
+      "countryType": 7
+    }
+  },
+  {
+    "name": "Lithuania",
+    "countryCode": "LT",
+    "P": {
+      "countryWealth": 0.3,
+      "countryType": 0.1,
+      "countryNightlife": 0.3,
+      "nature_culture": 0.2,
+      "landmark_ancient_modern": 0.8
+    },
+    "W": {
+      "landmark_ancient_modern": 8,
+      "countryWealth": 5
+    }
+  },
+  {
+    "name": "Luxembourg",
+    "countryCode": "LU",
+    "P": {
+      "countryWealth": 0.9,
+      "countryType": 0.6,
+      "countryNightlife": 0.2,
+      "transit_drive": -0.9,
+      "landmark_ancient_modern": 0.7
+    },
+    "W": {
+      "countryWealth": 9,
+      "transit_drive": 8,
+      "countryType": 7
+    }
+  },
+  {
+    "name": "Macao",
+    "countryCode": "MO",
+    "P": {
+      "countryWealth": 0.6,
+      "countryType": 0.9,
+      "countryNightlife": 0.7,
+      "nature_culture": -1.0,
+      "landmark_urban_rural": -1.0,
+      "landmark_budget_luxury": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 9,
+      "landmark_budget_luxury": 8
+    }
+  },
+  {
+    "name": "Madagascar",
+    "countryCode": "MG",
+    "P": {
+      "countryWealth": -0.5,
+      "countryType": -0.9,
+      "countryNightlife": -0.5,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 9
+    }
+  },
+  {
+    "name": "Malawi",
+    "countryCode": "MW",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.7,
+      "countryNightlife": -0.6,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 9,
+      "nature_culture": 10,
+      "landmark_urban_rural": 8
+    }
+  },
+  {
+    "name": "Malaysia",
+    "countryCode": "MY",
+    "P": {
+      "countryWealth": 0.1,
+      "countryType": -0.1,
+      "countryNightlife": 0.2,
+      "nature_culture": 0.5,
+      "landmark_ancient_modern": 0.3
+    },
+    "W": {
+      "nature_culture": 7,
+      "landmark_ancient_modern": 5
+    }
+  },
+  {
+    "name": "Maldives",
+    "countryCode": "MV",
+    "P": {
+      "countryWealth": 0.2,
+      "countryType": -1.0,
+      "countryNightlife": -0.7,
+      "nature_culture": 1.0,
+      "budget_luxury": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "budget_luxury": 10,
+      "landmark_urban_rural": 10
+    }
+  },
+  {
+    "name": "Mali",
+    "countryCode": "ML",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.4,
+      "countryNightlife": -0.7,
+      "nature_culture": 0.4,
+      "landmark_ancient_modern": 0.9
+    },
+    "W": {
+      "landmark_ancient_modern": 9,
+      "countryNightlife": 8
+    }
+  },
+  {
+    "name": "Malta",
+    "countryCode": "MT",
+    "P": {
+      "countryWealth": 0.4,
+      "countryType": 0.7,
+      "countryNightlife": 0.7,
+      "nature_culture": -0.6,
+      "landmark_ancient_modern": 1.0
+    },
+    "W": {
+      "landmark_ancient_modern": 10,
+      "countryType": 8,
+      "countryNightlife": 7
+    }
+  },
+  {
+    "name": "Marshall Islands",
+    "countryCode": "MH",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.9,
+      "countryNightlife": -0.7,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 9
+    }
+  },
+  {
+    "name": "Mauritania",
+    "countryCode": "MR",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.7,
+      "countryNightlife": -0.9,
+      "nature_culture": 0.8,
+      "landmark_urban_rural": 0.9
+    },
+    "W": {
+      "countryNightlife": 10,
+      "nature_culture": 9,
+      "landmark_urban_rural": 8
+    }
+  },
+  {
+    "name": "Mauritius",
+    "countryCode": "MU",
+    "P": {
+      "countryWealth": 0.2,
+      "countryType": -0.7,
+      "countryNightlife": -0.1,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 9,
+      "nature_culture": 10,
+      "landmark_urban_rural": 9
+    }
+  },
+  {
+    "name": "Mexico",
+    "countryCode": "MX",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.2,
+      "countryNightlife": 0.8,
+      "nature_culture": 0.4,
+      "solo_social": 0.8,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": 0.3
+    },
+    "W": {
+      "landmark_ancient_modern": 10,
+      "countryNightlife": 9,
+      "solo_social": 8,
+      "nature_culture": 7,
+      "countryType": 5
+    }
+  },
+  {
+    "name": "Micronesia",
+    "countryCode": "FM",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -1.0,
+      "countryNightlife": -0.8,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0,
+      "landmark_crowd": -1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 10,
+      "landmark_crowd": 8
+    }
+  },
+  {
+    "name": "Moldova",
+    "countryCode": "MD",
+    "P": {
+      "countryWealth": -0.2,
+      "countryType": 0.1,
+      "countryNightlife": 0.2,
+      "budget_luxury": -0.7,
+      "landmark_ancient_modern": 0.4
+    },
+    "W": {
+      "budget_luxury": 9,
+      "countryWealth": 5
+    }
+  },
+  {
+    "name": "Monaco",
+    "countryCode": "MC",
+    "P": {
+      "countryWealth": 1.0,
+      "countryType": 1.0,
+      "countryNightlife": 0.7,
+      "nature_culture": -1.0,
+      "budget_luxury": 1.0,
+      "landmark_urban_rural": -1.0
+    },
+    "W": {
+      "countryWealth": 10,
+      "countryType": 10,
+      "nature_culture": 10,
+      "budget_luxury": 9,
+      "landmark_urban_rural": 8
+    }
+  },
+  {
+    "name": "Mongolia",
+    "countryCode": "MN",
+    "P": {
+      "countryWealth": -0.2,
+      "countryType": -1.0,
+      "countryNightlife": -0.6,
+      "nature_culture": 1.0,
+      "relaxed_intensive": -0.9,
+      "landmark_urban_rural": 1.0,
+      "landmark_crowd": -1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "relaxed_intensive": 9,
+      "landmark_urban_rural": 9,
+      "landmark_crowd": 8
+    }
+  },
+  {
+    "name": "Montenegro",
+    "countryCode": "ME",
+    "P": {
+      "countryWealth": 0.2,
+      "countryType": -0.4,
+      "countryNightlife": 0.6,
+      "nature_culture": 0.8,
+      "landmark_ancient_modern": 0.8,
+      "landmark_urban_rural": 0.7
+    },
+    "W": {
+      "nature_culture": 9,
+      "countryType": 8,
+      "landmark_ancient_modern": 7,
+      "countryNightlife": 6
+    }
+  },
+  {
+    "name": "Montserrat",
+    "countryCode": "MS",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.9,
+      "countryNightlife": -0.5,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 9
+    }
+  },
+  {
+    "name": "Morocco",
+    "countryCode": "MA",
+    "P": {
+      "countryWealth": -0.1,
+      "countryType": 0.0,
+      "countryNightlife": 0.2,
+      "nature_culture": 0.0,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": 0.2
+    },
+    "W": {
+      "landmark_ancient_modern": 10,
+      "nature_culture": 8,
+      "countryType": 6
+    }
+  },
+  {
+    "name": "Mozambique",
+    "countryCode": "MZ",
+    "P": {
+      "countryWealth": -0.4,
+      "countryType": -0.7,
+      "countryNightlife": -0.2,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 9
+    }
+  },
+  {
+    "name": "Myanmar",
+    "countryCode": "MM",
+    "P": {
+      "countryWealth": -0.5,
+      "countryType": -0.4,
+      "countryNightlife": -0.8,
+      "nature_culture": 0.6,
+      "landmark_ancient_modern": 1.0,
+      "landmark_spiritual_secular": 1.0
+    },
+    "W": {
+      "landmark_ancient_modern": 10,
+      "landmark_spiritual_secular": 9,
+      "countryNightlife": 9,
+      "nature_culture": 8
+    }
+  },
+  {
+    "name": "Namibia",
+    "countryCode": "NA",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -1.0,
+      "countryNightlife": -0.6,
+      "nature_culture": 1.0,
+      "transit_drive": 1.0,
+      "landmark_urban_rural": 1.0,
+      "landmark_crowd": -1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "transit_drive": 10,
+      "landmark_urban_rural": 9,
+      "landmark_crowd": 8
+    }
+  },
+  {
+    "name": "Nauru",
+    "countryCode": "NR",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.8,
+      "countryNightlife": -1.0,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "countryNightlife": 10
+    }
+  },
+  {
+    "name": "Nepal",
+    "countryCode": "NP",
+    "P": {
+      "countryWealth": -0.6,
+      "countryType": -1.0,
+      "countryNightlife": -0.4,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0,
+      "landmark_spiritual_secular": 0.8
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 10,
+      "landmark_spiritual_secular": 7,
+      "countryWealth": 5
+    }
+  },
+  {
+    "name": "Netherlands",
+    "countryCode": "NL",
+    "P": {
+      "countryWealth": 0.7,
+      "countryType": 0.8,
+      "countryNightlife": 0.7,
+      "nature_culture": -0.8,
+      "transit_drive": -0.8,
+      "landmark_ancient_modern": 0.2
+    },
+    "W": {
+      "nature_culture": 9,
+      "transit_drive": 8,
+      "countryType": 7,
+      "countryWealth": 6
+    }
+  },
+  {
+    "name": "New Caledonia",
+    "countryCode": "NC",
+    "P": {
+      "countryWealth": 0.4,
+      "countryType": -0.7,
+      "countryNightlife": -0.1,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 8
+    }
+  },
+  {
+    "name": "New Zealand",
+    "countryCode": "NZ",
+    "P": {
+      "countryWealth": 0.6,
+      "countryType": -1.0,
+      "countryNightlife": 0.4,
+      "nature_culture": 1.0,
+      "transit_drive": 0.9,
+      "landmark_urban_rural": 1.0,
+      "landmark_crowd": -0.7
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "transit_drive": 9,
+      "landmark_urban_rural": 9,
+      "landmark_crowd": 6
+    }
+  },
+  {
+    "name": "Nicaragua",
+    "countryCode": "NI",
+    "P": {
+      "countryWealth": -0.3,
+      "countryType": -0.5,
+      "countryNightlife": 0.1,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 0.8
+    },
+    "W": {
+      "nature_culture": 10,
+      "countryType": 8,
+      "landmark_urban_rural": 6
+    }
+  },
+  {
+    "name": "Niger",
+    "countryCode": "NE",
+    "P": {
+      "countryWealth": -0.6,
+      "countryType": -0.4,
+      "countryNightlife": -0.8,
+      "nature_culture": 0.8,
+      "landmark_urban_rural": 0.9
+    },
+    "W": {
+      "countryNightlife": 9,
+      "nature_culture": 8,
+      "countryType": 6
+    }
+  },
+  {
+    "name": "Nigeria",
+    "countryCode": "NG",
+    "P": {
+      "countryWealth": -0.2,
+      "countryType": 0.4,
+      "countryNightlife": 0.8,
+      "relaxed_intensive": 1.0,
+      "solo_social": 0.9,
+      "landmark_crowd": 1.0
+    },
+    "W": {
+      "relaxed_intensive": 10,
+      "countryNightlife": 9,
+      "solo_social": 8,
+      "landmark_crowd": 8,
+      "countryType": 5
+    }
+  },
+  {
+    "name": "Niue",
+    "countryCode": "NU",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -1.0,
+      "countryNightlife": -1.0,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0,
+      "landmark_crowd": -1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "countryNightlife": 10,
+      "landmark_urban_rural": 9,
+      "landmark_crowd": 8
+    }
+  },
+  {
+    "name": "Norfolk Island",
+    "countryCode": "NF",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.8,
+      "countryNightlife": -0.7,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 8
+    }
+  },
+  {
+    "name": "North Korea",
+    "countryCode": "KP",
+    "P": {
+      "countryWealth": -0.9,
+      "countryType": 0.4,
+      "countryNightlife": -1.0,
+      "nature_culture": -0.5,
+      "landmark_ancient_modern": 0.8,
+      "landmark_spiritual_secular": -1.0
+    },
+    "W": {
+      "countryNightlife": 10,
+      "countryWealth": 8,
+      "landmark_spiritual_secular": 8,
+      "countryType": 6
+    }
+  },
+  {
+    "name": "North Macedonia",
+    "countryCode": "MK",
+    "P": {
+      "countryWealth": 0.1,
+      "countryType": 0.2,
+      "countryNightlife": 0.4,
+      "nature_culture": 0.3,
+      "budget_luxury": -0.6,
+      "landmark_ancient_modern": 0.9
+    },
+    "W": {
+      "budget_luxury": 9,
+      "landmark_ancient_modern": 7,
+      "countryType": 5
+    }
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "countryCode": "MP",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.8,
+      "countryNightlife": 0.4,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 0.8
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 8
+    }
+  },
+  {
+    "name": "Norway",
+    "countryCode": "NO",
+    "P": {
+      "countryWealth": 0.9,
+      "countryType": -1.0,
+      "countryNightlife": 0.3,
+      "nature_culture": 1.0,
+      "budget_luxury": 0.9,
+      "landmark_urban_rural": 1.0,
+      "landmark_crowd": -0.8
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "budget_luxury": 9,
+      "landmark_urban_rural": 9,
+      "landmark_crowd": 6
+    }
+  },
+  {
+    "name": "Oman",
+    "countryCode": "OM",
+    "P": {
+      "countryWealth": 0.6,
+      "countryType": -0.4,
+      "countryNightlife": -0.8,
+      "nature_culture": 0.7,
+      "transit_drive": 1.0,
+      "landmark_ancient_modern": 0.6,
+      "landmark_urban_rural": 0.2
+    },
+    "W": {
+      "countryNightlife": 10,
+      "transit_drive": 10,
+      "nature_culture": 8,
+      "countryType": 7,
+      "landmark_ancient_modern": 6
+    }
+  },
+  {
+    "name": "Pakistan",
+    "countryCode": "PK",
+    "P": {
+      "countryWealth": -0.5,
+      "countryType": -0.2,
+      "countryNightlife": -0.9,
+      "relaxed_intensive": 1.0,
+      "nature_culture": 0.2,
+      "landmark_ancient_modern": 0.8,
+      "landmark_crowd": 1.0
+    },
+    "W": {
+      "relaxed_intensive": 10,
+      "landmark_crowd": 10,
+      "countryNightlife": 10,
+      "landmark_ancient_modern": 8,
+      "countryType": 5
+    }
+  },
+  {
+    "name": "Palau",
+    "countryCode": "PW",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -1.0,
+      "countryNightlife": -0.5,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0,
+      "landmark_crowd": -0.9
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 10,
+      "landmark_crowd": 8
+    }
+  },
+  {
+    "name": "Palestine",
+    "countryCode": "PS",
+    "P": {
+      "countryWealth": -0.4,
+      "countryType": 0.3,
+      "countryNightlife": -0.5,
+      "nature_culture": -0.8,
+      "landmark_ancient_modern": 1.0,
+      "landmark_spiritual_secular": 1.0
+    },
+    "W": {
+      "landmark_ancient_modern": 10,
+      "landmark_spiritual_secular": 9,
+      "nature_culture": 8
+    }
+  },
+  {
+    "name": "Panama",
+    "countryCode": "PA",
+    "P": {
+      "countryWealth": 0.3,
+      "countryType": 0.2,
+      "countryNightlife": 0.6,
+      "nature_culture": 0.5,
+      "landmark_ancient_modern": -0.4
+    },
+    "W": {
+      "countryType": 7,
+      "countryNightlife": 6,
+      "nature_culture": 6
+    }
+  },
+  {
+    "name": "Papua New Guinea",
+    "countryCode": "PG",
+    "P": {
+      "countryWealth": -0.4,
+      "countryType": -1.0,
+      "countryNightlife": -0.6,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 9
+    }
+  },
+  {
+    "name": "Paraguay",
+    "countryCode": "PY",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.4,
+      "countryNightlife": 0.4,
+      "nature_culture": 0.5,
+      "landmark_urban_rural": 0.6
+    },
+    "W": {
+      "nature_culture": 8,
+      "countryType": 7
+    }
+  },
+  {
+    "name": "Peru",
+    "countryCode": "PE",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.6,
+      "countryNightlife": 0.5,
+      "nature_culture": 1.0,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": 0.9
+    },
+    "W": {
+      "nature_culture": 10,
+      "landmark_ancient_modern": 10,
+      "countryType": 8,
+      "landmark_urban_rural": 7
+    }
+  },
+  {
+    "name": "Philippines",
+    "countryCode": "PH",
+    "P": {
+      "countryWealth": -0.3,
+      "countryType": -0.7,
+      "countryNightlife": 0.6,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 0.8
+    },
+    "W": {
+      "nature_culture": 10,
+      "countryType": 9,
+      "countryNightlife": 7,
+      "landmark_urban_rural": 6
+    }
+  },
+  {
+    "name": "Pitcairn",
+    "countryCode": "PN",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -1.0,
+      "countryNightlife": -1.0,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0,
+      "landmark_crowd": -1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "countryNightlife": 10,
+      "landmark_crowd": 10
+    }
+  },
+  {
+    "name": "Poland",
+    "countryCode": "PL",
+    "P": {
+      "countryWealth": 0.4,
+      "countryType": 0.4,
+      "countryNightlife": 0.6,
+      "nature_culture": -0.4,
+      "landmark_ancient_modern": 0.8
+    },
+    "W": {
+      "landmark_ancient_modern": 8,
+      "countryType": 6,
+      "countryNightlife": 6
+    }
+  },
+  {
+    "name": "Portugal",
+    "countryCode": "PT",
+    "P": {
+      "countryWealth": 0.4,
+      "countryType": 0.1,
+      "countryNightlife": 0.7,
+      "nature_culture": -0.2,
+      "landmark_ancient_modern": 0.9,
+      "landmark_urban_rural": 0.0
+    },
+    "W": {
+      "landmark_ancient_modern": 9,
+      "countryNightlife": 8,
+      "nature_culture": 7,
+      "countryType": 6
+    }
+  },
+  {
+    "name": "Puerto Rico",
+    "countryCode": "PR",
+    "P": {
+      "countryWealth": 0.3,
+      "countryType": -0.5,
+      "countryNightlife": 0.8,
+      "nature_culture": 0.9,
+      "landmark_urban_rural": 0.7
+    },
+    "W": {
+      "nature_culture": 9,
+      "countryNightlife": 8,
+      "countryType": 7
+    }
+  },
+  {
+    "name": "Qatar",
+    "countryCode": "QA",
+    "P": {
+      "countryWealth": 1.0,
+      "countryType": 0.9,
+      "countryNightlife": 0.2,
+      "nature_culture": -1.0,
+      "budget_luxury": 1.0,
+      "transit_drive": 0.9,
+      "landmark_urban_rural": -0.8
+    },
+    "W": {
+      "countryWealth": 10,
+      "countryType": 10,
+      "nature_culture": 10,
+      "budget_luxury": 9,
+      "transit_drive": 8,
+      "landmark_urban_rural": 7
+    }
+  },
+  {
+    "name": "Romania",
+    "countryCode": "RO",
+    "P": {
+      "countryWealth": 0.2,
+      "countryType": 0.2,
+      "countryNightlife": 0.7,
+      "nature_culture": 0.2,
+      "budget_luxury": -0.7,
+      "landmark_ancient_modern": 0.9,
+      "landmark_urban_rural": 0.3
+    },
+    "W": {
+      "budget_luxury": 9,
+      "landmark_ancient_modern": 8,
+      "countryNightlife": 7,
+      "countryType": 6
+    }
+  },
+  {
+    "name": "Russia",
+    "countryCode": "RU",
+    "P": {
+      "countryWealth": 0.3,
+      "countryType": 0.5,
+      "countryNightlife": 0.7,
+      "nature_culture": -0.4,
+      "landmark_ancient_modern": 0.8,
+      "landmark_crowd": 0.6
+    },
+    "W": {
+      "landmark_ancient_modern": 8,
+      "countryNightlife": 7,
+      "countryType": 6
+    }
+  },
+  {
+    "name": "Rwanda",
+    "countryCode": "RW",
+    "P": {
+      "countryWealth": -0.2,
+      "countryType": -0.8,
+      "countryNightlife": -0.3,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 9,
+      "countryWealth": 5
+    }
+  },
+  {
+    "name": "Saint Barthelemy",
+    "countryCode": "BL",
+    "P": {
+      "countryWealth": 0.9,
+      "countryType": -0.6,
+      "countryNightlife": 0.4,
+      "nature_culture": 1.0,
+      "budget_luxury": 1.0,
+      "landmark_urban_rural": 0.8
+    },
+    "W": {
+      "countryType": 9,
+      "nature_culture": 10,
+      "budget_luxury": 10,
+      "countryWealth": 6
+    }
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "countryCode": "KN",
+    "P": {
+      "countryWealth": 0.3,
+      "countryType": -0.8,
+      "countryNightlife": 0.2,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 8
+    }
+  },
+  {
+    "name": "Saint Lucia",
+    "countryCode": "LC",
+    "P": {
+      "countryWealth": 0.2,
+      "countryType": -0.9,
+      "countryNightlife": 0.3,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 9
+    }
+  },
+  {
+    "name": "Saint Martin",
+    "countryCode": "MF",
+    "P": {
+      "countryWealth": 0.4,
+      "countryType": -0.5,
+      "countryNightlife": 0.7,
+      "nature_culture": 0.8,
+      "landmark_urban_rural": 0.7
+    },
+    "W": {
+      "nature_culture": 9,
+      "countryNightlife": 7,
+      "countryType": 7
+    }
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "countryCode": "PM",
+    "P": {
+      "countryWealth": 0.4,
+      "countryType": -0.9,
+      "countryNightlife": -0.8,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0,
+      "landmark_crowd": -1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 10,
+      "landmark_crowd": 9
+    }
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "countryCode": "VC",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.9,
+      "countryNightlife": 0.1,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 9
+    }
+  },
+  {
+    "name": "Samoa",
+    "countryCode": "WS",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -1.0,
+      "countryNightlife": -0.4,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 10
+    }
+  },
+  {
+    "name": "San Marino",
+    "countryCode": "SM",
+    "P": {
+      "countryWealth": 0.7,
+      "countryType": 0.3,
+      "countryNightlife": -0.2,
+      "nature_culture": -0.2,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": 0.6
+    },
+    "W": {
+      "landmark_ancient_modern": 10,
+      "countryWealth": 7,
+      "countryType": 6
+    }
+  },
+  {
+    "name": "São Tomé and Principe",
+    "countryCode": "ST",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.9,
+      "countryNightlife": -0.7,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 9
+    }
+  },
+  {
+    "name": "Saudi Arabia",
+    "countryCode": "SA",
+    "P": {
+      "countryWealth": 0.8,
+      "countryType": 0.6,
+      "countryNightlife": -0.9,
+      "nature_culture": -0.8,
+      "transit_drive": 1.0,
+      "landmark_budget_luxury": 0.9,
+      "landmark_ancient_modern": -0.2
+    },
+    "W": {
+      "transit_drive": 10,
+      "countryNightlife": 10,
+      "nature_culture": 10,
+      "countryType": 8,
+      "countryWealth": 7
+    }
+  },
+  {
+    "name": "Senegal",
+    "countryCode": "SN",
+    "P": {
+      "countryWealth": -0.2,
+      "countryType": -0.3,
+      "countryNightlife": 0.2,
+      "nature_culture": 0.6,
+      "landmark_urban_rural": 0.6
+    },
+    "W": {
+      "nature_culture": 8,
+      "countryType": 5
+    }
+  },
+  {
+    "name": "Serbia",
+    "countryCode": "RS",
+    "P": {
+      "countryWealth": 0.2,
+      "countryType": 0.4,
+      "countryNightlife": 1.0,
+      "nature_culture": -0.4,
+      "solo_social": 0.9,
+      "landmark_ancient_modern": 0.8
+    },
+    "W": {
+      "countryNightlife": 10,
+      "solo_social": 9,
+      "landmark_ancient_modern": 7,
+      "countryType": 6
+    }
+  },
+  {
+    "name": "Seychelles",
+    "countryCode": "SC",
+    "P": {
+      "countryWealth": 0.4,
+      "countryType": -1.0,
+      "countryNightlife": -0.3,
+      "nature_culture": 1.0,
+      "budget_luxury": 0.9,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "budget_luxury": 9,
+      "landmark_urban_rural": 10
+    }
+  },
+  {
+    "name": "Sierra Leone",
+    "countryCode": "SL",
+    "P": {
+      "countryWealth": -0.6,
+      "countryType": -0.7,
+      "countryNightlife": -0.1,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 9
+    }
+  },
+  {
+    "name": "Singapore",
+    "countryCode": "SG",
+    "P": {
+      "countryWealth": 0.9,
+      "countryType": 1.0,
+      "countryNightlife": 0.7,
+      "nature_culture": -1.0,
+      "transit_drive": -1.0,
+      "budget_luxury": 1.0,
+      "landmark_urban_rural": -1.0,
+      "landmark_crowd": 0.9
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "transit_drive": 10,
+      "countryWealth": 9,
+      "landmark_urban_rural": 9,
+      "landmark_crowd": 7
+    }
+  },
+  {
+    "name": "Sint Maarten",
+    "countryCode": "SX",
+    "P": {
+      "countryWealth": 0.4,
+      "countryType": -0.6,
+      "countryNightlife": 0.8,
+      "nature_culture": 0.8,
+      "landmark_urban_rural": 0.8
+    },
+    "W": {
+      "nature_culture": 9,
+      "countryNightlife": 8,
+      "countryType": 7
+    }
+  },
+  {
+    "name": "Slovakia",
+    "countryCode": "SK",
+    "P": {
+      "countryWealth": 0.4,
+      "countryType": 0.2,
+      "countryNightlife": 0.3,
+      "nature_culture": 0.1,
+      "landmark_ancient_modern": 0.8,
+      "landmark_urban_rural": 0.2
+    },
+    "W": {
+      "landmark_ancient_modern": 8,
+      "countryType": 6,
+      "countryWealth": 5
+    }
+  },
+  {
+    "name": "Slovenia",
+    "countryCode": "SI",
+    "P": {
+      "countryWealth": 0.5,
+      "countryType": -0.6,
+      "countryNightlife": 0.2,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 0.8
+    },
+    "W": {
+      "nature_culture": 10,
+      "countryType": 9,
+      "landmark_urban_rural": 7,
+      "countryWealth": 5
+    }
+  },
+  {
+    "name": "Solomon Islands",
+    "countryCode": "SB",
+    "P": {
+      "countryWealth": -0.4,
+      "countryType": -1.0,
+      "countryNightlife": -0.7,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0,
+      "landmark_crowd": -1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 9,
+      "landmark_crowd": 8
+    }
+  },
+  {
+    "name": "Somalia",
+    "countryCode": "SO",
+    "P": {
+      "countryWealth": -0.8,
+      "countryType": -0.5,
+      "countryNightlife": -1.0,
+      "nature_culture": 0.4,
+      "landmark_urban_rural": 0.8
+    },
+    "W": {
+      "countryNightlife": 10,
+      "countryWealth": 8,
+      "countryType": 6
+    }
+  },
+  {
+    "name": "South Africa",
+    "countryCode": "ZA",
+    "P": {
+      "countryWealth": 0.2,
+      "countryType": -0.6,
+      "countryNightlife": 0.7,
+      "nature_culture": 0.9,
+      "transit_drive": 0.8,
+      "landmark_urban_rural": 0.8
+    },
+    "W": {
+      "nature_culture": 10,
+      "countryType": 9,
+      "transit_drive": 8,
+      "countryNightlife": 6
+    }
+  },
+  {
+    "name": "South Korea",
+    "countryCode": "KR",
+    "P": {
+      "countryWealth": 0.7,
+      "countryType": 1.0,
+      "countryNightlife": 1.0,
+      "nature_culture": -0.9,
+      "transit_drive": -1.0,
+      "landmark_ancient_modern": 0.2,
+      "landmark_urban_rural": -1.0,
+      "landmark_crowd": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "countryNightlife": 10,
+      "transit_drive": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 9,
+      "landmark_crowd": 8
+    }
+  },
+  {
+    "name": "South Sudan",
+    "countryCode": "SS",
+    "P": {
+      "countryWealth": -0.9,
+      "countryType": -0.8,
+      "countryNightlife": -0.8,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 9
+    }
+  },
+  {
+    "name": "Spain",
+    "countryCode": "ES",
+    "P": {
+      "countryWealth": 0.5,
+      "countryType": 0.4,
+      "countryNightlife": 0.9,
+      "nature_culture": -0.5,
+      "solo_social": 0.9,
+      "morning_night": 0.9,
+      "landmark_ancient_modern": 0.8
+    },
+    "W": {
+      "countryNightlife": 10,
+      "solo_social": 9,
+      "morning_night": 8,
+      "landmark_ancient_modern": 7,
+      "nature_culture": 7
+    }
+  },
+  {
+    "name": "Sri Lanka",
+    "countryCode": "LK",
+    "P": {
+      "countryWealth": -0.2,
+      "countryType": -0.7,
+      "countryNightlife": 0.1,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 0.9,
+      "landmark_ancient_modern": 0.7
+    },
+    "W": {
+      "nature_culture": 10,
+      "countryType": 9,
+      "landmark_urban_rural": 8,
+      "landmark_ancient_modern": 6
+    }
+  },
+  {
+    "name": "Sudan",
+    "countryCode": "SD",
+    "P": {
+      "countryWealth": -0.6,
+      "countryType": -0.3,
+      "countryNightlife": -0.9,
+      "landmark_ancient_modern": 1.0
+    },
+    "W": {
+      "countryNightlife": 10,
+      "landmark_ancient_modern": 9
+    }
+  },
+  {
+    "name": "Suriname",
+    "countryCode": "SR",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -0.9,
+      "countryNightlife": 0.0,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 9
+    }
+  },
+  {
+    "name": "Sweden",
+    "countryCode": "SE",
+    "P": {
+      "countryWealth": 0.7,
+      "countryType": -0.5,
+      "countryNightlife": 0.4,
+      "nature_culture": 0.6,
+      "budget_luxury": 0.8,
+      "landmark_urban_rural": 0.7
+    },
+    "W": {
+      "nature_culture": 9,
+      "countryWealth": 7,
+      "countryType": 6,
+      "budget_luxury": 6
+    }
+  },
+  {
+    "name": "Switzerland",
+    "countryCode": "CH",
+    "P": {
+      "countryWealth": 1.0,
+      "countryType": -0.9,
+      "countryNightlife": 0.3,
+      "nature_culture": 1.0,
+      "budget_luxury": 1.0,
+      "transit_drive": -0.7,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "countryWealth": 10,
+      "budget_luxury": 10,
+      "landmark_urban_rural": 9
+    }
+  },
+  {
+    "name": "Syria",
+    "countryCode": "SY",
+    "P": {
+      "countryWealth": -0.7,
+      "countryType": 0.3,
+      "countryNightlife": -0.8,
+      "nature_culture": -0.8,
+      "landmark_ancient_modern": 1.0
+    },
+    "W": {
+      "landmark_ancient_modern": 10,
+      "countryNightlife": 9
+    }
+  },
+  {
+    "name": "Taiwan",
+    "countryCode": "TW",
+    "P": {
+      "countryWealth": 0.6,
+      "countryType": 0.8,
+      "countryNightlife": 0.9,
+      "nature_culture": -0.7,
+      "transit_drive": -1.0,
+      "landmark_ancient_modern": 0.3,
+      "landmark_urban_rural": -0.8,
+      "landmark_crowd": 0.8
+    },
+    "W": {
+      "countryType": 10,
+      "countryNightlife": 10,
+      "transit_drive": 10,
+      "nature_culture": 9,
+      "landmark_urban_rural": 8
+    }
+  },
+  {
+    "name": "Tajikistan",
+    "countryCode": "TJ",
+    "P": {
+      "countryWealth": -0.4,
+      "countryType": -1.0,
+      "countryNightlife": -0.6,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0,
+      "landmark_crowd": -0.9
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 10,
+      "landmark_crowd": 7
+    }
+  },
+  {
+    "name": "Tanzania",
+    "countryCode": "TZ",
+    "P": {
+      "countryWealth": -0.3,
+      "countryType": -1.0,
+      "countryNightlife": -0.3,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 10
+    }
+  },
+  {
+    "name": "Thailand",
+    "countryCode": "TH",
+    "P": {
+      "countryWealth": -0.2,
+      "countryType": -0.4,
+      "countryNightlife": 0.9,
+      "nature_culture": 0.6,
+      "budget_luxury": -0.8,
+      "landmark_ancient_modern": 0.8,
+      "landmark_urban_rural": 0.5
+    },
+    "W": {
+      "countryNightlife": 10,
+      "budget_luxury": 9,
+      "nature_culture": 8,
+      "landmark_ancient_modern": 7,
+      "countryType": 6
+    }
+  },
+  {
+    "name": "Timor-Leste",
+    "countryCode": "TL",
+    "P": {
+      "countryWealth": -0.4,
+      "countryType": -0.9,
+      "countryNightlife": -0.6,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 9
+    }
+  },
+  {
+    "name": "Togo",
+    "countryCode": "TG",
+    "P": {
+      "countryWealth": -0.5,
+      "countryType": -0.3,
+      "countryNightlife": -0.2,
+      "nature_culture": 0.6,
+      "landmark_urban_rural": 0.6
+    },
+    "W": {
+      "nature_culture": 8,
+      "countryType": 5
+    }
+  },
+  {
+    "name": "Tonga",
+    "countryCode": "TO",
+    "P": {
+      "countryCode": "TO",
+      "countryWealth": 0.0,
+      "countryType": -0.9,
+      "countryNightlife": -0.5,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 9
+    }
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "countryCode": "TT",
+    "P": {
+      "countryWealth": 0.3,
+      "countryType": -0.5,
+      "countryNightlife": 0.7,
+      "nature_culture": 0.8,
+      "landmark_urban_rural": 0.8
+    },
+    "W": {
+      "nature_culture": 9,
+      "countryNightlife": 8,
+      "countryType": 7
+    }
+  },
+  {
+    "name": "Tunisia",
+    "countryCode": "TN",
+    "P": {
+      "countryWealth": -0.1,
+      "countryType": -0.2,
+      "countryNightlife": 0.3,
+      "nature_culture": 0.1,
+      "budget_luxury": -0.4,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": 0.2
+    },
+    "W": {
+      "landmark_ancient_modern": 10,
+      "budget_luxury": 6,
+      "countryType": 5
+    }
+  },
+  {
+    "name": "Turkmenistan",
+    "countryCode": "TM",
+    "P": {
+      "countryWealth": 0.3,
+      "countryType": 0.4,
+      "countryNightlife": -1.0,
+      "nature_culture": -0.5,
+      "landmark_ancient_modern": 0.6,
+      "landmark_urban_rural": -0.2
+    },
+    "W": {
+      "countryNightlife": 10,
+      "countryWealth": 5,
+      "landmark_ancient_modern": 5
+    }
+  },
+  {
+    "name": "Turks and Caicos Islands",
+    "countryCode": "TC",
+    "P": {
+      "countryWealth": 0.6,
+      "countryType": -0.8,
+      "countryNightlife": -0.3,
+      "nature_culture": 1.0,
+      "budget_luxury": 0.9,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "budget_luxury": 8,
+      "landmark_urban_rural": 8
+    }
+  },
+  {
+    "name": "Tuvalu",
+    "countryCode": "TV",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -1.0,
+      "countryNightlife": -1.0,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0,
+      "landmark_crowd": -1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "countryNightlife": 10,
+      "landmark_urban_rural": 10,
+      "landmark_crowd": 9
+    }
+  },
+  {
+    "name": "Turkey",
+    "countryCode": "TR",
+    "P": {
+      "countryWealth": 0.2,
+      "countryType": 0.5,
+      "countryNightlife": 0.7,
+      "nature_culture": -0.3,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": -0.4
+    },
+    "W": {
+      "landmark_ancient_modern": 10,
+      "countryNightlife": 8,
+      "nature_culture": 8,
+      "countryType": 7
+    }
+  },
+  {
+    "name": "Uganda",
+    "countryCode": "UG",
+    "P": {
+      "countryWealth": -0.4,
+      "countryType": -1.0,
+      "countryNightlife": -0.3,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 10
+    }
+  },
+  {
+    "name": "Ukraine",
+    "countryCode": "UA",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": 0.3,
+      "countryNightlife": 0.5,
+      "nature_culture": -0.2,
+      "landmark_ancient_modern": 0.8
+    },
+    "W": {
+      "landmark_ancient_modern": 8,
+      "countryType": 6,
+      "countryNightlife": 6
+    }
+  },
+  {
+    "name": "United Arab Emirates",
+    "countryCode": "AE",
+    "P": {
+      "countryWealth": 1.0,
+      "countryType": 0.9,
+      "countryNightlife": 0.5,
+      "nature_culture": -1.0,
+      "transit_drive": 0.8,
+      "budget_luxury": 1.0,
+      "landmark_urban_rural": -1.0,
+      "landmark_budget_luxury": 1.0
+    },
+    "W": {
+      "countryWealth": 10,
+      "countryType": 10,
+      "nature_culture": 10,
+      "budget_luxury": 9,
+      "landmark_budget_luxury": 8,
+      "transit_drive": 7
+    }
+  },
+  {
+    "name": "United Kingdom",
+    "countryCode": "GB",
+    "P": {
+      "countryWealth": 0.7,
+      "countryType": 0.6,
+      "countryNightlife": 0.7,
+      "nature_culture": -0.8,
+      "transit_drive": -0.6,
+      "landmark_ancient_modern": 0.7
+    },
+    "W": {
+      "nature_culture": 9,
+      "countryType": 8,
+      "countryWealth": 7,
+      "landmark_ancient_modern": 6
+    }
+  },
+  {
+    "name": "United States",
+    "countryCode": "US",
+    "P": {
+      "countryWealth": 0.8,
+      "countryType": -0.2,
+      "countryNightlife": 0.8,
+      "nature_culture": 0.2,
+      "transit_drive": 0.9,
+      "landmark_urban_rural": 0.0
+    },
+    "W": {
+      "transit_drive": 10,
+      "countryWealth": 9,
+      "countryNightlife": 7,
+      "nature_culture": 6
+    }
+  },
+  {
+    "name": "Uruguay",
+    "countryCode": "UY",
+    "P": {
+      "countryWealth": 0.4,
+      "countryType": -0.3,
+      "countryNightlife": 0.6,
+      "nature_culture": 0.5,
+      "landmark_urban_rural": 0.6
+    },
+    "W": {
+      "nature_culture": 8,
+      "countryNightlife": 7,
+      "countryType": 6
+    }
+  },
+  {
+    "name": "Uzbekistan",
+    "countryCode": "UZ",
+    "P": {
+      "countryWealth": -0.2,
+      "countryType": 0.4,
+      "countryNightlife": -0.3,
+      "nature_culture": -0.8,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": 0.2
+    },
+    "W": {
+      "landmark_ancient_modern": 10,
+      "nature_culture": 9,
+      "countryType": 6
+    }
+  },
+  {
+    "name": "Vanuatu",
+    "countryCode": "VU",
+    "P": {
+      "countryWealth": 0.0,
+      "countryType": -1.0,
+      "countryNightlife": -0.6,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0,
+      "landmark_crowd": -0.9
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 10,
+      "landmark_crowd": 8
+    }
+  },
+  {
+    "name": "Vatican City",
+    "countryCode": "VA",
+    "P": {
+      "countryWealth": 0.6,
+      "countryType": 1.0,
+      "countryNightlife": -1.0,
+      "nature_culture": -1.0,
+      "landmark_ancient_modern": 1.0,
+      "landmark_spiritual_secular": 1.0,
+      "landmark_urban_rural": -1.0
+    },
+    "W": {
+      "countryType": 10,
+      "countryNightlife": 10,
+      "nature_culture": 10,
+      "landmark_spiritual_secular": 9,
+      "landmark_ancient_modern": 8
+    }
+  },
+  {
+    "name": "Venezuela",
+    "countryCode": "VE",
+    "P": {
+      "countryWealth": -0.7,
+      "countryType": -0.6,
+      "countryNightlife": 0.5,
+      "nature_culture": 0.9,
+      "landmark_urban_rural": 0.9
+    },
+    "W": {
+      "countryType": 9,
+      "nature_culture": 10,
+      "landmark_urban_rural": 8
+    }
+  },
+  {
+    "name": "Vietnam",
+    "countryCode": "VN",
+    "P": {
+      "countryWealth": -0.3,
+      "countryType": -0.2,
+      "countryNightlife": 0.8,
+      "nature_culture": 0.4,
+      "budget_luxury": -0.8,
+      "landmark_ancient_modern": 0.7,
+      "landmark_urban_rural": 0.4
+    },
+    "W": {
+      "countryNightlife": 9,
+      "budget_luxury": 9,
+      "nature_culture": 8,
+      "countryType": 6
+    }
+  },
+  {
+    "name": "British Virgin Islands",
+    "countryCode": "VG",
+    "P": {
+      "countryWealth": 0.5,
+      "countryType": -0.9,
+      "countryNightlife": -0.2,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 9
+    }
+  },
+  {
+    "name": "United States Virgin Islands",
+    "countryCode": "VI",
+    "P": {
+      "countryWealth": 0.4,
+      "countryType": -0.9,
+      "countryNightlife": 0.3,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 9,
+      "countryNightlife": 5
+    }
+  },
+  {
+    "name": "Wallis and Futuna",
+    "countryCode": "WF",
+    "P": {
+      "countryWealth": 0.1,
+      "countryType": -1.0,
+      "countryNightlife": -0.8,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0,
+      "landmark_crowd": -1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 10,
+      "landmark_crowd": 9
+    }
+  },
+  {
+    "name": "Western Sahara",
+    "countryCode": "EH",
+    "P": {
+      "countryWealth": -0.4,
+      "countryType": -0.8,
+      "countryNightlife": -0.9,
+      "nature_culture": 0.8,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 9,
+      "countryNightlife": 10
+    }
+  },
+  {
+    "name": "Yemen",
+    "countryCode": "YE",
+    "P": {
+      "countryWealth": -0.7,
+      "countryType": -0.2,
+      "countryNightlife": -1.0,
+      "nature_culture": -0.8,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": 0.5
+    },
+    "W": {
+      "landmark_ancient_modern": 10,
+      "countryNightlife": 10,
+      "nature_culture": 8
+    }
+  },
+  {
+    "name": "Zambia",
+    "countryCode": "ZM",
+    "P": {
+      "countryWealth": -0.3,
+      "countryType": -1.0,
+      "countryNightlife": -0.2,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 10
+    }
+  },
+  {
+    "name": "Zimbabwe",
+    "countryCode": "ZW",
+    "P": {
+      "countryWealth": -0.5,
+      "countryType": -1.0,
+      "countryNightlife": -0.2,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 10
+    }
+  },
+  {
+    "name": "Aland Islands",
+    "countryCode": "AX",
+    "P": {
+      "countryWealth": 0.6,
+      "countryType": -0.7,
+      "countryNightlife": -0.5,
+      "nature_culture": 1.0,
+      "landmark_urban_rural": 1.0,
+      "landmark_crowd": -0.8
+    },
+    "W": {
+      "countryType": 10,
+      "nature_culture": 10,
+      "landmark_urban_rural": 8,
+      "landmark_crowd": 7
+    }
+  },
+  {
+    "name": "Somaliland",
+    "countryCode": "XX",
+    "P": {
+      "countryWealth": -0.6,
+      "countryType": 0.0,
+      "countryNightlife": -0.9,
+      "nature_culture": -0.5,
+      "relaxed_intensive": 1.0,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": 0.6
+    },
+    "W": {
+      "relaxed_intensive": 10,
+      "landmark_ancient_modern": 10,
+      "countryNightlife": 10,
+      "nature_culture": 7
+    }
+  }
+
+
+
+]

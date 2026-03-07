@@ -1,0 +1,87 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mongol Empire",
+        "description": "The largest contiguous land empire in history, existing during the 13th and 14th centuries.",
+        "countries": [
+          "Mongolia", "China", "Russia", "Kazakhstan", "Uzbekistan", "Turkmenistan",
+          "Kyrgyzstan", "Tajikistan", "Afghanistan", "Iran", "Iraq", "Turkey",
+          "Azerbaijan", "Armenia", "Georgia", "Ukraine", "Poland", "Hungary",
+          "Belarus", "Pakistan", "North Korea", "South Korea"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [38.56088178985226, 64.1548242590186],
+          [37.16434120006136, 60.842156114949034],
+          [33.1742252292305, 60.15446065826012],
+          [29.184109258399644, 59.65426592718475],
+          [30.181638251108126, 56.60152087839549],
+          [28.18658026569267, 53.99020285651116],
+          [21.403383115281457, 51.20421455350146],
+          [22.414691091602094, 48.46792734607078],
+          [21.756028983153925, 47.95973185019679],
+          [24.668008831028487, 48.444936941088315],
+          [30.734633514099016, 48.99383546457679],
+          [41.095959413171784, 46.962932284419395],
+          [42.83590547940503, 41.713933550778734],
+          [35.876121214471425, 38.005454677304584],
+          [43.4039110292903, 32.67130476407539],
+          [57.674852680126634, 28.07216095941986],
+          [67.79788982184922, 26.99500516949624],
+          [78.32584844924168, 24.44164975555897],
+          [78.85506238258307, 29.625039479324315],
+          [87.73672127890666, 35.86052411216704],
+          [102.12725721219226, 27.85074249171818],
+          [103.92607420385372, 22.04394145885685],
+          [112.92015916215638, 24.419840734939655],
+          [116.51779314547781, 37.12582423882216],
+          [122.58279277843855, 42.90810067774018],
+          [127.73586410991027, 36.57603131696298],
+          [128.42294028744016, 45.85350379324029],
+          [131.1712449975579, 59.46194579293797],
+          [72.08269373001497, 66.5894297334793],
+          [38.56088178985226, 64.1548242590186]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "British Empire (1921)",
+        "description": "The largest empire in history, covering about a quarter of the world's land area.",
+        "countries": [
+          "United Kingdom", "Ireland", "Canada", "Australia", "New Zealand", "South Africa",
+          "India", "Pakistan", "Bangladesh", "Myanmar", "Sri Lanka", "Malaysia", "Singapore",
+          "Brunei", "Nigeria", "Ghana", "Kenya", "Uganda", "Tanzania", "Zambia", "Malawi",
+          "Zimbabwe", "Botswana", "Namibia", "Egypt", "Sudan", "South Sudan", "Jordan",
+          "Iraq", "Kuwait", "Qatar", "United Arab Emirates", "Oman", "Yemen", "Cyprus",
+          "Malta", "Jamaica", "Bahamas", "Barbados", "Trinidad and Tobago", "Guyana",
+          "Belize", "Hong Kong", "Fiji", "Papua New Guinea"
+        ]
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roman Empire (117 AD)",
+        "description": "Territory at its greatest extent under Trajan.",
+        "countries": [
+          "Portugal", "Spain", "Andorra", "United Kingdom", "France", "Monaco", "Luxembourg",
+          "Belgium", "Netherlands", "Germany", "Switzerland", "Liechtenstein", "Italy",
+          "San Marino", "Vatican City", "Malta", "Austria", "Slovenia", "Croatia",
+          "Bosnia and Herzegovina", "Hungary", "Serbia", "Montenegro", "Albania", "Macedonia",
+          "Greece", "Bulgaria", "Romania", "Moldova", "Turkey", "Georgia", "Armenia",
+          "Azerbaijan", "Syria", "Iraq", "Cyprus", "Lebanon", "Jordan", "Israel", "Palestine",
+          "Egypt", "Libya", "Tunisia", "Algeria", "Morocco"
+        ]
+      },
+      "geometry": null
+    }
+  ]
+}

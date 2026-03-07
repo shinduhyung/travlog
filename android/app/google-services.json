@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "127546533956",
+    "project_id": "proboscis-2025",
+    "storage_bucket": "proboscis-2025.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127546533956:android:aa3c75f395a6c0deb87411",
+        "android_client_info": {
+          "package_name": "com.ahnlee.jidoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127546533956-2cn9011oqiil72hvf1sg59e2uvmj4bg8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ahnlee.jidoapp",
+            "certificate_hash": "9b0588a204a4244ca522b0d9d9b2126ed0ab66ef"
+          }
+        },
+        {
+          "client_id": "127546533956-2dcufirfm5gcre6s1jidsjq72mvqq4is.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ahnlee.jidoapp",
+            "certificate_hash": "ec3b3ece021d3eb33db71f5b897d04414d9364b3"
+          }
+        },
+        {
+          "client_id": "127546533956-mpftb2kfjgqfeipqv5t62kb20b8a40ed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ahnlee.jidoapp",
+            "certificate_hash": "6332d6095f36b21fe949cc6455e1231cb8f8917b"
+          }
+        },
+        {
+          "client_id": "127546533956-dgquefldu0671hkjbd0obr357ke078he.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlBZYtxFLoYMa3X3gtLBARqV3SYpkf4b8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127546533956-dgquefldu0671hkjbd0obr357ke078he.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "127546533956-ek59bn68tdhvu26v6jj859214ehubm87.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.jidoapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127546533956:android:3dc248217f1439e7b87411",
+        "android_client_info": {
+          "package_name": "com.example.jidoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127546533956-25dvs50cvanhrdg82ei4t0hmrf1rctuk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jidoapp",
+            "certificate_hash": "ec3b3ece021d3eb33db71f5b897d04414d9364b3"
+          }
+        },
+        {
+          "client_id": "127546533956-nomfdirh9vsdb9lgf9fvc8gofhld17qm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jidoapp",
+            "certificate_hash": "9b0588a204a4244ca522b0d9d9b2126ed0ab66ef"
+          }
+        },
+        {
+          "client_id": "127546533956-dgquefldu0671hkjbd0obr357ke078he.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlBZYtxFLoYMa3X3gtLBARqV3SYpkf4b8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127546533956-dgquefldu0671hkjbd0obr357ke078he.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "127546533956-ek59bn68tdhvu26v6jj859214ehubm87.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.jidoapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

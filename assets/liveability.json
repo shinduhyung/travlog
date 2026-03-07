@@ -1,0 +1,12 @@
+[
+  {"name": "Copenhagen", "country": "Denmark", "liveability": "98.0", "continent": "Europe"},
+  {"name": "Vienna", "country": "Austria", "liveability": "97.1", "continent": "Europe"},
+  {"name": "Zurich", "country": "Switzerland", "liveability": "97.1", "continent": "Europe"},
+  {"name": "Melbourne", "country": "Australia", "liveability": "97.0", "continent": "Oceania"},
+  {"name": "Geneva", "country": "Switzerland", "liveability": "96.8", "continent": "Europe"},
+  {"name": "Sydney", "country": "Australia", "liveability": "96.6", "continent": "Oceania"},
+  {"name": "Osaka", "country": "Japan", "liveability": "96.0", "continent": "Asia"},
+  {"name": "Auckland", "country": "New Zealand", "liveability": "96.0", "continent": "Oceania"},
+  {"name": "Adelaide", "country": "Australia", "liveability": "95.9", "continent": "Oceania"},
+  {"name": "Vancouver", "country": "Canada", "liveability": "95.8", "continent": "North America"}
+]

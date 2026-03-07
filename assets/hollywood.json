@@ -1,0 +1,12 @@
+[
+  {"name": "Los Angeles", "country": "USA", "hollywood": "543", "continent": "North America"},
+  {"name": "London", "country": "UK", "hollywood": "529", "continent": "Europe"},
+  {"name": "New York City", "country": "USA", "hollywood": "319", "continent": "North America"},
+  {"name": "Paris", "country": "France", "hollywood": "99", "continent": "Europe"},
+  {"name": "San Francisco", "country": "USA", "hollywood": "59", "continent": "North America"},
+  {"name": "Chicago", "country": "USA", "hollywood": "51", "continent": "North America"},
+  {"name": "Toronto", "country": "Canada", "hollywood": "47", "continent": "North America"},
+  {"name": "Boston", "country": "USA", "hollywood": "24", "continent": "North America"},
+  {"name": "Philadelphia", "country": "USA", "hollywood": "23", "continent": "North America"},
+  {"name": "Pittsburgh", "country": "USA", "hollywood": "22", "continent": "North America"}
+]

@@ -1,0 +1,184 @@
+{
+  "top_cities_instagram": [
+    {"city": "New York City", "iso2": "US"},
+    {"city": "Moscow", "iso2": "RU"},
+    {"city": "London", "iso2": "GB"},
+    {"city": "São Paulo", "iso2": "BR"},
+    {"city": "Paris", "iso2": "FR"},
+    {"city": "Los Angeles", "iso2": "US"},
+    {"city": "Saint Petersburg", "iso2": "RU"},
+    {"city": "Jakarta", "iso2": "ID"},
+    {"city": "Istanbul", "iso2": "TR"},
+    {"city": "Barcelona", "iso2": "ES"}
+  ],
+  "major_film_festival_cities": [
+    {"city": "Cannes", "iso2": "FR"},
+    {"city": "Venice", "iso2": "IT"},
+    {"city": "Berlin", "iso2": "DE"}
+  ],
+  "de_facto_capitals": [
+    {"city": "Bern", "iso2": "CH"},
+    {"city": "Yaren", "iso2": "NR"}
+  ],
+  "country_name_identical_to_capital": [
+    {"city": "Singapore", "iso2": "SG"},
+    {"city": "Monaco", "iso2": "MC"},
+    {"city": "Vatican City", "iso2": "VA"},
+    {"city": "San Marino", "iso2": "SM"},
+    {"city": "Djibouti", "iso2": "DJ"},
+    {"city": "Luxembourg", "iso2": "LU"}
+  ],
+  "capitals_with_city_in_name": [
+    {"city": "Mexico City", "iso2": "MX"},
+    {"city": "Kuwait City", "iso2": "KW"},
+    {"city": "Panama City", "iso2": "PA"},
+    {"city": "Guatemala City", "iso2": "GT"}
+  ],
+  "country_capital_high_similarity": [
+    {"city": "Tunis", "iso2": "TN"},
+    {"city": "Algiers", "iso2": "DZ"},
+    {"city": "Andorra la Vella", "iso2": "AD"},
+    {"city": "São Tomé", "iso2": "ST"}
+  ],
+  "city_states": [
+    {"city": "Singapore", "iso2": "SG"},
+    {"city": "Monaco", "iso2": "MC"},
+    {"city": "Vatican City", "iso2": "VA"}
+  ],
+  "former_capital_relocations": [
+    {"old_city": "Rio de Janeiro", "new_city": "Brasília", "iso2": "BR"},
+    {"old_city": "Istanbul", "new_city": "Ankara", "iso2": "TR"},
+    {"old_city": "Almaty", "new_city": "Astana", "iso2": "KZ"},
+    {"old_city": "Yangon", "new_city": "Naypyidaw", "iso2": "MM"},
+    {"old_city": "Lagos", "new_city": "Abuja", "iso2": "NG"},
+    {"old_city": "Karachi", "new_city": "Islamabad", "iso2": "PK"},
+    {"old_city": "Dar es Salaam", "new_city": "Dodoma", "iso2": "TZ"},
+    {"old_city": "Bonn", "new_city": "Berlin", "iso2": "DE"},
+    {"old_city": "Melbourne", "new_city": "Canberra", "iso2": "AU"}
+  ],
+  "planned_capitals": [
+    {"city": "Washington, D.C.", "iso2": "US"},
+    {"city": "Brasília", "iso2": "BR"},
+    {"city": "Canberra", "iso2": "AU"},
+    {"city": "Islamabad", "iso2": "PK"},
+    {"city": "Abuja", "iso2": "NG"},
+    {"city": "Dodoma", "iso2": "TZ"},
+    {"city": "Astana", "iso2": "KZ"},
+    {"city": "Putrajaya", "iso2": "MY"},
+    {"city": "Naypyidaw", "iso2": "MM"},
+    {"city": "Belmopan", "iso2": "BZ"},
+    {"city": "Gaborone", "iso2": "BW"},
+    {"city": "Yamoussoukro", "iso2": "CI"},
+    {"city": "Palikir", "iso2": "FM"},
+    {"city": "Ngerulmud", "iso2": "PW"},
+    {"city": "New Delhi", "iso2": "IN"},
+    {"city": "Ankara", "iso2": "TR"},
+    {"city": "Pretoria", "iso2": "ZA"},
+    {"city": "Wellington", "iso2": "NZ"},
+    {"city": "Nouakchott", "iso2": "MR"}
+  ],
+  "capitals_without_international_airport": [
+    {"city": "Vaduz", "iso2": "LI"},
+    {"city": "San Marino", "iso2": "SM"},
+    {"city": "Vatican City", "iso2": "VA"},
+    {"city": "Monaco", "iso2": "MC"}
+  ],
+  "cities_all_urban_transit_modes": [
+    {"city": "Tokyo", "iso2": "JP"},
+    {"city": "Osaka", "iso2": "JP"},
+    {"city": "Chongqing", "iso2": "CN"},
+    {"city": "Wuhan", "iso2": "CN"},
+    {"city": "Seattle", "iso2": "US"},
+    {"city": "Moscow", "iso2": "RU"}
+  ],
+  "capitals_below_sea_level": [
+    {"city": "Amsterdam", "iso2": "NL"},
+    {"city": "Baku", "iso2": "AZ"}
+  ],
+  "capitals_on_major_rivers": [
+    {"city": "London", "iso2": "GB"},
+    {"city": "Paris", "iso2": "FR"},
+    {"city": "Vienna", "iso2": "AT"},
+    {"city": "Budapest", "iso2": "HU"},
+    {"city": "Bratislava", "iso2": "SK"},
+    {"city": "Belgrade", "iso2": "RS"},
+    {"city": "Berlin", "iso2": "DE"},
+    {"city": "Warsaw", "iso2": "PL"},
+    {"city": "Prague", "iso2": "CZ"},
+    {"city": "Rome", "iso2": "IT"},
+    {"city": "Madrid", "iso2": "ES"},
+    {"city": "Bucharest", "iso2": "RO"},
+    {"city": "Kyiv", "iso2": "UA"},
+    {"city": "Moscow", "iso2": "RU"},
+    {"city": "Cairo", "iso2": "EG"},
+    {"city": "Baghdad", "iso2": "IQ"},
+    {"city": "Bangkok", "iso2": "TH"},
+    {"city": "Phnom Penh", "iso2": "KH"},
+    {"city": "Vientiane", "iso2": "LA"},
+    {"city": "Hanoi", "iso2": "VN"},
+    {"city": "Beijing", "iso2": "CN"},
+    {"city": "Seoul", "iso2": "KR"},
+    {"city": "Tokyo", "iso2": "JP"},
+    {"city": "Ottawa", "iso2": "CA"},
+    {"city": "Washington, D.C.", "iso2": "US"},
+    {"city": "Buenos Aires", "iso2": "AR"},
+    {"city": "Montevideo", "iso2": "UY"},
+    {"city": "Asunción", "iso2": "PY"}
+  ],
+  "capitals_above_1000m": [
+    {"city": "La Paz", "iso2": "BO"},
+    {"city": "Quito", "iso2": "EC"},
+    {"city": "Bogotá", "iso2": "CO"},
+    {"city": "Addis Ababa", "iso2": "ET"},
+    {"city": "Mexico City", "iso2": "MX"},
+    {"city": "Tehran", "iso2": "IR"},
+    {"city": "Nairobi", "iso2": "KE"}
+  ],
+  "capitals_on_tropic_of_cancer": [
+    {"city": "Havana", "iso2": "CU"},
+    {"city": "Nassau", "iso2": "BS"},
+    {"city": "Riyadh", "iso2": "SA"},
+    {"city": "Abu Dhabi", "iso2": "AE"},
+    {"city": "Muscat", "iso2": "OM"}
+  ],
+  "capitals_hot_desert_climate": [
+    {"city": "Riyadh", "iso2": "SA"},
+    {"city": "Cairo", "iso2": "EG"},
+    {"city": "Doha", "iso2": "QA"},
+    {"city": "Abu Dhabi", "iso2": "AE"},
+    {"city": "Kuwait City", "iso2": "KW"},
+    {"city": "Muscat", "iso2": "OM"},
+    {"city": "Baghdad", "iso2": "IQ"},
+    {"city": "Nouakchott", "iso2": "MR"}
+  ],
+  "capitals_no_seasonal_snowfall": [
+    {"city": "Singapore", "iso2": "SG"},
+    {"city": "Kuala Lumpur", "iso2": "MY"},
+    {"city": "Jakarta", "iso2": "ID"},
+    {"city": "Bangkok", "iso2": "TH"},
+    {"city": "Manila", "iso2": "PH"},
+    {"city": "Colombo", "iso2": "LK"},
+    {"city": "Malé", "iso2": "MV"},
+    {"city": "Port Moresby", "iso2": "PG"},
+    {"city": "Suva", "iso2": "FJ"},
+    {"city": "Apia", "iso2": "WS"}
+  ],
+  "capitals_in_two_hemispheres": [
+    {"city": "Quito", "iso2": "EC"},
+    {"city": "London", "iso2": "GB"}
+  ],
+  "transcontinental_cities": [
+    {"city": "Istanbul", "iso2": "TR"},
+    {"city": "Atyrau", "iso2": "KZ"},
+    {"city": "Oral", "iso2": "KZ"},
+    {"city": "Orenburg", "iso2": "RU"},
+    {"city": "Orsk", "iso2": "RU"},
+    {"city": "Magnitogorsk", "iso2": "RU"},
+    {"city": "Suez", "iso2": "EG"},
+    {"city": "Port Said", "iso2": "EG"},
+    {"city": "Ismailia", "iso2": "EG"},
+    {"city": "Al Qanţarah", "iso2": "EG"},
+    {"city": "Panama City", "iso2": "PA"},
+    {"city": "Colón", "iso2": "PA"}
+  ]
+}

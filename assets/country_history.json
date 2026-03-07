@@ -1,0 +1,2314 @@
+{
+
+  "CHN": [
+    "c. 2100 BC: Legendary Xia dynasty traditionally regarded as first Chinese dynasty",
+    "c. 1600–1046 BC: Shang dynasty develops bronze culture and oracle bone writing",
+    "1046–256 BC: Zhou dynasty; Mandate of Heaven established",
+    "221 BC: Qin Shi Huang unifies China; Qin dynasty founded",
+    "210 BC: Construction of early Great Wall and imperial bureaucracy",
+    "206 BC – AD 220: Han dynasty consolidates imperial system and Silk Road",
+    "220–280: Three Kingdoms period (Wei, Shu, Wu)",
+    "581–618: Sui dynasty reunifies China; Grand Canal built",
+    "618–907: Tang dynasty; golden age of culture and cosmopolitan empire",
+    "907–960: Five Dynasties and Ten Kingdoms period",
+    "960–1279: Song dynasty; economic revolution and technological advances",
+    "1271–1368: Yuan dynasty under Mongol rule",
+    "1368–1644: Ming dynasty; maritime expeditions and Great Wall expansion",
+    "1644–1912: Qing dynasty; territorial peak then decline under Western pressure",
+    "1839–1842: First Opium War opens China to foreign powers",
+    "1911–1912: Xinhai Revolution ends imperial rule",
+    "1937–1945: Second Sino-Japanese War",
+    "1949: People's Republic of China proclaimed",
+    "1978: Reform and Opening-Up under Deng Xiaoping"
+  ],
+  "EGY": [
+    "c. 3100 BC: Unification of Upper and Lower Egypt under early pharaohs",
+    "c. 2686–2181 BC: Old Kingdom; construction of the Great Pyramids",
+    "c. 2055–1650 BC: Middle Kingdom; political stability and expansion",
+    "c. 1550–1070 BC: New Kingdom; Egypt becomes a major imperial power",
+    "1274 BC: Battle of Kadesh between Egypt and the Hittites",
+    "c. 1070–664 BC: Third Intermediate Period; fragmentation of authority",
+    "664–332 BC: Late Period; foreign invasions and revival attempts",
+    "332 BC: Conquest by Alexander the Great",
+    "305–30 BC: Ptolemaic dynasty rules Hellenistic Egypt",
+    "30 BC: Roman annexation following death of Cleopatra VII",
+    "395: Egypt becomes part of the Eastern Roman (Byzantine) Empire",
+    "641: Arab-Muslim conquest introduces Islam and Arabic language",
+    "969: Fatimid Caliphate establishes Cairo as capital",
+    "1250–1517: Mamluk Sultanate dominates Egypt",
+    "1517: Ottoman Empire incorporates Egypt",
+    "1798: Napoleon invades Egypt",
+    "1882: British occupation begins",
+    "1922: Kingdom of Egypt gains nominal independence",
+    "1952: Free Officers Revolution abolishes monarchy",
+    "1953: Arab Republic of Egypt proclaimed"
+  ],
+  "FRA": [
+    "58–50 BC: Roman conquest of Gaul by Julius Caesar",
+    "5th century: Collapse of Roman rule; Frankish kingdoms emerge",
+    "481: Clovis I unifies the Franks; Merovingian dynasty begins",
+    "732: Battle of Tours halts Umayyad expansion into Western Europe",
+    "800: Charlemagne crowned Emperor; Carolingian Empire peaks",
+    "843: Treaty of Verdun divides the Carolingian Empire; West Francia established",
+    "987: Hugh Capet crowned king; Capetian dynasty begins",
+    "1095–1291: France plays a major role in the Crusades",
+    "1337–1453: Hundred Years' War with England",
+    "1429: Joan of Arc turns the tide in favor of France",
+    "1562–1598: French Wars of Religion between Catholics and Protestants",
+    "1598: Edict of Nantes grants limited religious tolerance",
+    "1643–1715: Reign of Louis XIV; absolute monarchy at its height",
+    "1789: French Revolution begins",
+    "1792: Monarchy abolished; First Republic proclaimed",
+    "1799: Napoleon seizes power in coup of 18 Brumaire",
+    "1804: Napoleon crowned Emperor of the French",
+    "1815: Defeat at Waterloo ends Napoleonic era",
+    "1871: Third Republic established after Franco-Prussian War",
+    "1958: Fifth Republic founded under Charles de Gaulle"
+  ],
+  "GBR": [
+    "c. AD 43: Roman conquest of Britain begins",
+    "5th century: Roman withdrawal; Anglo-Saxon kingdoms emerge",
+    "871–899: Reign of Alfred the Great; defense against Viking invasions",
+    "1066: Norman Conquest led by William the Conqueror",
+    "1215: Magna Carta limits royal authority",
+    "1337–1453: Hundred Years' War with France",
+    "1485: Tudor dynasty established after Wars of the Roses",
+    "1534: English Reformation; Church of England founded",
+    "1603: Union of the Crowns under James VI and I",
+    "1642–1651: English Civil War",
+    "1688: Glorious Revolution establishes constitutional monarchy",
+    "1707: Acts of Union create the Kingdom of Great Britain",
+    "1760–1840: Industrial Revolution transforms society and economy",
+    "1801: United Kingdom of Great Britain and Ireland formed",
+    "1914–1918: World War I; major imperial involvement",
+    "1939–1945: World War II; Britain resists Nazi Germany",
+    "1947: Independence of India signals start of decolonization",
+    "1973: United Kingdom joins the European Communities",
+    "1997: Devolution establishes Scottish Parliament",
+    "2020: United Kingdom formally leaves the European Union"
+  ],
+  "GRC": [
+    "c. 2000–1600 BC: Minoan civilization flourishes on Crete",
+    "c. 1600–1100 BC: Mycenaean civilization dominates mainland Greece",
+    "c. 1100–800 BC: Greek Dark Ages follow collapse of Mycenaean world",
+    "c. 800–500 BC: Archaic period; rise of city-states (poleis)",
+    "508 BC: Democratic reforms established in Athens",
+    "490–479 BC: Greco-Persian Wars preserve Greek independence",
+    "431–404 BC: Peloponnesian War weakens Greek city-states",
+    "336–323 BC: Alexander the Great creates vast Hellenistic empire",
+    "323–31 BC: Hellenistic kingdoms dominate Eastern Mediterranean",
+    "146 BC: Roman conquest of Greece",
+    "330: Constantinople becomes capital of Eastern Roman Empire",
+    "395–1453: Greece within Byzantine Empire",
+    "1453–1821: Ottoman rule over Greek lands",
+    "1821–1830: Greek War of Independence",
+    "1832: Kingdom of Greece established",
+    "1912–1913: Balkan Wars expand Greek territory",
+    "1940–1949: World War II and Greek Civil War",
+    "1974: Restoration of democracy after military junta",
+    "1981: Greece joins the European Communities"
+  ],
+  "IND": [
+    "c. 2600–1900 BC: Indus Valley Civilization flourishes",
+    "c. 1500–500 BC: Vedic period shapes early Hindu culture",
+    "6th century BC: Rise of Mahajanapadas; Buddhism and Jainism emerge",
+    "321–185 BC: Maurya Empire unifies much of the subcontinent",
+    "3rd century BC: Reign of Ashoka promotes Buddhism",
+    "c. 320–550: Gupta Empire; classical age of Indian civilization",
+    "712: Arab conquest of Sindh introduces Islam to South Asia",
+    "1206–1526: Delhi Sultanate rules northern India",
+    "1526–1707: Mughal Empire dominates much of India",
+    "1757: Battle of Plassey establishes British East India Company power",
+    "1857: Indian Rebellion against British rule",
+    "1858: British Crown assumes direct control of India",
+    "1885: Indian National Congress founded",
+    "1919–1942: Mass nationalist movements against British rule",
+    "1947: Independence and partition into India and Pakistan",
+    "1950: Republic of India proclaimed",
+    "1962: Sino-Indian War",
+    "1991: Economic liberalization begins",
+    "2014: BJP-led government marks new political era"
+  ],
+  "IRN": [
+    "c. 3200–2800 BC: Elamite civilization emerges in southwestern Iran",
+    "c. 1000 BC: Indo-Iranian peoples settle the Iranian plateau",
+    "550–330 BC: Achaemenid Empire founded by Cyrus the Great",
+    "522–486 BC: Reign of Darius I; imperial administration and infrastructure",
+    "330 BC: Conquest of Persia by Alexander the Great",
+    "247 BC – AD 224: Parthian Empire controls much of Iran and Mesopotamia",
+    "224–651: Sasanian Empire; revival of Persian power",
+    "651: Arab-Muslim conquest ends Sasanian rule",
+    "750–1055: Abbasid period; Persian culture flourishes under Islamic rule",
+    "1037–1194: Seljuk Empire dominates Iran",
+    "1219–1258: Mongol invasions devastate Iran",
+    "1501: Safavid dynasty establishes Shi'a Islam as state religion",
+    "1722: Fall of Safavid capital Isfahan",
+    "1796: Qajar dynasty comes to power",
+    "1906: Constitutional Revolution limits royal authority",
+    "1925: Pahlavi dynasty established",
+    "1979: Islamic Revolution overthrows the monarchy",
+    "1980–1988: Iran–Iraq War",
+    "2015: Nuclear agreement (JCPOA) signed"
+  ],
+  "IRQ": [
+    "c. 3500 BC: Sumerian civilization arises in southern Mesopotamia",
+    "c. 2300 BC: Akkadian Empire unifies Mesopotamia",
+    "c. 1900–539 BC: Babylonian and Assyrian empires dominate the region",
+    "539 BC: Conquest of Babylon by Cyrus the Great",
+    "331 BC: Alexander the Great defeats Persian forces in Mesopotamia",
+    "129 BC – AD 637: Parthian and Sasanian rule over Iraq",
+    "637: Arab-Muslim conquest of Mesopotamia",
+    "750: Abbasid Caliphate establishes Baghdad as capital",
+    "1258: Mongols sack Baghdad; Abbasid power collapses",
+    "1534: Ottoman Empire incorporates Iraq",
+    "1918: British forces occupy Iraq after World War I",
+    "1932: Kingdom of Iraq gains independence",
+    "1958: Republican revolution overthrows monarchy",
+    "1968: Ba'ath Party takes power",
+    "1980–1988: Iran–Iraq War",
+    "1990–1991: Invasion of Kuwait and Gulf War",
+    "2003: US-led invasion topples Saddam Hussein",
+    "2014–2017: Conflict with ISIS",
+    "2018: Post-ISIS reconstruction and political reform efforts"
+  ],
+  "ITA": [
+    "c. 753 BC: Traditional founding of Rome",
+    "509 BC: Roman Republic established",
+    "264–146 BC: Punic Wars make Rome dominant in the Mediterranean",
+    "27 BC: Augustus establishes the Roman Empire",
+    "AD 313: Edict of Milan legalizes Christianity",
+    "395: Permanent division of the Roman Empire",
+    "476: Fall of Western Roman Empire",
+    "6th–11th centuries: Byzantine, Lombard, and Papal powers compete in Italy",
+    "11th–14th centuries: Rise of city-states (Venice, Florence, Genoa, Milan)",
+    "14th–16th centuries: Italian Renaissance flourishes",
+    "1527: Sack of Rome marks decline of Renaissance Italy",
+    "1796–1815: Napoleonic rule reshapes Italian states",
+    "1861: Kingdom of Italy proclaimed",
+    "1915–1918: Italy participates in World War I",
+    "1922: Mussolini establishes Fascist dictatorship",
+    "1943–1945: Collapse of Fascism and civil war",
+    "1946: Italian Republic proclaimed",
+    "1957: Italy becomes a founding member of the EEC",
+    "1992–1994: Political system transformed after corruption scandals"
+  ],
+  "MEX": [
+    "c. 1500–400 BC: Olmec civilization flourishes",
+    "c. AD 250–900: Classic Maya civilization peaks",
+    "1325: Mexica (Aztec) found Tenochtitlan",
+    "1519–1521: Spanish conquest led by Hernán Cortés",
+    "1535: Viceroyalty of New Spain established",
+    "1810: Hidalgo launches Mexican War of Independence",
+    "1821: Independence from Spain achieved",
+    "1824: Federal Republic of Mexico established",
+    "1846–1848: Mexican–American War; major territorial losses",
+    "1857: Liberal constitution enacted",
+    "1862–1867: French intervention and Second Mexican Empire",
+    "1876–1911: Porfirio Díaz regime modernizes Mexico",
+    "1910–1920: Mexican Revolution",
+    "1917: New revolutionary constitution adopted",
+    "1929: Institutional Revolutionary Party (PRI) founded",
+    "1968: Tlatelolco massacre during student protests",
+    "1994: NAFTA comes into effect",
+    "2000: End of one-party dominance",
+    "2018: Political shift with left-wing presidency"
+  ],
+  "RUS": [
+    "862: Founding of Kievan Rus' traditionally linked to Rurik",
+    "988: Christianization of Kievan Rus' under Vladimir the Great",
+    "1237–1240: Mongol invasion destroys Kievan Rus'",
+    "1325: Moscow becomes seat of Orthodox Church leadership",
+    "1380: Battle of Kulikovo signals rising resistance to Mongol rule",
+    "1480: End of Mongol domination under Ivan III",
+    "1547: Ivan IV crowned first Tsar of Russia",
+    "1613: Romanov dynasty established",
+    "1703: St. Petersburg founded by Peter the Great",
+    "1721: Russian Empire proclaimed",
+    "1812: Napoleon’s invasion repelled",
+    "1861: Emancipation of the serfs",
+    "1905: First Russian Revolution",
+    "1917: February and October Revolutions overthrow monarchy",
+    "1922: Union of Soviet Socialist Republics (USSR) formed",
+    "1941–1945: Great Patriotic War against Nazi Germany",
+    "1957: Sputnik launch marks space age",
+    "1991: Dissolution of the Soviet Union",
+    "2000: Consolidation of power under new presidency"
+  ],
+  "TUR": [
+    "c. 3000–1200 BC: Early Anatolian civilizations (Hattians, Hittites)",
+    "546 BC: Achaemenid Persian rule over Anatolia",
+    "334 BC: Alexander the Great conquers Anatolia",
+    "129 BC: Roman control established in Asia Minor",
+    "330: Constantinople founded as imperial capital",
+    "1071: Seljuk victory at Battle of Manzikert opens Anatolia to Turks",
+    "1299: Foundation of the Ottoman state",
+    "1453: Conquest of Constantinople",
+    "1517: Ottomans assume caliphate after defeating Mamluks",
+    "1683: Failed siege of Vienna marks start of Ottoman decline",
+    "1839–1876: Tanzimat reforms modernize the empire",
+    "1912–1913: Balkan Wars reduce Ottoman territory",
+    "1918: Defeat in World War I",
+    "1920: Treaty of Sèvres partitions Ottoman lands",
+    "1923: Republic of Turkey proclaimed",
+    "1938: Death of Atatürk",
+    "1960: First military coup",
+    "1980: Military intervention reshapes politics",
+    "2017: Constitutional reform strengthens presidency"
+  ],
+  "VNM": [
+    "c. 2879 BC: Legendary founding of Văn Lang under the Hùng Kings",
+    "111 BC – AD 939: Chinese domination over northern Vietnam",
+    "939: Ngô Quyền defeats Southern Han; independence restored",
+    "1009–1225: Lý dynasty consolidates a centralized Vietnamese state",
+    "1225–1400: Trần dynasty repels Mongol invasions",
+    "1407–1427: Ming occupation and resistance",
+    "1428: Lê dynasty founded; classical Confucian state established",
+    "1471: Đại Việt conquers Champa heartland",
+    "17th–18th centuries: Division between Trịnh and Nguyễn lords",
+    "1802: Nguyễn dynasty unifies Vietnam",
+    "1858–1887: French conquest; Indochina established",
+    "1945: Hồ Chí Minh proclaims independence",
+    "1946–1954: First Indochina War against France",
+    "1954: Geneva Accords divide Vietnam",
+    "1955–1975: Vietnam War",
+    "1975: Reunification under communist government",
+    "1986: Đổi Mới economic reforms launched",
+    "1995: Vietnam joins ASEAN",
+    "2007: Vietnam joins the World Trade Organization"
+  ],
+  "AUT": [
+    "c. 15 BC: Roman province of Noricum incorporated into empire",
+    "976: March of Austria established under Babenberg dynasty",
+    "1278: Habsburgs gain control of Austria",
+    "1438–1806: Habsburgs dominate Holy Roman Empire",
+    "1526: Habsburgs inherit Bohemia and Hungary",
+    "1683: Ottoman siege of Vienna repelled",
+    "1740–1780: Reforms under Maria Theresa and Joseph II",
+    "1804: Austrian Empire proclaimed",
+    "1815: Congress of Vienna reshapes Europe",
+    "1867: Austro-Hungarian Compromise creates Dual Monarchy",
+    "1914: Assassination at Sarajevo triggers World War I",
+    "1918: Collapse of Austro-Hungarian Empire",
+    "1938: Anschluss with Nazi Germany",
+    "1945: End of World War II; Allied occupation",
+    "1955: Austrian State Treaty restores sovereignty",
+    "1955: Austria declares permanent neutrality",
+    "1995: Austria joins the European Union"
+  ],
+  "KOR": [
+    "2333 BC: Founding of Gojoseon by Dangun Wanggeom (legendary)",
+    "108 BC: Han dynasty conquest of Wiman Joseon; commanderies established",
+    "1st century BC – AD 668: Three Kingdoms period (Goguryeo, Baekje, Silla)",
+    "313: Goguryeo destroys Lelang Commandery, ending Chinese commandery rule",
+    "372–527: Buddhism adopted by Goguryeo, Baekje, and Silla",
+    "660–668: Silla–Tang alliance defeats Baekje and Goguryeo",
+    "676: Unified Silla expels Tang forces from the peninsula",
+    "698–926: Balhae controls northern territories",
+    "918: Goryeo Dynasty founded",
+    "993–1019: Goryeo–Khitan Wars",
+    "1231–1259: Mongol invasions of Korea",
+    "1392: Joseon Dynasty established",
+    "1443–1446: Hangul created and promulgated",
+    "1592–1598: Japanese invasions of Korea (Imjin War)",
+    "1876: Treaty of Ganghwa opens Korea to foreign powers",
+    "1910–1945: Japanese colonial rule",
+    "1945: Liberation and division of the peninsula",
+    "1950–1953: Korean War",
+    "1987: Democratization movement leads to direct elections"
+  ],
+  "JPN": [
+    "c. 14,000–300 BC: Jomon period; early hunter-gatherer culture",
+    "c. 300 BC – AD 300: Yayoi period introduces rice agriculture",
+    "c. 250–538: Kofun period; emergence of Yamato state",
+    "538: Introduction of Buddhism",
+    "710: Nara established as first permanent capital",
+    "794: Heian period begins; court culture flourishes",
+    "1185: Kamakura shogunate established",
+    "1274–1281: Mongol invasions repelled",
+    "1336: Ashikaga shogunate begins",
+    "1467–1600: Sengoku (Warring States) period",
+    "1603: Tokugawa shogunate establishes Edo period",
+    "1639: Sakoku policy isolates Japan",
+    "1853: Commodore Perry forces opening of Japan",
+    "1868: Meiji Restoration modernizes the state",
+    "1895: Victory in First Sino-Japanese War",
+    "1905: Victory in Russo-Japanese War",
+    "1945: Defeat in World War II",
+    "1947: New pacifist constitution enacted",
+    "1964: Tokyo Olympics symbolize postwar recovery"
+  ],
+  "AFG": [
+    "c. 3000–1500 BC: Early Indo-Iranian cultures develop in the region",
+    "6th century BC: Achaemenid Persian rule established",
+    "330 BC: Alexander the Great conquers Afghanistan",
+    "1st–3rd centuries: Kushan Empire spreads Buddhism and trade",
+    "7th century: Arab-Muslim conquest introduces Islam",
+    "10th–12th centuries: Ghaznavid and Ghurid empires flourish",
+    "1221: Mongol invasions devastate the region",
+    "1747: Durrani Empire founded; basis of modern Afghanistan",
+    "1839–1919: Anglo-Afghan Wars against British influence",
+    "1919: Afghanistan gains full independence",
+    "1973: Monarchy abolished; republic proclaimed",
+    "1979–1989: Soviet invasion and war",
+    "1996: Taliban seize power",
+    "2001: US-led intervention topples Taliban regime",
+    "2021: Taliban regain control of Afghanistan"
+  ],
+  "ALB": [
+    "c. 2000 BC: Illyrian tribes inhabit the region",
+    "168 BC: Roman conquest of Illyria",
+    "395: Region becomes part of Eastern Roman Empire",
+    "15th century: Ottoman conquest of Albania",
+    "1443–1468: Resistance led by Skanderbeg",
+    "1912: Albania declares independence",
+    "1928: Kingdom of Albania proclaimed",
+    "1939: Italian invasion during World War II",
+    "1944: Communist state established under Enver Hoxha",
+    "1967: Albania declares itself an atheist state",
+    "1991: End of communist rule",
+    "1997: State collapse during financial crisis",
+    "2009: Albania joins NATO"
+  ],
+  "ARM": [
+    "c. 3000 BC: Early Armenian Highland cultures emerge",
+    "95–55 BC: Armenian Empire under Tigranes the Great",
+    "301: Armenia becomes first state to adopt Christianity",
+    "387: Armenia partitioned between Rome and Persia",
+    "7th century: Arab conquest of Armenia",
+    "885–1045: Bagratid Armenian Kingdom",
+    "1071: Seljuk invasions weaken Armenian lands",
+    "1375: Fall of Armenian Kingdom of Cilicia",
+    "1828: Eastern Armenia incorporated into Russian Empire",
+    "1915: Armenian Genocide in Ottoman Empire",
+    "1918: First Republic of Armenia proclaimed",
+    "1920: Sovietization of Armenia",
+    "1991: Independence from the Soviet Union",
+    "2020: Nagorno-Karabakh war reshapes regional balance"
+  ],
+  "BGR": [
+    "681: First Bulgarian Empire established",
+    "864: Conversion to Christianity",
+    "10th century: Golden Age under Tsar Simeon I",
+    "1018: Bulgaria conquered by Byzantine Empire",
+    "1185: Second Bulgarian Empire founded",
+    "1396: Ottoman conquest of Bulgaria",
+    "1878: Liberation and establishment of autonomous Bulgaria",
+    "1908: Full independence proclaimed",
+    "1944: Communist takeover",
+    "1946: People's Republic declared",
+    "1989: End of communist rule",
+    "2004: Bulgaria joins NATO",
+    "2007: Bulgaria joins the European Union"
+  ],
+  "BIH": [
+    "c. 1st century: Roman rule over Bosnia region",
+    "10th–12th centuries: Medieval Bosnian state emerges",
+    "1377: Kingdom of Bosnia established",
+    "1463: Ottoman conquest of Bosnia",
+    "1878: Austro-Hungarian occupation",
+    "1914: Assassination in Sarajevo sparks World War I",
+    "1918: Bosnia incorporated into Yugoslavia",
+    "1941–1945: World War II and internal conflict",
+    "1945: Socialist Yugoslavia established",
+    "1992: Bosnia and Herzegovina declares independence",
+    "1992–1995: Bosnian War",
+    "1995: Dayton Agreement ends the war",
+    "2006: Post-war state consolidation continues"
+  ],
+  "CHE": [
+    "1291: Federal Charter marks the foundation of the Swiss Confederacy",
+    "1315: Victory at Morgarten secures early independence",
+    "1499: Swabian War effectively frees Switzerland from the Holy Roman Empire",
+    "1515: Defeat at Marignano ends Swiss territorial expansion",
+    "1648: Peace of Westphalia recognizes Swiss independence",
+    "1798–1803: French invasion and Helvetic Republic",
+    "1815: Congress of Vienna guarantees Swiss neutrality",
+    "1848: Federal constitution creates modern Switzerland",
+    "1874: Revised constitution strengthens federal state",
+    "1914–1918: Neutral during World War I",
+    "1939–1945: Neutral during World War II",
+    "1971: Women gain federal voting rights",
+    "2002: Switzerland joins the United Nations"
+  ],
+  "CZE": [
+    "9th century: Great Moravia emerges as early Slavic state",
+    "1002: Bohemia incorporated into Holy Roman Empire",
+    "1346–1378: Reign of Charles IV; Prague flourishes",
+    "1419–1434: Hussite Wars challenge church authority",
+    "1526: Habsburg rule over Bohemia begins",
+    "1620: Defeat at White Mountain leads to re-Catholicization",
+    "1867: Bohemia part of Austro-Hungarian Empire",
+    "1918: Czechoslovakia proclaimed",
+    "1938–1939: Munich Agreement and Nazi occupation",
+    "1948: Communist takeover",
+    "1968: Prague Spring and Warsaw Pact invasion",
+    "1989: Velvet Revolution ends communist rule",
+    "1993: Peaceful split creates Czech Republic",
+    "2004: Czech Republic joins the European Union"
+  ],
+  "DEU": [
+    "962: Holy Roman Empire traditionally founded",
+    "1517: Martin Luther launches the Protestant Reformation",
+    "1618–1648: Thirty Years' War devastates German lands",
+    "1806: Holy Roman Empire dissolved",
+    "1815: German Confederation established",
+    "1871: German Empire unified under Prussian leadership",
+    "1914–1918: World War I and imperial collapse",
+    "1933: Nazi regime comes to power",
+    "1939–1945: World War II and defeat",
+    "1949: Division into East and West Germany",
+    "1961: Berlin Wall constructed",
+    "1989: Fall of the Berlin Wall",
+    "1990: German reunification",
+    "2002: Euro adopted"
+  ],
+  "DNK": [
+    "8th–11th centuries: Viking Age shapes Danish kingdom",
+    "965: Harald Bluetooth converts Denmark to Christianity",
+    "1397: Kalmar Union unites Nordic kingdoms",
+    "1536: Protestant Reformation establishes Lutheran state",
+    "1660: Absolute monarchy introduced",
+    "1814: Loss of Norway after Napoleonic Wars",
+    "1849: Constitutional monarchy established",
+    "1864: Defeat by Prussia reduces territory",
+    "1914–1918: Neutral in World War I",
+    "1940–1945: German occupation during World War II",
+    "1973: Denmark joins the European Communities",
+    "2000: Referendum rejects euro adoption"
+  ],
+  "ESP": [
+    "218 BC: Roman conquest of Iberian Peninsula begins",
+    "711: Umayyad Muslim invasion establishes Al-Andalus",
+    "718–1492: Reconquista gradually expands Christian kingdoms",
+    "1469: Union of Castile and Aragon under Ferdinand and Isabella",
+    "1492: Fall of Granada and voyage of Columbus",
+    "16th century: Spanish Empire reaches global peak",
+    "1700–1714: War of Spanish Succession",
+    "1808–1814: Peninsular War against Napoleon",
+    "1898: Loss of last major colonies",
+    "1936–1939: Spanish Civil War",
+    "1939–1975: Franco dictatorship",
+    "1978: Democratic constitution adopted",
+    "1986: Spain joins the European Communities"
+  ],
+  "ETH": [
+    "c. 1st century: Kingdom of Aksum emerges as major power",
+    "4th century: Christianity adopted as state religion",
+    "7th century: Decline of Aksum amid regional changes",
+    "13th century: Solomonic dynasty restored",
+    "16th century: Wars with Adal Sultanate and Oromo migrations",
+    "1855–1913: Modernization under emperors Tewodros II and Menelik II",
+    "1896: Victory at Adwa preserves independence",
+    "1936–1941: Italian occupation",
+    "1941: Restoration of Emperor Haile Selassie",
+    "1974: Military coup abolishes monarchy",
+    "1974–1991: Derg socialist regime",
+    "1991: Federal republic established",
+    "2018: Political reforms under new leadership"
+  ],
+  "GEO": [
+    "c. 1300–600 BC: Early kingdoms of Colchis and Iberia emerge",
+    "4th century BC: Hellenistic influence reaches the region",
+    "337: Christianity adopted as state religion",
+    "1008–1236: Unified Kingdom of Georgia",
+    "12th–13th centuries: Golden Age under David IV and Queen Tamar",
+    "1220s: Mongol invasions weaken the kingdom",
+    "1466: Georgia fragments into rival kingdoms",
+    "1801: Eastern Georgia annexed by Russian Empire",
+    "1918: Democratic Republic of Georgia proclaimed",
+    "1921: Soviet Red Army invasion",
+    "1936: Georgian SSR within the USSR",
+    "1991: Independence from the Soviet Union",
+    "2008: Russo-Georgian War",
+    "2010s: Pro-Western political and economic reforms continue"
+  ],
+  "HRV": [
+    "7th century: Croat settlement in the Balkans",
+    "925: Kingdom of Croatia established",
+    "1102: Personal union with Hungary",
+    "1527: Habsburg rule begins",
+    "1699: Ottoman retreat from Croatian lands",
+    "1868: Croatia–Hungary Settlement grants limited autonomy",
+    "1918: Joins Kingdom of Serbs, Croats, and Slovenes",
+    "1941–1945: World War II and internal conflict",
+    "1945: Socialist Yugoslavia formed",
+    "1991: Independence declared",
+    "1991–1995: Croatian War of Independence",
+    "2013: Croatia joins the European Union"
+  ],
+  "HUN": [
+    "c. 895: Magyar tribes settle in Carpathian Basin",
+    "1000: Kingdom of Hungary founded under Stephen I",
+    "1241–1242: Mongol invasion devastates Hungary",
+    "1526: Defeat at Mohács; Ottoman occupation begins",
+    "1699: Habsburg control restored",
+    "1848–1849: Hungarian Revolution against Habsburg rule",
+    "1867: Austro-Hungarian Compromise",
+    "1918: Collapse of monarchy",
+    "1920: Treaty of Trianon reduces territory",
+    "1949: Communist People's Republic established",
+    "1956: Hungarian Revolution crushed by Soviet forces",
+    "1989: End of communist rule",
+    "2004: Hungary joins the European Union"
+  ],
+  "IDN": [
+    "c. 7th–13th centuries: Srivijaya maritime empire dominates trade",
+    "13th–16th centuries: Spread of Islam across the archipelago",
+    "1293–1527: Majapahit Empire reaches regional peak",
+    "1602: Dutch East India Company established",
+    "1800: Dutch colonial rule consolidated",
+    "1942–1945: Japanese occupation during World War II",
+    "1945: Proclamation of independence",
+    "1949: Dutch recognize Indonesian sovereignty",
+    "1965: Political upheaval and anti-communist purges",
+    "1967–1998: Suharto's New Order regime",
+    "1998: Democratic reforms begin",
+    "2004: First direct presidential election",
+    "2014: Peaceful democratic transition continues"
+  ],
+  "ISR": [
+    "c. 1000 BC: United Monarchy of Israel under David and Solomon",
+    "586 BC: Babylonian destruction of Jerusalem",
+    "538 BC: Persian restoration allows Jewish return",
+    "70: Roman destruction of Second Temple",
+    "638: Islamic conquest of Jerusalem",
+    "1517–1917: Ottoman rule",
+    "1917: Balfour Declaration supports Jewish homeland",
+    "1947: UN Partition Plan",
+    "1948: State of Israel declared",
+    "1948–1949: Arab–Israeli War",
+    "1967: Six-Day War reshapes borders",
+    "1979: Peace treaty with Egypt",
+    "1993: Oslo Accords",
+    "2000s: Ongoing Israeli-Palestinian conflict"
+  ],
+  "KAZ": [
+    "c. 8th–13th centuries: Turkic nomadic confederations dominate steppe",
+    "13th century: Mongol conquest under Genghis Khan",
+    "15th century: Kazakh Khanate established",
+    "18th century: Gradual incorporation into Russian Empire",
+    "1936: Kazakh SSR formed within the USSR",
+    "1950s: Virgin Lands campaign transforms agriculture",
+    "1986: Almaty protests signal rising nationalism",
+    "1991: Independence from Soviet Union",
+    "1997: Capital moved to Astana",
+    "2010s: Political and economic modernization efforts"
+  ],
+  "KHM": [
+    "c. AD 802: Khmer Empire founded",
+    "9th–13th centuries: Angkor civilization flourishes",
+    "1431: Fall of Angkor to Ayutthaya",
+    "1863: French protectorate established",
+    "1945: Japanese occupation during World War II",
+    "1953: Independence from France",
+    "1970: Coup establishes Khmer Republic",
+    "1975–1979: Khmer Rouge regime and genocide",
+    "1979: Vietnamese intervention ends Khmer Rouge rule",
+    "1991: Paris Peace Accords",
+    "1993: Constitutional monarchy restored",
+    "2010s: Political stability and economic growth"
+  ],
+  "MAR": [
+    "c. 800 BC: Phoenician and later Carthaginian settlements along the coast",
+    "42 AD: Roman province of Mauretania Tingitana established",
+    "7th century: Arab-Muslim conquest introduces Islam",
+    "788: Idrisid dynasty founds first Moroccan state",
+    "11th–12th centuries: Almoravid and Almohad empires rule Morocco",
+    "13th–15th centuries: Marinid dynasty dominates",
+    "16th century: Saadian dynasty repels Portuguese influence",
+    "1666: Alaouite dynasty comes to power",
+    "1912: French and Spanish protectorates established",
+    "1956: Independence of Morocco",
+    "1961: Hassan II becomes king",
+    "1975: Green March asserts claim over Western Sahara",
+    "1999: Mohammed VI ascends the throne",
+    "2011: Constitutional reforms amid Arab Spring"
+  ],
+  "MKD": [
+    "4th century BC: Kingdom of Macedon rises under Philip II",
+    "168 BC: Roman conquest of Macedonia",
+    "6th–7th centuries: Slavic settlement in the region",
+    "9th–10th centuries: Part of First Bulgarian Empire",
+    "1018: Byzantine reconquest of the region",
+    "14th century: Serbian rule under Stefan Dušan",
+    "1392: Ottoman conquest of Macedonia",
+    "1912–1913: Balkan Wars end Ottoman rule",
+    "1918: Incorporated into Kingdom of Yugoslavia",
+    "1944: Socialist Republic of Macedonia formed",
+    "1991: Independence declared",
+    "2001: Internal ethnic conflict",
+    "2019: Renamed North Macedonia",
+    "2020: Joins NATO"
+  ],
+  "MNG": [
+    "c. 3rd century BC: Xiongnu confederation dominates Mongolian steppe",
+    "1206: Genghis Khan unifies Mongol tribes",
+    "13th century: Mongol Empire becomes largest land empire",
+    "1368: Yuan dynasty overthrown in China",
+    "17th century: Qing dynasty incorporates Mongolia",
+    "1911: Independence from Qing China proclaimed",
+    "1921: Soviet-backed revolution establishes new state",
+    "1924: Mongolian People's Republic declared",
+    "1939: Victory at Khalkhin Gol against Japan",
+    "1990: Democratic revolution",
+    "1992: New democratic constitution adopted",
+    "2000s: Mining-driven economic growth"
+  ],
+  "MNE": [
+    "10th century: Duklja emerges as early Slavic state",
+    "12th century: Zeta becomes regional principality",
+    "1696–1852: Prince-bishopric system rules Montenegro",
+    "1852: Secular principality established",
+    "1878: International recognition of independence",
+    "1918: Loss of independence and union with Serbia",
+    "1945: Republic within socialist Yugoslavia",
+    "1992: Part of Serbia and Montenegro",
+    "2006: Independence restored by referendum",
+    "2017: Montenegro joins NATO"
+  ],
+  "NLD": [
+    "1st–4th centuries: Roman rule in southern Low Countries",
+    "8th–15th centuries: Feudal counties and trading cities develop",
+    "1568–1648: Dutch Revolt against Spanish rule",
+    "1581: Act of Abjuration declares independence",
+    "17th century: Dutch Golden Age",
+    "1795–1813: French revolutionary and Napoleonic rule",
+    "1815: Kingdom of the Netherlands established",
+    "1830: Belgian independence",
+    "1940–1945: German occupation during World War II",
+    "1949: Indonesian independence ends colonial empire",
+    "1957: Founding member of the EEC",
+    "2002: Euro adopted"
+  ],
+  "NOR": [
+    "8th–11th centuries: Viking Age shapes Norwegian society and expansion",
+    "872: Harald Fairhair traditionally unifies Norway",
+    "995–1030: Christianization under Olaf Tryggvason and Olaf II",
+    "1319–1397: Dynastic unions lead toward Scandinavian integration",
+    "1397: Kalmar Union unites Norway with Denmark and Sweden",
+    "1537: Norway becomes a Danish possession",
+    "1814: Constitution adopted; union with Sweden begins",
+    "1905: Peaceful dissolution of union; full independence",
+    "1940–1945: German occupation during World War II",
+    "1949: Norway joins NATO",
+    "1969: Discovery of North Sea oil transforms economy",
+    "1994: Referendum rejects EU membership"
+  ],
+  "PAK": [
+    "c. 2600–1900 BC: Indus Valley Civilization flourishes",
+    "c. 1500–500 BC: Vedic and early Indo-Aryan cultures",
+    "6th century BC: Achaemenid rule over Indus region",
+    "326 BC: Alexander the Great invades the Indus Valley",
+    "8th century: Arab conquest of Sindh introduces Islam",
+    "1206–1526: Delhi Sultanate rules much of the region",
+    "1526–1707: Mughal Empire dominates",
+    "1757–1849: British East India Company expands control",
+    "1858: British Crown rule established",
+    "1947: Partition creates Pakistan",
+    "1956: First constitution adopted",
+    "1971: Bangladesh secedes after war",
+    "1998: Nuclear tests assert strategic parity",
+    "2000s: Political instability and counterterrorism era"
+  ],
+  "POL": [
+    "966: Adoption of Christianity marks formation of Polish state",
+    "1025: Kingdom of Poland established",
+    "1386: Polish–Lithuanian union begins",
+    "1569: Polish–Lithuanian Commonwealth formed",
+    "1655–1660: Swedish Deluge weakens the state",
+    "1772–1795: Partitions erase Poland from map",
+    "1918: Independence restored after World War I",
+    "1939: Invasion by Nazi Germany and Soviet Union",
+    "1945: Communist state established",
+    "1980: Solidarity movement emerges",
+    "1989: End of communist rule",
+    "1999: Poland joins NATO",
+    "2004: Poland joins the European Union"
+  ],
+  "PRK": [
+    "2333 BC: Legendary founding of Gojoseon (shared Korean heritage)",
+    "108 BC: Han commanderies established in northern Korea",
+    "313: Goguryeo destroys Lelang Commandery",
+    "668: Fall of Goguryeo; later Balhae controls northern regions",
+    "918–1392: Goryeo period influences northern Korea",
+    "1392–1910: Joseon Dynasty governs the peninsula",
+    "1910–1945: Japanese colonial rule",
+    "1945: Soviet occupation of northern Korea",
+    "1948: Democratic People's Republic of Korea proclaimed",
+    "1950–1953: Korean War devastates the peninsula",
+    "1972: Juche ideology formalized",
+    "1994: Kim Il-sung dies; dynastic succession",
+    "2006: First nuclear test",
+    "2010s: Continued isolation and weapons development"
+  ],
+  "PRT": [
+    "1143: Kingdom of Portugal recognized",
+    "1249: Completion of the Reconquista in Portugal",
+    "15th–16th centuries: Age of Discoveries creates global empire",
+    "1580–1640: Iberian Union under Spanish rule",
+    "1640: Restoration of Portuguese independence",
+    "1755: Lisbon earthquake devastates capital",
+    "1807–1811: Napoleonic invasions",
+    "1910: Monarchy overthrown; republic proclaimed",
+    "1926–1974: Authoritarian Estado Novo regime",
+    "1974: Carnation Revolution restores democracy",
+    "1975: Decolonization of African territories",
+    "1986: Portugal joins the European Communities"
+  ],
+  "PSE": [
+    "c. 3000 BC: Early Canaanite city-states emerge",
+    "c. 1200–586 BC: Israelite kingdoms and regional powers",
+    "586 BC: Babylonian conquest of Jerusalem",
+    "63 BC: Roman rule established",
+    "638: Arab-Muslim conquest introduces Islam",
+    "1099–1187: Crusader control of parts of Palestine",
+    "1517–1917: Ottoman rule",
+    "1917: British conquest during World War I",
+    "1920–1948: British Mandate period",
+    "1947: UN Partition Plan",
+    "1948: Arab–Israeli War displaces many Palestinians",
+    "1967: Israeli occupation of West Bank and Gaza",
+    "1993: Oslo Accords establish Palestinian Authority",
+    "2012: UN recognizes Palestine as non-member observer state"
+  ],
+  "ROU": [
+    "c. 82 BC: Dacian Kingdom under Burebista reaches peak",
+    "106: Roman conquest creates province of Dacia",
+    "271: Roman withdrawal; Romanized population remains",
+    "9th–13th centuries: Formation of Wallachia, Moldavia, and Transylvania",
+    "1457–1504: Reign of Stephen the Great in Moldavia",
+    "1599–1600: Michael the Brave briefly unites Romanian lands",
+    "1711–1821: Phanariote period under Ottoman influence",
+    "1859: Union of Wallachia and Moldavia",
+    "1877–1878: Independence from Ottoman Empire",
+    "1918: Great Union creates modern Romania",
+    "1947: Communist People's Republic proclaimed",
+    "1965–1989: Ceaușescu dictatorship",
+    "1989: Romanian Revolution ends communism",
+    "2007: Romania joins the European Union"
+  ],
+  "SRB": [
+    "7th century: Slavic settlement in the Balkans",
+    "1166–1371: Medieval Serbian state under Nemanjić dynasty",
+    "1219: Serbian Orthodox Church gains autocephaly",
+    "1346: Serbian Empire proclaimed under Stefan Dušan",
+    "1389: Battle of Kosovo becomes national symbol",
+    "1459: Ottoman conquest of Serbia",
+    "1804–1815: Serbian uprisings restore autonomy",
+    "1878: International recognition of independence",
+    "1918: Kingdom of Yugoslavia formed",
+    "1945: Socialist Yugoslavia established",
+    "1991–1999: Yugoslav wars and NATO intervention",
+    "2006: Serbia becomes independent state",
+    "2010s: EU accession negotiations continue"
+  ],
+  "SVK": [
+    "9th century: Great Moravia as early Slavic state",
+    "1000: Region incorporated into Kingdom of Hungary",
+    "1526: Habsburg rule begins",
+    "1848: Slovak national movement emerges",
+    "1918: Czechoslovakia established",
+    "1939–1945: Slovak State allied with Nazi Germany",
+    "1945: Reunification within Czechoslovakia",
+    "1968: Prague Spring and federalization",
+    "1989: Velvet Revolution",
+    "1993: Peaceful independence of Slovakia",
+    "2004: Slovakia joins NATO and EU",
+    "2009: Euro adopted"
+  ],
+  "SVN": [
+    "6th century: Slavic settlement of the region",
+    "8th century: Incorporation into Frankish Empire",
+    "1335: Habsburg rule begins",
+    "1848: Slovenian national awakening",
+    "1918: Joins Kingdom of Serbs, Croats, and Slovenes",
+    "1941–1945: Axis occupation during World War II",
+    "1945: Socialist Yugoslavia formed",
+    "1991: Slovenia declares independence",
+    "1991: Ten-Day War secures independence",
+    "2004: Slovenia joins NATO and EU",
+    "2007: Euro adopted"
+  ],
+  "SWE": [
+    "8th–11th centuries: Viking Age expansion",
+    "1000s: Christianization of Sweden",
+    "1397: Kalmar Union formed",
+    "1523: Gustav Vasa establishes independent Sweden",
+    "1611–1718: Swedish Empire era",
+    "1700–1721: Great Northern War ends imperial dominance",
+    "1809: New constitution limits monarchy",
+    "1814: Union with Norway established",
+    "1905: Peaceful dissolution of union with Norway",
+    "1939–1945: Neutral during World War II",
+    "1995: Sweden joins the European Union",
+    "2024: Sweden joins NATO"
+  ],
+  "SYR": [
+    "c. 3000 BC: Early city-states such as Ebla flourish",
+    "64 BC: Roman annexation of Syria",
+    "395: Part of Eastern Roman (Byzantine) Empire",
+    "636: Arab-Muslim conquest",
+    "661–750: Umayyad Caliphate rules from Damascus",
+    "1098–1187: Crusader states control parts of Syria",
+    "1516: Ottoman conquest",
+    "1918: Ottoman rule ends after World War I",
+    "1920–1946: French Mandate period",
+    "1946: Independence of Syria",
+    "1963: Ba'ath Party seizes power",
+    "1970: Hafez al-Assad becomes president",
+    "2011: Civil war begins",
+    "2020s: Ongoing conflict and regional intervention"
+  ],
+  "THA": [
+    "c. 1238: Sukhothai Kingdom established as early Thai state",
+    "13th–15th centuries: Spread of Theravada Buddhism",
+    "1351: Ayutthaya Kingdom founded",
+    "16th–18th centuries: Ayutthaya becomes major regional power",
+    "1767: Ayutthaya sacked by Burmese forces",
+    "1768: Thonburi Kingdom reunifies Siam",
+    "1782: Chakri dynasty founded; Bangkok becomes capital",
+    "1855: Bowring Treaty opens Siam to global trade",
+    "1932: Constitutional revolution ends absolute monarchy",
+    "1941–1945: Japanese alliance during World War II",
+    "1946: King Bhumibol Adulyadej ascends throne",
+    "1997: Asian Financial Crisis impacts economy",
+    "2006: Military coup",
+    "2016: King Rama X ascends the throne"
+  ],
+  "TWN": [
+    "c. 3000 BC: Austronesian peoples settle Taiwan",
+    "1624–1662: Dutch colonial rule",
+    "1662: Koxinga establishes Ming loyalist regime",
+    "1683: Qing dynasty incorporates Taiwan",
+    "1895: Japan gains Taiwan after Sino-Japanese War",
+    "1895–1945: Japanese colonial modernization",
+    "1945: Taiwan placed under Republic of China control",
+    "1947: February 28 Incident",
+    "1949: ROC government relocates to Taiwan",
+    "1971: ROC loses UN seat to PRC",
+    "1987: End of martial law",
+    "1996: First direct presidential election",
+    "2000: Peaceful transfer of political power",
+    "2010s: Heightened cross-strait tensions"
+  ],
+  "UKR": [
+    "882: Kyiv becomes capital of Kievan Rus'",
+    "988: Christianization of Kievan Rus'",
+    "1240: Mongol destruction of Kyiv",
+    "14th–16th centuries: Polish-Lithuanian rule",
+    "1648: Cossack uprising establishes Hetmanate",
+    "1775: Russian Empire absorbs Ukrainian lands",
+    "1917–1921: Struggle for independence",
+    "1922: Ukrainian SSR formed within USSR",
+    "1932–1933: Holodomor famine",
+    "1941–1945: World War II devastation",
+    "1991: Independence from Soviet Union",
+    "2004: Orange Revolution",
+    "2014: Annexation of Crimea by Russia",
+    "2022: Full-scale Russian invasion"
+  ],
+  "USA": [
+    "c. 13,000 BC: First human settlement of North America",
+    "1607: Jamestown founded",
+    "1620: Plymouth Colony established",
+    "1775–1783: American Revolutionary War",
+    "1776: Declaration of Independence",
+    "1787: US Constitution adopted",
+    "1861–1865: American Civil War",
+    "1898: Spanish-American War marks global emergence",
+    "1917–1918: Participation in World War I",
+    "1929: Great Depression begins",
+    "1941–1945: World War II",
+    "1964–1965: Civil Rights legislation enacted",
+    "1969: Apollo 11 Moon landing",
+    "1991: End of Cold War",
+    "2001: September 11 attacks",
+    "2020: COVID-19 pandemic"
+  ],
+  "UZB": [
+    "c. 2000 BC: Early civilizations in Transoxiana",
+    "6th century BC: Achaemenid Persian rule",
+    "329 BC: Conquest by Alexander the Great",
+    "8th century: Arab-Muslim conquest",
+    "9th–10th centuries: Samanid cultural flourishing",
+    "13th century: Mongol conquest",
+    "14th–15th centuries: Timurid Empire under Timur",
+    "16th century: Uzbek khanates rule region",
+    "1865–1885: Russian imperial conquest",
+    "1924: Uzbek SSR established",
+    "1991: Independence from Soviet Union",
+    "2000s: Authoritarian stability",
+    "2016: Political and economic reforms begin"
+  ],
+  "PER": [
+    "c. 3000–1800 BC: Norte Chico civilization emerges",
+    "c. AD 100–800: Moche and Nazca cultures flourish",
+    "c. 1200–1533: Inca Empire dominates Andes",
+    "1533: Spanish conquest of the Inca Empire",
+    "1542: Viceroyalty of Peru established",
+    "1821: Independence proclaimed",
+    "1824: Final defeat of Spanish forces",
+    "1879–1883: War of the Pacific",
+    "1919–1930: Leguía modernization era",
+    "1968: Military coup establishes reformist regime",
+    "1980s–1990s: Internal conflict with insurgents",
+    "2000: Democratic transition after authoritarian rule",
+    "2010s: Political instability and reforms"
+  ],
+  "AGO": [
+    "c. 1000–1500: Bantu kingdoms flourish in the region",
+    "1483: Portuguese arrive on the Angolan coast",
+    "1575–1975: Portuguese colonial rule",
+    "1961–1974: War of independence",
+    "1975: Independence proclaimed",
+    "1975–2002: Prolonged civil war",
+    "2002: Peace agreement ends conflict"
+  ],
+  "ARE": [
+    "c. 3000 BC: Early settlements along Arabian Gulf",
+    "7th century: Islam spreads to the region",
+    "1820s–1971: British-protected Trucial States",
+    "1968–1971: Move toward federation",
+    "1971: United Arab Emirates founded",
+    "1990s–2000s: Rapid economic diversification",
+    "2010s: Regional and global hub emerges"
+  ],
+  "ARG": [
+    "c. 10,000 BC: Indigenous settlement",
+    "1516: Spanish exploration begins",
+    "1810–1816: Independence movement succeeds",
+    "1860s–1914: Immigration and economic growth",
+    "1946–1955: Perón era reshapes politics",
+    "1976–1983: Military dictatorship",
+    "1983: Return to democracy"
+  ],
+  "AUS": [
+    "c. 65,000 years ago: Aboriginal peoples settle Australia",
+    "1770: British exploration by James Cook",
+    "1788: First British penal colony established",
+    "1901: Commonwealth of Australia formed",
+    "1914–1945: Participation in World Wars",
+    "1970s: End of White Australia policy",
+    "1992: Native title recognized"
+  ],
+  "AZE": [
+    "c. 1000 BC: Early Caucasian Albanian state",
+    "7th century: Arab-Muslim conquest",
+    "16th–18th centuries: Persian and Ottoman rule",
+    "1813–1828: Russian annexation",
+    "1918: First Azerbaijani republic",
+    "1920–1991: Soviet period",
+    "1991: Independence restored"
+  ],
+  "BGD": [
+    "c. 500 BC: Ancient Bengal civilizations",
+    "1204–1757: Muslim sultanates and Mughal rule",
+    "1757–1947: British colonial rule",
+    "1947: Becomes East Pakistan",
+    "1971: War of Independence",
+    "1971: Bangladesh established",
+    "1990s: Democratic governance restored"
+  ],
+  "BHR": [
+    "c. 2000 BC: Dilmun civilization thrives",
+    "7th century: Islam adopted",
+    "16th–18th centuries: Portuguese and Persian rule",
+    "1820–1971: British protectorate",
+    "1971: Independence",
+    "2002: Kingdom of Bahrain declared",
+    "2010s: Political reforms and unrest"
+  ],
+  "BEL": [
+    "1st–4th centuries: Roman rule",
+    "843–1795: Fragmented feudal territories",
+    "1830: Belgian Revolution",
+    "1831: Kingdom of Belgium established",
+    "1914–1918: World War I devastation",
+    "1944–1945: Liberation in World War II",
+    "1957: Founding member of EEC"
+  ],
+  "BEN": [
+    "c. 1200–1897: Kingdom of Dahomey",
+    "1894: French conquest",
+    "1960: Independence as Dahomey",
+    "1975: Renamed Benin under Marxist rule",
+    "1990: Democratic reforms",
+    "1991: First democratic elections",
+    "2000s: Political stability continues"
+  ],
+  "BFA": [
+    "c. 1000–1500: Mossi kingdoms dominate the region",
+    "1896: French colonial rule established",
+    "1960: Independence as Upper Volta",
+    "1983: Thomas Sankara leads revolutionary government",
+    "1987: Blaise Compaoré seizes power",
+    "2014: Popular uprising ends long-term rule",
+    "2015: Democratic transition resumes"
+  ],
+  "BDI": [
+    "c. 1500: Kingdom of Burundi established",
+    "1899–1962: German then Belgian colonial rule",
+    "1962: Independence achieved",
+    "1972: Ethnic violence and mass killings",
+    "1993: Civil war erupts",
+    "2005: Post-war constitution adopted",
+    "2015: Political crisis over presidential term limits"
+  ],
+  "BLR": [
+    "9th–13th centuries: Part of Kievan Rus'",
+    "14th–18th centuries: Grand Duchy of Lithuania and Polish-Lithuanian Commonwealth",
+    "1795: Annexation by Russian Empire",
+    "1918: Short-lived Belarusian People's Republic",
+    "1922: Belarusian SSR formed",
+    "1991: Independence from USSR",
+    "1994: Authoritarian presidency established"
+  ],
+  "BLZ": [
+    "c. AD 250–900: Maya civilization flourishes",
+    "1638–1862: British settlement expands",
+    "1862: Becomes British Honduras",
+    "1964: Self-government granted",
+    "1981: Independence as Belize",
+    "1991: Guatemala recognizes independence"
+  ],
+  "BOL": [
+    "c. 1000–1533: Tiwanaku and Inca influence",
+    "1538: Spanish colonial rule begins",
+    "1825: Independence proclaimed",
+    "1879–1883: War of the Pacific; loss of coastline",
+    "1952: National Revolution reforms society",
+    "2006: First Indigenous president elected",
+    "2019: Political crisis and transition"
+  ],
+  "BRA": [
+    "c. 10,000 BC: Indigenous settlement",
+    "1500: Portuguese arrival",
+    "1822: Independence from Portugal",
+    "1889: Republic proclaimed",
+    "1930–1945: Vargas era reshapes state",
+    "1964–1985: Military dictatorship",
+    "1988: Democratic constitution adopted"
+  ],
+  "BRN": [
+    "c. 7th–14th centuries: Early Malay polities",
+    "15th century: Brunei Sultanate reaches peak",
+    "1888: British protectorate established",
+    "1941–1945: Japanese occupation",
+    "1984: Independence from Britain",
+    "2014: Sharia law introduced"
+  ],
+  "BTN": [
+    "7th century: Buddhism introduced",
+    "1616: Zhabdrung unifies Bhutan",
+    "1907: Hereditary monarchy established",
+    "1949: Treaty defines relations with India",
+    "2008: Constitutional monarchy adopted",
+    "2013: Democratic elections held"
+  ],
+  "BWA": [
+    "c. 1000: Tswana chiefdoms established",
+    "1885: British Bechuanaland Protectorate",
+    "1966: Independence as Botswana",
+    "1970s: Diamond-led economic growth",
+    "1990s: Stable democratic governance",
+    "2010s: Continued political stability"
+  ],
+  "CAF": [
+    "c. 1500: Regional African kingdoms and trade routes",
+    "1894: French colonial rule established",
+    "1960: Independence achieved",
+    "1966: Military coup begins cycles of instability",
+    "2013: Civil war and state collapse",
+    "2016: Fragile peace and elections",
+    "2020s: Ongoing security challenges"
+  ],
+  "CAN": [
+    "c. 12,000 BC: Indigenous peoples settle across the region",
+    "1534: Jacques Cartier claims lands for France",
+    "1763: Britain gains control after Seven Years' War",
+    "1867: Canadian Confederation formed",
+    "1914–1918: Participation in World War I",
+    "1939–1945: Participation in World War II",
+    "1982: Full constitutional independence",
+    "2015: Reconciliation policies toward Indigenous peoples expand"
+  ],
+  "CHL": [
+    "c. 10,000 BC: Indigenous settlement including Mapuche",
+    "1541: Spanish colonization begins",
+    "1818: Independence from Spain",
+    "1879–1883: War of the Pacific expands territory",
+    "1973: Military coup overthrows Allende",
+    "1973–1990: Pinochet dictatorship",
+    "1990: Return to democracy",
+    "2019: Mass protests prompt constitutional process"
+  ],
+  "CIV": [
+    "c. 1200–1800: Akan and Mandé states flourish",
+    "1893: French colony established",
+    "1960: Independence from France",
+    "1960–1993: Houphouët-Boigny era",
+    "1999: First military coup",
+    "2002–2007: Civil war divides country",
+    "2011: Post-election conflict resolved",
+    "2010s: Gradual political stabilization"
+  ],
+  "CMR": [
+    "c. 500–1500: Early African kingdoms and trade",
+    "1884: German colony established",
+    "1919: Partitioned between France and Britain",
+    "1960: Independence of French Cameroon",
+    "1961: Unification with Southern Cameroons",
+    "1982: Leadership transition to Paul Biya",
+    "2016–present: Anglophone crisis"
+  ],
+  "COD": [
+    "c. 1000–1500: Kongo and Luba kingdoms flourish",
+    "1885: Congo Free State under Leopold II",
+    "1908: Belgian colonial administration begins",
+    "1960: Independence from Belgium",
+    "1965–1997: Mobutu dictatorship",
+    "1998–2003: Second Congo War",
+    "2010s: Persistent conflict in eastern regions"
+  ],
+  "COG": [
+    "c. 1400–1800: Kingdom of Kongo dominates region",
+    "1880: French colonial rule established",
+    "1960: Independence from France",
+    "1969: Marxist state declared",
+    "1991: Transition toward multiparty politics",
+    "1997: Civil war restores authoritarian rule",
+    "2010s: Political continuity under long-term leadership"
+  ],
+  "COL": [
+    "c. 10,000 BC: Indigenous settlement",
+    "1499: Spanish exploration begins",
+    "1810–1819: Independence achieved",
+    "1899–1902: Thousand Days' War",
+    "1948–1958: La Violencia period",
+    "1960s–2016: Armed conflict with guerrilla groups",
+    "2016: Peace agreement with FARC",
+    "2020s: Post-conflict reforms continue"
+  ],
+  "CPV": [
+    "1462: Portuguese discover uninhabited islands",
+    "16th–19th centuries: Atlantic slave trade hub",
+    "1975: Independence from Portugal",
+    "1991: Multiparty democracy introduced",
+    "2000s: Political stability and development",
+    "2010s: Economic diversification through tourism"
+  ],
+  "CRI": [
+    "c. 10,000 BC: Indigenous settlement",
+    "1522: Spanish contact",
+    "1821: Independence from Spain",
+    "1848: Republic proclaimed",
+    "1948: Civil war abolishes army",
+    "1949: New constitution enacted",
+    "1980s–1990s: Democratic consolidation",
+    "2010s: Environmental leadership expands"
+  ],
+  "CUB": [
+    "c. 4000 BC: Indigenous Taíno settlement",
+    "1492: Columbus arrives",
+    "1511: Spanish colonization begins",
+    "1898: Spanish-American War ends Spanish rule",
+    "1902: Republic of Cuba established",
+    "1959: Cuban Revolution succeeds",
+    "1962: Cuban Missile Crisis",
+    "2010s: Gradual economic and diplomatic opening"
+  ],
+  "CYP": [
+    "c. 10,000 BC: Early Neolithic settlement",
+    "c. 1200 BC: Mycenaean Greek influence",
+    "58 BC: Roman annexation",
+    "395: Part of Byzantine Empire",
+    "1191–1489: Crusader and Venetian rule",
+    "1571–1878: Ottoman rule",
+    "1960: Independence from Britain",
+    "1974: Division following Turkish intervention",
+    "2004: Republic of Cyprus joins the EU"
+  ],
+  "DOM": [
+    "c. 4000 BC: Taíno settlement",
+    "1492: Columbus arrives on Hispaniola",
+    "1496: Santo Domingo founded",
+    "1697: Island divided between Spain and France",
+    "1821–1844: Periods of independence and Haitian rule",
+    "1844: Dominican Republic established",
+    "1930–1961: Trujillo dictatorship",
+    "1966: Democratic government consolidated"
+  ],
+  "DZA": [
+    "c. 1000 BC: Phoenician and Numidian states",
+    "146 BC: Roman control established",
+    "7th century: Arab-Muslim conquest",
+    "1516–1830: Ottoman rule",
+    "1830–1962: French colonization",
+    "1954–1962: War of Independence",
+    "1962: Independence achieved",
+    "1990s: Civil conflict",
+    "2019: Political transition protests"
+  ],
+  "ECU": [
+    "c. 3500 BC: Early Andean cultures",
+    "15th century: Inca incorporation",
+    "1534: Spanish conquest",
+    "1822: Independence from Spain",
+    "1830: Republic of Ecuador formed",
+    "1941–1998: Territorial conflicts with Peru",
+    "1979: Return to civilian rule",
+    "2008: New constitution enacted"
+  ],
+  "EST": [
+    "c. 9000 BC: Post-glacial settlement",
+    "13th century: Danish and German crusader rule",
+    "1561–1721: Swedish control",
+    "1721: Russian Empire annexation",
+    "1918: Independence declared",
+    "1940–1991: Soviet occupation",
+    "1991: Independence restored",
+    "2004: EU and NATO membership"
+  ],
+  "FIN": [
+    "c. 9000 BC: First settlement after Ice Age",
+    "12th century: Swedish rule established",
+    "1809: Grand Duchy under Russia",
+    "1917: Independence declared",
+    "1939–1944: Winter and Continuation Wars",
+    "1945–1991: Neutral Cold War policy",
+    "1995: Joins European Union",
+    "2023: Joins NATO"
+  ],
+  "FJI": [
+    "c. 1500 BC: Austronesian settlement",
+    "1643: First European sighting",
+    "1874: British colonial rule begins",
+    "1942–1945: Strategic role in World War II",
+    "1970: Independence from Britain",
+    "1987–2006: Series of military coups",
+    "2014: Democratic elections restored"
+  ],
+  "GAB": [
+    "c. 1000: Bantu migrations",
+    "1472: Portuguese contact",
+    "1885: French colonial rule",
+    "1960: Independence from France",
+    "1967–2009: Bongo family rule begins",
+    "2016: Contested elections",
+    "2023: Military coup reshapes politics"
+  ],
+  "GHA": [
+    "c. 1000–1800: Akan states and Ashanti Empire",
+    "1471: Portuguese arrive",
+    "1821–1957: British colonial rule",
+    "1957: First sub-Saharan African nation to gain independence",
+    "1966: Military coup",
+    "1992: Democratic constitution adopted",
+    "2000s: Stable democratic transitions"
+  ],
+  "GIN": [
+    "c. 1000–1700: Part of West African empires",
+    "1891: French colonial rule established",
+    "1958: Independence from France",
+    "1984: Military coup",
+    "2010: First democratic elections",
+    "2021: Military takeover",
+    "2020s: Political uncertainty continues"
+  ],
+  "GMB": [
+    "c. 9th–13th centuries: Part of trans-Saharan trade networks",
+    "15th century: Portuguese contact along the Gambia River",
+    "1888: British colony established",
+    "1965: Independence from the United Kingdom",
+    "1994: Military coup brings Yahya Jammeh to power",
+    "2016: Democratic transition after contested election",
+    "2017: ECOWAS-backed intervention ensures peaceful transfer"
+  ],
+  "GNB": [
+    "c. 13th–16th centuries: Part of Mali and later regional kingdoms",
+    "1446: Portuguese traders arrive",
+    "1879: Portuguese Guinea established",
+    "1956–1974: Armed struggle for independence",
+    "1973: Independence proclaimed",
+    "1980: Military coup destabilizes politics",
+    "2010s: Chronic political instability persists"
+  ],
+  "GNQ": [
+    "1471: Portuguese discovery of islands",
+    "1778: Spain assumes control",
+    "1968: Independence from Spain",
+    "1979: Coup brings Teodoro Obiang to power",
+    "1990s: Oil discovery transforms economy",
+    "2010s: Continued authoritarian rule"
+  ],
+  "GTM": [
+    "c. 2000 BC – AD 900: Maya civilization flourishes",
+    "1524: Spanish conquest",
+    "1821: Independence from Spain",
+    "1944–1954: Democratic reform period",
+    "1960–1996: Civil war",
+    "1996: Peace Accords signed",
+    "2000s: Democratic but fragile governance"
+  ],
+  "GUY": [
+    "c. 800: Indigenous settlement",
+    "1616–1814: Dutch then British colonial rule",
+    "1831: British Guiana formed",
+    "1966: Independence from the UK",
+    "1980s: Socialist-oriented governance",
+    "1992: Return to democratic elections",
+    "2015–present: Oil discoveries reshape economy"
+  ],
+  "HND": [
+    "c. AD 300–900: Maya influence in western regions",
+    "1524: Spanish conquest",
+    "1821: Independence from Spain",
+    "1900s: Banana republic era",
+    "1969: Football War with El Salvador",
+    "2009: Political coup",
+    "2010s: Persistent instability and reform efforts"
+  ],
+  "HTI": [
+    "c. 4000 BC: Taíno settlement",
+    "1492: Columbus arrives",
+    "1697: France controls western Hispaniola",
+    "1791–1804: Haitian Revolution",
+    "1804: First Black republic declared",
+    "1915–1934: US occupation",
+    "2010: Devastating earthquake",
+    "2020s: Ongoing political and humanitarian crisis"
+  ],
+  "IRL": [
+    "c. 4000 BC: Neolithic settlement",
+    "5th century: Christianization under St. Patrick",
+    "1169: Norman invasion",
+    "1801: Union with Great Britain",
+    "1921: Irish Free State established",
+    "1949: Republic of Ireland declared",
+    "1998: Good Friday Agreement",
+    "2010s: Economic recovery and social reform"
+  ],
+  "ISL": [
+    "c. 874: Norse settlement begins",
+    "930: Althing parliament established",
+    "1262: Submission to Norwegian crown",
+    "1380: Union with Denmark",
+    "1918: Sovereignty achieved",
+    "1944: Republic declared",
+    "2008: Financial crisis",
+    "2010s: Economic recovery and tourism growth"
+  ],
+  "JAM": [
+    "c. AD 650–900: Taíno settlement",
+    "1494: Columbus arrives",
+    "1655: British conquest",
+    "1834: Abolition of slavery",
+    "1962: Independence from the UK",
+    "1970s: Political violence and economic reform",
+    "2000s: Democratic stability continues"
+  ],
+  "JOR": [
+    "c. 3000 BC: Early settlements in Transjordan",
+    "c. 1200–539 BC: Edomite, Moabite, and Ammonite kingdoms",
+    "63 BC: Roman annexation; Petra flourishes",
+    "636: Arab-Muslim conquest",
+    "1516–1918: Ottoman rule",
+    "1921: Emirate of Transjordan established under British mandate",
+    "1946: Independence as Hashemite Kingdom of Jordan",
+    "1994: Peace treaty with Israel"
+  ],
+  "KEN": [
+    "c. 2000 BC: Cushitic and Nilotic migrations",
+    "1st millennium: Swahili city-states thrive on coast",
+    "1895: British East Africa Protectorate established",
+    "1952–1960: Mau Mau uprising",
+    "1963: Independence from Britain",
+    "1964: Republic proclaimed",
+    "2002: Democratic transition",
+    "2010: New constitution adopted"
+  ],
+  "KGZ": [
+    "c. 1000 BC: Early nomadic cultures in Tien Shan",
+    "6th–9th centuries: Turkic khaganates rule region",
+    "13th century: Mongol conquest",
+    "1876: Annexation by Russian Empire",
+    "1936: Kirghiz SSR formed",
+    "1991: Independence from Soviet Union",
+    "2005: Tulip Revolution",
+    "2010: Political unrest and constitutional reform"
+  ],
+  "KOS": [
+    "9th–14th centuries: Core territory of medieval Serbian state",
+    "1389: Battle of Kosovo",
+    "1455: Ottoman conquest",
+    "1912: Incorporated into Serbia",
+    "1945: Autonomous province within Yugoslavia",
+    "1998–1999: Kosovo War and NATO intervention",
+    "2008: Declaration of independence",
+    "2010s: Partial international recognition"
+  ],
+  "KWT": [
+    "c. 1700: Settlement by Bani Utbah tribe",
+    "1756: Sabah dynasty begins rule",
+    "1899: British protectorate established",
+    "1961: Independence from Britain",
+    "1971: Joins the United Nations",
+    "1990–1991: Iraqi invasion and Gulf War",
+    "2000s: Political reforms and regional role"
+  ],
+  "LAO": [
+    "c. 1353: Kingdom of Lan Xang founded",
+    "1707–1779: Fragmentation into regional kingdoms",
+    "1893: French colonial rule begins",
+    "1953: Independence from France",
+    "1975: Lao People's Democratic Republic proclaimed",
+    "1986: Economic reforms (New Economic Mechanism)",
+    "2000s: Gradual regional integration"
+  ],
+  "LBN": [
+    "c. 3000 BC: Phoenician city-states flourish",
+    "64 BC: Roman annexation",
+    "1516–1918: Ottoman rule",
+    "1920: French Mandate established",
+    "1943: Independence proclaimed",
+    "1975–1990: Lebanese Civil War",
+    "2005: Cedar Revolution",
+    "2020s: Economic and political crisis"
+  ],
+  "LBR": [
+    "1822: Settlement by freed African-American slaves",
+    "1847: Republic of Liberia founded",
+    "1926: Firestone concession shapes economy",
+    "1980: Military coup ends Americo-Liberian rule",
+    "1989–2003: Civil wars devastate country",
+    "2005: Election of Ellen Johnson Sirleaf",
+    "2018: Peaceful democratic transition"
+  ],
+  "LBY": [
+    "c. 1000 BC: Phoenician and Greek colonies",
+    "146 BC: Roman control established",
+    "1551–1911: Ottoman rule",
+    "1911: Italian colonization",
+    "1951: Kingdom of Libya proclaimed",
+    "1969: Gaddafi seizes power",
+    "2011: Civil war and fall of Gaddafi",
+    "2020s: Ongoing political fragmentation"
+  ],
+  "LKA": [
+    "c. 1300 BC: Indo-Aryan settlement and early kingdoms",
+    "3rd century BC: Buddhism introduced",
+    "993–1597: Sinhalese and Tamil kingdoms coexist",
+    "1505–1658: Portuguese and Dutch colonial rule",
+    "1815: British control established",
+    "1948: Independence as Ceylon",
+    "1983–2009: Civil war",
+    "2019–2022: Political and economic crisis"
+  ],
+  "LSO": [
+    "c. 1800s: Basotho nation formed under Moshoeshoe I",
+    "1868: British protectorate established",
+    "1966: Independence as Lesotho",
+    "1970–1986: Political instability",
+    "1998: Regional intervention restores order",
+    "2010s: Ongoing governance challenges"
+  ],
+  "LTU": [
+    "13th century: Grand Duchy of Lithuania established",
+    "1386: Christianization and union with Poland",
+    "1569: Polish–Lithuanian Commonwealth formed",
+    "1795: Annexed by Russian Empire",
+    "1918: Independence declared",
+    "1940–1991: Soviet occupation",
+    "1991: Independence restored",
+    "2004: Joins EU and NATO"
+  ],
+  "LUX": [
+    "963: County of Luxembourg founded",
+    "1443–1815: Foreign domination",
+    "1867: Neutral independent state recognized",
+    "1914–1918: German occupation in WWI",
+    "1940–1945: Nazi occupation",
+    "1957: Founding member of EEC",
+    "2000s: Financial and EU institutional hub"
+  ],
+  "LVA": [
+    "13th century: German crusader rule",
+    "1629–1721: Swedish then Russian control",
+    "1918: Independence proclaimed",
+    "1940–1991: Soviet occupation",
+    "1991: Independence restored",
+    "2004: Joins EU and NATO"
+  ],
+  "MDA": [
+    "14th century: Principality of Moldavia formed",
+    "1812: Annexed by Russian Empire",
+    "1918: Union with Romania",
+    "1940: Soviet annexation",
+    "1991: Independence declared",
+    "1992: Transnistria conflict",
+    "2010s: European integration efforts"
+  ],
+  "MDG": [
+    "c. 500 AD: Austronesian settlement",
+    "16th–18th centuries: Merina Kingdom rises",
+    "1896: French colonization",
+    "1960: Independence from France",
+    "2002: Political crisis",
+    "2010s: Ongoing political instability"
+  ],
+  "MLI": [
+    "c. 300–1600: Ghana, Mali, and Songhai empires",
+    "1591: Moroccan invasion ends Songhai",
+    "1892: French colonial rule",
+    "1960: Independence",
+    "2012: Northern insurgency",
+    "2020s: Military coups and instability"
+  ],
+  "MLT": [
+    "c. 800 BC: Phoenician settlement",
+    "218 BC: Roman control",
+    "1530–1798: Knights of St. John rule",
+    "1798–1814: French then British rule",
+    "1964: Independence from UK",
+    "2004: Joins European Union"
+  ],
+  "MMR": [
+    "c. 200 BC – AD 900: Pyu city-states flourish",
+    "849: Pagan (Bagan) Kingdom founded",
+    "11th–13th centuries: Bagan Empire unifies much of Myanmar",
+    "1287: Mongol invasions weaken Bagan",
+    "1531–1752: Toungoo Dynasty expands regional power",
+    "1885: British annexation completes colonial rule",
+    "1948: Independence from Britain",
+    "1962: Military coup establishes long-term military rule",
+    "2011: Political liberalization begins",
+    "2021: Military coup reverses reforms"
+  ],
+  "MOZ": [
+    "c. 1st millennium: Bantu migrations settle region",
+    "10th–15th centuries: Swahili city-states thrive on coast",
+    "1498: Portuguese arrival",
+    "1891–1975: Portuguese colonial rule",
+    "1975: Independence from Portugal",
+    "1977–1992: Civil war",
+    "1992: Peace agreement ends conflict",
+    "2010s: Economic growth and security challenges"
+  ],
+  "MRT": [
+    "c. 300–1600: Part of Ghana and Mali empires",
+    "11th–13th centuries: Almoravid influence spreads Islam",
+    "1644–1674: Char Bouba War reshapes society",
+    "1904: French colonial rule established",
+    "1960: Independence from France",
+    "1978: Military coup begins era of instability",
+    "2019: First peaceful democratic transition"
+  ],
+  "MWI": [
+    "c. 1000: Maravi Kingdom established",
+    "1891: British protectorate declared",
+    "1964: Independence from Britain",
+    "1966–1994: One-party rule under Hastings Banda",
+    "1994: Multiparty democracy introduced",
+    "2019: Constitutional court orders election rerun",
+    "2020: Peaceful transfer of power"
+  ],
+  "MYS": [
+    "c. 1400: Malacca Sultanate becomes major trade hub",
+    "1511: Portuguese conquest of Malacca",
+    "1824: British colonial consolidation",
+    "1941–1945: Japanese occupation",
+    "1957: Independence of Malaya",
+    "1963: Formation of Malaysia",
+    "1969: Ethnic riots lead to policy reforms",
+    "2018: Historic change of government"
+  ],
+  "NAM": [
+    "c. 1000: Bantu and Khoisan settlement",
+    "1884: German South West Africa established",
+    "1915: South African occupation begins",
+    "1990: Independence achieved",
+    "1990s: Democratic consolidation",
+    "2010s: Stable governance and development"
+  ],
+  "NER": [
+    "c. 1000–1800: Sahelian trade states and empires",
+    "1900: French colonial rule established",
+    "1960: Independence from France",
+    "1974: Military coup",
+    "1999: Return to civilian rule",
+    "2010: Military coup",
+    "2023: Coup reshapes governance"
+  ],
+  "NGA": [
+    "c. 1000: Nok, Hausa, Yoruba, and Benin civilizations",
+    "1472: Portuguese contact",
+    "1861–1914: British colonial consolidation",
+    "1960: Independence from Britain",
+    "1967–1970: Nigerian Civil War",
+    "1999: Return to civilian rule",
+    "2010s: Security and governance challenges"
+  ],
+  "NIC": [
+    "c. 500–1500: Indigenous civilizations develop",
+    "1524: Spanish conquest",
+    "1821: Independence from Spain",
+    "1838: Becomes independent republic",
+    "1979: Sandinista Revolution",
+    "1990: Democratic elections end civil war",
+    "2018: Political unrest"
+  ],
+  "NPL": [
+    "c. 800 BC: Early kingdoms in Himalayan region",
+    "1768: Prithvi Narayan Shah unifies Nepal",
+    "1846–1951: Rana oligarchy",
+    "1951: End of Rana rule",
+    "1996–2006: Maoist insurgency",
+    "2008: Monarchy abolished; republic declared",
+    "2015: New constitution adopted"
+  ],
+  "NZL": [
+    "c. 1300: Māori settlement",
+    "1642: First European contact",
+    "1840: Treaty of Waitangi signed",
+    "1907: Dominion status",
+    "1947: Full legislative independence",
+    "1980s: Economic reforms",
+    "2019: Christchurch attacks",
+    "2020s: Ongoing social reforms"
+  ],
+  "OMN": [
+    "c. 3000 BC: Early maritime trade",
+    "7th century: Islam adopted",
+    "1507–1650: Portuguese coastal control",
+    "1744: Al Said dynasty established",
+    "1970: Sultan Qaboos begins modernization",
+    "2011: Limited reforms amid regional unrest",
+    "2020: Sultan Haitham ascends throne"
+  ],
+  "PAN": [
+    "c. 10,000 BC: Indigenous settlement",
+    "1501: Spanish exploration begins",
+    "1821: Independence from Spain; joins Gran Colombia",
+    "1903: Separation from Colombia with US support",
+    "1914: Panama Canal opens",
+    "1977: Torrijos–Carter Treaties signed",
+    "1999: Full control of Panama Canal transferred"
+  ],
+  "PHL": [
+    "c. 30,000 BC: Early human settlement",
+    "1521: Spanish contact under Magellan",
+    "1565–1898: Spanish colonial rule",
+    "1898: US acquires Philippines after Spanish–American War",
+    "1942–1945: Japanese occupation",
+    "1946: Independence from United States",
+    "1986: People Power Revolution restores democracy"
+  ],
+  "PNG": [
+    "c. 50,000 years ago: Human settlement",
+    "1526: First European contact",
+    "1884: German and British colonial rule",
+    "1942–1945: World War II campaigns",
+    "1975: Independence from Australia",
+    "1990s: Bougainville conflict",
+    "2019: Bougainville votes for independence"
+  ],
+  "PRY": [
+    "c. 2000 BC: Indigenous Guaraní settlement",
+    "1537: Spanish foundation of Asunción",
+    "1811: Independence from Spain",
+    "1864–1870: War of the Triple Alliance devastates country",
+    "1954–1989: Stroessner dictatorship",
+    "1989: Return to democracy",
+    "2000s: Political stabilization"
+  ],
+  "QAT": [
+    "c. 4000 BC: Early coastal settlements",
+    "7th century: Islam adopted",
+    "1760s: Al Thani family rises to power",
+    "1916: British protectorate established",
+    "1971: Independence from Britain",
+    "1995: Emir Hamad bin Khalifa seizes power",
+    "2022: FIFA World Cup hosted"
+  ],
+  "RWA": [
+    "c. 1000: Kingdom of Rwanda established",
+    "1897: German colonial rule",
+    "1916: Belgian administration begins",
+    "1962: Independence achieved",
+    "1994: Genocide against the Tutsi",
+    "2000s: National reconciliation and recovery",
+    "2010s: Rapid development and stability"
+  ],
+  "SAU": [
+    "c. 3000 BC: Early Arabian civilizations",
+    "7th century: Birthplace of Islam",
+    "1744: Saudi–Wahhabi alliance formed",
+    "1932: Kingdom of Saudi Arabia founded",
+    "1938: Discovery of oil",
+    "1973: Oil embargo increases global influence",
+    "2016: Vision 2030 reforms launched"
+  ],
+  "SDN": [
+    "c. 2500 BC: Kingdom of Kush flourishes",
+    "7th century: Islam spreads",
+    "1821: Ottoman-Egyptian conquest",
+    "1899–1956: Anglo-Egyptian rule",
+    "1956: Independence achieved",
+    "1983–2005: Civil war",
+    "2011: South Sudan secedes",
+    "2020s: Political instability"
+  ],
+  "SEN": [
+    "c. 800–1600: Part of West African empires",
+    "1444: Portuguese contact",
+    "1677: French control of Saint-Louis",
+    "1895: Incorporated into French West Africa",
+    "1960: Independence from France",
+    "2000: Peaceful democratic transition",
+    "2010s: Political stability continues"
+  ],
+  "SGP": [
+    "14th century: Early trading settlement",
+    "1819: British trading post founded",
+    "1942–1945: Japanese occupation",
+    "1959: Self-government achieved",
+    "1965: Independence from Malaysia",
+    "1980s–1990s: Rapid industrialization",
+    "2000s: Global financial and trade hub"
+  ],
+  "SLB": [
+    "c. 30,000 years ago: Initial human settlement",
+    "1568: First European contact (Spanish)",
+    "1893: British Solomon Islands Protectorate",
+    "1942–1945: Major WWII battles (Guadalcanal)",
+    "1978: Independence from the UK",
+    "1998–2003: Ethnic conflict",
+    "2003: Regional intervention restores order"
+  ],
+  "SLE": [
+    "c. 1400s: Part of regional trade networks",
+    "1787–1808: Freetown founded for freed slaves",
+    "1896: British protectorate established",
+    "1961: Independence from the UK",
+    "1991–2002: Civil war",
+    "2002: Peace and reconstruction",
+    "2018: Democratic transfer of power"
+  ],
+  "SLV": [
+    "c. AD 900–1500: Pipil civilization",
+    "1524: Spanish conquest",
+    "1821: Independence from Spain",
+    "1932: Peasant uprising suppressed",
+    "1980–1992: Civil war",
+    "1992: Peace Accords",
+    "2010s: Gang violence and security reforms"
+  ],
+  "SOM": [
+    "c. 1000: Powerful Somali trading sultanates",
+    "1880s: European partition (British and Italian rule)",
+    "1960: Independence and unification",
+    "1969: Military coup",
+    "1991: State collapse and civil war",
+    "2012: Federal government established",
+    "2020s: Ongoing instability and recovery efforts"
+  ],
+  "STP": [
+    "1470: Portuguese discovery of uninhabited islands",
+    "16th–19th centuries: Plantation economy and slave trade",
+    "1975: Independence from Portugal",
+    "1991: Multiparty democracy introduced",
+    "2000s: Political stability",
+    "2010s: Economic diversification efforts"
+  ],
+  "SUR": [
+    "c. 3000 BC: Indigenous settlement",
+    "1667: Dutch control formalized",
+    "1863: Abolition of slavery",
+    "1954: Internal autonomy",
+    "1975: Independence from the Netherlands",
+    "1980: Military coup",
+    "1991: Return to democracy"
+  ],
+  "SWZ": [
+    "18th century: Swazi kingdom consolidated",
+    "1903: British protectorate",
+    "1968: Independence",
+    "1973: Absolute monarchy declared",
+    "2005: New constitution",
+    "2018: Renamed Eswatini"
+  ],
+  "TCD": [
+    "c. 700–1600: Kanem–Bornu Empire dominates",
+    "1900: French colonial rule",
+    "1960: Independence from France",
+    "1965–1979: Civil conflict",
+    "1990: Déby seizes power",
+    "2021: Leadership transition after Déby’s death"
+  ],
+  "TGO": [
+    "c. 1400s: Ewe and other groups settle",
+    "1884: German protectorate",
+    "1919: Divided under British and French mandates",
+    "1960: Independence from France",
+    "1967: Military coup",
+    "2005: Political succession crisis",
+    "2010s: Gradual reforms"
+  ],
+  "TJK": [
+    "c. 1000 BC: Early Iranian cultures",
+    "8th century: Arab-Muslim conquest",
+    "9th–10th centuries: Samanid cultural peak",
+    "13th century: Mongol conquest",
+    "1929: Tajik SSR formed",
+    "1991: Independence from USSR",
+    "1992–1997: Civil war"
+  ],
+  "TKM": [
+    "c. 1000 BC: Early Iranian and nomadic cultures inhabit the region",
+    "6th century BC: Achaemenid Persian control",
+    "8th century: Arab-Muslim conquest",
+    "11th–12th centuries: Seljuk Empire dominates",
+    "13th century: Mongol conquest",
+    "19th century: Russian imperial expansion",
+    "1924: Turkmen SSR established",
+    "1991: Independence from Soviet Union"
+  ],
+  "TTO": [
+    "c. 7000 BC: Indigenous settlement",
+    "1498: Columbus reaches Trinidad",
+    "1797: British take control from Spain",
+    "1834: Abolition of slavery",
+    "1962: Independence from the UK",
+    "1976: Republic proclaimed",
+    "2000s: Energy-driven economic development"
+  ],
+  "TUN": [
+    "c. 800 BC: Phoenician founding of Carthage",
+    "146 BC: Roman destruction of Carthage",
+    "7th century: Arab-Muslim conquest",
+    "1574–1881: Ottoman rule",
+    "1881–1956: French protectorate",
+    "1957: Republic proclaimed",
+    "2011: Jasmine Revolution",
+    "2020s: Political instability and reform debates"
+  ],
+  "TZA": [
+    "c. 1000: Bantu migrations spread agriculture",
+    "8th–15th centuries: Swahili city-states flourish",
+    "1885: German East Africa established",
+    "1919: British mandate begins",
+    "1961: Independence from Britain",
+    "1964: Union of Tanganyika and Zanzibar",
+    "1990s: Transition to multiparty democracy"
+  ],
+  "UGA": [
+    "c. 1000: Kingdoms such as Buganda emerge",
+    "1894: British protectorate established",
+    "1962: Independence from Britain",
+    "1971–1979: Idi Amin dictatorship",
+    "1986: Museveni takes power",
+    "2000s: Relative stability and growth"
+  ],
+  "URY": [
+    "c. 9000 BC: Indigenous settlement",
+    "1726: Montevideo founded",
+    "1828: Independence from Brazil",
+    "1900s: Early welfare state development",
+    "1973–1985: Military dictatorship",
+    "1985: Return to democracy",
+    "2010s: Social and economic reforms"
+  ],
+  "VEN": [
+    "c. 15,000 BC: Indigenous settlement",
+    "1498: Columbus reaches Venezuelan coast",
+    "1811–1821: Independence from Spain",
+    "1930s: Oil becomes dominant",
+    "1958: Democratic rule begins",
+    "1999: Chávez elected president",
+    "2010s: Economic and political crisis"
+  ],
+  "YEM": [
+    "c. 1200 BC: Sabaean kingdom flourishes",
+    "6th century: Christianity and Judaism present",
+    "7th century: Islam adopted",
+    "1517–1918: Ottoman rule in north",
+    "1962: North Yemen republic",
+    "1990: Unification of North and South Yemen",
+    "2015: Civil war escalates"
+  ],
+  "ZAF": [
+    "c. 1000: Bantu-speaking societies expand",
+    "1652: Dutch settlement at Cape",
+    "1806: British control established",
+    "1910: Union of South Africa formed",
+    "1948: Apartheid policy implemented",
+    "1994: End of apartheid; democratic elections",
+    "2010s: Post-apartheid challenges"
+  ],
+  "ZMB": [
+    "c. 1000: Bantu kingdoms flourish",
+    "1890s: British colonial rule",
+    "1964: Independence as Zambia",
+    "1991: Multiparty democracy introduced",
+    "2000s: Economic growth driven by copper"
+  ],
+  "ZWE": [
+    "c. 1100–1450: Great Zimbabwe civilization",
+    "1890: British colonization begins",
+    "1965: Unilateral Declaration of Independence",
+    "1980: Independence as Zimbabwe",
+    "2000s: Economic collapse and land reform",
+    "2017: Leadership change after Mugabe"
+  ],
+  "AIA": [
+    "c. 1300: Arawak settlement",
+    "1650: British colonization",
+    "1980: Becomes separate British Overseas Territory"
+  ],
+  "ALA": [
+    "12th century: Swedish settlement",
+    "1809: Transferred to Russian Empire with Finland",
+    "1921: Autonomous region of Finland established"
+  ],
+  "AND": [
+    "1278: Co-principality system established",
+    "1814: Borders confirmed",
+    "1993: Modern constitution adopted"
+  ],
+  "ABW": [
+    "c. 1000: Arawak Caquetío settlement",
+    "1636: Dutch control begins",
+    "1986: Autonomous country within Kingdom of Netherlands"
+  ],
+  "ASM": [
+    "c. 1000: Polynesian settlement",
+    "1899: US administration begins",
+    "1951: Becomes US territory"
+  ],
+  "ATG": [
+    "c. 2400 BC: Indigenous settlement",
+    "1632: British colonization",
+    "1981: Independence from UK"
+  ],
+  "BHS": [
+    "c. 500: Lucayan settlement",
+    "1718: British crown colony",
+    "1973: Independence"
+  ],
+  "BLM": [
+    "1648: French settlement",
+    "1784: Becomes part of Guadeloupe",
+    "2007: Overseas collectivity of France"
+  ],
+  "BMU": [
+    "1609: English settlement",
+    "1684: Crown colony",
+    "2010s: Offshore finance hub"
+  ],
+  "BRB": [
+    "c. 1200: Arawak settlement",
+    "1627: British colony",
+    "1966: Independence"
+  ],
+  "COK": [
+    "c. 1000: Polynesian settlement",
+    "1901: Administered by New Zealand",
+    "1965: Self-governing in free association"
+  ],
+  "COM": [
+    "c. 6th century: Arab settlement",
+    "1841: French control",
+    "1975: Independence"
+  ],
+  "CUW": [
+    "c. 1000: Arawak settlement",
+    "1634: Dutch control",
+    "2010: Constituent country of Kingdom of Netherlands"
+  ],
+  "CYM": [
+    "1503: European discovery",
+    "1670: British control",
+    "1962: Separate British Overseas Territory"
+  ],
+  "DJI": [
+    "c. 3rd century: Trade routes link region",
+    "1888: French Somaliland established",
+    "1977: Independence"
+  ],
+  "DMA": [
+    "c. 300: Kalinago settlement",
+    "1763: British control",
+    "1978: Independence"
+  ],
+  "ERI": [
+    "c. 1st century: Part of Aksumite Kingdom",
+    "1890: Italian colony",
+    "1993: Independence from Ethiopia"
+  ],
+  "ESH": [
+    "1884: Spanish Sahara established",
+    "1975: Spain withdraws; Morocco claims territory",
+    "1991: UN-brokered ceasefire",
+    "2000s: Disputed status persists"
+  ],
+  "FLK": [
+    "1690: First British settlement",
+    "1833: Britain reasserts control",
+    "1982: Falklands War with Argentina",
+    "2013: Referendum affirms British status"
+  ],
+  "FRO": [
+    "9th century: Norse settlement",
+    "1380: Comes under Danish crown",
+    "1948: Home Rule granted",
+    "2005: Expanded self-government"
+  ],
+  "FSM": [
+    "c. 2000 BC: Austronesian settlement",
+    "1947–1986: UN Trust Territory under US",
+    "1986: Independence in free association"
+  ],
+  "GGY": [
+    "933: Norman control established",
+    "1204: Remains with English crown",
+    "1940–1945: German occupation",
+    "2000s: Self-governing Crown Dependency"
+  ],
+  "GIB": [
+    "711: Moorish capture",
+    "1704: Anglo-Dutch seizure",
+    "1713: Ceded to Britain",
+    "2000s: Strategic British Overseas Territory"
+  ],
+  "GRL": [
+    "c. 1000: Norse settlement",
+    "1814: Becomes Danish territory",
+    "1979: Home Rule",
+    "2009: Self-Government Act"
+  ],
+  "GRD": [
+    "c. 1000: Indigenous settlement",
+    "1763: British control",
+    "1974: Independence",
+    "1983: US-led intervention"
+  ],
+  "GUM": [
+    "c. 2000 BC: Chamorro settlement",
+    "1898: US acquires Guam",
+    "1941–1944: Japanese occupation",
+    "1950: Organized US territory"
+  ],
+  "HKG": [
+    "1842: Ceded to Britain",
+    "1898: New Territories leased",
+    "1997: Returned to China",
+    "2000s: Special Administrative Region"
+  ],
+  "IMN": [
+    "c. 9th century: Norse kingdom",
+    "1266: Comes under Scottish crown",
+    "1765: British control established",
+    "2000s: Crown Dependency"
+  ],
+  "JEY": [
+    "933: Norman control",
+    "1204: Loyal to English crown",
+    "1940–1945: German occupation",
+    "2000s: Crown Dependency"
+  ],
+  "KIR": [
+    "c. 1000: Micronesian settlement",
+    "1892: British protectorate",
+    "1979: Independence",
+    "2010s: Climate vulnerability focus"
+  ],
+  "KNA": [
+    "c. 300: Indigenous settlement",
+    "1623: British and French colonization",
+    "1983: Independence",
+    "2000s: Tourism-based economy"
+  ],
+  "LCA": [
+    "c. 200: Indigenous settlement",
+    "1814: British control",
+    "1979: Independence",
+    "2000s: Democratic stability"
+  ],
+  "LIE": [
+    "1719: Principality established",
+    "1806: Sovereign state recognized",
+    "1921: Customs union with Switzerland",
+    "2000s: Financial center"
+  ],
+  "MAF": [
+    "1648: French and Dutch partition",
+    "1943: French control consolidated",
+    "2007: French overseas collectivity"
+  ],
+  "MAC": [
+    "1557: Portuguese establish permanent settlement",
+    "1887: Portuguese administration formalized",
+    "1999: Returned to China as Special Administrative Region"
+  ],
+  "MCO": [
+    "1297: Grimaldi family gains control",
+    "1861: Sovereignty recognized by France",
+    "2000s: Global financial and tourism center"
+  ],
+  "MDV": [
+    "c. 500 BC: Buddhist settlement",
+    "1153: Conversion to Islam",
+    "1965: Independence from Britain",
+    "2008: Democratic constitution adopted"
+  ],
+  "MHL": [
+    "c. 2000 BC: Micronesian settlement",
+    "1947–1986: UN Trust Territory under US",
+    "1986: Independence in free association"
+  ],
+  "MNP": [
+    "c. 1500 BC: Austronesian settlement",
+    "1914: Japanese control begins",
+    "1978: Commonwealth in political union with US"
+  ],
+  "MSR": [
+    "c. 1000: Indigenous settlement",
+    "1632: British colonization",
+    "1995–1997: Volcanic eruptions devastate island"
+  ],
+  "MUS": [
+    "1598: Dutch settlement",
+    "1810: British takeover",
+    "1968: Independence",
+    "2000s: Stable multicultural democracy"
+  ],
+  "NCL": [
+    "c. 3000 BC: Austronesian settlement",
+    "1853: French annexation",
+    "1998–2021: Autonomy referendums"
+  ],
+  "NFK": [
+    "1774: Discovered by James Cook",
+    "1856: Settlement by Pitcairn Islanders",
+    "1979: Australian self-governing territory"
+  ],
+  "NIU": [
+    "c. 1000: Polynesian settlement",
+    "1901: Administered by New Zealand",
+    "1974: Self-governing in free association"
+  ],
+  "NRU": [
+    "c. 1000 BC: Micronesian settlement",
+    "1888: German annexation",
+    "1968: Independence"
+  ],
+  "PCN": [
+    "c. 1200: Polynesian settlement",
+    "1790: Mutineers of the Bounty settle",
+    "1838: British colony established"
+  ],
+  "PLW": [
+    "c. 1000 BC: Austronesian settlement",
+    "1947–1994: UN Trust Territory under US",
+    "1994: Independence in free association"
+  ],
+  "PRI": [
+    "c. 3000 BC: Taíno settlement",
+    "1898: US control begins",
+    "1952: Commonwealth status established"
+  ],
+  "PYF": [
+    "c. 1000: Polynesian settlement",
+    "1880: French annexation",
+    "2004: Overseas collectivity of France"
+  ],
+  "SML": [
+    "1884–1960: British Somaliland",
+    "1960: Union with Somalia",
+    "1991: Declaration of independence (unrecognized)"
+  ],
+  "SMR": [
+    "301: Legendary founding by Saint Marinus",
+    "Middle Ages: Maintains independence amid Italian states",
+    "1862: Independence recognized by Italy"
+  ],
+  "SPM": [
+    "1604: French settlement begins",
+    "1816: Permanently returned to France",
+    "1946: Becomes French overseas territory"
+  ],
+  "SSD": [
+    "1899–1956: Part of Anglo-Egyptian Sudan",
+    "2005: Comprehensive Peace Agreement",
+    "2011: Independence from Sudan",
+    "2013–present: Civil conflict"
+  ],
+  "SXM": [
+    "1648: Partitioned between France and Netherlands",
+    "1817: Dutch administration consolidated",
+    "2010: Constituent country within Kingdom of Netherlands"
+  ],
+  "SYC": [
+    "1770: French settlement",
+    "1814: British control established",
+    "1976: Independence",
+    "2000s: Stable tourism-based economy"
+  ],
+  "TCA": [
+    "c. 700: Indigenous Lucayan settlement",
+    "1766: British settlement",
+    "1973: British Overseas Territory status confirmed"
+  ],
+  "TLS": [
+    "16th century: Portuguese colonization",
+    "1975: Independence declared",
+    "1975–1999: Indonesian occupation",
+    "2002: Full independence restored"
+  ],
+  "TON": [
+    "c. 950: Polynesian settlement",
+    "1845: Unified kingdom established",
+    "1970: Independence within Commonwealth"
+  ],
+  "TUV": [
+    "c. 1000: Polynesian settlement",
+    "1892: British protectorate",
+    "1978: Independence"
+  ],
+  "VAT": [
+    "1929: Vatican City established by Lateran Treaty",
+    "Holy See: Center of Roman Catholic Church",
+    "Modern era: Smallest sovereign state"
+  ],
+  "VCT": [
+    "c. 300: Indigenous settlement",
+    "1763: British control",
+    "1979: Independence"
+  ],
+  "VGB": [
+    "c. 1000: Indigenous settlement",
+    "1672: British colonization",
+    "1960: Separate British Overseas Territory"
+  ],
+  "VIR": [
+    "c. 1000: Indigenous settlement",
+    "1917: Purchased by United States",
+    "1954: Organized US territory"
+  ],
+  "VUT": [
+    "c. 1300 BC: Austronesian settlement",
+    "1906–1980: Anglo-French condominium",
+    "1980: Independence"
+  ],
+  "WLF": [
+    "c. 1000: Polynesian settlement",
+    "1887: French protectorate",
+    "1961: Overseas collectivity of France"
+  ],
+  "WSM": [
+    "c. 1000 BC: Polynesian settlement",
+    "1899: Partition between Germany and US",
+    "1962: First Pacific island nation to gain independence"
+  ]
+
+}

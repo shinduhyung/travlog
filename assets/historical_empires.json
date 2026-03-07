@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Mongol Empire",
+    "description": "13th and 14th centuries",
+    "countries": [
+      "Mongolia", "China", "Russia", "South Korea", "North Korea", "Kazakhstan",
+      "Uzbekistan", "Turkmenistan", "Kyrgyzstan", "Tajikistan", "Afghanistan",
+      "Iran", "Iraq", "Syria", "Turkey", "Armenia", "Azerbaijan", "Georgia",
+      "Ukraine", "Poland", "Hungary", "Pakistan", "India", "Vietnam", "Belarus"
+    ]
+  },
+  {
+    "name": "Roman Empire",
+    "description": "At its height in 117 AD",
+    "countries": [
+      "Italy", "Spain", "Portugal", "France", "United Kingdom", "Belgium",
+      "Netherlands", "Luxembourg", "Switzerland", "Austria", "Germany", "Slovenia",
+      "Croatia", "Bosnia and Herz.", "Serbia", "Montenegro", "Albania", "North Macedonia",
+      "Greece", "Bulgaria", "Romania", "Hungary", "Turkey", "Syria", "Lebanon",
+      "Jordan", "Israel", "Palestine", "Egypt", "Libya", "Tunisia", "Algeria", "Morocco", "Cyprus"
+    ]
+  }
+]

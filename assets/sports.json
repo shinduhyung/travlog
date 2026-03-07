@@ -1,0 +1,770 @@
+[
+  {
+    "iso_a3": "AFG",
+    "sports": "Cricket"
+  },
+  {
+    "iso_a3": "ALB",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "DZA",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "AND",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "AGO",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "AIA",
+    "sports": "Boatracing"
+  },
+  {
+    "iso_a3": "ATG",
+    "sports": "Cricket"
+  },
+  {
+    "iso_a3": "ARG",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "ARM",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "AUS",
+    "sports": "Australian Football"
+  },
+  {
+    "iso_a3": "AUT",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "AZE",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "BHR",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "BGD",
+    "sports": "Cricket"
+  },
+  {
+    "iso_a3": "BRB",
+    "sports": "Cricket"
+  },
+  {
+    "iso_a3": "BLR",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "BEL",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "BLZ",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "BEN",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "BTN",
+    "sports": "Archery"
+  },
+  {
+    "iso_a3": "BOL",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "BIH",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "BWA",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "BRA",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "BRN",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "BGR",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "BFA",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "BDI",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "KHM",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "CMR",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "CAN",
+    "sports": "Ice Hockey"
+  },
+  {
+    "iso_a3": "CAF",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "TCD",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "CHL",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "COL",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "COM",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "CRI",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "HRV",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "CUB",
+    "sports": "Baseball"
+  },
+  {
+    "iso_a3": "CYP",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "CZE",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "COD",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "DNK",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "DJI",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "DOM",
+    "sports": "Baseball"
+  },
+  {
+    "iso_a3": "TLS",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "ECU",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "EGY",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "SLV",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "GNQ",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "ERI",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "EST",
+    "sports": "Basketball"
+  },
+  {
+    "iso_a3": "SWZ",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "ETH",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "FSM",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "FJI",
+    "sports": "Rugby"
+  },
+  {
+    "iso_a3": "FIN",
+    "sports": "Ice Hockey"
+  },
+  {
+    "iso_a3": "FRA",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "GAB",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "GEO",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "DEU",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "GHA",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "GRC",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "GRD",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "GTM",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "GIN",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "GNB",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "GUY",
+    "sports": "Cricket"
+  },
+  {
+    "iso_a3": "HTI",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "HND",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "HUN",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "ISL",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "IND",
+    "sports": "Cricket"
+  },
+  {
+    "iso_a3": "IDN",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "IRN",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "IRQ",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "IRL",
+    "sports": "Gaelic Football"
+  },
+  {
+    "iso_a3": "ISR",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "ITA",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "JAM",
+    "sports": "Cricket"
+  },
+  {
+    "iso_a3": "JPN",
+    "sports": "Baseball"
+  },
+  {
+    "iso_a3": "JOR",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "KAZ",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "KEN",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "KOS",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "KWT",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "KGZ",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "LAO",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "LVA",
+    "sports": "Ice Hockey"
+  },
+  {
+    "iso_a3": "LBN",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "LSO",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "LBR",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "LBY",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "LIE",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "LTU",
+    "sports": "Basketball"
+  },
+  {
+    "iso_a3": "LUX",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "MDG",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "MWI",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "MYS",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "MDV",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "MLI",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "MLT",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "MHL",
+    "sports": "Basketball"
+  },
+  {
+    "iso_a3": "MRT",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "MUS",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "MEX",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "MDA",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "MCO",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "MNG",
+    "sports": "Wrestling"
+  },
+  {
+    "iso_a3": "MNE",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "MAR",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "MOZ",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "MMR",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "NAM",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "NRU",
+    "sports": "Australian Football"
+  },
+  {
+    "iso_a3": "NPL",
+    "sports": "Cricket"
+  },
+  {
+    "iso_a3": "NLD",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "NCL",
+    "sports": "Rugby"
+  },
+  {
+    "iso_a3": "NZL",
+    "sports": "Rugby"
+  },
+  {
+    "iso_a3": "NIC",
+    "sports": "Baseball"
+  },
+  {
+    "iso_a3": "NER",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "NGA",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "PRK",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "NOR",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "OMN",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "PAK",
+    "sports": "Cricket"
+  },
+  {
+    "iso_a3": "PLW",
+    "sports": "Baseball"
+  },
+  {
+    "iso_a3": "PSE",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "PAN",
+    "sports": "Baseball"
+  },
+  {
+    "iso_a3": "PNG",
+    "sports": "Rugby"
+  },
+  {
+    "iso_a3": "PRY",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "CHN",
+    "sports": "Basketball"
+  },
+  {
+    "iso_a3": "PER",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "PHL",
+    "sports": "Basketball"
+  },
+  {
+    "iso_a3": "POL",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "PRT",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "PRI",
+    "sports": "Baseball"
+  },
+  {
+    "iso_a3": "QAT",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "MKD",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "COG",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "ROU",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "RUS",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "RWA",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "KNA",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "LCA",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "VCT",
+    "sports": "Cricket"
+  },
+  {
+    "iso_a3": "SMR",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "SAU",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "SEN",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "SRB",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "SYC",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "SLE",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "SGP",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "SVK",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "SVN",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "SLB",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "SOM",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "ZAF",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "KOR",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "SSD",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "ESP",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "LKA",
+    "sports": "Cricket"
+  },
+  {
+    "iso_a3": "SDN",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "SUR",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "SWE",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "CHE",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "SYR",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "STP",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "TWN",
+    "sports": "Baseball"
+  },
+  {
+    "iso_a3": "TJK",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "TZA",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "THA",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "BHS",
+    "sports": "Basketball"
+  },
+  {
+    "iso_a3": "GMB",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "TGO",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "TTO",
+    "sports": "Cricket"
+  },
+  {
+    "iso_a3": "TUN",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "TUR",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "TKM",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "UGA",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "UKR",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "ARE",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "GBR",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "USA",
+    "sports": "American Football"
+  },
+  {
+    "iso_a3": "URY",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "UZB",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "VUT",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "VEN",
+    "sports": "Baseball"
+  },
+  {
+    "iso_a3": "VNM",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "YEM",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "ZMB",
+    "sports": "Soccer"
+  },
+  {
+    "iso_a3": "ZWE",
+    "sports": "Soccer"
+  }
+]

@@ -1,0 +1,1348 @@
+{
+  "rice": [
+    {
+      "iso_a3": "CHN",
+      "rice_tons": 144620000
+    },
+    {
+      "iso_a3": "IND",
+      "rice_tons": 136000000
+    },
+    {
+      "iso_a3": "BGD",
+      "rice_tons": 37000000
+    },
+    {
+      "iso_a3": "IDN",
+      "rice_tons": 34000000
+    },
+    {
+      "iso_a3": "VNM",
+      "rice_tons": 27000000
+    },
+    {
+      "iso_a3": "THA",
+      "rice_tons": 20000000
+    },
+    {
+      "iso_a3": "PHL",
+      "rice_tons": 12600000
+    },
+    {
+      "iso_a3": "MMR",
+      "rice_tons": 11800000
+    },
+    {
+      "iso_a3": "PAK",
+      "rice_tons": 9000000
+    },
+    {
+      "iso_a3": "BRA",
+      "rice_tons": 7000000
+    }
+  ],
+  "wheat": [
+    {
+      "iso_a3": "CHN",
+      "wheat_tons": 137000000
+    },
+    {
+      "iso_a3": "IND",
+      "wheat_tons": 110000000
+    },
+    {
+      "iso_a3": "RUS",
+      "wheat_tons": 91000000
+    },
+    {
+      "iso_a3": "USA",
+      "wheat_tons": 49000000
+    },
+    {
+      "iso_a3": "FRA",
+      "wheat_tons": 35000000
+    },
+    {
+      "iso_a3": "CAN",
+      "wheat_tons": 32000000
+    },
+    {
+      "iso_a3": "AUS",
+      "wheat_tons": 26000000
+    },
+    {
+      "iso_a3": "PAK",
+      "wheat_tons": 28000000
+    },
+    {
+      "iso_a3": "DEU",
+      "wheat_tons": 21000000
+    },
+    {
+      "iso_a3": "TUR",
+      "wheat_tons": 20000000
+    }
+  ],
+  "barley": [
+    {
+      "iso_a3": "RUS",
+      "barley_tons": 20000000
+    },
+    {
+      "iso_a3": "AUS",
+      "barley_tons": 10000000
+    },
+    {
+      "iso_a3": "FRA",
+      "barley_tons": 12000000
+    },
+    {
+      "iso_a3": "DEU",
+      "barley_tons": 11000000
+    },
+    {
+      "iso_a3": "CAN",
+      "barley_tons": 9000000
+    },
+    {
+      "iso_a3": "ESP",
+      "barley_tons": 7000000
+    },
+    {
+      "iso_a3": "TUR",
+      "barley_tons": 7500000
+    },
+    {
+      "iso_a3": "GBR",
+      "barley_tons": 7000000
+    },
+    {
+      "iso_a3": "UKR",
+      "barley_tons": 6000000
+    },
+    {
+      "iso_a3": "ARG",
+      "barley_tons": 5000000
+    }
+  ],
+  "maize": [
+    {
+      "iso_a3": "USA",
+      "maize_tons": 389000000
+    },
+    {
+      "iso_a3": "CHN",
+      "maize_tons": 288000000
+    },
+    {
+      "iso_a3": "BRA",
+      "maize_tons": 129000000
+    },
+    {
+      "iso_a3": "ARG",
+      "maize_tons": 55000000
+    },
+    {
+      "iso_a3": "UKR",
+      "maize_tons": 30000000
+    },
+    {
+      "iso_a3": "IND",
+      "maize_tons": 34000000
+    },
+    {
+      "iso_a3": "MEX",
+      "maize_tons": 27000000
+    },
+    {
+      "iso_a3": "IDN",
+      "maize_tons": 13000000
+    },
+    {
+      "iso_a3": "RUS",
+      "maize_tons": 17000000
+    },
+    {
+      "iso_a3": "ZAF",
+      "maize_tons": 16000000
+    }
+  ],
+  "coffee": [
+    {
+      "iso_a3": "BRA",
+      "coffee_tons": 3500000
+    },
+    {
+      "iso_a3": "VNM",
+      "coffee_tons": 1800000
+    },
+    {
+      "iso_a3": "IDN",
+      "coffee_tons": 790000
+    },
+    {
+      "iso_a3": "COL",
+      "coffee_tons": 800000
+    },
+    {
+      "iso_a3": "ETH",
+      "coffee_tons": 490000
+    },
+    {
+      "iso_a3": "UGA",
+      "coffee_tons": 390000
+    },
+    {
+      "iso_a3": "HND",
+      "coffee_tons": 350000
+    },
+    {
+      "iso_a3": "PER",
+      "coffee_tons": 360000
+    },
+    {
+      "iso_a3": "IND",
+      "coffee_tons": 350000
+    },
+    {
+      "iso_a3": "GTM",
+      "coffee_tons": 230000
+    }
+  ],
+  "cocoa": [
+    {
+      "iso_a3": "CIV",
+      "cocoa_tons": 1800000
+    },
+    {
+      "iso_a3": "GHA",
+      "cocoa_tons": 600000
+    },
+    {
+      "iso_a3": "ECU",
+      "cocoa_tons": 450000
+    },
+    {
+      "iso_a3": "CMR",
+      "cocoa_tons": 290000
+    },
+    {
+      "iso_a3": "NGA",
+      "cocoa_tons": 280000
+    },
+    {
+      "iso_a3": "BRA",
+      "cocoa_tons": 270000
+    },
+    {
+      "iso_a3": "IDN",
+      "cocoa_tons": 180000
+    },
+    {
+      "iso_a3": "PER",
+      "cocoa_tons": 160000
+    },
+    {
+      "iso_a3": "DOM",
+      "cocoa_tons": 75000
+    },
+    {
+      "iso_a3": "COL",
+      "cocoa_tons": 65000
+    }
+  ],
+  "banana": [
+    {
+      "iso_a3": "IND",
+      "banana_tons": 34500000
+    },
+    {
+      "iso_a3": "CHN",
+      "banana_tons": 11800000
+    },
+    {
+      "iso_a3": "IDN",
+      "banana_tons": 9200000
+    },
+    {
+      "iso_a3": "NGA",
+      "banana_tons": 8000000
+    },
+    {
+      "iso_a3": "BRA",
+      "banana_tons": 6900000
+    },
+    {
+      "iso_a3": "PHL",
+      "banana_tons": 5900000
+    },
+    {
+      "iso_a3": "ECU",
+      "banana_tons": 6700000
+    },
+    {
+      "iso_a3": "AGO",
+      "banana_tons": 4500000
+    },
+    {
+      "iso_a3": "GTM",
+      "banana_tons": 4800000
+    },
+    {
+      "iso_a3": "TZA",
+      "banana_tons": 3500000
+    }
+  ],
+  "apple": [
+    {
+      "iso_a3": "CHN",
+      "apple_tons": 45000000
+    },
+    {
+      "iso_a3": "TUR",
+      "apple_tons": 4800000
+    },
+    {
+      "iso_a3": "USA",
+      "apple_tons": 4300000
+    },
+    {
+      "iso_a3": "POL",
+      "apple_tons": 4000000
+    },
+    {
+      "iso_a3": "IND",
+      "apple_tons": 2600000
+    },
+    {
+      "iso_a3": "IRN",
+      "apple_tons": 2800000
+    },
+    {
+      "iso_a3": "RUS",
+      "apple_tons": 2300000
+    },
+    {
+      "iso_a3": "ITA",
+      "apple_tons": 2200000
+    },
+    {
+      "iso_a3": "FRA",
+      "apple_tons": 1700000
+    },
+    {
+      "iso_a3": "CHL",
+      "apple_tons": 1600000
+    }
+  ],
+  "beef": [
+    {
+      "iso_a3": "USA",
+      "beef_tons": 12200000
+    },
+    {
+      "iso_a3": "BRA",
+      "beef_tons": 11300000
+    },
+    {
+      "iso_a3": "CHN",
+      "beef_tons": 7500000
+    },
+    {
+      "iso_a3": "IND",
+      "beef_tons": 4500000
+    },
+    {
+      "iso_a3": "ARG",
+      "beef_tons": 3200000
+    },
+    {
+      "iso_a3": "MEX",
+      "beef_tons": 2200000
+    },
+    {
+      "iso_a3": "AUS",
+      "beef_tons": 2100000
+    },
+    {
+      "iso_a3": "RUS",
+      "beef_tons": 1600000
+    },
+    {
+      "iso_a3": "CAN",
+      "beef_tons": 1400000
+    },
+    {
+      "iso_a3": "PAK",
+      "beef_tons": 1000000
+    }
+  ],
+  "pork": [
+    {
+      "iso_a3": "CHN",
+      "pork_tons": 57900000
+    },
+    {
+      "iso_a3": "USA",
+      "pork_tons": 12700000
+    },
+    {
+      "iso_a3": "BRA",
+      "pork_tons": 4600000
+    },
+    {
+      "iso_a3": "ESP",
+      "pork_tons": 4900000
+    },
+    {
+      "iso_a3": "DEU",
+      "pork_tons": 4200000
+    },
+    {
+      "iso_a3": "VNM",
+      "pork_tons": 3600000
+    },
+    {
+      "iso_a3": "RUS",
+      "pork_tons": 4000000
+    },
+    {
+      "iso_a3": "CAN",
+      "pork_tons": 2100000
+    },
+    {
+      "iso_a3": "FRA",
+      "pork_tons": 2000000
+    },
+    {
+      "iso_a3": "POL",
+      "pork_tons": 1800000
+    }
+  ],
+  "chicken": [
+    {
+      "iso_a3": "USA",
+      "chicken_tons": 21400000
+    },
+    {
+      "iso_a3": "BRA",
+      "chicken_tons": 14900000
+    },
+    {
+      "iso_a3": "CHN",
+      "chicken_tons": 14800000
+    },
+    {
+      "iso_a3": "RUS",
+      "chicken_tons": 5300000
+    },
+    {
+      "iso_a3": "MEX",
+      "chicken_tons": 3900000
+    },
+    {
+      "iso_a3": "IND",
+      "chicken_tons": 3700000
+    },
+    {
+      "iso_a3": "THA",
+      "chicken_tons": 3400000
+    },
+    {
+      "iso_a3": "IDN",
+      "chicken_tons": 3000000
+    },
+    {
+      "iso_a3": "TUR",
+      "chicken_tons": 2500000
+    },
+    {
+      "iso_a3": "JPN",
+      "chicken_tons": 2400000
+    }
+  ],
+  "milk": [
+    {
+      "iso_a3": "IND",
+      "milk_tons": 230000000
+    },
+    {
+      "iso_a3": "USA",
+      "milk_tons": 102000000
+    },
+    {
+      "iso_a3": "PAK",
+      "milk_tons": 65000000
+    },
+    {
+      "iso_a3": "CHN",
+      "milk_tons": 41000000
+    },
+    {
+      "iso_a3": "BRA",
+      "milk_tons": 36000000
+    },
+    {
+      "iso_a3": "DEU",
+      "milk_tons": 33000000
+    },
+    {
+      "iso_a3": "RUS",
+      "milk_tons": 32000000
+    },
+    {
+      "iso_a3": "FRA",
+      "milk_tons": 25000000
+    },
+    {
+      "iso_a3": "TUR",
+      "milk_tons": 23000000
+    },
+    {
+      "iso_a3": "NZL",
+      "milk_tons": 21000000
+    }
+  ],
+  "eggs": [
+    {
+      "iso_a3": "CHN",
+      "eggs_tons": 34000000
+    },
+    {
+      "iso_a3": "IND",
+      "eggs_tons": 7000000
+    },
+    {
+      "iso_a3": "USA",
+      "eggs_tons": 6700000
+    },
+    {
+      "iso_a3": "IDN",
+      "eggs_tons": 5500000
+    },
+    {
+      "iso_a3": "BRA",
+      "eggs_tons": 3300000
+    },
+    {
+      "iso_a3": "MEX",
+      "eggs_tons": 3100000
+    },
+    {
+      "iso_a3": "JPN",
+      "eggs_tons": 2600000
+    },
+    {
+      "iso_a3": "RUS",
+      "eggs_tons": 2500000
+    },
+    {
+      "iso_a3": "TUR",
+      "eggs_tons": 1400000
+    },
+    {
+      "iso_a3": "FRA",
+      "eggs_tons": 1000000
+    }
+  ],
+  "tea": [
+    {
+      "iso_a3": "CHN",
+      "tea_tons": 3100000
+    },
+    {
+      "iso_a3": "IND",
+      "tea_tons": 1350000
+    },
+    {
+      "iso_a3": "KEN",
+      "tea_tons": 530000
+    },
+    {
+      "iso_a3": "LKA",
+      "tea_tons": 300000
+    },
+    {
+      "iso_a3": "TUR",
+      "tea_tons": 280000
+    },
+    {
+      "iso_a3": "VNM",
+      "tea_tons": 190000
+    },
+    {
+      "iso_a3": "IDN",
+      "tea_tons": 140000
+    },
+    {
+      "iso_a3": "ARG",
+      "tea_tons": 85000
+    },
+    {
+      "iso_a3": "IRN",
+      "tea_tons": 84000
+    },
+    {
+      "iso_a3": "JPN",
+      "tea_tons": 80000
+    }
+  ],
+  "cotton": [
+    {
+      "iso_a3": "CHN",
+      "cotton_tons": 5900000
+    },
+    {
+      "iso_a3": "IND",
+      "cotton_tons": 5600000
+    },
+    {
+      "iso_a3": "USA",
+      "cotton_tons": 3200000
+    },
+    {
+      "iso_a3": "BRA",
+      "cotton_tons": 3000000
+    },
+    {
+      "iso_a3": "PAK",
+      "cotton_tons": 1000000
+    },
+    {
+      "iso_a3": "TUR",
+      "cotton_tons": 850000
+    },
+    {
+      "iso_a3": "UZB",
+      "cotton_tons": 700000
+    },
+    {
+      "iso_a3": "AUS",
+      "cotton_tons": 1100000
+    },
+    {
+      "iso_a3": "ARG",
+      "cotton_tons": 300000
+    },
+    {
+      "iso_a3": "MLI",
+      "cotton_tons": 290000
+    }
+  ],
+  "gold": [
+    {
+      "iso_a3": "CHN",
+      "gold_tons": 370
+    },
+    {
+      "iso_a3": "AUS",
+      "gold_tons": 310
+    },
+    {
+      "iso_a3": "RUS",
+      "gold_tons": 310
+    },
+    {
+      "iso_a3": "CAN",
+      "gold_tons": 200
+    },
+    {
+      "iso_a3": "USA",
+      "gold_tons": 170
+    },
+    {
+      "iso_a3": "KAZ",
+      "gold_tons": 130
+    },
+    {
+      "iso_a3": "MEX",
+      "gold_tons": 120
+    },
+    {
+      "iso_a3": "IDN",
+      "gold_tons": 110
+    },
+    {
+      "iso_a3": "ZAF",
+      "gold_tons": 100
+    },
+    {
+      "iso_a3": "UZB",
+      "gold_tons": 100
+    }
+  ],
+  "silver": [
+    {
+      "iso_a3": "MEX",
+      "silver_tons": 6400
+    },
+    {
+      "iso_a3": "CHN",
+      "silver_tons": 3400
+    },
+    {
+      "iso_a3": "PER",
+      "silver_tons": 3100
+    },
+    {
+      "iso_a3": "CHL",
+      "silver_tons": 1400
+    },
+    {
+      "iso_a3": "POL",
+      "silver_tons": 1300
+    },
+    {
+      "iso_a3": "RUS",
+      "silver_tons": 1200
+    },
+    {
+      "iso_a3": "AUS",
+      "silver_tons": 1200
+    },
+    {
+      "iso_a3": "BOL",
+      "silver_tons": 1000
+    },
+    {
+      "iso_a3": "USA",
+      "silver_tons": 1000
+    },
+    {
+      "iso_a3": "KAZ",
+      "silver_tons": 990
+    }
+  ],
+  "copper": [
+    {
+      "iso_a3": "CHL",
+      "copper_tons": 5000000
+    },
+    {
+      "iso_a3": "COD",
+      "copper_tons": 2500000
+    },
+    {
+      "iso_a3": "PER",
+      "copper_tons": 2600000
+    },
+    {
+      "iso_a3": "CHN",
+      "copper_tons": 1700000
+    },
+    {
+      "iso_a3": "USA",
+      "copper_tons": 1100000
+    },
+    {
+      "iso_a3": "RUS",
+      "copper_tons": 910000
+    },
+    {
+      "iso_a3": "IDN",
+      "copper_tons": 840000
+    },
+    {
+      "iso_a3": "AUS",
+      "copper_tons": 810000
+    },
+    {
+      "iso_a3": "ZMB",
+      "copper_tons": 760000
+    },
+    {
+      "iso_a3": "MEX",
+      "copper_tons": 750000
+    }
+  ],
+  "iron_ore": [
+    {
+      "iso_a3": "AUS",
+      "iron_ore_tons": 960000000
+    },
+    {
+      "iso_a3": "BRA",
+      "iron_ore_tons": 440000000
+    },
+    {
+      "iso_a3": "CHN",
+      "iron_ore_tons": 280000000
+    },
+    {
+      "iso_a3": "IND",
+      "iron_ore_tons": 270000000
+    },
+    {
+      "iso_a3": "RUS",
+      "iron_ore_tons": 88000000
+    },
+    {
+      "iso_a3": "IRN",
+      "iron_ore_tons": 77000000
+    },
+    {
+      "iso_a3": "CAN",
+      "iron_ore_tons": 70000000
+    },
+    {
+      "iso_a3": "ZAF",
+      "iron_ore_tons": 61000000
+    },
+    {
+      "iso_a3": "KAZ",
+      "iron_ore_tons": 53000000
+    },
+    {
+      "iso_a3": "UKR",
+      "iron_ore_tons": 34000000
+    }
+  ],
+  "diamond": [
+    {
+      "iso_a3": "RUS",
+      "diamond_carats": 41900000
+    },
+    {
+      "iso_a3": "BWA",
+      "diamond_carats": 24500000
+    },
+    {
+      "iso_a3": "CAN",
+      "diamond_carats": 16300000
+    },
+    {
+      "iso_a3": "AGO",
+      "diamond_carats": 8700000
+    },
+    {
+      "iso_a3": "ZAF",
+      "diamond_carats": 9600000
+    },
+    {
+      "iso_a3": "COD",
+      "diamond_carats": 9900000
+    },
+    {
+      "iso_a3": "NAM",
+      "diamond_carats": 2000000
+    },
+    {
+      "iso_a3": "LSO",
+      "diamond_carats": 1100000
+    },
+    {
+      "iso_a3": "SLE",
+      "diamond_carats": 680000
+    },
+    {
+      "iso_a3": "TZA",
+      "diamond_carats": 370000
+    }
+  ],
+  "crude_oil": [
+    {
+      "iso_a3": "USA",
+      "oil_barrels_per_day": 12900000
+    },
+    {
+      "iso_a3": "RUS",
+      "oil_barrels_per_day": 10100000
+    },
+    {
+      "iso_a3": "SAU",
+      "oil_barrels_per_day": 9700000
+    },
+    {
+      "iso_a3": "CAN",
+      "oil_barrels_per_day": 4800000
+    },
+    {
+      "iso_a3": "IRQ",
+      "oil_barrels_per_day": 4300000
+    },
+    {
+      "iso_a3": "CHN",
+      "oil_barrels_per_day": 4200000
+    },
+    {
+      "iso_a3": "IRN",
+      "oil_barrels_per_day": 3600000
+    },
+    {
+      "iso_a3": "BRA",
+      "oil_barrels_per_day": 3400000
+    },
+    {
+      "iso_a3": "UAE",
+      "oil_barrels_per_day": 3300000
+    },
+    {
+      "iso_a3": "KWT",
+      "oil_barrels_per_day": 2600000
+    }
+  ],
+  "natural_gas": [
+    {
+      "iso_a3": "USA",
+      "gas_bcm": 1035
+    },
+    {
+      "iso_a3": "RUS",
+      "gas_bcm": 699
+    },
+    {
+      "iso_a3": "IRN",
+      "gas_bcm": 244
+    },
+    {
+      "iso_a3": "CHN",
+      "gas_bcm": 234
+    },
+    {
+      "iso_a3": "CAN",
+      "gas_bcm": 190
+    },
+    {
+      "iso_a3": "QAT",
+      "gas_bcm": 170
+    },
+    {
+      "iso_a3": "AUS",
+      "gas_bcm": 153
+    },
+    {
+      "iso_a3": "NOR",
+      "gas_bcm": 128
+    },
+    {
+      "iso_a3": "SAU",
+      "gas_bcm": 105
+    },
+    {
+      "iso_a3": "DZA",
+      "gas_bcm": 101
+    }
+  ],
+  "coal": [
+    {
+      "iso_a3": "CHN",
+      "coal_tons": 4660000000
+    },
+    {
+      "iso_a3": "IND",
+      "coal_tons": 980000000
+    },
+    {
+      "iso_a3": "IDN",
+      "coal_tons": 770000000
+    },
+    {
+      "iso_a3": "USA",
+      "coal_tons": 530000000
+    },
+    {
+      "iso_a3": "AUS",
+      "coal_tons": 460000000
+    },
+    {
+      "iso_a3": "RUS",
+      "coal_tons": 430000000
+    },
+    {
+      "iso_a3": "ZAF",
+      "coal_tons": 230000000
+    },
+    {
+      "iso_a3": "KAZ",
+      "coal_tons": 115000000
+    },
+    {
+      "iso_a3": "DEU",
+      "coal_tons": 100000000
+    },
+    {
+      "iso_a3": "POL",
+      "coal_tons": 95000000
+    }
+  ],
+  "uranium": [
+    {
+      "iso_a3": "KAZ",
+      "uranium_tons": 21200
+    },
+    {
+      "iso_a3": "CAN",
+      "uranium_tons": 7300
+    },
+    {
+      "iso_a3": "NAM",
+      "uranium_tons": 5600
+    },
+    {
+      "iso_a3": "AUS",
+      "uranium_tons": 4000
+    },
+    {
+      "iso_a3": "UZB",
+      "uranium_tons": 3300
+    },
+    {
+      "iso_a3": "RUS",
+      "uranium_tons": 2500
+    },
+    {
+      "iso_a3": "NGR",
+      "uranium_tons": 2000
+    },
+    {
+      "iso_a3": "CHN",
+      "uranium_tons": 1700
+    },
+    {
+      "iso_a3": "IND",
+      "uranium_tons": 600
+    },
+    {
+      "iso_a3": "ZAF",
+      "uranium_tons": 200
+    }
+  ],
+  "car_production": [
+    {
+      "iso_a3": "CHN",
+      "car_production_million": 30.1
+    },
+    {
+      "iso_a3": "USA",
+      "car_production_million": 10.6
+    },
+    {
+      "iso_a3": "JPN",
+      "car_production_million": 9.0
+    },
+    {
+      "iso_a3": "IND",
+      "car_production_million": 5.8
+    },
+    {
+      "iso_a3": "DEU",
+      "car_production_million": 4.1
+    },
+    {
+      "iso_a3": "KOR",
+      "car_production_million": 4.2
+
+    },
+    {
+      "iso_a3": "MEX",
+      "car_production_million": 4.0
+    },
+    {
+      "iso_a3": "ESP",
+      "car_production_million": 2.5
+    },
+    {
+      "iso_a3": "BRA",
+      "car_production_million": 2.3
+    },
+    {
+      "iso_a3": "THA",
+      "car_production_million": 1.8
+    }
+  ],
+  "phone_production": [
+    {
+      "iso_a3": "CHN",
+      "phone_production_million": 1000
+    },
+    {
+      "iso_a3": "IND",
+      "phone_production_million": 350
+    },
+    {
+      "iso_a3": "VNM",
+      "phone_production_million": 210
+    },
+    {
+      "iso_a3": "KOR",
+      "phone_production_million": 60
+    },
+    {
+      "iso_a3": "BRA",
+      "phone_production_million": 45
+    },
+    {
+      "iso_a3": "IDN",
+      "phone_production_million": 35
+    },
+    {
+      "iso_a3": "USA",
+      "phone_production_million": 30
+    },
+    {
+      "iso_a3": "JPN",
+      "phone_production_million": 25
+    },
+    {
+      "iso_a3": "MEX",
+      "phone_production_million": 20
+    },
+    {
+      "iso_a3": "TUR",
+      "phone_production_million": 15
+    }
+  ],
+
+  "top_market_cap_companies_count": [
+    {
+      "iso_a3": "USA",
+      "companies_count": 62
+    },
+    {
+      "iso_a3": "CHN",
+      "companies_count": 12
+    },
+    {
+      "iso_a3": "SAU",
+      "companies_count": 1
+    },
+    {
+      "iso_a3": "TWN",
+      "companies_count": 1
+    },
+    {
+      "iso_a3": "FRA",
+      "companies_count": 4
+    },
+    {
+      "iso_a3": "CHE",
+      "companies_count": 3
+    },
+    {
+      "iso_a3": "IND",
+      "companies_count": 3
+    },
+    {
+      "iso_a3": "GBR",
+      "companies_count": 3
+    },
+    {
+      "iso_a3": "JPN",
+      "companies_count": 2
+    },
+    {
+      "iso_a3": "KOR",
+      "companies_count": 1
+    }
+  ],
+  "bitcoin_ownership_estimated_high": [
+    {
+      "iso_a3": "ARE",
+      "bitcoin_percentage": 30
+    },
+    {
+      "iso_a3": "VNM",
+      "bitcoin_percentage": 21
+    },
+    {
+      "iso_a3": "USA",
+      "bitcoin_percentage": 15
+    },
+    {
+      "iso_a3": "IRN",
+      "bitcoin_percentage": 13
+    },
+    {
+      "iso_a3": "PHL",
+      "bitcoin_percentage": 13
+    },
+    {
+      "iso_a3": "BRA",
+      "bitcoin_percentage": 12
+    },
+    {
+      "iso_a3": "SAU",
+      "bitcoin_percentage": 11
+    },
+    {
+      "iso_a3": "SGP",
+      "bitcoin_percentage": 11
+    },
+    {
+      "iso_a3": "UKR",
+      "bitcoin_percentage": 10
+    },
+    {
+      "iso_a3": "VEN",
+      "bitcoin_percentage": 10
+    }
+  ],
+  "usd_reserves": [
+    {
+      "iso_a3": "CHN",
+      "usd_billion": 3225
+    },
+    {
+      "iso_a3": "JPN",
+      "usd_billion": 1290
+    },
+    {
+      "iso_a3": "CHE",
+      "usd_billion": 880
+    },
+    {
+      "iso_a3": "IND",
+      "usd_billion": 640
+    },
+    {
+      "iso_a3": "RUS",
+      "usd_billion": 590
+    },
+    {
+      "iso_a3": "TWN",
+      "usd_billion": 570
+    },
+    {
+      "iso_a3": "SAU",
+      "usd_billion": 450
+    },
+    {
+      "iso_a3": "HKG",
+      "usd_billion": 425
+    },
+    {
+      "iso_a3": "KOR",
+      "usd_billion": 415
+    },
+    {
+      "iso_a3": "BRA",
+      "usd_billion": 355
+    }
+  ],
+  "chicken_consumption": [
+    {
+      "iso_a3": "ISR",
+      "chicken_consume_kg_per_capita": 67
+    },
+    {
+      "iso_a3": "USA",
+      "chicken_consume_kg_per_capita": 53
+    },
+    {
+      "iso_a3": "MYS",
+      "chicken_consume_kg_per_capita": 50
+    },
+    {
+      "iso_a3": "PER",
+      "chicken_consume_kg_per_capita": 49
+    },
+    {
+      "iso_a3": "AUS",
+      "chicken_consume_kg_per_capita": 48
+    },
+    {
+      "iso_a3": "BRA",
+      "chicken_consume_kg_per_capita": 47
+    },
+    {
+      "iso_a3": "NZL",
+      "chicken_consume_kg_per_capita": 44
+    },
+    {
+      "iso_a3": "ARG",
+      "chicken_consume_kg_per_capita": 42
+    },
+    {
+      "iso_a3": "SAU",
+      "chicken_consume_kg_per_capita": 41
+    },
+    {
+      "iso_a3": "CAN",
+      "chicken_consume_kg_per_capita": 38
+    }
+  ],
+  "beef_consumption": [
+    {
+      "iso_a3": "ARG",
+      "beef_consume_kg_per_capita": 52
+    },
+    {
+      "iso_a3": "URY",
+      "beef_consume_kg_per_capita": 44
+    },
+    {
+      "iso_a3": "USA",
+      "beef_consume_kg_per_capita": 38
+    },
+    {
+      "iso_a3": "BRA",
+      "beef_consume_kg_per_capita": 35
+    },
+    {
+      "iso_a3": "AUS",
+      "beef_consume_kg_per_capita": 30
+    },
+    {
+      "iso_a3": "ISR",
+      "beef_consume_kg_per_capita": 28
+    },
+    {
+      "iso_a3": "CAN",
+      "beef_consume_kg_per_capita": 27
+    },
+    {
+      "iso_a3": "KAZ",
+      "beef_consume_kg_per_capita": 26
+    },
+    {
+      "iso_a3": "CHL",
+      "beef_consume_kg_per_capita": 25
+    },
+    {
+      "iso_a3": "NZL",
+      "beef_consume_kg_per_capita": 22
+    }
+  ],
+  "pork_consumption": [
+    {
+      "iso_a3": "HKG",
+      "pork_consume_kg_per_capita": 55
+    },
+    {
+      "iso_a3": "POL",
+      "pork_consume_kg_per_capita": 53
+    },
+    {
+      "iso_a3": "ESP",
+      "pork_consume_kg_per_capita": 52
+    },
+    {
+      "iso_a3": "LTU",
+      "pork_consume_kg_per_capita": 50
+    },
+    {
+      "iso_a3": "HRV",
+      "pork_consume_kg_per_capita": 49
+    },
+    {
+      "iso_a3": "AUT",
+      "pork_consume_kg_per_capita": 47
+    },
+    {
+      "iso_a3": "DEU",
+      "pork_consume_kg_per_capita": 45
+    },
+    {
+      "iso_a3": "CZE",
+      "pork_consume_kg_per_capita": 44
+    },
+    {
+      "iso_a3": "KOR",
+      "pork_consume_kg_per_capita": 43
+    },
+    {
+      "iso_a3": "CHN",
+      "pork_consume_kg_per_capita": 40
+    }
+  ]
+}

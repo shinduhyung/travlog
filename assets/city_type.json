@@ -1,0 +1,6141 @@
+[
+  {
+    "name": "Venice",
+    "countryCode": "IT",
+    "popularity": 8,
+    "P": {
+      "cityWealth": 0.9,
+      "cityType": 0.5,
+      "cityNightlife": -0.6,
+      "transit_drive": -1.0,
+      "budget_luxury": 1.0,
+      "nature_culture": -1.0,
+      "relaxed_intensive": -0.5,
+      "solo_social": 0.5,
+      "landmark_ancient_modern": 1.0,
+      "landmark_crowd": 1.0,
+      "landmark_urban_rural": -0.5,
+      "landmark_budget_luxury": 1.0
+    },
+    "W": {
+      "cityWealth": 8,
+      "cityType": 8,
+      "cityNightlife": 9,
+      "transit_drive": 10,
+      "budget_luxury": 7,
+      "nature_culture": 5,
+      "relaxed_intensive": 4,
+      "landmark_ancient_modern": 6,
+      "landmark_crowd": 5,
+      "landmark_urban_rural": 3,
+      "landmark_budget_luxury": 5
+    }
+  },
+  {
+    "name": "Florence",
+    "countryCode": "IT",
+    "popularity": 7,
+    "P": {
+      "cityWealth": 0.7,
+      "cityType": 0.8,
+      "cityNightlife": 0.4,
+      "nature_culture": -1.0,
+      "transit_drive": -0.8,
+      "documenter_minimalist": -0.8,
+      "budget_luxury": 0.6,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": -1.0,
+      "landmark_crowd": 0.8,
+      "landmark_budget_luxury": 0.6
+    },
+    "W": {
+      "cityWealth": 7,
+      "cityType": 8,
+      "cityNightlife": 6,
+      "nature_culture": 9,
+      "transit_drive": 6,
+      "documenter_minimalist": 5,
+      "budget_luxury": 5,
+      "landmark_ancient_modern": 7,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 4,
+      "landmark_budget_luxury": 4
+    }
+  },
+  {
+    "name": "Naples",
+    "countryCode": "IT",
+    "popularity": 4,
+    "P": {
+      "cityWealth": -0.3,
+      "cityType": 1.0,
+      "cityNightlife": 0.8,
+      "relaxed_intensive": 1.0,
+      "planned_spontaneous": 1.0,
+      "budget_luxury": -0.6,
+      "nature_culture": -0.5,
+      "transit_drive": -0.5,
+      "landmark_ancient_modern": 0.8,
+      "landmark_crowd": 1.0,
+      "landmark_urban_rural": -1.0,
+      "landmark_budget_luxury": -0.5
+    },
+    "W": {
+      "cityWealth": 8,
+      "cityType": 7,
+      "cityNightlife": 7,
+      "relaxed_intensive": 9,
+      "budget_luxury": 7,
+      "planned_spontaneous": 5,
+      "transit_drive": 4,
+      "landmark_ancient_modern": 5,
+      "landmark_crowd": 6,
+      "landmark_budget_luxury": 5
+    }
+  },
+  {
+    "name": "Verona",
+    "countryCode": "IT",
+    "popularity": 3,
+    "P": {
+      "cityWealth": 0.6,
+      "cityType": 0.6,
+      "cityNightlife": 0.3,
+      "relaxed_intensive": -0.6,
+      "nature_culture": -0.8,
+      "solo_social": 0.3,
+      "budget_luxury": 0.4,
+      "landmark_ancient_modern": 1.0,
+      "landmark_crowd": 0.4,
+      "landmark_urban_rural": -0.6
+    },
+    "W": {
+      "cityWealth": 7,
+      "cityType": 8,
+      "cityNightlife": 5,
+      "relaxed_intensive": 7,
+      "nature_culture": 6,
+      "budget_luxury": 4,
+      "landmark_ancient_modern": 8,
+      "landmark_crowd": 4,
+      "landmark_urban_rural": 4
+    }
+  },
+  {
+    "name": "Pisa",
+    "countryCode": "IT",
+    "popularity": 4,
+    "P": {
+      "cityWealth": 0.3,
+      "cityType": 0.4,
+      "cityNightlife": 0.2,
+      "relaxed_intensive": 0.4,
+      "nature_culture": -0.7,
+      "budget_luxury": 0.0,
+      "planned_spontaneous": 0.5,
+      "landmark_ancient_modern": 1.0,
+      "landmark_crowd": 0.8,
+      "landmark_urban_rural": -0.5
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 7,
+      "cityNightlife": 4,
+      "relaxed_intensive": 5,
+      "nature_culture": 5,
+      "budget_luxury": 3,
+      "landmark_ancient_modern": 7,
+      "landmark_crowd": 6,
+      "landmark_urban_rural": 3
+    }
+  },
+  {
+    "name": "Sevilla",
+    "countryCode": "ES",
+    "popularity": 4,
+    "P": {
+      "cityWealth": 0.4,
+      "cityType": 0.7,
+      "cityNightlife": 1.0,
+      "solo_social": 1.0,
+      "nature_culture": -1.0,
+      "relaxed_intensive": -0.2,
+      "morning_night": 1.0,
+      "budget_luxury": 0.2,
+      "landmark_ancient_modern": 0.9,
+      "landmark_urban_rural": -0.8,
+      "landmark_crowd": 0.6,
+      "landmark_budget_luxury": 0.3
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 7,
+      "cityNightlife": 10,
+      "solo_social": 8,
+      "morning_night": 7,
+      "nature_culture": 6,
+      "budget_luxury": 4,
+      "landmark_ancient_modern": 6,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Granada",
+    "countryCode": "ES",
+    "popularity": 3,
+    "P": {
+      "cityWealth": 0.2,
+      "cityType": 0.5,
+      "cityNightlife": 0.8,
+      "budget_luxury": -0.6,
+      "nature_culture": -0.8,
+      "transit_drive": -0.8,
+      "solo_social": 0.6,
+      "relaxed_intensive": -0.2,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": -0.6,
+      "landmark_crowd": 0.7,
+      "landmark_budget_luxury": -0.5
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 7,
+      "cityNightlife": 9,
+      "budget_luxury": 8,
+      "nature_culture": 7,
+      "transit_drive": 5,
+      "landmark_ancient_modern": 8,
+      "landmark_crowd": 4,
+      "landmark_urban_rural": 4
+    }
+  },
+  {
+    "name": "Córdoba",
+    "countryCode": "ES",
+    "popularity": 2,
+    "P": {
+      "cityWealth": 0.3,
+      "cityType": 0.4,
+      "cityNightlife": 0.3,
+      "relaxed_intensive": -0.7,
+      "nature_culture": -1.0,
+      "budget_luxury": -0.4,
+      "solo_social": 0.2,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": -0.7,
+      "landmark_crowd": 0.5
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 6,
+      "cityNightlife": 5,
+      "relaxed_intensive": 8,
+      "nature_culture": 8,
+      "budget_luxury": 5,
+      "landmark_ancient_modern": 9,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Toledo",
+    "countryCode": "ES",
+    "popularity": 2,
+    "P": {
+      "cityWealth": 0.3,
+      "cityType": 0.3,
+      "cityNightlife": -0.5,
+      "transit_drive": -0.9,
+      "nature_culture": -1.0,
+      "relaxed_intensive": 0.5,
+      "morning_night": -0.6,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": -0.4,
+      "landmark_crowd": 0.8
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 8,
+      "nature_culture": 9,
+      "transit_drive": 7,
+      "morning_night": 6,
+      "landmark_ancient_modern": 10,
+      "landmark_urban_rural": 4,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Nice",
+    "countryCode": "FR",
+    "popularity": 4,
+    "P": {
+      "cityWealth": 0.7,
+      "cityType": 0.2,
+      "cityNightlife": 0.7,
+      "relaxed_intensive": -0.8,
+      "budget_luxury": 0.5,
+      "nature_culture": 0.0,
+      "solo_social": 0.6,
+      "landmark_ancient_modern": 0.0,
+      "landmark_urban_rural": 0.2,
+      "landmark_crowd": 0.8,
+      "landmark_budget_luxury": 0.4
+    },
+    "W": {
+      "cityWealth": 7,
+      "cityType": 8,
+      "cityNightlife": 7,
+      "relaxed_intensive": 9,
+      "budget_luxury": 6,
+      "nature_culture": 5,
+      "landmark_urban_rural": 6,
+      "landmark_ancient_modern": 3,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Cannes",
+    "countryCode": "FR",
+    "popularity": 3,
+    "P": {
+      "cityWealth": 0.9,
+      "cityType": 0.4,
+      "cityNightlife": 0.8,
+      "budget_luxury": 1.0,
+      "relaxed_intensive": -0.5,
+      "solo_social": 0.7,
+      "documenter_minimalist": -0.5,
+      "landmark_ancient_modern": 0.6,
+      "landmark_urban_rural": -0.2,
+      "landmark_budget_luxury": 1.0,
+      "landmark_crowd": 0.7
+    },
+    "W": {
+      "cityWealth": 9,
+      "cityType": 7,
+      "cityNightlife": 7,
+      "budget_luxury": 10,
+      "relaxed_intensive": 5,
+      "solo_social": 5,
+      "landmark_budget_luxury": 8,
+      "landmark_urban_rural": 4,
+      "landmark_ancient_modern": 3
+    }
+  },
+  {
+    "name": "Monaco",
+    "countryCode": "MC",
+    "popularity": 4,
+    "P": {
+      "cityWealth": 1.0,
+      "cityType": 1.0,
+      "cityNightlife": 0.9,
+      "budget_luxury": 1.0,
+      "transit_drive": 0.8,
+      "nature_culture": -1.0,
+      "relaxed_intensive": 0.0,
+      "landmark_ancient_modern": 0.9,
+      "landmark_urban_rural": -1.0,
+      "landmark_budget_luxury": 1.0,
+      "landmark_crowd": 0.6
+    },
+    "W": {
+      "cityWealth": 10,
+      "cityType": 9,
+      "cityNightlife": 7,
+      "budget_luxury": 10,
+      "transit_drive": 6,
+      "nature_culture": 5,
+      "landmark_urban_rural": 6,
+      "landmark_budget_luxury": 8,
+      "landmark_ancient_modern": 5
+    }
+  },
+  {
+    "name": "Salzburg",
+    "countryCode": "AT",
+    "popularity": 3,
+    "P": {
+      "cityWealth": 0.8,
+      "cityType": -0.2,
+      "cityNightlife": -0.3,
+      "nature_culture": 0.0,
+      "relaxed_intensive": -0.6,
+      "budget_luxury": 0.4,
+      "morning_night": -0.5,
+      "landmark_ancient_modern": 0.8,
+      "landmark_urban_rural": 0.2,
+      "landmark_crowd": 0.5,
+      "landmark_budget_luxury": 0.3
+    },
+    "W": {
+      "cityWealth": 7,
+      "cityType": 8,
+      "cityNightlife": 6,
+      "nature_culture": 8,
+      "relaxed_intensive": 7,
+      "morning_night": 5,
+      "landmark_ancient_modern": 7,
+      "landmark_urban_rural": 6,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Kraków",
+    "countryCode": "PL",
+    "popularity": 3,
+    "P": {
+      "cityWealth": 0.0,
+      "cityType": 0.6,
+      "cityNightlife": 0.9,
+      "budget_luxury": -0.9,
+      "solo_social": 0.7,
+      "nature_culture": -0.8,
+      "morning_night": 1.0,
+      "transit_drive": -0.6,
+      "landmark_ancient_modern": 0.9,
+      "landmark_urban_rural": -0.7,
+      "landmark_budget_luxury": -0.8,
+      "landmark_crowd": 0.6
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 7,
+      "cityNightlife": 9,
+      "budget_luxury": 10,
+      "morning_night": 7,
+      "nature_culture": 6,
+      "solo_social": 5,
+      "landmark_ancient_modern": 7,
+      "landmark_budget_luxury": 7,
+      "landmark_urban_rural": 4
+    }
+  },
+  {
+    "name": "Tallinn",
+    "countryCode": "EE",
+    "popularity": 1,
+    "P": {
+      "cityWealth": 0.4,
+      "cityType": 0.5,
+      "cityNightlife": 0.4,
+      "budget_luxury": -0.3,
+      "nature_culture": -0.5,
+      "relaxed_intensive": -0.3,
+      "transit_drive": -0.5,
+      "landmark_ancient_modern": 0.5,
+      "landmark_urban_rural": -0.6,
+      "landmark_crowd": 0.3
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 6,
+      "cityNightlife": 4,
+      "budget_luxury": 6,
+      "nature_culture": 6,
+      "relaxed_intensive": 4,
+      "landmark_ancient_modern": 8,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Vilnius",
+    "countryCode": "LT",
+    "popularity": 0,
+    "P": {
+      "cityWealth": 0.2,
+      "cityType": 0.3,
+      "cityNightlife": 0.6,
+      "budget_luxury": -0.7,
+      "nature_culture": 0.0,
+      "relaxed_intensive": -0.5,
+      "planned_spontaneous": 0.6,
+      "landmark_ancient_modern": 0.9,
+      "landmark_urban_rural": -0.3,
+      "landmark_crowd": -0.2,
+      "landmark_budget_luxury": -0.6
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 6,
+      "budget_luxury": 8,
+      "nature_culture": 7,
+      "relaxed_intensive": 5,
+      "landmark_ancient_modern": 7,
+      "landmark_crowd": 5,
+      "landmark_urban_rural": 4
+    }
+  },
+  {
+    "name": "Reykjavík",
+    "countryCode": "IS",
+    "popularity": 3,
+    "P": {
+      "cityWealth": 0.9,
+      "cityType": -0.5,
+      "cityNightlife": 0.2,
+      "transit_drive": 1.0,
+      "nature_culture": 1.0,
+      "budget_luxury": 0.8,
+      "relaxed_intensive": 0.5,
+      "landmark_urban_rural": 0.5,
+      "landmark_ancient_modern": 0.8,
+      "landmark_crowd": -0.2,
+      "landmark_budget_luxury": 0.9
+    },
+    "W": {
+      "cityWealth": 8,
+      "cityType": 9,
+      "cityNightlife": 5,
+      "transit_drive": 10,
+      "nature_culture": 9,
+      "budget_luxury": 7,
+      "relaxed_intensive": 4,
+      "landmark_urban_rural": 6,
+      "landmark_ancient_modern": 4,
+      "landmark_crowd": 3,
+      "landmark_budget_luxury": 6
+    }
+  },
+  {
+    "name": "Dubrovnik",
+    "countryCode": "HR",
+    "popularity": 3,
+    "P": {
+      "cityWealth": 0.4,
+      "cityType": 0.2,
+      "cityNightlife": 0.5,
+      "nature_culture": -0.5,
+      "transit_drive": -1.0,
+      "budget_luxury": 0.5,
+      "solo_social": 0.6,
+      "landmark_ancient_modern": 1.0,
+      "landmark_crowd": 1.0,
+      "landmark_urban_rural": -0.5,
+      "landmark_budget_luxury": 0.5
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 7,
+      "cityNightlife": 6,
+      "transit_drive": 8,
+      "nature_culture": 6,
+      "budget_luxury": 5,
+      "solo_social": 4,
+      "landmark_ancient_modern": 9,
+      "landmark_crowd": 7,
+      "landmark_urban_rural": 4
+    }
+  },
+  {
+    "name": "Split",
+    "countryCode": "HR",
+    "popularity": 2,
+    "P": {
+      "cityWealth": 0.3,
+      "cityType": 0.4,
+      "cityNightlife": 0.9,
+      "relaxed_intensive": -0.3,
+      "solo_social": 0.8,
+      "nature_culture": -0.3,
+      "morning_night": 0.8,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": -0.4,
+      "landmark_crowd": 0.8
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 6,
+      "cityNightlife": 9,
+      "solo_social": 7,
+      "morning_night": 7,
+      "relaxed_intensive": 5,
+      "landmark_ancient_modern": 8,
+      "landmark_crowd": 5,
+      "landmark_urban_rural": 3
+    }
+  },
+  {
+    "name": "Luzern",
+    "countryCode": "CH",
+    "popularity": 2,
+    "P": {
+      "cityWealth": 1.0,
+      "cityType": -0.3,
+      "cityNightlife": -0.5,
+      "budget_luxury": 1.0,
+      "nature_culture": 0.0,
+      "relaxed_intensive": -0.8,
+      "transit_drive": -0.5,
+      "landmark_ancient_modern": 0.7,
+      "landmark_urban_rural": 0.2,
+      "landmark_crowd": 0.4,
+      "landmark_budget_luxury": 0.9
+    },
+    "W": {
+      "cityWealth": 9,
+      "cityType": 8,
+      "cityNightlife": 6,
+      "budget_luxury": 9,
+      "nature_culture": 7,
+      "relaxed_intensive": 6,
+      "landmark_ancient_modern": 6,
+      "landmark_urban_rural": 6,
+      "landmark_budget_luxury": 7
+    }
+  },
+  {
+    "name": "Bruges",
+    "countryCode": "BE",
+    "popularity": 3,
+    "P": {
+      "cityWealth": 0.6,
+      "cityType": 0.3,
+      "cityNightlife": -0.7,
+      "transit_drive": -1.0,
+      "relaxed_intensive": -0.5,
+      "nature_culture": -0.8,
+      "budget_luxury": 0.4,
+      "landmark_ancient_modern": 1.0,
+      "landmark_crowd": 0.8,
+      "landmark_urban_rural": -0.6
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 7,
+      "cityNightlife": 8,
+      "transit_drive": 8,
+      "nature_culture": 7,
+      "relaxed_intensive": 5,
+      "landmark_ancient_modern": 9,
+      "landmark_crowd": 5,
+      "landmark_urban_rural": 4
+    }
+  },
+  {
+    "name": "Gent",
+    "countryCode": "BE",
+    "popularity": 1,
+    "P": {
+      "cityWealth": 0.5,
+      "cityType": 0.4,
+      "cityNightlife": 0.7,
+      "solo_social": 0.6,
+      "nature_culture": -0.7,
+      "budget_luxury": 0.0,
+      "morning_night": 0.5,
+      "landmark_ancient_modern": 0.9,
+      "landmark_urban_rural": -0.5,
+      "landmark_crowd": 0.5
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 7,
+      "solo_social": 6,
+      "morning_night": 5,
+      "nature_culture": 6,
+      "landmark_ancient_modern": 7,
+      "landmark_urban_rural": 4,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Colmar",
+    "countryCode": "FR",
+    "popularity": 2,
+    "P": {
+      "cityWealth": 0.5,
+      "cityType": -0.2,
+      "cityNightlife": -0.6,
+      "relaxed_intensive": -0.7,
+      "documenter_minimalist": -0.8,
+      "nature_culture": -0.4,
+      "budget_luxury": 0.3,
+      "landmark_ancient_modern": 0.9,
+      "landmark_urban_rural": 0.3,
+      "landmark_crowd": 0.6
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 8,
+      "cityNightlife": 6,
+      "relaxed_intensive": 7,
+      "documenter_minimalist": 6,
+      "nature_culture": 5,
+      "landmark_ancient_modern": 8,
+      "landmark_urban_rural": 6,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Strasbourg",
+    "countryCode": "FR",
+    "popularity": 2,
+    "P": {
+      "cityWealth": 0.6,
+      "cityType": 0.6,
+      "cityNightlife": 0.4,
+      "nature_culture": -0.8,
+      "transit_drive": -0.8,
+      "budget_luxury": 0.2,
+      "solo_social": 0.3,
+      "landmark_ancient_modern": 0.8,
+      "landmark_urban_rural": -0.5,
+      "landmark_crowd": 0.5
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 7,
+      "cityNightlife": 5,
+      "nature_culture": 7,
+      "transit_drive": 6,
+      "budget_luxury": 3,
+      "landmark_ancient_modern": 7,
+      "landmark_urban_rural": 4,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Avignon",
+    "countryCode": "FR",
+    "popularity": 1,
+    "P": {
+      "cityWealth": 0.4,
+      "cityType": 0.3,
+      "cityNightlife": 0.2,
+      "nature_culture": -0.9,
+      "relaxed_intensive": -0.2,
+      "budget_luxury": 0.0,
+      "planned_spontaneous": 0.3,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": -0.4,
+      "landmark_crowd": 0.5
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 6,
+      "cityNightlife": 5,
+      "nature_culture": 8,
+      "relaxed_intensive": 4,
+      "landmark_ancient_modern": 9,
+      "landmark_urban_rural": 4,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Arles",
+    "countryCode": "FR",
+    "popularity": 0,
+    "P": {
+      "cityWealth": 0.3,
+      "cityType": 0.1,
+      "cityNightlife": -0.3,
+      "relaxed_intensive": -0.6,
+      "nature_culture": -0.8,
+      "documenter_minimalist": -0.6,
+      "budget_luxury": -0.2,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": 0.0,
+      "landmark_crowd": 0.3
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 5,
+      "relaxed_intensive": 7,
+      "nature_culture": 7,
+      "documenter_minimalist": 5,
+      "landmark_ancient_modern": 9,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Siena",
+    "countryCode": "IT",
+    "popularity": 2,
+    "P": {
+      "cityWealth": 0.5,
+      "cityType": 0.2,
+      "cityNightlife": -0.3,
+      "transit_drive": -0.9,
+      "nature_culture": -0.9,
+      "relaxed_intensive": -0.4,
+      "budget_luxury": 0.3,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": -0.3,
+      "landmark_crowd": 0.6
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 7,
+      "cityNightlife": 6,
+      "transit_drive": 8,
+      "nature_culture": 8,
+      "relaxed_intensive": 4,
+      "landmark_ancient_modern": 9,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Kyoto",
+    "countryCode": "JP",
+    "popularity": 8,
+    "P": {
+      "cityWealth": 0.7,
+      "cityType": 0.5,
+      "cityNightlife": -0.2,
+      "nature_culture": -1.0,
+      "relaxed_intensive": -0.5,
+      "budget_luxury": 0.5,
+      "morning_night": -0.5,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": -0.2,
+      "landmark_crowd": 1.0,
+      "landmark_budget_luxury": 0.6
+    },
+    "W": {
+      "cityWealth": 7,
+      "cityType": 8,
+      "cityNightlife": 7,
+      "nature_culture": 10,
+      "relaxed_intensive": 5,
+      "morning_night": 5,
+      "landmark_ancient_modern": 10,
+      "landmark_crowd": 7,
+      "landmark_urban_rural": 4
+    }
+  },
+  {
+    "name": "Nara",
+    "countryCode": "JP",
+    "popularity": 4,
+    "P": {
+      "cityWealth": 0.5,
+      "cityType": 0.1,
+      "cityNightlife": -0.8,
+      "nature_culture": 0.0,
+      "relaxed_intensive": -0.7,
+      "transit_drive": -0.5,
+      "budget_luxury": 0.0,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": 0.3,
+      "landmark_crowd": 0.7
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 6,
+      "nature_culture": 8,
+      "relaxed_intensive": 6,
+      "landmark_ancient_modern": 9,
+      "landmark_urban_rural": 6,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Hiroshima",
+    "countryCode": "JP",
+    "popularity": 3,
+    "P": {
+      "cityWealth": 0.6,
+      "cityType": 0.7,
+      "cityNightlife": 0.3,
+      "nature_culture": -0.5,
+      "relaxed_intensive": 0.0,
+      "transit_drive": -0.7,
+      "solo_social": 0.3,
+      "landmark_ancient_modern": 0.0,
+      "landmark_urban_rural": -0.8,
+      "landmark_crowd": 0.5
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 7,
+      "cityNightlife": 5,
+      "nature_culture": 6,
+      "transit_drive": 5,
+      "relaxed_intensive": 4,
+      "landmark_ancient_modern": 5,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Kanazawa",
+    "countryCode": "JP",
+    "popularity": 1,
+    "P": {
+      "cityWealth": 0.6,
+      "cityType": 0.4,
+      "cityNightlife": -0.3,
+      "nature_culture": -0.2,
+      "relaxed_intensive": -0.6,
+      "budget_luxury": 0.3,
+      "documenter_minimalist": -0.5,
+      "landmark_ancient_modern": 0.8,
+      "landmark_urban_rural": 0.0,
+      "landmark_crowd": 0.4
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 7,
+      "cityNightlife": 5,
+      "nature_culture": 7,
+      "relaxed_intensive": 6,
+      "documenter_minimalist": 4,
+      "landmark_ancient_modern": 7,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Jeju City",
+    "countryCode": "KR",
+    "popularity": 2,
+    "P": {
+      "cityWealth": 0.5,
+      "cityType": 0.3,
+      "cityNightlife": 0.4,
+      "transit_drive": 1.0,
+      "nature_culture": 0.5,
+      "relaxed_intensive": -0.4,
+      "budget_luxury": 0.2,
+      "landmark_urban_rural": 0.2,
+      "landmark_ancient_modern": 0.0,
+      "landmark_crowd": 0.6,
+      "landmark_budget_luxury": 0.3
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 5,
+      "transit_drive": 10,
+      "nature_culture": 8,
+      "relaxed_intensive": 5,
+      "landmark_urban_rural": 6,
+      "landmark_ancient_modern": 3,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Siem Reap",
+    "countryCode": "KH",
+    "popularity": 4,
+    "P": {
+      "cityWealth": -0.6,
+      "cityType": -0.5,
+      "cityNightlife": 0.5,
+      "nature_culture": -0.5,
+      "relaxed_intensive": 0.5,
+      "budget_luxury": -0.8,
+      "morning_night": 0.5,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": -0.6,
+      "landmark_crowd": 0.8,
+      "landmark_budget_luxury": -0.5
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 6,
+      "nature_culture": 9,
+      "relaxed_intensive": 5,
+      "budget_luxury": 7,
+      "landmark_ancient_modern": 10,
+      "landmark_crowd": 5,
+      "landmark_urban_rural": 4
+    }
+  },
+  {
+    "name": "Luang Prabang",
+    "countryCode": "LA",
+    "popularity": 1,
+    "P": {
+      "cityWealth": -0.7,
+      "cityType": -0.8,
+      "cityNightlife": -0.9,
+      "relaxed_intensive": -1.0,
+      "nature_culture": -0.2,
+      "budget_luxury": -0.5,
+      "morning_night": -0.8,
+      "landmark_ancient_modern": 0.8,
+      "landmark_urban_rural": 0.5,
+      "landmark_crowd": -0.4
+    },
+    "W": {
+      "cityWealth": 4,
+      "cityType": 8,
+      "cityNightlife": 7,
+      "relaxed_intensive": 9,
+      "nature_culture": 7,
+      "morning_night": 6,
+      "landmark_ancient_modern": 7,
+      "landmark_urban_rural": 6,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Ubud",
+    "countryCode": "ID",
+    "popularity": 4,
+    "P": {
+      "cityWealth": -0.4,
+      "cityType": -0.6,
+      "cityNightlife": -0.3,
+      "nature_culture": 0.3,
+      "relaxed_intensive": -0.5,
+      "budget_luxury": 0.0,
+      "solo_social": 0.4,
+      "landmark_ancient_modern": 0.7,
+      "landmark_urban_rural": 0.6,
+      "landmark_crowd": 0.5
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 8,
+      "cityNightlife": 5,
+      "nature_culture": 8,
+      "relaxed_intensive": 6,
+      "budget_luxury": 4,
+      "landmark_urban_rural": 7,
+      "landmark_ancient_modern": 5,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Chiang Mai",
+    "countryCode": "TH",
+    "popularity": 3,
+    "P": {
+      "cityWealth": -0.3,
+      "cityType": 0.2,
+      "cityNightlife": 0.6,
+      "budget_luxury": -0.8,
+      "relaxed_intensive": -0.4,
+      "nature_culture": -0.3,
+      "solo_social": 0.6,
+      "landmark_ancient_modern": 0.9,
+      "landmark_urban_rural": -0.3,
+      "landmark_crowd": 0.4,
+      "landmark_budget_luxury": -0.7
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 6,
+      "cityNightlife": 7,
+      "budget_luxury": 9,
+      "relaxed_intensive": 6,
+      "nature_culture": 5,
+      "landmark_ancient_modern": 7,
+      "landmark_urban_rural": 4,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Phuket",
+    "countryCode": "TH",
+    "popularity": 5,
+    "P": {
+      "cityWealth": 0.0,
+      "cityType": 0.0,
+      "cityNightlife": 0.9,
+      "nature_culture": 0.6,
+      "relaxed_intensive": 0.0,
+      "budget_luxury": 0.4,
+      "morning_night": 0.8,
+      "landmark_urban_rural": 0.5,
+      "landmark_ancient_modern": -0.2,
+      "landmark_crowd": 0.8,
+      "landmark_budget_luxury": 0.4
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 6,
+      "cityNightlife": 9,
+      "nature_culture": 8,
+      "budget_luxury": 5,
+      "morning_night": 6,
+      "landmark_urban_rural": 6,
+      "landmark_crowd": 5,
+      "landmark_ancient_modern": 2
+    }
+  },
+  {
+    "name": "Jaipur",
+    "countryCode": "IN",
+    "popularity": 3,
+    "P": {
+      "cityWealth": -0.5,
+      "cityType": 0.5,
+      "cityNightlife": -0.2,
+      "relaxed_intensive": 0.9,
+      "nature_culture": -0.9,
+      "budget_luxury": -0.6,
+      "transit_drive": -0.5,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": -0.5,
+      "landmark_crowd": 1.0,
+      "landmark_budget_luxury": -0.4
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 4,
+      "relaxed_intensive": 9,
+      "nature_culture": 8,
+      "budget_luxury": 6,
+      "landmark_ancient_modern": 9,
+      "landmark_crowd": 7,
+      "landmark_urban_rural": 4
+    }
+  },
+  {
+    "name": "Agra",
+    "countryCode": "IN",
+    "popularity": 3,
+    "P": {
+      "cityWealth": -0.7,
+      "cityType": 0.3,
+      "cityNightlife": -0.8,
+      "relaxed_intensive": 1.0,
+      "nature_culture": -0.8,
+      "budget_luxury": -0.7,
+      "planned_spontaneous": -0.5,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": -0.3,
+      "landmark_crowd": 1.0
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 6,
+      "cityNightlife": 3,
+      "relaxed_intensive": 8,
+      "nature_culture": 7,
+      "budget_luxury": 5,
+      "landmark_ancient_modern": 10,
+      "landmark_crowd": 8,
+      "landmark_urban_rural": 3
+    }
+  },
+  {
+    "name": "Lijiang",
+    "countryCode": "CN",
+    "popularity": 0,
+    "P": {
+      "cityWealth": 0.0,
+      "cityType": -0.2,
+      "cityNightlife": 0.4,
+      "nature_culture": -0.3,
+      "relaxed_intensive": 0.3,
+      "documenter_minimalist": -0.7,
+      "transit_drive": -0.8,
+      "landmark_ancient_modern": 0.9,
+      "landmark_urban_rural": -0.2,
+      "landmark_crowd": 0.9
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 5,
+      "nature_culture": 6,
+      "relaxed_intensive": 5,
+      "documenter_minimalist": 5,
+      "landmark_ancient_modern": 8,
+      "landmark_crowd": 6,
+      "landmark_urban_rural": 4
+    }
+  },
+  {
+    "name": "Dali",
+    "countryCode": "CN",
+    "popularity": 0,
+    "P": {
+      "cityWealth": -0.2,
+      "cityType": -0.4,
+      "cityNightlife": 0.2,
+      "relaxed_intensive": -0.8,
+      "nature_culture": 0.4,
+      "transit_drive": 0.3,
+      "solo_social": 0.4,
+      "landmark_ancient_modern": 0.8,
+      "landmark_urban_rural": 0.5,
+      "landmark_crowd": 0.4
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 4,
+      "relaxed_intensive": 8,
+      "nature_culture": 7,
+      "transit_drive": 5,
+      "landmark_ancient_modern": 7,
+      "landmark_urban_rural": 6,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Zhangjiajie",
+    "countryCode": "CN",
+    "popularity": 1,
+    "P": {
+      "cityWealth": -0.3,
+      "cityType": -0.8,
+      "cityNightlife": -0.5,
+      "nature_culture": 1.0,
+      "relaxed_intensive": 0.6,
+      "budget_luxury": -0.2,
+      "documenter_minimalist": -0.9,
+      "landmark_urban_rural": 1.0,
+      "landmark_ancient_modern": 0.0,
+      "landmark_crowd": 0.7
+    },
+    "W": {
+      "cityWealth": 4,
+      "cityType": 9,
+      "cityNightlife": 3,
+      "nature_culture": 10,
+      "relaxed_intensive": 6,
+      "documenter_minimalist": 6,
+      "landmark_urban_rural": 8,
+      "landmark_ancient_modern": 2,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Guilin",
+    "countryCode": "CN",
+    "popularity": 1,
+    "P": {
+      "cityWealth": -0.2,
+      "cityType": -0.3,
+      "cityNightlife": 0.0,
+      "nature_culture": 0.7,
+      "relaxed_intensive": -0.4,
+      "budget_luxury": 0.0,
+      "landmark_urban_rural": 0.6,
+      "landmark_ancient_modern": 0.5,
+      "landmark_crowd": 0.5
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 8,
+      "cityNightlife": 4,
+      "nature_culture": 9,
+      "relaxed_intensive": 5,
+      "landmark_urban_rural": 7,
+      "landmark_ancient_modern": 4,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Yangshuo",
+    "countryCode": "CN",
+    "popularity": 0,
+    "P": {
+      "cityWealth": -0.5,
+      "cityType": -0.9,
+      "cityNightlife": 0.3,
+      "nature_culture": 0.9,
+      "relaxed_intensive": -0.2,
+      "budget_luxury": -0.7,
+      "transit_drive": 0.5,
+      "landmark_urban_rural": 1.0,
+      "landmark_ancient_modern": 0.3,
+      "landmark_crowd": 0.4
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 9,
+      "cityNightlife": 5,
+      "nature_culture": 9,
+      "budget_luxury": 7,
+      "transit_drive": 6,
+      "landmark_urban_rural": 8,
+      "landmark_ancient_modern": 3,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Kamakura",
+    "countryCode": "JP",
+    "popularity": 1,
+    "P": {
+      "cityWealth": 0.6,
+      "cityType": 0.2,
+      "cityNightlife": -0.6,
+      "nature_culture": -0.2,
+      "relaxed_intensive": -0.4,
+      "transit_drive": -0.8,
+      "morning_night": -0.5,
+      "landmark_ancient_modern": 0.9,
+      "landmark_urban_rural": -0.2,
+      "landmark_crowd": 0.6
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 7,
+      "cityNightlife": 5,
+      "nature_culture": 6,
+      "transit_drive": 6,
+      "relaxed_intensive": 5,
+      "landmark_ancient_modern": 8,
+      "landmark_urban_rural": 4,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Takayama",
+    "countryCode": "JP",
+    "popularity": 0,
+    "P": {
+      "cityWealth": 0.5,
+      "cityType": -0.3,
+      "cityNightlife": -0.7,
+      "nature_culture": -0.5,
+      "relaxed_intensive": -0.8,
+      "budget_luxury": 0.2,
+      "documenter_minimalist": -0.4,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": 0.4,
+      "landmark_crowd": 0.3
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 8,
+      "cityNightlife": 5,
+      "nature_culture": 7,
+      "relaxed_intensive": 7,
+      "budget_luxury": 4,
+      "landmark_ancient_modern": 9,
+      "landmark_urban_rural": 6,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Sapporo",
+    "countryCode": "JP",
+    "popularity": 2,
+    "P": {
+      "cityWealth": 0.7,
+      "cityType": 0.8,
+      "cityNightlife": 0.5,
+      "nature_culture": 0.0,
+      "relaxed_intensive": -0.3,
+      "budget_luxury": 0.3,
+      "transit_drive": 0.2,
+      "landmark_ancient_modern": -0.4,
+      "landmark_urban_rural": -0.6,
+      "landmark_crowd": 0.5
+    },
+    "W": {
+      "cityWealth": 7,
+      "cityType": 8,
+      "cityNightlife": 6,
+      "nature_culture": 5,
+      "relaxed_intensive": 5,
+      "budget_luxury": 4,
+      "landmark_ancient_modern": 6,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Okinawa",
+    "countryCode": "JP",
+    "popularity": 2,
+    "P": {
+      "cityWealth": 0.4,
+      "cityType": -0.5,
+      "cityNightlife": 0.3,
+      "transit_drive": 1.0,
+      "nature_culture": 0.8,
+      "relaxed_intensive": -0.6,
+      "budget_luxury": 0.2,
+      "landmark_urban_rural": 0.7,
+      "landmark_ancient_modern": 0.0,
+      "landmark_crowd": 0.6
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 8,
+      "cityNightlife": 5,
+      "transit_drive": 10,
+      "nature_culture": 8,
+      "relaxed_intensive": 6,
+      "landmark_urban_rural": 7,
+      "landmark_ancient_modern": 2,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Vientiane",
+    "countryCode": "LA",
+    "popularity": 0,
+    "P": {
+      "cityWealth": -0.6,
+      "cityType": 0.2,
+      "cityNightlife": -0.5,
+      "relaxed_intensive": -0.9,
+      "budget_luxury": -0.7,
+      "nature_culture": -0.3,
+      "landmark_ancient_modern": 0.6,
+      "landmark_urban_rural": -0.2,
+      "landmark_crowd": -0.5
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 6,
+      "cityNightlife": 5,
+      "relaxed_intensive": 8,
+      "budget_luxury": 7,
+      "nature_culture": 5,
+      "landmark_ancient_modern": 6,
+      "landmark_urban_rural": 4,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Kathmandu",
+    "countryCode": "NP",
+    "popularity": 2,
+    "P": {
+      "cityWealth": -0.8,
+      "cityType": 0.4,
+      "cityNightlife": 0.2,
+      "relaxed_intensive": 1.0,
+      "nature_culture": -0.6,
+      "budget_luxury": -0.9,
+      "transit_drive": -0.5,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": -0.4,
+      "landmark_crowd": 1.0
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 6,
+      "cityNightlife": 4,
+      "relaxed_intensive": 9,
+      "budget_luxury": 8,
+      "nature_culture": 7,
+      "landmark_ancient_modern": 10,
+      "landmark_crowd": 8,
+      "landmark_urban_rural": 3
+    }
+  },
+  {
+    "name": "Pokhara",
+    "countryCode": "NP",
+    "popularity": 1,
+    "P": {
+      "cityWealth": -0.7,
+      "cityType": -0.9,
+      "cityNightlife": -0.5,
+      "nature_culture": 1.0,
+      "relaxed_intensive": -0.4,
+      "budget_luxury": -0.9,
+      "landmark_urban_rural": 0.9,
+      "landmark_ancient_modern": 0.0,
+      "landmark_crowd": -0.3
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 9,
+      "cityNightlife": 4,
+      "nature_culture": 10,
+      "budget_luxury": 7,
+      "relaxed_intensive": 5,
+      "landmark_urban_rural": 8,
+      "landmark_ancient_modern": 2,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Marrakesh",
+    "countryCode": "MA",
+    "popularity": 5,
+    "P": {
+      "cityWealth": -0.4,
+      "cityType": 0.6,
+      "cityNightlife": 0.5,
+      "relaxed_intensive": 1.0,
+      "nature_culture": -0.9,
+      "budget_luxury": -0.3,
+      "planned_spontaneous": 0.5,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": -0.5,
+      "landmark_crowd": 1.0
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 6,
+      "relaxed_intensive": 9,
+      "nature_culture": 8,
+      "budget_luxury": 4,
+      "landmark_ancient_modern": 9,
+      "landmark_crowd": 8,
+      "landmark_urban_rural": 4
+    }
+  },
+  {
+    "name": "Fes",
+    "countryCode": "MA",
+    "popularity": 2,
+    "P": {
+      "cityWealth": -0.6,
+      "cityType": 0.5,
+      "cityNightlife": -0.8,
+      "relaxed_intensive": 0.8,
+      "nature_culture": -1.0,
+      "budget_luxury": -0.5,
+      "transit_drive": -1.0,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": -0.6,
+      "landmark_crowd": 0.9
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 5,
+      "nature_culture": 9,
+      "relaxed_intensive": 7,
+      "transit_drive": 6,
+      "landmark_ancient_modern": 10,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 6
+    }
+  },
+  {
+    "name": "Essaouira",
+    "countryCode": "MA",
+    "popularity": 0,
+    "P": {
+      "cityWealth": -0.5,
+      "cityType": -0.3,
+      "cityNightlife": -0.4,
+      "relaxed_intensive": -0.7,
+      "nature_culture": 0.2,
+      "budget_luxury": -0.6,
+      "landmark_ancient_modern": 0.9,
+      "landmark_urban_rural": 0.4,
+      "landmark_crowd": 0.3
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 4,
+      "relaxed_intensive": 8,
+      "nature_culture": 6,
+      "budget_luxury": 5,
+      "landmark_ancient_modern": 8,
+      "landmark_urban_rural": 6,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Luxor",
+    "countryCode": "EG",
+    "popularity": 3,
+    "P": {
+      "cityWealth": -0.7,
+      "cityType": -0.4,
+      "cityNightlife": -0.5,
+      "nature_culture": -1.0,
+      "relaxed_intensive": 0.8,
+      "budget_luxury": -0.6,
+      "transit_drive": -0.5,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": -0.5,
+      "landmark_crowd": 0.8,
+      "landmark_budget_luxury": -0.5
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 6,
+      "cityNightlife": 4,
+      "nature_culture": 10,
+      "relaxed_intensive": 7,
+      "budget_luxury": 6,
+      "landmark_ancient_modern": 10,
+      "landmark_crowd": 5,
+      "landmark_urban_rural": 4
+    }
+  },
+  {
+    "name": "Aswān",
+    "countryCode": "EG",
+    "popularity": 1,
+    "P": {
+      "cityWealth": -0.6,
+      "cityType": -0.6,
+      "cityNightlife": -0.7,
+      "relaxed_intensive": -0.4,
+      "nature_culture": 0.3,
+      "budget_luxury": -0.5,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": 0.5,
+      "landmark_crowd": 0.4
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 5,
+      "relaxed_intensive": 8,
+      "nature_culture": 6,
+      "budget_luxury": 5,
+      "landmark_ancient_modern": 9,
+      "landmark_urban_rural": 6,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Giza",
+    "countryCode": "EG",
+    "popularity": 4,
+    "P": {
+      "cityWealth": -0.5,
+      "cityType": 0.3,
+      "cityNightlife": -0.2,
+      "relaxed_intensive": 1.0,
+      "nature_culture": -1.0,
+      "budget_luxury": -0.4,
+      "transit_drive": -0.8,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": -0.5,
+      "landmark_crowd": 1.0
+    },
+    "W": {
+      "cityWealth": 4,
+      "cityType": 6,
+      "cityNightlife": 3,
+      "nature_culture": 9,
+      "relaxed_intensive": 9,
+      "transit_drive": 5,
+      "landmark_ancient_modern": 10,
+      "landmark_crowd": 8,
+      "landmark_urban_rural": 3
+    }
+  },
+  {
+    "name": "Zanzibar",
+    "countryCode": "TZ",
+    "popularity": 3,
+    "P": {
+      "cityWealth": -0.6,
+      "cityType": -0.7,
+      "cityNightlife": 0.2,
+      "nature_culture": 0.5,
+      "relaxed_intensive": -0.8,
+      "budget_luxury": 0.2,
+      "solo_social": 0.4,
+      "landmark_ancient_modern": 0.8,
+      "landmark_urban_rural": 0.6,
+      "landmark_crowd": 0.2
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 8,
+      "cityNightlife": 5,
+      "nature_culture": 8,
+      "relaxed_intensive": 7,
+      "budget_luxury": 4,
+      "landmark_ancient_modern": 6,
+      "landmark_urban_rural": 7,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Victoria Falls",
+    "countryCode": "ZW",
+    "popularity": 2,
+    "P": {
+      "cityWealth": -0.5,
+      "cityType": -0.8,
+      "cityNightlife": 0.0,
+      "nature_culture": 1.0,
+      "relaxed_intensive": 0.5,
+      "budget_luxury": 0.0,
+      "landmark_urban_rural": 1.0,
+      "landmark_ancient_modern": 0.0,
+      "landmark_crowd": 0.6
+    },
+    "W": {
+      "cityWealth": 4,
+      "cityType": 9,
+      "cityNightlife": 4,
+      "nature_culture": 10,
+      "relaxed_intensive": 6,
+      "budget_luxury": 4,
+      "landmark_urban_rural": 9,
+      "landmark_ancient_modern": 2,
+      "landmark_crowd": 5
+    }
+  },
+  {
+    "name": "Jerusalem",
+    "countryCode": "IL",
+    "popularity": 5,
+    "P": {
+      "cityWealth": 0.4,
+      "cityType": 0.5,
+      "cityNightlife": -0.3,
+      "nature_culture": -1.0,
+      "relaxed_intensive": 0.7,
+      "budget_luxury": 0.3,
+      "transit_drive": -0.6,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": -0.4,
+      "landmark_crowd": 0.9
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 7,
+      "cityNightlife": 5,
+      "nature_culture": 10,
+      "relaxed_intensive": 6,
+      "transit_drive": 5,
+      "landmark_ancient_modern": 10,
+      "landmark_crowd": 6,
+      "landmark_urban_rural": 4
+    }
+  },
+  {
+    "name": "Nazareth",
+    "countryCode": "IL",
+    "popularity": 1,
+    "P": {
+      "cityWealth": 0.2,
+      "cityType": 0.1,
+      "cityNightlife": -0.6,
+      "nature_culture": -0.8,
+      "relaxed_intensive": -0.3,
+      "budget_luxury": 0.0,
+      "landmark_ancient_modern": 0.9,
+      "landmark_urban_rural": -0.2,
+      "landmark_crowd": 0.5
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 6,
+      "cityNightlife": 4,
+      "nature_culture": 8,
+      "relaxed_intensive": 5,
+      "landmark_ancient_modern": 8,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Salalah",
+    "countryCode": "OM",
+    "popularity": 0,
+    "P": {
+      "cityWealth": 0.5,
+      "cityType": -0.6,
+      "cityNightlife": -0.9,
+      "nature_culture": 0.8,
+      "transit_drive": 0.9,
+      "relaxed_intensive": -0.8,
+      "budget_luxury": 0.3,
+      "landmark_urban_rural": 0.8,
+      "landmark_ancient_modern": 0.0,
+      "landmark_crowd": -0.3
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 8,
+      "cityNightlife": 6,
+      "nature_culture": 9,
+      "transit_drive": 8,
+      "relaxed_intensive": 6,
+      "landmark_urban_rural": 7,
+      "landmark_ancient_modern": 3,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Addis Ababa",
+    "countryCode": "ET",
+    "popularity": 0,
+    "P": {
+      "cityWealth": -0.6,
+      "cityType": 0.6,
+      "cityNightlife": 0.3,
+      "nature_culture": -0.6,
+      "relaxed_intensive": 0.6,
+      "budget_luxury": -0.7,
+      "transit_drive": -0.4,
+      "landmark_ancient_modern": 0.0,
+      "landmark_urban_rural": -0.5,
+      "landmark_crowd": 0.8
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 5,
+      "nature_culture": 7,
+      "relaxed_intensive": 6,
+      "budget_luxury": 5,
+      "landmark_ancient_modern": 4,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Lalibela",
+    "countryCode": "ET",
+    "popularity": 0,
+    "P": {
+      "cityWealth": -0.8,
+      "cityType": -0.9,
+      "cityNightlife": -0.9,
+      "nature_culture": -0.7,
+      "relaxed_intensive": -0.2,
+      "budget_luxury": -0.9,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": 0.8,
+      "landmark_crowd": 0.4
+    },
+    "W": {
+      "cityWealth": 4,
+      "cityType": 9,
+      "cityNightlife": 5,
+      "nature_culture": 9,
+      "budget_luxury": 6,
+      "relaxed_intensive": 4,
+      "landmark_ancient_modern": 10,
+      "landmark_urban_rural": 7,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Chefchaouen",
+    "countryCode": "MA",
+    "popularity": 1,
+    "P": {
+      "cityWealth": -0.4,
+      "cityType": -0.5,
+      "cityNightlife": -0.6,
+      "documenter_minimalist": -1.0,
+      "relaxed_intensive": -0.7,
+      "nature_culture": -0.3,
+      "budget_luxury": -0.5,
+      "landmark_ancient_modern": 0.8,
+      "landmark_urban_rural": 0.2,
+      "landmark_crowd": 0.6
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 5,
+      "documenter_minimalist": 9,
+      "relaxed_intensive": 6,
+      "nature_culture": 5,
+      "landmark_ancient_modern": 7,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Tangier",
+    "countryCode": "MA",
+    "popularity": 1,
+    "P": {
+      "cityWealth": -0.2,
+      "cityType": 0.4,
+      "cityNightlife": 0.3,
+      "nature_culture": -0.4,
+      "relaxed_intensive": 0.2,
+      "budget_luxury": -0.2,
+      "solo_social": 0.4,
+      "landmark_ancient_modern": 0.5,
+      "landmark_urban_rural": -0.3,
+      "landmark_crowd": 0.5
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 6,
+      "cityNightlife": 5,
+      "nature_culture": 7,
+      "relaxed_intensive": 5,
+      "landmark_ancient_modern": 6,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Swakopmund",
+    "countryCode": "NA",
+    "popularity": 0,
+    "P": {
+      "cityWealth": 0.2,
+      "cityType": -0.4,
+      "cityNightlife": -0.2,
+      "nature_culture": 0.5,
+      "relaxed_intensive": 0.3,
+      "transit_drive": 0.8,
+      "budget_luxury": 0.0,
+      "landmark_urban_rural": 0.6,
+      "landmark_ancient_modern": 0.2,
+      "landmark_crowd": -0.2
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 8,
+      "cityNightlife": 4,
+      "nature_culture": 7,
+      "relaxed_intensive": 6,
+      "transit_drive": 7,
+      "landmark_urban_rural": 7,
+      "landmark_ancient_modern": 4,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Las Vegas",
+    "countryCode": "US",
+    "popularity": 9,
+    "P": {
+      "cityWealth": 0.8,
+      "cityType": 1.0,
+      "cityNightlife": 1.0,
+      "morning_night": 1.0,
+      "budget_luxury": 0.6,
+      "solo_social": 0.9,
+      "nature_culture": -1.0,
+      "transit_drive": -0.5,
+      "landmark_ancient_modern": -1.0,
+      "landmark_urban_rural": -1.0,
+      "landmark_crowd": 0.8,
+      "landmark_budget_luxury": 0.8
+    },
+    "W": {
+      "cityWealth": 7,
+      "cityType": 10,
+      "cityNightlife": 10,
+      "morning_night": 9,
+      "budget_luxury": 6,
+      "solo_social": 7,
+      "nature_culture": 5,
+      "landmark_ancient_modern": 9,
+      "landmark_urban_rural": 7,
+      "landmark_budget_luxury": 6
+    }
+  },
+  {
+    "name": "Orlando",
+    "countryCode": "US",
+    "popularity": 6,
+    "P": {
+      "cityWealth": 0.7,
+      "cityType": 0.8,
+      "cityNightlife": 0.4,
+      "transit_drive": 1.0,
+      "nature_culture": -0.8,
+      "relaxed_intensive": 0.5,
+      "planned_spontaneous": -0.6,
+      "landmark_ancient_modern": -0.8,
+      "landmark_urban_rural": -0.5,
+      "landmark_crowd": 1.0,
+      "landmark_budget_luxury": 0.7
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 8,
+      "cityNightlife": 5,
+      "transit_drive": 10,
+      "nature_culture": 6,
+      "relaxed_intensive": 5,
+      "landmark_ancient_modern": 7,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 6
+    }
+  },
+  {
+    "name": "New Orleans",
+    "countryCode": "US",
+    "popularity": 4,
+    "P": {
+      "cityWealth": 0.4,
+      "cityType": 0.4,
+      "cityNightlife": 1.0,
+      "solo_social": 0.9,
+      "nature_culture": -0.8,
+      "relaxed_intensive": -0.3,
+      "morning_night": 0.8,
+      "landmark_ancient_modern": 0.7,
+      "landmark_urban_rural": -0.6,
+      "landmark_crowd": 0.9
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 10,
+      "solo_social": 8,
+      "morning_night": 7,
+      "nature_culture": 6,
+      "landmark_ancient_modern": 7,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 5
+    }
+  },
+  {
+    "name": "Savannah",
+    "countryCode": "US",
+    "popularity": 1,
+    "P": {
+      "cityWealth": 0.5,
+      "cityType": 0.1,
+      "cityNightlife": 0.3,
+      "relaxed_intensive": -0.7,
+      "nature_culture": -0.6,
+      "transit_drive": -0.4,
+      "budget_luxury": 0.2,
+      "landmark_ancient_modern": 0.8,
+      "landmark_urban_rural": 0.0,
+      "landmark_crowd": 0.3
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 4,
+      "relaxed_intensive": 8,
+      "nature_culture": 7,
+      "transit_drive": 5,
+      "landmark_ancient_modern": 8,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Québec",
+    "countryCode": "CA",
+    "popularity": 3,
+    "P": {
+      "cityWealth": 0.7,
+      "cityType": 0.3,
+      "cityNightlife": 0.2,
+      "nature_culture": -0.9,
+      "relaxed_intensive": -0.5,
+      "budget_luxury": 0.4,
+      "transit_drive": -0.6,
+      "landmark_ancient_modern": 0.9,
+      "landmark_urban_rural": -0.4,
+      "landmark_crowd": 0.5
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 7,
+      "cityNightlife": 4,
+      "nature_culture": 8,
+      "relaxed_intensive": 6,
+      "transit_drive": 6,
+      "landmark_ancient_modern": 9,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Havana",
+    "countryCode": "CU",
+    "popularity": 3,
+    "P": {
+      "cityWealth": -0.5,
+      "cityType": 0.5,
+      "cityNightlife": 0.7,
+      "solo_social": 0.8,
+      "nature_culture": -0.8,
+      "budget_luxury": -0.6,
+      "relaxed_intensive": -0.2,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": -0.5,
+      "landmark_crowd": 0.6
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 8,
+      "solo_social": 7,
+      "nature_culture": 7,
+      "budget_luxury": 5,
+      "landmark_ancient_modern": 9,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Cusco",
+    "countryCode": "PE",
+    "popularity": 3,
+    "P": {
+      "cityWealth": -0.4,
+      "cityType": -0.2,
+      "cityNightlife": 0.4,
+      "nature_culture": 0.0,
+      "budget_luxury": -0.5,
+      "relaxed_intensive": 0.2,
+      "transit_drive": -0.5,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": 0.2,
+      "landmark_crowd": 0.7
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 5,
+      "nature_culture": 8,
+      "budget_luxury": 6,
+      "relaxed_intensive": 5,
+      "landmark_ancient_modern": 10,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "La Paz",
+    "countryCode": "BO",
+    "popularity": 1,
+    "P": {
+      "cityWealth": -0.6,
+      "cityType": 0.4,
+      "cityNightlife": 0.2,
+      "relaxed_intensive": 0.8,
+      "nature_culture": -0.4,
+      "budget_luxury": -0.9,
+      "transit_drive": -0.2,
+      "landmark_ancient_modern": 0.2,
+      "landmark_urban_rural": -0.3,
+      "landmark_crowd": 0.9
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 4,
+      "relaxed_intensive": 8,
+      "budget_luxury": 7,
+      "nature_culture": 5,
+      "landmark_ancient_modern": 4,
+      "landmark_urban_rural": 6,
+      "landmark_crowd": 5
+    }
+  },
+  {
+    "name": "Ushuaia",
+    "countryCode": "AR",
+    "popularity": 0,
+    "P": {
+      "cityWealth": 0.0,
+      "cityType": -0.6,
+      "cityNightlife": -0.4,
+      "nature_culture": 0.9,
+      "relaxed_intensive": -0.2,
+      "budget_luxury": 0.2,
+      "transit_drive": 0.5,
+      "landmark_urban_rural": 0.8,
+      "landmark_ancient_modern": 0.0,
+      "landmark_crowd": 0.3
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 8,
+      "cityNightlife": 4,
+      "nature_culture": 9,
+      "transit_drive": 6,
+      "budget_luxury": 4,
+      "landmark_urban_rural": 8,
+      "landmark_ancient_modern": 2,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Valparaíso",
+    "countryCode": "CL",
+    "popularity": 0,
+    "P": {
+      "cityWealth": -0.3,
+      "cityType": 0.3,
+      "cityNightlife": 0.5,
+      "documenter_minimalist": -0.9,
+      "nature_culture": -0.5,
+      "relaxed_intensive": 0.0,
+      "budget_luxury": -0.4,
+      "landmark_ancient_modern": 0.3,
+      "landmark_urban_rural": -0.4,
+      "landmark_crowd": 0.5
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 6,
+      "documenter_minimalist": 8,
+      "nature_culture": 6,
+      "budget_luxury": 5,
+      "landmark_ancient_modern": 4,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Santa Fe",
+    "countryCode": "US",
+    "popularity": 0,
+    "P": {
+      "cityWealth": 0.6,
+      "cityType": -0.2,
+      "cityNightlife": -0.5,
+      "nature_culture": -0.3,
+      "relaxed_intensive": -0.8,
+      "transit_drive": 0.8,
+      "budget_luxury": 0.5,
+      "landmark_ancient_modern": 0.7,
+      "landmark_urban_rural": 0.3,
+      "landmark_crowd": -0.2
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 8,
+      "cityNightlife": 4,
+      "nature_culture": 7,
+      "relaxed_intensive": 7,
+      "transit_drive": 7,
+      "landmark_ancient_modern": 8,
+      "landmark_urban_rural": 6,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Key West",
+    "countryCode": "US",
+    "popularity": 2,
+    "P": {
+      "cityWealth": 0.6,
+      "cityType": -0.4,
+      "cityNightlife": 0.8,
+      "relaxed_intensive": -0.7,
+      "nature_culture": 0.2,
+      "transit_drive": 0.9,
+      "solo_social": 0.7,
+      "landmark_urban_rural": 0.4,
+      "landmark_ancient_modern": 0.0,
+      "landmark_crowd": 0.6
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 8,
+      "cityNightlife": 8,
+      "relaxed_intensive": 7,
+      "transit_drive": 9,
+      "solo_social": 6,
+      "landmark_urban_rural": 6,
+      "landmark_ancient_modern": 3,
+      "landmark_crowd": 5
+    }
+  },
+  {
+    "name": "Minneapolis",
+    "countryCode": "US",
+    "popularity": 0,
+    "P": {
+      "cityWealth": 0.8,
+      "cityType": 0.6,
+      "cityNightlife": 0.5,
+      "transit_drive": 0.8,
+      "nature_culture": -0.5,
+      "landmark_ancient_modern": -0.3,
+      "landmark_urban_rural": -0.6,
+      "landmark_crowd": 0.4
+    },
+    "W": {
+      "cityWealth": 8,
+      "cityType": 8,
+      "cityNightlife": 6,
+      "transit_drive": 9
+    }
+  },
+  {
+    "name": "Antigua Guatemala",
+    "countryCode": "GT",
+    "popularity": 0,
+    "P": {
+      "cityWealth": -0.3,
+      "cityType": -0.3,
+      "cityNightlife": 0.2,
+      "nature_culture": 0.0,
+      "budget_luxury": -0.6,
+      "relaxed_intensive": -0.3,
+      "documenter_minimalist": -0.5,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": 0.4,
+      "landmark_crowd": 0.4
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 5,
+      "nature_culture": 7,
+      "budget_luxury": 6,
+      "documenter_minimalist": 5,
+      "landmark_ancient_modern": 9,
+      "landmark_urban_rural": 6,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Cartagena",
+    "countryCode": "CO",
+    "popularity": 2,
+    "P": {
+      "cityWealth": -0.4,
+      "cityType": 0.3,
+      "cityNightlife": 0.8,
+      "relaxed_intensive": 0.3,
+      "nature_culture": -0.4,
+      "budget_luxury": -0.3,
+      "morning_night": 0.7,
+      "landmark_ancient_modern": 0.9,
+      "landmark_urban_rural": -0.4,
+      "landmark_crowd": 0.8,
+      "landmark_budget_luxury": 0.0
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 8,
+      "relaxed_intensive": 6,
+      "morning_night": 7,
+      "nature_culture": 6,
+      "landmark_ancient_modern": 8,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 5
+    }
+  },
+  {
+    "name": "Medellín",
+    "countryCode": "CO",
+    "popularity": 2,
+    "P": {
+      "cityWealth": -0.3,
+      "cityType": 0.6,
+      "cityNightlife": 0.9,
+      "solo_social": 0.8,
+      "budget_luxury": -0.5,
+      "nature_culture": -0.3,
+      "transit_drive": -0.4,
+      "landmark_ancient_modern": -0.2,
+      "landmark_urban_rural": -0.6,
+      "landmark_crowd": 0.6
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 9,
+      "solo_social": 8,
+      "budget_luxury": 7,
+      "nature_culture": 5,
+      "landmark_ancient_modern": 5,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Bariloche",
+    "countryCode": "AR",
+    "popularity": 0,
+    "P": {
+      "cityWealth": 0.1,
+      "cityType": -0.6,
+      "cityNightlife": 0.3,
+      "nature_culture": 0.8,
+      "transit_drive": 0.5,
+      "relaxed_intensive": -0.5,
+      "budget_luxury": 0.2,
+      "landmark_urban_rural": 0.8,
+      "landmark_ancient_modern": 0.4,
+      "landmark_crowd": 0.4
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 8,
+      "cityNightlife": 4,
+      "nature_culture": 9,
+      "transit_drive": 6,
+      "relaxed_intensive": 5,
+      "landmark_urban_rural": 8,
+      "landmark_ancient_modern": 4,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Queenstown",
+    "countryCode": "NZ",
+    "popularity": 2,
+    "P": {
+      "cityWealth": 0.7,
+      "cityType": -0.8,
+      "cityNightlife": 0.6,
+      "nature_culture": 1.0,
+      "relaxed_intensive": 0.6,
+      "budget_luxury": 0.6,
+      "transit_drive": 0.8,
+      "landmark_urban_rural": 0.9,
+      "landmark_ancient_modern": 0.0,
+      "landmark_crowd": 0.5
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 9,
+      "cityNightlife": 7,
+      "nature_culture": 10,
+      "relaxed_intensive": 7,
+      "transit_drive": 7,
+      "landmark_urban_rural": 8,
+      "landmark_ancient_modern": 2,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Rotorua",
+    "countryCode": "NZ",
+    "popularity": 0,
+    "P": {
+      "cityWealth": 0.4,
+      "cityType": -0.7,
+      "cityNightlife": -0.3,
+      "nature_culture": 0.5,
+      "relaxed_intensive": -0.4,
+      "transit_drive": 0.9,
+      "budget_luxury": 0.0,
+      "landmark_urban_rural": 0.7,
+      "landmark_ancient_modern": 0.5,
+      "landmark_crowd": 0.3
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 8,
+      "cityNightlife": 4,
+      "nature_culture": 8,
+      "transit_drive": 8,
+      "relaxed_intensive": 5,
+      "landmark_urban_rural": 7,
+      "landmark_ancient_modern": 4,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Hobart",
+    "countryCode": "AU",
+    "popularity": 0,
+    "P": {
+      "cityWealth": 0.6,
+      "cityType": -0.3,
+      "cityNightlife": -0.5,
+      "nature_culture": 0.3,
+      "transit_drive": 1.0,
+      "relaxed_intensive": -0.6,
+      "budget_luxury": 0.3,
+      "landmark_urban_rural": 0.4,
+      "landmark_ancient_modern": 0.2,
+      "landmark_crowd": -0.2
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 7,
+      "cityNightlife": 5,
+      "nature_culture": 7,
+      "transit_drive": 9,
+      "relaxed_intensive": 6,
+      "landmark_urban_rural": 6,
+      "landmark_ancient_modern": 4,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Cairns",
+    "countryCode": "AU",
+    "popularity": 2,
+    "P": {
+      "cityWealth": 0.5,
+      "cityType": -0.2,
+      "cityNightlife": 0.6,
+      "nature_culture": 0.9,
+      "relaxed_intensive": 0.2,
+      "budget_luxury": -0.2,
+      "solo_social": 0.7,
+      "landmark_urban_rural": 0.6,
+      "landmark_ancient_modern": 0.0,
+      "landmark_crowd": 0.5
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 6,
+      "cityNightlife": 7,
+      "nature_culture": 9,
+      "solo_social": 6,
+      "budget_luxury": 5,
+      "landmark_urban_rural": 7,
+      "landmark_ancient_modern": 2,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "London",
+    "countryCode": "GB",
+    "popularity": 10,
+    "P": {
+      "cityWealth": 0.9,
+      "cityType": 1.0,
+      "cityNightlife": 0.8,
+      "transit_drive": -1.0,
+      "nature_culture": -1.0,
+      "relaxed_intensive": 0.8,
+      "budget_luxury": 0.8,
+      "landmark_ancient_modern": 0.5,
+      "landmark_urban_rural": -1.0,
+      "landmark_crowd": 1.0,
+      "landmark_budget_luxury": 0.8
+    },
+    "W": {
+      "cityWealth": 8,
+      "cityType": 10,
+      "cityNightlife": 8,
+      "transit_drive": 10,
+      "nature_culture": 8,
+      "relaxed_intensive": 7,
+      "budget_luxury": 7,
+      "landmark_ancient_modern": 6,
+      "landmark_urban_rural": 6,
+      "landmark_crowd": 5
+    }
+  },
+  {
+    "name": "New York City",
+    "countryCode": "US",
+    "popularity": 10,
+    "P": {
+      "cityWealth": 1.0,
+      "cityType": 1.0,
+      "cityNightlife": 1.0,
+      "transit_drive": -1.0,
+      "nature_culture": -1.0,
+      "relaxed_intensive": 1.0,
+      "budget_luxury": 1.0,
+      "solo_social": 0.8,
+      "landmark_ancient_modern": 0.9,
+      "landmark_urban_rural": -1.0,
+      "landmark_crowd": 1.0,
+      "landmark_budget_luxury": 1.0
+    },
+    "W": {
+      "cityWealth": 8,
+      "cityType": 10,
+      "cityNightlife": 10,
+      "transit_drive": 10,
+      "relaxed_intensive": 8,
+      "budget_luxury": 7,
+      "landmark_urban_rural": 8,
+      "landmark_ancient_modern": 6,
+      "landmark_crowd": 5
+    }
+  },
+  {
+    "name": "Beijing",
+    "countryCode": "CN",
+    "popularity": 8,
+    "P": {
+      "cityWealth": 0.6,
+      "cityType": 1.0,
+      "cityNightlife": 0.3,
+      "nature_culture": -0.9,
+      "relaxed_intensive": 0.7,
+      "budget_luxury": 0.4,
+      "transit_drive": -0.8,
+      "landmark_ancient_modern": 0.6,
+      "landmark_urban_rural": -0.8,
+      "landmark_crowd": 1.0
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 9,
+      "cityNightlife": 5,
+      "nature_culture": 9,
+      "relaxed_intensive": 6,
+      "transit_drive": 6,
+      "landmark_ancient_modern": 8,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 6
+    }
+  },
+  {
+    "name": "Dubai",
+    "countryCode": "AE",
+    "popularity": 10,
+    "P": {
+      "cityWealth": 1.0,
+      "cityType": 1.0,
+      "cityNightlife": 0.7,
+      "budget_luxury": 1.0,
+      "transit_drive": 0.8,
+      "nature_culture": -1.0,
+      "relaxed_intensive": 0.3,
+      "landmark_ancient_modern": -1.0,
+      "landmark_urban_rural": -1.0,
+      "landmark_crowd": 0.7,
+      "landmark_budget_luxury": 1.0
+    },
+    "W": {
+      "cityWealth": 10,
+      "cityType": 10,
+      "cityNightlife": 7,
+      "budget_luxury": 10,
+      "transit_drive": 7,
+      "nature_culture": 6,
+      "landmark_ancient_modern": 9,
+      "landmark_urban_rural": 7,
+      "landmark_budget_luxury": 8
+    }
+  },
+  {
+    "name": "Hong Kong",
+    "countryCode": "HK",
+    "popularity": 9,
+    "P": {
+      "cityWealth": 0.9,
+      "cityType": 1.0,
+      "cityNightlife": 0.8,
+      "transit_drive": -1.0,
+      "relaxed_intensive": 1.0,
+      "nature_culture": -0.6,
+      "budget_luxury": 0.7,
+      "landmark_ancient_modern": -0.8,
+      "landmark_urban_rural": -1.0,
+      "landmark_crowd": 1.0
+    },
+    "W": {
+      "cityWealth": 8,
+      "cityType": 10,
+      "cityNightlife": 8,
+      "transit_drive": 10,
+      "relaxed_intensive": 8,
+      "budget_luxury": 6,
+      "landmark_ancient_modern": 7,
+      "landmark_urban_rural": 7,
+      "landmark_crowd": 6
+    }
+  },
+  {
+    "name": "Paris",
+    "countryCode": "FR",
+    "popularity": 10,
+    "P": {
+      "cityWealth": 0.9,
+      "cityType": 1.0,
+      "cityNightlife": 0.7,
+      "nature_culture": -1.0,
+      "transit_drive": -1.0,
+      "relaxed_intensive": 0.4,
+      "budget_luxury": 0.7,
+      "landmark_ancient_modern": 0.5,
+      "landmark_urban_rural": -0.9,
+      "landmark_crowd": 0.9
+    },
+    "W": {
+      "cityWealth": 8,
+      "cityType": 9,
+      "cityNightlife": 7,
+      "nature_culture": 10,
+      "transit_drive": 9,
+      "budget_luxury": 6,
+      "landmark_ancient_modern": 5,
+      "landmark_urban_rural": 6,
+      "landmark_crowd": 5
+    }
+  },
+  {
+    "name": "Shanghai",
+    "countryCode": "CN",
+    "popularity": 7,
+    "P": {
+      "cityWealth": 0.8,
+      "cityType": 1.0,
+      "cityNightlife": 0.8,
+      "nature_culture": -0.8,
+      "relaxed_intensive": 0.9,
+      "budget_luxury": 0.6,
+      "transit_drive": -0.9,
+      "landmark_ancient_modern": -0.5,
+      "landmark_urban_rural": -1.0,
+      "landmark_crowd": 1.0
+    },
+    "W": {
+      "cityWealth": 7,
+      "cityType": 10,
+      "cityNightlife": 8,
+      "nature_culture": 7,
+      "relaxed_intensive": 7,
+      "budget_luxury": 6,
+      "landmark_ancient_modern": 7,
+      "landmark_urban_rural": 6,
+      "landmark_crowd": 5
+    }
+  },
+  {
+    "name": "Singapore",
+    "countryCode": "SG",
+    "popularity": 9,
+    "P": {
+      "cityWealth": 1.0,
+      "cityType": 1.0,
+      "cityNightlife": 0.6,
+      "budget_luxury": 1.0,
+      "nature_culture": -0.5,
+      "transit_drive": -0.8,
+      "relaxed_intensive": 0.2,
+      "landmark_ancient_modern": -1.0,
+      "landmark_urban_rural": -0.8,
+      "landmark_crowd": 0.7,
+      "landmark_budget_luxury": 1.0
+    },
+    "W": {
+      "cityWealth": 9,
+      "cityType": 9,
+      "cityNightlife": 6,
+      "budget_luxury": 9,
+      "nature_culture": 6,
+      "transit_drive": 8,
+      "landmark_ancient_modern": 8,
+      "landmark_urban_rural": 6,
+      "landmark_budget_luxury": 7
+    }
+  },
+  {
+    "name": "Sydney",
+    "countryCode": "AU",
+    "popularity": 7,
+    "P": {
+      "cityWealth": 0.9,
+      "cityType": 0.7,
+      "cityNightlife": 0.5,
+      "nature_culture": 0.0,
+      "relaxed_intensive": -0.3,
+      "transit_drive": -0.2,
+      "budget_luxury": 0.7,
+      "landmark_ancient_modern": -0.5,
+      "landmark_urban_rural": -0.3,
+      "landmark_crowd": 0.6,
+      "landmark_budget_luxury": 0.6
+    },
+    "W": {
+      "cityWealth": 8,
+      "cityType": 8,
+      "cityNightlife": 6,
+      "nature_culture": 8,
+      "relaxed_intensive": 6,
+      "transit_drive": 5,
+      "landmark_ancient_modern": 6,
+      "landmark_urban_rural": 7,
+      "landmark_budget_luxury": 6
+    }
+  },
+  {
+    "name": "Tokyo",
+    "countryCode": "JP",
+    "popularity": 10,
+    "P": {
+      "cityWealth": 0.9,
+      "cityType": 1.0,
+      "cityNightlife": 0.9,
+      "transit_drive": -1.0,
+      "nature_culture": -1.0,
+      "relaxed_intensive": 0.8,
+      "budget_luxury": 0.5,
+      "solo_social": 0.6,
+      "landmark_ancient_modern": 0.0,
+      "landmark_urban_rural": -1.0,
+      "landmark_crowd": 1.0
+    },
+    "W": {
+      "cityWealth": 8,
+      "cityType": 10,
+      "cityNightlife": 9,
+      "transit_drive": 10,
+      "nature_culture": 8,
+      "relaxed_intensive": 7,
+      "landmark_ancient_modern": 6,
+      "landmark_urban_rural": 7,
+      "landmark_crowd": 7
+    }
+  },
+  {
+    "name": "Amsterdam",
+    "countryCode": "NL",
+    "popularity": 9,
+    "P": {
+      "cityWealth": 0.8,
+      "cityType": 0.6,
+      "cityNightlife": 0.8,
+      "transit_drive": -1.0,
+      "nature_culture": -0.8,
+      "relaxed_intensive": -0.2,
+      "budget_luxury": 0.6,
+      "landmark_ancient_modern": 0.6,
+      "landmark_urban_rural": -0.6,
+      "landmark_crowd": 0.7
+    },
+    "W": {
+      "cityWealth": 7,
+      "cityType": 8,
+      "cityNightlife": 8,
+      "transit_drive": 10,
+      "nature_culture": 7,
+      "relaxed_intensive": 5,
+      "landmark_ancient_modern": 6,
+      "landmark_urban_rural": 6,
+      "landmark_crowd": 5
+    }
+  },
+  {
+    "name": "Bangkok",
+    "countryCode": "TH",
+    "popularity": 10,
+    "P": {
+      "cityWealth": -0.2,
+      "cityType": 1.0,
+      "cityNightlife": 1.0,
+      "budget_luxury": -0.8,
+      "relaxed_intensive": 0.8,
+      "nature_culture": -0.7,
+      "morning_night": 1.0,
+      "landmark_ancient_modern": 0.2,
+      "landmark_urban_rural": -1.0,
+      "landmark_crowd": 1.0,
+      "landmark_budget_luxury": -0.6
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 9,
+      "cityNightlife": 10,
+      "budget_luxury": 9,
+      "relaxed_intensive": 7,
+      "morning_night": 8,
+      "landmark_ancient_modern": 5,
+      "landmark_urban_rural": 7,
+      "landmark_crowd": 6
+    }
+  },
+  {
+    "name": "Chicago",
+    "countryCode": "US",
+    "popularity": 5,
+    "P": {
+      "cityWealth": 0.8,
+      "cityType": 1.0,
+      "cityNightlife": 0.7,
+      "nature_culture": -0.8,
+      "relaxed_intensive": 0.5,
+      "budget_luxury": 0.5,
+      "transit_drive": -0.3,
+      "landmark_ancient_modern": -0.5,
+      "landmark_urban_rural": -1.0,
+      "landmark_crowd": 0.6
+    },
+    "W": {
+      "cityWealth": 7,
+      "cityType": 9,
+      "cityNightlife": 6,
+      "nature_culture": 8,
+      "relaxed_intensive": 5,
+      "budget_luxury": 5,
+      "landmark_ancient_modern": 6,
+      "landmark_urban_rural": 7,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Frankfurt",
+    "countryCode": "DE",
+    "popularity": 4,
+    "P": {
+      "cityWealth": 0.9,
+      "cityType": 0.9,
+      "cityNightlife": 0.3,
+      "transit_drive": -0.9,
+      "nature_culture": -0.6,
+      "relaxed_intensive": 0.3,
+      "budget_luxury": 0.6,
+      "landmark_ancient_modern": 0.3,
+      "landmark_urban_rural": -0.9,
+      "landmark_crowd": 0.5
+    },
+    "W": {
+      "cityWealth": 8,
+      "cityType": 8,
+      "cityNightlife": 6,
+      "transit_drive": 8,
+      "nature_culture": 6,
+      "budget_luxury": 6,
+      "landmark_ancient_modern": 5,
+      "landmark_urban_rural": 6,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Guangzhou",
+    "countryCode": "CN",
+    "popularity": 2,
+    "P": {
+      "cityWealth": 0.5,
+      "cityType": 0.8,
+      "cityNightlife": 0.6,
+      "nature_culture": -0.7,
+      "relaxed_intensive": 0.7,
+      "budget_luxury": 0.3,
+      "solo_social": 0.5,
+      "landmark_ancient_modern": -0.2,
+      "landmark_urban_rural": -0.8,
+      "landmark_crowd": 0.9
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 8,
+      "cityNightlife": 5,
+      "nature_culture": 7,
+      "relaxed_intensive": 6,
+      "budget_luxury": 4,
+      "landmark_ancient_modern": 6,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 5
+    }
+  },
+  {
+    "name": "Istanbul",
+    "countryCode": "TR",
+    "popularity": 9,
+    "P": {
+      "cityWealth": -0.1,
+      "cityType": 0.6,
+      "cityNightlife": 0.7,
+      "nature_culture": -1.0,
+      "relaxed_intensive": 0.9,
+      "budget_luxury": -0.3,
+      "transit_drive": -0.6,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": -0.5,
+      "landmark_crowd": 1.0,
+      "landmark_budget_luxury": -0.4
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 6,
+      "nature_culture": 9,
+      "relaxed_intensive": 8,
+      "transit_drive": 5,
+      "landmark_ancient_modern": 10,
+      "landmark_crowd": 8,
+      "landmark_urban_rural": 4
+    }
+  },
+  {
+    "name": "Jakarta",
+    "countryCode": "ID",
+    "popularity": 3,
+    "P": {
+      "cityWealth": -0.3,
+      "cityType": 1.0,
+      "cityNightlife": 0.6,
+      "transit_drive": 0.6,
+      "relaxed_intensive": 0.9,
+      "budget_luxury": 0.0,
+      "nature_culture": -0.5,
+      "landmark_ancient_modern": 0.4,
+      "landmark_urban_rural": -1.0,
+      "landmark_crowd": 1.0
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 8,
+      "cityNightlife": 5,
+      "transit_drive": 8,
+      "relaxed_intensive": 7,
+      "budget_luxury": 4,
+      "landmark_ancient_modern": 4,
+      "landmark_urban_rural": 6,
+      "landmark_crowd": 5
+    }
+  },
+  {
+    "name": "Kuala Lumpur",
+    "countryCode": "MY",
+    "popularity": 5,
+    "P": {
+      "cityWealth": 0.2,
+      "cityType": 0.8,
+      "cityNightlife": 0.5,
+      "budget_luxury": 0.5,
+      "nature_culture": -0.4,
+      "relaxed_intensive": 0.2,
+      "transit_drive": 0.3,
+      "landmark_ancient_modern": 0.3,
+      "landmark_urban_rural": -0.8,
+      "landmark_crowd": 0.7
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 8,
+      "cityNightlife": 5,
+      "budget_luxury": 7,
+      "nature_culture": 5,
+      "relaxed_intensive": 4,
+      "landmark_ancient_modern": 6,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Los Angeles",
+    "countryCode": "US",
+    "popularity": 8,
+    "P": {
+      "cityWealth": 0.8,
+      "cityType": 0.6,
+      "cityNightlife": 0.8,
+      "transit_drive": 1.0,
+      "budget_luxury": 0.7,
+      "nature_culture": -0.2,
+      "solo_social": 0.6,
+      "landmark_ancient_modern": -0.2,
+      "landmark_urban_rural": -0.4,
+      "landmark_crowd": 0.6,
+      "landmark_budget_luxury": 0.8
+    },
+    "W": {
+      "cityWealth": 7,
+      "cityType": 8,
+      "cityNightlife": 7,
+      "transit_drive": 10,
+      "budget_luxury": 7,
+      "nature_culture": 4,
+      "landmark_ancient_modern": 4,
+      "landmark_urban_rural": 6,
+      "landmark_budget_luxury": 7
+    }
+  },
+  {
+    "name": "Madrid",
+    "countryCode": "ES",
+    "popularity": 8,
+    "P": {
+      "cityWealth": 0.6,
+      "cityType": 0.8,
+      "cityNightlife": 1.0,
+      "solo_social": 0.8,
+      "nature_culture": -0.9,
+      "relaxed_intensive": 0.4,
+      "morning_night": 1.0,
+      "landmark_ancient_modern": 0.7,
+      "landmark_urban_rural": -0.9,
+      "landmark_crowd": 0.8
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 8,
+      "cityNightlife": 10,
+      "solo_social": 7,
+      "morning_night": 8,
+      "nature_culture": 7,
+      "landmark_ancient_modern": 7,
+      "landmark_urban_rural": 6,
+      "landmark_crowd": 5
+    }
+  },
+  {
+    "name": "Mexico City",
+    "countryCode": "MX",
+    "popularity": 5,
+    "P": {
+      "cityWealth": -0.2,
+      "cityType": 1.0,
+      "cityNightlife": 0.7,
+      "nature_culture": -0.8,
+      "relaxed_intensive": 1.0,
+      "budget_luxury": -0.2,
+      "transit_drive": -0.4,
+      "landmark_ancient_modern": 0.6,
+      "landmark_urban_rural": -1.0,
+      "landmark_crowd": 1.0
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 8,
+      "cityNightlife": 6,
+      "nature_culture": 8,
+      "relaxed_intensive": 8,
+      "budget_luxury": 4,
+      "landmark_ancient_modern": 7,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 6
+    }
+  },
+  {
+    "name": "Milan",
+    "countryCode": "IT",
+    "popularity": 8,
+    "P": {
+      "cityWealth": 0.8,
+      "cityType": 0.9,
+      "cityNightlife": 0.7,
+      "budget_luxury": 0.8,
+      "nature_culture": -0.6,
+      "relaxed_intensive": 0.5,
+      "documenter_minimalist": -0.3,
+      "landmark_ancient_modern": 0.4,
+      "landmark_urban_rural": -1.0,
+      "landmark_crowd": 0.8,
+      "landmark_budget_luxury": 0.7
+    },
+    "W": {
+      "cityWealth": 8,
+      "cityType": 8,
+      "cityNightlife": 6,
+      "budget_luxury": 8,
+      "nature_culture": 6,
+      "relaxed_intensive": 5,
+      "landmark_ancient_modern": 6,
+      "landmark_urban_rural": 6,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Mumbai",
+    "countryCode": "IN",
+    "popularity": 3,
+    "P": {
+      "cityWealth": -0.3,
+      "cityType": 1.0,
+      "cityNightlife": 0.6,
+      "relaxed_intensive": 1.0,
+      "nature_culture": -0.5,
+      "budget_luxury": -0.4,
+      "solo_social": 0.7,
+      "landmark_ancient_modern": 0.2,
+      "landmark_urban_rural": -1.0,
+      "landmark_crowd": 1.0
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 9,
+      "cityNightlife": 5,
+      "relaxed_intensive": 10,
+      "nature_culture": 6,
+      "budget_luxury": 4,
+      "landmark_ancient_modern": 5,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 8
+    }
+  },
+  {
+    "name": "São Paulo",
+    "countryCode": "BR",
+    "popularity": 4,
+    "P": {
+      "cityWealth": 0.0,
+      "cityType": 1.0,
+      "cityNightlife": 0.9,
+      "relaxed_intensive": 0.8,
+      "nature_culture": -0.7,
+      "budget_luxury": 0.2,
+      "morning_night": 0.8,
+      "landmark_ancient_modern": -0.5,
+      "landmark_urban_rural": -1.0,
+      "landmark_crowd": 0.8
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 9,
+      "cityNightlife": 8,
+      "relaxed_intensive": 7,
+      "nature_culture": 6,
+      "morning_night": 7,
+      "landmark_ancient_modern": 6,
+      "landmark_urban_rural": 7,
+      "landmark_crowd": 5
+    }
+  },
+  {
+    "name": "Seoul",
+    "countryCode": "KR",
+    "popularity": 9,
+    "P": {
+      "cityWealth": 0.8,
+      "cityType": 1.0,
+      "cityNightlife": 1.0,
+      "transit_drive": -1.0,
+      "relaxed_intensive": 1.0,
+      "nature_culture": -0.9,
+      "budget_luxury": 0.5,
+      "landmark_ancient_modern": 0.0,
+      "landmark_urban_rural": -1.0,
+      "landmark_crowd": 1.0
+    },
+    "W": {
+      "cityWealth": 7,
+      "cityType": 9,
+      "cityNightlife": 9,
+      "transit_drive": 9,
+      "relaxed_intensive": 8,
+      "nature_culture": 7,
+      "landmark_ancient_modern": 6,
+      "landmark_urban_rural": 7,
+      "landmark_crowd": 6
+    }
+  },
+  {
+    "name": "Toronto",
+    "countryCode": "CA",
+    "popularity": 5,
+    "P": {
+      "cityWealth": 0.8,
+      "cityType": 0.8,
+      "cityNightlife": 0.6,
+      "nature_culture": -0.5,
+      "transit_drive": -0.5,
+      "relaxed_intensive": 0.3,
+      "budget_luxury": 0.4,
+      "landmark_ancient_modern": -0.6,
+      "landmark_urban_rural": -0.8,
+      "landmark_crowd": 0.5
+    },
+    "W": {
+      "cityWealth": 7,
+      "cityType": 8,
+      "cityNightlife": 5,
+      "nature_culture": 6,
+      "transit_drive": 6,
+      "relaxed_intensive": 4,
+      "landmark_ancient_modern": 6,
+      "landmark_urban_rural": 6,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Warsaw",
+    "countryCode": "PL",
+    "popularity": 2,
+    "P": {
+      "cityWealth": 0.4,
+      "cityType": 0.7,
+      "cityNightlife": 0.6,
+      "budget_luxury": -0.4,
+      "nature_culture": -0.7,
+      "relaxed_intensive": 0.2,
+      "transit_drive": -0.6,
+      "landmark_ancient_modern": 0.2,
+      "landmark_urban_rural": -0.7,
+      "landmark_crowd": 0.4
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 5,
+      "budget_luxury": 7,
+      "nature_culture": 6,
+      "relaxed_intensive": 4,
+      "landmark_ancient_modern": 5,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Berlin",
+    "countryCode": "DE",
+    "popularity": 6,
+    "P": {
+      "cityWealth": 0.6,
+      "cityType": 0.8,
+      "cityNightlife": 1.0,
+      "nature_culture": -0.8,
+      "transit_drive": -1.0,
+      "relaxed_intensive": 0.4,
+      "budget_luxury": 0.0,
+      "morning_night": 1.0,
+      "landmark_ancient_modern": 0.2,
+      "landmark_urban_rural": -0.8,
+      "landmark_crowd": 0.6
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 8,
+      "cityNightlife": 10,
+      "nature_culture": 8,
+      "transit_drive": 8,
+      "morning_night": 9,
+      "landmark_ancient_modern": 6,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Boston",
+    "countryCode": "US",
+    "popularity": 4,
+    "P": {
+      "cityWealth": 0.8,
+      "cityType": 0.6,
+      "cityNightlife": 0.4,
+      "nature_culture": -0.8,
+      "transit_drive": -0.5,
+      "relaxed_intensive": -0.2,
+      "budget_luxury": 0.5,
+      "landmark_ancient_modern": 0.7,
+      "landmark_urban_rural": -0.6,
+      "landmark_crowd": 0.5
+    },
+    "W": {
+      "cityWealth": 7,
+      "cityType": 7,
+      "cityNightlife": 5,
+      "nature_culture": 8,
+      "transit_drive": 6,
+      "relaxed_intensive": 5,
+      "landmark_ancient_modern": 7,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Brussels",
+    "countryCode": "BE",
+    "popularity": 3,
+    "P": {
+      "cityWealth": 0.7,
+      "cityType": 0.7,
+      "cityNightlife": 0.5,
+      "nature_culture": -0.7,
+      "relaxed_intensive": 0.0,
+      "budget_luxury": 0.3,
+      "transit_drive": -0.7,
+      "landmark_ancient_modern": 0.8,
+      "landmark_urban_rural": -0.7,
+      "landmark_crowd": 0.6
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 7,
+      "cityNightlife": 5,
+      "nature_culture": 7,
+      "relaxed_intensive": 4,
+      "budget_luxury": 5,
+      "landmark_ancient_modern": 7,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Buenos Aires",
+    "countryCode": "AR",
+    "popularity": 4,
+    "P": {
+      "cityWealth": 0.0,
+      "cityType": 0.8,
+      "cityNightlife": 1.0,
+      "relaxed_intensive": 0.7,
+      "nature_culture": -0.8,
+      "solo_social": 0.8,
+      "morning_night": 1.0,
+      "budget_luxury": -0.3,
+      "landmark_ancient_modern": 0.6,
+      "landmark_urban_rural": -0.9,
+      "landmark_crowd": 0.7
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 8,
+      "cityNightlife": 9,
+      "relaxed_intensive": 6,
+      "nature_culture": 7,
+      "morning_night": 8,
+      "budget_luxury": 5,
+      "landmark_ancient_modern": 6,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Dublin",
+    "countryCode": "IE",
+    "popularity": 5,
+    "P": {
+      "cityWealth": 0.7,
+      "cityType": 0.6,
+      "cityNightlife": 0.8,
+      "solo_social": 0.9,
+      "transit_drive": -0.8,
+      "nature_culture": -0.6,
+      "budget_luxury": 0.5,
+      "landmark_ancient_modern": 0.7,
+      "landmark_urban_rural": -0.5,
+      "landmark_crowd": 0.7
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 7,
+      "cityNightlife": 8,
+      "solo_social": 8,
+      "transit_drive": 6,
+      "nature_culture": 6,
+      "landmark_ancient_modern": 6,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 5
+    }
+  },
+  {
+    "name": "Düsseldorf",
+    "countryCode": "DE",
+    "popularity": 1,
+    "P": {
+      "cityWealth": 0.8,
+      "cityType": 0.7,
+      "cityNightlife": 0.6,
+      "budget_luxury": 0.6,
+      "nature_culture": -0.5,
+      "relaxed_intensive": 0.3,
+      "transit_drive": -0.6,
+      "landmark_ancient_modern": 0.0,
+      "landmark_urban_rural": -0.7,
+      "landmark_crowd": 0.5
+    },
+    "W": {
+      "cityWealth": 7,
+      "cityType": 7,
+      "cityNightlife": 5,
+      "budget_luxury": 7,
+      "nature_culture": 5,
+      "relaxed_intensive": 4,
+      "landmark_ancient_modern": 5,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Houston",
+    "countryCode": "US",
+    "popularity": 1,
+    "P": {
+      "cityWealth": 0.7,
+      "cityType": 0.5,
+      "cityNightlife": 0.5,
+      "transit_drive": 1.0,
+      "nature_culture": -0.3,
+      "relaxed_intensive": 0.4,
+      "budget_luxury": 0.4,
+      "landmark_ancient_modern": -0.3,
+      "landmark_urban_rural": -0.4,
+      "landmark_crowd": 0.4
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 7,
+      "cityNightlife": 4,
+      "transit_drive": 10,
+      "nature_culture": 4,
+      "relaxed_intensive": 4,
+      "landmark_ancient_modern": 4,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Johannesburg",
+    "countryCode": "ZA",
+    "popularity": 1,
+    "P": {
+      "cityWealth": 0.1,
+      "cityType": 0.7,
+      "cityNightlife": 0.5,
+      "relaxed_intensive": 0.8,
+      "nature_culture": -0.4,
+      "transit_drive": 0.7,
+      "budget_luxury": -0.2,
+      "landmark_ancient_modern": 0.2,
+      "landmark_urban_rural": -0.3,
+      "landmark_crowd": 0.6
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 5,
+      "relaxed_intensive": 8,
+      "nature_culture": 6,
+      "transit_drive": 7,
+      "landmark_ancient_modern": 5,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Lisbon",
+    "countryCode": "PT",
+    "popularity": 6,
+    "P": {
+      "cityWealth": 0.3,
+      "cityType": 0.6,
+      "cityNightlife": 0.8,
+      "transit_drive": -0.8,
+      "nature_culture": -0.7,
+      "relaxed_intensive": -0.2,
+      "budget_luxury": -0.2,
+      "documenter_minimalist": -0.6,
+      "landmark_ancient_modern": 0.8,
+      "landmark_urban_rural": -0.6,
+      "landmark_crowd": 0.7
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 7,
+      "transit_drive": 8,
+      "nature_culture": 7,
+      "budget_luxury": 6,
+      "landmark_ancient_modern": 8,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 5
+    }
+  },
+  {
+    "name": "Luxembourg",
+    "countryCode": "LU",
+    "popularity": 1,
+    "P": {
+      "cityWealth": 1.0,
+      "cityType": 0.4,
+      "cityNightlife": -0.2,
+      "budget_luxury": 0.9,
+      "nature_culture": -0.3,
+      "relaxed_intensive": -0.6,
+      "transit_drive": -0.9,
+      "landmark_ancient_modern": 0.8,
+      "landmark_urban_rural": 0.2,
+      "landmark_crowd": -0.3
+    },
+    "W": {
+      "cityWealth": 9,
+      "cityType": 6,
+      "cityNightlife": 4,
+      "budget_luxury": 9,
+      "transit_drive": 7,
+      "relaxed_intensive": 6,
+      "landmark_ancient_modern": 7,
+      "landmark_urban_rural": 6,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Melbourne",
+    "countryCode": "AU",
+    "popularity": 5,
+    "P": {
+      "cityWealth": 0.8,
+      "cityType": 0.7,
+      "cityNightlife": 0.7,
+      "nature_culture": -0.8,
+      "transit_drive": -0.6,
+      "relaxed_intensive": 0.3,
+      "budget_luxury": 0.5,
+      "landmark_ancient_modern": 0.0,
+      "landmark_urban_rural": -0.8,
+      "landmark_crowd": 0.6
+    },
+    "W": {
+      "cityWealth": 7,
+      "cityType": 8,
+      "cityNightlife": 6,
+      "nature_culture": 9,
+      "transit_drive": 6,
+      "relaxed_intensive": 5,
+      "landmark_ancient_modern": 4,
+      "landmark_urban_rural": 6,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Munich",
+    "countryCode": "DE",
+    "popularity": 5,
+    "P": {
+      "cityWealth": 0.9,
+      "cityType": 0.5,
+      "cityNightlife": 0.6,
+      "solo_social": 0.7,
+      "nature_culture": -0.4,
+      "budget_luxury": 0.6,
+      "relaxed_intensive": -0.2,
+      "landmark_ancient_modern": 0.6,
+      "landmark_urban_rural": -0.3,
+      "landmark_crowd": 0.6
+    },
+    "W": {
+      "cityWealth": 8,
+      "cityType": 7,
+      "cityNightlife": 6,
+      "solo_social": 7,
+      "nature_culture": 6,
+      "budget_luxury": 6,
+      "landmark_ancient_modern": 6,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "New Delhi",
+    "countryCode": "IN",
+    "popularity": 3,
+    "P": {
+      "cityWealth": -0.2,
+      "cityType": 0.8,
+      "cityNightlife": 0.4,
+      "relaxed_intensive": 1.0,
+      "nature_culture": -0.8,
+      "budget_luxury": -0.5,
+      "transit_drive": -0.3,
+      "landmark_ancient_modern": 0.8,
+      "landmark_urban_rural": -0.8,
+      "landmark_crowd": 1.0
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 4,
+      "relaxed_intensive": 10,
+      "nature_culture": 7,
+      "budget_luxury": 5,
+      "landmark_ancient_modern": 8,
+      "landmark_urban_rural": 4,
+      "landmark_crowd": 8
+    }
+  },
+  {
+    "name": "Riyadh",
+    "countryCode": "SA",
+    "popularity": 1,
+    "P": {
+      "cityWealth": 0.9,
+      "cityType": 0.8,
+      "cityNightlife": -0.5,
+      "transit_drive": 1.0,
+      "nature_culture": -0.4,
+      "budget_luxury": 0.8,
+      "relaxed_intensive": 0.3,
+      "landmark_ancient_modern": -0.4,
+      "landmark_urban_rural": -0.6,
+      "landmark_crowd": 0.4
+    },
+    "W": {
+      "cityWealth": 8,
+      "cityType": 8,
+      "cityNightlife": 6,
+      "transit_drive": 10,
+      "budget_luxury": 8,
+      "nature_culture": 5,
+      "landmark_ancient_modern": 6,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "San Francisco",
+    "countryCode": "US",
+    "popularity": 7,
+    "P": {
+      "cityWealth": 0.9,
+      "cityType": 0.7,
+      "cityNightlife": 0.6,
+      "nature_culture": -0.3,
+      "budget_luxury": 0.8,
+      "relaxed_intensive": 0.4,
+      "transit_drive": 0.2,
+      "landmark_ancient_modern": 0.2,
+      "landmark_urban_rural": -0.5,
+      "landmark_crowd": 0.6
+    },
+    "W": {
+      "cityWealth": 8,
+      "cityType": 7,
+      "cityNightlife": 6,
+      "nature_culture": 6,
+      "budget_luxury": 8,
+      "relaxed_intensive": 5,
+      "landmark_ancient_modern": 4,
+      "landmark_urban_rural": 6,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Santiago",
+    "countryCode": "CL",
+    "popularity": 2,
+    "P": {
+      "cityWealth": 0.2,
+      "cityType": 0.7,
+      "cityNightlife": 0.5,
+      "nature_culture": 0.0,
+      "relaxed_intensive": 0.3,
+      "budget_luxury": 0.0,
+      "transit_drive": -0.3,
+      "landmark_ancient_modern": 0.3,
+      "landmark_urban_rural": -0.4,
+      "landmark_crowd": 0.5
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 5,
+      "nature_culture": 7,
+      "relaxed_intensive": 5,
+      "budget_luxury": 4,
+      "landmark_ancient_modern": 5,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Shenzhen",
+    "countryCode": "CN",
+    "popularity": 1,
+    "P": {
+      "cityWealth": 0.7,
+      "cityType": 1.0,
+      "cityNightlife": 0.6,
+      "nature_culture": -0.5,
+      "relaxed_intensive": 0.8,
+      "budget_luxury": 0.5,
+      "transit_drive": -0.6,
+      "landmark_ancient_modern": -1.0,
+      "landmark_urban_rural": -1.0,
+      "landmark_crowd": 0.7
+    },
+    "W": {
+      "cityWealth": 7,
+      "cityType": 9,
+      "cityNightlife": 5,
+      "nature_culture": 5,
+      "relaxed_intensive": 7,
+      "budget_luxury": 5,
+      "landmark_ancient_modern": 9,
+      "landmark_urban_rural": 7,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Stockholm",
+    "countryCode": "SE",
+    "popularity": 4,
+    "P": {
+      "cityWealth": 0.8,
+      "cityType": 0.5,
+      "cityNightlife": 0.6,
+      "nature_culture": -0.4,
+      "budget_luxury": 0.7,
+      "relaxed_intensive": -0.3,
+      "transit_drive": -0.8,
+      "landmark_ancient_modern": 0.4,
+      "landmark_urban_rural": -0.3,
+      "landmark_crowd": 0.4
+    },
+    "W": {
+      "cityWealth": 8,
+      "cityType": 7,
+      "cityNightlife": 5,
+      "nature_culture": 7,
+      "budget_luxury": 8,
+      "relaxed_intensive": 5,
+      "landmark_ancient_modern": 6,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Taipei",
+    "countryCode": "TW",
+    "popularity": 6,
+    "P": {
+      "cityWealth": 0.7,
+      "cityType": 0.8,
+      "cityNightlife": 0.8,
+      "transit_drive": -1.0,
+      "budget_luxury": -0.3,
+      "nature_culture": -0.5,
+      "solo_social": 0.6,
+      "morning_night": 0.7,
+      "landmark_ancient_modern": 0.2,
+      "landmark_urban_rural": -0.8,
+      "landmark_crowd": 0.8
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 8,
+      "cityNightlife": 9,
+      "transit_drive": 9,
+      "budget_luxury": 7,
+      "nature_culture": 5,
+      "morning_night": 6,
+      "landmark_ancient_modern": 5,
+      "landmark_urban_rural": 6,
+      "landmark_crowd": 5
+    }
+  },
+  {
+    "name": "Vienna",
+    "countryCode": "AT",
+    "popularity": 6,
+    "P": {
+      "cityWealth": 0.8,
+      "cityType": 0.6,
+      "cityNightlife": 0.4,
+      "nature_culture": -0.9,
+      "relaxed_intensive": -0.6,
+      "transit_drive": -0.8,
+      "budget_luxury": 0.4,
+      "landmark_ancient_modern": 0.9,
+      "landmark_urban_rural": -0.5,
+      "landmark_crowd": 0.5
+    },
+    "W": {
+      "cityWealth": 7,
+      "cityType": 7,
+      "cityNightlife": 5,
+      "nature_culture": 9,
+      "relaxed_intensive": 7,
+      "transit_drive": 6,
+      "landmark_ancient_modern": 8,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Washington, D.C.",
+    "countryCode": "US",
+    "popularity": 5,
+    "P": {
+      "cityWealth": 0.8,
+      "cityType": 0.7,
+      "cityNightlife": 0.5,
+      "nature_culture": -1.0,
+      "transit_drive": -0.4,
+      "relaxed_intensive": 0.2,
+      "budget_luxury": 0.3,
+      "landmark_ancient_modern": 0.6,
+      "landmark_urban_rural": -0.8,
+      "landmark_crowd": 0.6
+    },
+    "W": {
+      "cityWealth": 7,
+      "cityType": 8,
+      "cityNightlife": 4,
+      "nature_culture": 9,
+      "transit_drive": 5,
+      "relaxed_intensive": 4,
+      "landmark_ancient_modern": 7,
+      "landmark_urban_rural": 6,
+      "landmark_crowd": 5
+    }
+  },
+  {
+    "name": "Zurich",
+    "countryCode": "CH",
+    "popularity": 2,
+    "P": {
+      "cityWealth": 1.0,
+      "cityType": 0.5,
+      "cityNightlife": 0.5,
+      "budget_luxury": 1.0,
+      "transit_drive": -0.9,
+      "nature_culture": -0.3,
+      "relaxed_intensive": -0.4,
+      "landmark_ancient_modern": 0.6,
+      "landmark_urban_rural": 0.0,
+      "landmark_crowd": 0.3,
+      "landmark_budget_luxury": 1.0
+    },
+    "W": {
+      "cityWealth": 9,
+      "cityType": 7,
+      "cityNightlife": 4,
+      "budget_luxury": 10,
+      "transit_drive": 8,
+      "nature_culture": 6,
+      "landmark_ancient_modern": 6,
+      "landmark_urban_rural": 5,
+      "landmark_budget_luxury": 8
+    }
+  },
+  {
+    "name": "Athens",
+    "countryCode": "GR",
+    "popularity": 6,
+    "P": {
+      "cityWealth": 0.2,
+      "cityType": 0.8,
+      "cityNightlife": 0.8,
+      "nature_culture": -1.0,
+      "relaxed_intensive": 0.7,
+      "budget_luxury": -0.4,
+      "morning_night": 0.8,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": -0.8,
+      "landmark_crowd": 0.9
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 7,
+      "nature_culture": 9,
+      "relaxed_intensive": 6,
+      "budget_luxury": 5,
+      "landmark_ancient_modern": 10,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 6
+    }
+  },
+  {
+    "name": "Atlanta",
+    "countryCode": "US",
+    "popularity": 1,
+    "P": {
+      "cityWealth": 0.7,
+      "cityType": 0.4,
+      "cityNightlife": 0.6,
+      "transit_drive": 1.0,
+      "nature_culture": -0.4,
+      "relaxed_intensive": 0.4,
+      "budget_luxury": 0.4,
+      "landmark_ancient_modern": -0.3,
+      "landmark_urban_rural": -0.2,
+      "landmark_crowd": 0.5
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 7,
+      "cityNightlife": 5,
+      "transit_drive": 10,
+      "nature_culture": 5,
+      "relaxed_intensive": 4,
+      "landmark_ancient_modern": 4,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Auckland",
+    "countryCode": "NZ",
+    "popularity": 2,
+    "P": {
+      "cityWealth": 0.6,
+      "cityType": 0.2,
+      "cityNightlife": 0.5,
+      "nature_culture": 0.4,
+      "transit_drive": 0.8,
+      "relaxed_intensive": -0.4,
+      "budget_luxury": 0.5,
+      "landmark_ancient_modern": -0.4,
+      "landmark_urban_rural": 0.2,
+      "landmark_crowd": 0.3
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 8,
+      "cityNightlife": 4,
+      "nature_culture": 8,
+      "transit_drive": 7,
+      "relaxed_intensive": 6,
+      "landmark_ancient_modern": 4,
+      "landmark_urban_rural": 6,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Barcelona",
+    "countryCode": "ES",
+    "popularity": 10,
+    "P": {
+      "cityWealth": 0.6,
+      "cityType": 0.8,
+      "cityNightlife": 0.9,
+      "solo_social": 0.8,
+      "nature_culture": -0.6,
+      "relaxed_intensive": 0.4,
+      "morning_night": 0.9,
+      "landmark_ancient_modern": 0.5,
+      "landmark_urban_rural": -0.6,
+      "landmark_crowd": 1.0
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 8,
+      "cityNightlife": 9,
+      "solo_social": 8,
+      "nature_culture": 7,
+      "morning_night": 7,
+      "landmark_ancient_modern": 8,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 6
+    }
+  },
+  {
+    "name": "Bengaluru",
+    "countryCode": "IN",
+    "popularity": 0,
+    "P": {
+      "cityWealth": -0.2,
+      "cityType": 0.7,
+      "cityNightlife": 0.7,
+      "relaxed_intensive": 0.9,
+      "nature_culture": -0.5,
+      "budget_luxury": -0.3,
+      "transit_drive": 0.5,
+      "landmark_ancient_modern": 0.3,
+      "landmark_urban_rural": -0.6,
+      "landmark_crowd": 0.8
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 6,
+      "relaxed_intensive": 8,
+      "nature_culture": 5,
+      "transit_drive": 6,
+      "landmark_ancient_modern": 4,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 5
+    }
+  },
+  {
+    "name": "Bogotá",
+    "countryCode": "CO",
+    "popularity": 1,
+    "P": {
+      "cityWealth": -0.3,
+      "cityType": 0.8,
+      "cityNightlife": 0.7,
+      "nature_culture": -0.7,
+      "relaxed_intensive": 0.8,
+      "budget_luxury": -0.4,
+      "transit_drive": -0.2,
+      "landmark_ancient_modern": 0.6,
+      "landmark_urban_rural": -0.7,
+      "landmark_crowd": 0.7
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 6,
+      "nature_culture": 7,
+      "relaxed_intensive": 7,
+      "budget_luxury": 5,
+      "landmark_ancient_modern": 6,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 5
+    }
+  },
+  {
+    "name": "Bucharest",
+    "countryCode": "RO",
+    "popularity": 0,
+    "P": {
+      "cityWealth": 0.2,
+      "cityType": 0.7,
+      "cityNightlife": 0.8,
+      "budget_luxury": -0.5,
+      "solo_social": 0.7,
+      "nature_culture": -0.6,
+      "relaxed_intensive": 0.3,
+      "landmark_ancient_modern": 0.4,
+      "landmark_urban_rural": -0.8,
+      "landmark_crowd": 0.5
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 8,
+      "budget_luxury": 7,
+      "solo_social": 6,
+      "nature_culture": 5,
+      "landmark_ancient_modern": 6,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Budapest",
+    "countryCode": "HU",
+    "popularity": 6,
+    "P": {
+      "cityWealth": 0.4,
+      "cityType": 0.7,
+      "cityNightlife": 0.9,
+      "budget_luxury": -0.4,
+      "relaxed_intensive": -0.2,
+      "solo_social": 0.8,
+      "nature_culture": -0.7,
+      "landmark_ancient_modern": 0.8,
+      "landmark_urban_rural": -0.6,
+      "landmark_crowd": 0.7
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 9,
+      "budget_luxury": 8,
+      "relaxed_intensive": 6,
+      "solo_social": 7,
+      "landmark_ancient_modern": 8,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 5
+    }
+  },
+  {
+    "name": "Chengdu",
+    "countryCode": "CN",
+    "popularity": 1,
+    "P": {
+      "cityWealth": 0.5,
+      "cityType": 0.7,
+      "cityNightlife": 0.6,
+      "relaxed_intensive": -0.4,
+      "nature_culture": -0.5,
+      "budget_luxury": 0.2,
+      "solo_social": 0.5,
+      "landmark_ancient_modern": 0.3,
+      "landmark_urban_rural": -0.2,
+      "landmark_crowd": 0.7
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 5,
+      "relaxed_intensive": 8,
+      "nature_culture": 6,
+      "budget_luxury": 4,
+      "landmark_ancient_modern": 5,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 5
+    }
+  },
+  {
+    "name": "Dallas",
+    "countryCode": "US",
+    "popularity": 1,
+    "P": {
+      "cityWealth": 0.8,
+      "cityType": 0.6,
+      "cityNightlife": 0.6,
+      "transit_drive": 1.0,
+      "budget_luxury": 0.6,
+      "nature_culture": -0.4,
+      "relaxed_intensive": 0.3,
+      "landmark_ancient_modern": -0.2,
+      "landmark_urban_rural": -0.5,
+      "landmark_crowd": 0.4
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 7,
+      "cityNightlife": 5,
+      "transit_drive": 10,
+      "budget_luxury": 6,
+      "nature_culture": 4,
+      "landmark_ancient_modern": 4,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Doha",
+    "countryCode": "QA",
+    "popularity": 4,
+    "P": {
+      "cityWealth": 0.9,
+      "cityType": 0.9,
+      "cityNightlife": 0.2,
+      "budget_luxury": 1.0,
+      "transit_drive": 0.9,
+      "relaxed_intensive": -0.3,
+      "morning_night": -0.5,
+      "landmark_ancient_modern": -0.3,
+      "landmark_urban_rural": -0.8,
+      "landmark_crowd": 0.4,
+      "landmark_budget_luxury": 1.0
+    },
+    "W": {
+      "cityWealth": 9,
+      "cityType": 8,
+      "cityNightlife": 4,
+      "budget_luxury": 10,
+      "transit_drive": 8,
+      "relaxed_intensive": 5,
+      "landmark_ancient_modern": 6,
+      "landmark_urban_rural": 6,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Hamburg",
+    "countryCode": "DE",
+    "popularity": 2,
+    "P": {
+      "cityWealth": 0.8,
+      "cityType": 0.8,
+      "cityNightlife": 0.9,
+      "solo_social": 0.7,
+      "budget_luxury": 0.6,
+      "nature_culture": -0.6,
+      "morning_night": 0.9,
+      "landmark_ancient_modern": 0.3,
+      "landmark_urban_rural": -0.8,
+      "landmark_crowd": 0.6
+    },
+    "W": {
+      "cityWealth": 7,
+      "cityType": 7,
+      "cityNightlife": 9,
+      "solo_social": 7,
+      "budget_luxury": 6,
+      "morning_night": 8,
+      "landmark_ancient_modern": 6,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Hangzhou",
+    "countryCode": "CN",
+    "popularity": 1,
+    "P": {
+      "cityWealth": 0.6,
+      "cityType": 0.4,
+      "cityNightlife": 0.4,
+      "nature_culture": 0.2,
+      "relaxed_intensive": -0.5,
+      "budget_luxury": 0.4,
+      "solo_social": 0.3,
+      "landmark_ancient_modern": 0.5,
+      "landmark_urban_rural": 0.3,
+      "landmark_crowd": 0.8
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 7,
+      "cityNightlife": 4,
+      "nature_culture": 8,
+      "relaxed_intensive": 7,
+      "budget_luxury": 4,
+      "landmark_ancient_modern": 6,
+      "landmark_urban_rural": 7,
+      "landmark_crowd": 5
+    }
+  },
+  {
+    "name": "Ho Chi Minh City",
+    "countryCode": "VN",
+    "popularity": 4,
+    "P": {
+      "cityWealth": -0.4,
+      "cityType": 0.8,
+      "cityNightlife": 0.8,
+      "relaxed_intensive": 0.9,
+      "budget_luxury": -0.8,
+      "nature_culture": -0.6,
+      "transit_drive": -0.3,
+      "landmark_ancient_modern": 0.4,
+      "landmark_urban_rural": -0.9,
+      "landmark_crowd": 0.9
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 8,
+      "cityNightlife": 8,
+      "relaxed_intensive": 8,
+      "budget_luxury": 8,
+      "nature_culture": 6,
+      "landmark_ancient_modern": 5,
+      "landmark_urban_rural": 6,
+      "landmark_crowd": 6
+    }
+  },
+  {
+    "name": "Lima",
+    "countryCode": "PE",
+    "popularity": 2,
+    "P": {
+      "cityWealth": -0.3,
+      "cityType": 0.8,
+      "cityNightlife": 0.6,
+      "relaxed_intensive": 0.7,
+      "nature_culture": -0.4,
+      "budget_luxury": -0.4,
+      "transit_drive": -0.2,
+      "landmark_ancient_modern": 0.5,
+      "landmark_urban_rural": -0.5,
+      "landmark_crowd": 0.7
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 5,
+      "relaxed_intensive": 7,
+      "nature_culture": 6,
+      "budget_luxury": 5,
+      "landmark_ancient_modern": 5,
+      "landmark_urban_rural": 6,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Miami",
+    "countryCode": "US",
+    "popularity": 6,
+    "P": {
+      "cityWealth": 0.8,
+      "cityType": 0.5,
+      "cityNightlife": 1.0,
+      "transit_drive": 1.0,
+      "budget_luxury": 0.8,
+      "solo_social": 0.9,
+      "nature_culture": 0.2,
+      "morning_night": 1.0,
+      "landmark_ancient_modern": -0.3,
+      "landmark_urban_rural": 0.0,
+      "landmark_crowd": 0.8,
+      "landmark_budget_luxury": 0.9
+    },
+    "W": {
+      "cityWealth": 7,
+      "cityType": 8,
+      "cityNightlife": 10,
+      "transit_drive": 10,
+      "budget_luxury": 8,
+      "solo_social": 7,
+      "landmark_ancient_modern": 4,
+      "landmark_urban_rural": 6,
+      "landmark_crowd": 5
+    }
+  },
+  {
+    "name": "Montreal",
+    "countryCode": "CA",
+    "popularity": 4,
+    "P": {
+      "cityWealth": 0.7,
+      "cityType": 0.6,
+      "cityNightlife": 0.8,
+      "nature_culture": -0.7,
+      "transit_drive": -0.6,
+      "relaxed_intensive": 0.2,
+      "budget_luxury": 0.3,
+      "landmark_ancient_modern": 0.4,
+      "landmark_urban_rural": -0.5,
+      "landmark_crowd": 0.5
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 7,
+      "cityNightlife": 7,
+      "nature_culture": 8,
+      "transit_drive": 7,
+      "relaxed_intensive": 5,
+      "landmark_ancient_modern": 6,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Prague",
+    "countryCode": "CZ",
+    "popularity": 7,
+    "P": {
+      "cityWealth": 0.5,
+      "cityType": 0.6,
+      "cityNightlife": 0.8,
+      "budget_luxury": -0.5,
+      "transit_drive": -0.9,
+      "nature_culture": -0.9,
+      "relaxed_intensive": 0.3,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": -0.8,
+      "landmark_crowd": 0.9,
+      "landmark_budget_luxury": -0.4
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 7,
+      "cityNightlife": 8,
+      "budget_luxury": 9,
+      "nature_culture": 8,
+      "transit_drive": 7,
+      "landmark_ancient_modern": 10,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 6
+    }
+  },
+  {
+    "name": "Rome",
+    "countryCode": "IT",
+    "popularity": 10,
+    "P": {
+      "cityWealth": 0.5,
+      "cityType": 0.8,
+      "cityNightlife": 0.7,
+      "nature_culture": -1.0,
+      "relaxed_intensive": 1.0,
+      "transit_drive": -0.5,
+      "solo_social": 0.6,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": -0.9,
+      "landmark_crowd": 1.0
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 8,
+      "cityNightlife": 6,
+      "nature_culture": 10,
+      "relaxed_intensive": 9,
+      "transit_drive": 6,
+      "landmark_ancient_modern": 10,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 8
+    }
+  },
+  {
+    "name": "Tianjin",
+    "countryCode": "CN",
+    "popularity": 0,
+    "P": {
+      "cityWealth": 0.5,
+      "cityType": 0.6,
+      "cityNightlife": 0.3,
+      "relaxed_intensive": -0.3,
+      "nature_culture": -0.4,
+      "transit_drive": -0.6,
+      "budget_luxury": 0.2,
+      "landmark_ancient_modern": 0.2,
+      "landmark_urban_rural": -0.6,
+      "landmark_crowd": 0.5
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 4,
+      "relaxed_intensive": 6,
+      "nature_culture": 5,
+      "transit_drive": 5,
+      "landmark_ancient_modern": 5,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Abu Dhabi",
+    "countryCode": "AE",
+    "popularity": 3,
+    "P": {
+      "cityWealth": 1.0,
+      "cityType": 0.8,
+      "cityNightlife": -0.4,
+      "budget_luxury": 1.0,
+      "transit_drive": 1.0,
+      "nature_culture": -0.6,
+      "relaxed_intensive": -0.2,
+      "landmark_ancient_modern": -0.2,
+      "landmark_urban_rural": -0.7,
+      "landmark_crowd": 0.4,
+      "landmark_budget_luxury": 1.0
+    },
+    "W": {
+      "cityWealth": 9,
+      "cityType": 8,
+      "cityNightlife": 5,
+      "budget_luxury": 9,
+      "transit_drive": 8,
+      "nature_culture": 6,
+      "landmark_ancient_modern": 5,
+      "landmark_urban_rural": 6,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Brisbane",
+    "countryCode": "AU",
+    "popularity": 2,
+    "P": {
+      "cityWealth": 0.7,
+      "cityType": 0.5,
+      "cityNightlife": 0.5,
+      "nature_culture": 0.2,
+      "relaxed_intensive": -0.6,
+      "transit_drive": 0.4,
+      "budget_luxury": 0.4,
+      "landmark_ancient_modern": -0.4,
+      "landmark_urban_rural": 0.0,
+      "landmark_crowd": 0.3
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 7,
+      "cityNightlife": 4,
+      "nature_culture": 7,
+      "relaxed_intensive": 7,
+      "transit_drive": 5,
+      "landmark_ancient_modern": 3,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Cairo",
+    "countryCode": "EG",
+    "popularity": 5,
+    "P": {
+      "cityWealth": -0.4,
+      "cityType": 0.8,
+      "cityNightlife": 0.6,
+      "relaxed_intensive": 1.0,
+      "nature_culture": -0.9,
+      "budget_luxury": -0.6,
+      "transit_drive": -0.3,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": -0.6,
+      "landmark_crowd": 1.0
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 8,
+      "cityNightlife": 6,
+      "relaxed_intensive": 10,
+      "nature_culture": 8,
+      "budget_luxury": 5,
+      "landmark_ancient_modern": 9,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 7
+    }
+  },
+  {
+    "name": "Calgary",
+    "countryCode": "CA",
+    "popularity": 1,
+    "P": {
+      "cityWealth": 0.8,
+      "cityType": 0.3,
+      "cityNightlife": 0.3,
+      "nature_culture": 0.6,
+      "transit_drive": 0.9,
+      "relaxed_intensive": -0.3,
+      "budget_luxury": 0.5,
+      "landmark_ancient_modern": -0.4,
+      "landmark_urban_rural": 0.3,
+      "landmark_crowd": -0.2
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 7,
+      "cityNightlife": 4,
+      "nature_culture": 9,
+      "transit_drive": 8,
+      "relaxed_intensive": 5,
+      "landmark_ancient_modern": 4,
+      "landmark_urban_rural": 7,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Chongqing",
+    "countryCode": "CN",
+    "popularity": 1,
+    "P": {
+      "cityWealth": 0.4,
+      "cityType": 1.0,
+      "cityNightlife": 0.8,
+      "nature_culture": -0.6,
+      "relaxed_intensive": 0.8,
+      "budget_luxury": 0.0,
+      "transit_drive": -0.5,
+      "landmark_ancient_modern": 0.0,
+      "landmark_urban_rural": -1.0,
+      "landmark_crowd": 0.9
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 10,
+      "cityNightlife": 7,
+      "nature_culture": 7,
+      "relaxed_intensive": 7,
+      "budget_luxury": 4,
+      "landmark_ancient_modern": 7,
+      "landmark_urban_rural": 7,
+      "landmark_crowd": 6
+    }
+  },
+  {
+    "name": "Copenhagen",
+    "countryCode": "DK",
+    "popularity": 4,
+    "P": {
+      "cityWealth": 0.9,
+      "cityType": 0.6,
+      "cityNightlife": 0.5,
+      "transit_drive": -1.0,
+      "budget_luxury": 0.8,
+      "relaxed_intensive": -0.7,
+      "nature_culture": -0.5,
+      "landmark_ancient_modern": 0.4,
+      "landmark_urban_rural": -0.4,
+      "landmark_crowd": 0.4,
+      "landmark_budget_luxury": 0.8
+    },
+    "W": {
+      "cityWealth": 8,
+      "cityType": 7,
+      "cityNightlife": 5,
+      "transit_drive": 10,
+      "budget_luxury": 8,
+      "relaxed_intensive": 8,
+      "landmark_ancient_modern": 6,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Geneva",
+    "countryCode": "CH",
+    "popularity": 2,
+    "P": {
+      "cityWealth": 1.0,
+      "cityType": 0.4,
+      "cityNightlife": -0.5,
+      "budget_luxury": 1.0,
+      "relaxed_intensive": -0.8,
+      "nature_culture": -0.2,
+      "transit_drive": -0.7,
+      "landmark_ancient_modern": 0.3,
+      "landmark_urban_rural": -0.2,
+      "landmark_crowd": 0.2
+    },
+    "W": {
+      "cityWealth": 9,
+      "cityType": 7,
+      "cityNightlife": 5,
+      "budget_luxury": 9,
+      "relaxed_intensive": 7,
+      "nature_culture": 5,
+      "landmark_ancient_modern": 4,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Hanoi",
+    "countryCode": "VN",
+    "popularity": 4,
+    "P": {
+      "cityWealth": -0.5,
+      "cityType": 0.7,
+      "cityNightlife": 0.6,
+      "budget_luxury": -0.8,
+      "relaxed_intensive": 0.8,
+      "nature_culture": -0.7,
+      "transit_drive": -0.4,
+      "landmark_ancient_modern": 0.7,
+      "landmark_urban_rural": -0.8,
+      "landmark_crowd": 0.9
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 8,
+      "cityNightlife": 6,
+      "budget_luxury": 8,
+      "relaxed_intensive": 7,
+      "nature_culture": 6,
+      "landmark_ancient_modern": 7,
+      "landmark_urban_rural": 6,
+      "landmark_crowd": 5
+    }
+  },
+  {
+    "name": "Jinan",
+    "countryCode": "CN",
+    "popularity": 0,
+    "P": {
+      "cityWealth": 0.3,
+      "cityType": 0.5,
+      "cityNightlife": 0.2,
+      "nature_culture": 0.2,
+      "relaxed_intensive": -0.3,
+      "budget_luxury": -0.2,
+      "landmark_ancient_modern": 0.6,
+      "landmark_urban_rural": 0.3,
+      "landmark_crowd": 0.6
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 6,
+      "cityNightlife": 4,
+      "nature_culture": 7,
+      "relaxed_intensive": 5,
+      "budget_luxury": 4,
+      "landmark_ancient_modern": 5,
+      "landmark_urban_rural": 6,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Kyiv",
+    "countryCode": "UA",
+    "popularity": 0,
+    "P": {
+      "cityWealth": -0.2,
+      "cityType": 0.6,
+      "cityNightlife": 0.5,
+      "nature_culture": -0.6,
+      "budget_luxury": -0.7,
+      "transit_drive": -0.6,
+      "relaxed_intensive": 0.2,
+      "landmark_ancient_modern": 0.8,
+      "landmark_urban_rural": -0.4,
+      "landmark_crowd": 0.4
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 5,
+      "nature_culture": 8,
+      "budget_luxury": 7,
+      "transit_drive": 6,
+      "landmark_ancient_modern": 8,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Manama",
+    "countryCode": "BH",
+    "popularity": 0,
+    "P": {
+      "cityWealth": 0.7,
+      "cityType": 0.6,
+      "cityNightlife": 0.6,
+      "transit_drive": 0.9,
+      "budget_luxury": 0.6,
+      "nature_culture": -0.5,
+      "relaxed_intensive": -0.2,
+      "landmark_ancient_modern": 0.2,
+      "landmark_urban_rural": -0.6,
+      "landmark_crowd": 0.4
+    },
+    "W": {
+      "cityWealth": 7,
+      "cityType": 7,
+      "cityNightlife": 6,
+      "transit_drive": 9,
+      "budget_luxury": 6,
+      "nature_culture": 5,
+      "landmark_ancient_modern": 5,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Manila",
+    "countryCode": "PH",
+    "popularity": 2,
+    "P": {
+      "cityWealth": -0.4,
+      "cityType": 0.9,
+      "cityNightlife": 0.7,
+      "relaxed_intensive": 1.0,
+      "transit_drive": 0.5,
+      "budget_luxury": -0.3,
+      "nature_culture": -0.6,
+      "landmark_ancient_modern": 0.3,
+      "landmark_urban_rural": -0.9,
+      "landmark_crowd": 0.9
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 8,
+      "cityNightlife": 6,
+      "relaxed_intensive": 9,
+      "transit_drive": 7,
+      "nature_culture": 6,
+      "landmark_ancient_modern": 6,
+      "landmark_urban_rural": 6,
+      "landmark_crowd": 6
+    }
+  },
+  {
+    "name": "Nairobi",
+    "countryCode": "KE",
+    "popularity": 1,
+    "P": {
+      "cityWealth": -0.5,
+      "cityType": 0.4,
+      "cityNightlife": 0.4,
+      "nature_culture": 0.4,
+      "relaxed_intensive": 0.6,
+      "transit_drive": 0.6,
+      "budget_luxury": -0.4,
+      "landmark_urban_rural": 0.5,
+      "landmark_ancient_modern": -0.2,
+      "landmark_crowd": 0.5
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 4,
+      "nature_culture": 9,
+      "transit_drive": 6,
+      "relaxed_intensive": 6,
+      "landmark_urban_rural": 8,
+      "landmark_ancient_modern": 3,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Nanjing",
+    "countryCode": "CN",
+    "popularity": 1,
+    "P": {
+      "cityWealth": 0.4,
+      "cityType": 0.6,
+      "cityNightlife": 0.4,
+      "nature_culture": -0.3,
+      "relaxed_intensive": -0.2,
+      "budget_luxury": 0.0,
+      "landmark_ancient_modern": 0.7,
+      "landmark_urban_rural": 0.0,
+      "landmark_crowd": 0.6
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 4,
+      "nature_culture": 7,
+      "relaxed_intensive": 5,
+      "budget_luxury": 4,
+      "landmark_ancient_modern": 7,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Oslo",
+    "countryCode": "NO",
+    "popularity": 3,
+    "P": {
+      "cityWealth": 0.9,
+      "cityType": 0.3,
+      "cityNightlife": 0.4,
+      "budget_luxury": 0.9,
+      "nature_culture": 0.3,
+      "relaxed_intensive": -0.7,
+      "transit_drive": -0.7,
+      "landmark_ancient_modern": -0.3,
+      "landmark_urban_rural": 0.2,
+      "landmark_crowd": -0.2
+    },
+    "W": {
+      "cityWealth": 8,
+      "cityType": 7,
+      "cityNightlife": 4,
+      "budget_luxury": 9,
+      "nature_culture": 8,
+      "relaxed_intensive": 6,
+      "landmark_ancient_modern": 5,
+      "landmark_urban_rural": 6,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Perth",
+    "countryCode": "AU",
+    "popularity": 1,
+    "P": {
+      "cityWealth": 0.7,
+      "cityType": 0.4,
+      "cityNightlife": 0.4,
+      "nature_culture": 0.4,
+      "relaxed_intensive": -0.8,
+      "transit_drive": 0.5,
+      "budget_luxury": 0.4,
+      "landmark_urban_rural": 0.5,
+      "landmark_ancient_modern": -0.3,
+      "landmark_crowd": -0.2
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 7,
+      "cityNightlife": 4,
+      "nature_culture": 8,
+      "relaxed_intensive": 8,
+      "transit_drive": 6,
+      "landmark_urban_rural": 6,
+      "landmark_ancient_modern": 3,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Shenyang",
+    "countryCode": "CN",
+    "popularity": 0,
+    "P": {
+      "cityWealth": 0.2,
+      "cityType": 0.7,
+      "cityNightlife": 0.4,
+      "nature_culture": -0.5,
+      "relaxed_intensive": 0.2,
+      "budget_luxury": -0.3,
+      "landmark_ancient_modern": 0.6,
+      "landmark_urban_rural": -0.6,
+      "landmark_crowd": 0.5
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 4,
+      "nature_culture": 7,
+      "budget_luxury": 5,
+      "relaxed_intensive": 4,
+      "landmark_ancient_modern": 7,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Suzhou",
+    "countryCode": "CN",
+    "popularity": 1,
+    "P": {
+      "cityWealth": 0.6,
+      "cityType": 0.4,
+      "cityNightlife": 0.3,
+      "nature_culture": 0.0,
+      "relaxed_intensive": -0.5,
+      "budget_luxury": 0.2,
+      "landmark_ancient_modern": 0.9,
+      "landmark_urban_rural": 0.2,
+      "landmark_crowd": 0.7
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 7,
+      "cityNightlife": 4,
+      "nature_culture": 8,
+      "relaxed_intensive": 6,
+      "budget_luxury": 4,
+      "landmark_ancient_modern": 9,
+      "landmark_urban_rural": 6,
+      "landmark_crowd": 5
+    }
+  },
+  {
+    "name": "Tel Aviv",
+    "countryCode": "IL",
+    "popularity": 3,
+    "P": {
+      "cityWealth": 0.8,
+      "cityType": 0.8,
+      "cityNightlife": 1.0,
+      "solo_social": 0.9,
+      "morning_night": 1.0,
+      "budget_luxury": 0.7,
+      "nature_culture": -0.6,
+      "relaxed_intensive": 0.4,
+      "landmark_ancient_modern": -0.5,
+      "landmark_urban_rural": -0.7,
+      "landmark_crowd": 0.8,
+      "landmark_budget_luxury": 0.8
+    },
+    "W": {
+      "cityWealth": 7,
+      "cityType": 8,
+      "cityNightlife": 10,
+      "solo_social": 8,
+      "morning_night": 9,
+      "budget_luxury": 6,
+      "landmark_ancient_modern": 5,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Wuhan",
+    "countryCode": "CN",
+    "popularity": 0,
+    "P": {
+      "cityWealth": 0.4,
+      "cityType": 0.9,
+      "cityNightlife": 0.6,
+      "relaxed_intensive": 0.8,
+      "nature_culture": -0.5,
+      "budget_luxury": 0.1,
+      "transit_drive": -0.6,
+      "landmark_ancient_modern": 0.3,
+      "landmark_urban_rural": -0.8,
+      "landmark_crowd": 0.9
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 9,
+      "cityNightlife": 5,
+      "relaxed_intensive": 7,
+      "nature_culture": 5,
+      "transit_drive": 6,
+      "landmark_ancient_modern": 6,
+      "landmark_urban_rural": 6,
+      "landmark_crowd": 5
+    }
+  },
+  {
+    "name": "Xiamen",
+    "countryCode": "CN",
+    "popularity": 0,
+    "P": {
+      "cityWealth": 0.5,
+      "cityType": 0.3,
+      "cityNightlife": 0.4,
+      "relaxed_intensive": -0.7,
+      "nature_culture": 0.2,
+      "budget_luxury": 0.3,
+      "landmark_ancient_modern": 0.6,
+      "landmark_urban_rural": 0.3,
+      "landmark_crowd": 0.6
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 8,
+      "cityNightlife": 4,
+      "relaxed_intensive": 9,
+      "nature_culture": 7,
+      "budget_luxury": 4,
+      "landmark_ancient_modern": 7,
+      "landmark_urban_rural": 6,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Beirut",
+    "countryCode": "LB",
+    "popularity": 0,
+    "P": {
+      "cityWealth": -0.2,
+      "cityType": 0.7,
+      "cityNightlife": 0.9,
+      "solo_social": 0.8,
+      "morning_night": 0.9,
+      "relaxed_intensive": 0.6,
+      "nature_culture": -0.8,
+      "landmark_ancient_modern": 0.4,
+      "landmark_urban_rural": -0.6,
+      "landmark_crowd": 0.7
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 10,
+      "solo_social": 8,
+      "morning_night": 8,
+      "relaxed_intensive": 6,
+      "landmark_ancient_modern": 6,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Belgrade",
+    "countryCode": "RS",
+    "popularity": 1,
+    "P": {
+      "cityWealth": 0.1,
+      "cityType": 0.6,
+      "cityNightlife": 1.0,
+      "solo_social": 0.9,
+      "morning_night": 1.0,
+      "budget_luxury": -0.5,
+      "nature_culture": -0.7,
+      "landmark_ancient_modern": 0.8,
+      "landmark_urban_rural": -0.6,
+      "landmark_crowd": 0.6
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 10,
+      "solo_social": 9,
+      "morning_night": 9,
+      "budget_luxury": 7,
+      "landmark_ancient_modern": 7,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Bratislava",
+    "countryCode": "SK",
+    "popularity": 0,
+    "P": {
+      "cityWealth": 0.3,
+      "cityType": 0.4,
+      "cityNightlife": 0.4,
+      "relaxed_intensive": -0.6,
+      "budget_luxury": -0.3,
+      "nature_culture": -0.8,
+      "transit_drive": -0.8,
+      "landmark_ancient_modern": 0.9,
+      "landmark_urban_rural": -0.4,
+      "landmark_crowd": 0.3
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 5,
+      "relaxed_intensive": 7,
+      "budget_luxury": 6,
+      "nature_culture": 6,
+      "landmark_ancient_modern": 8,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Casablanca",
+    "countryCode": "MA",
+    "popularity": 3,
+    "P": {
+      "cityWealth": 0.0,
+      "cityType": 0.9,
+      "cityNightlife": 0.5,
+      "relaxed_intensive": 0.7,
+      "nature_culture": -0.6,
+      "transit_drive": -0.2,
+      "budget_luxury": -0.1,
+      "landmark_ancient_modern": 0.0,
+      "landmark_urban_rural": -0.8,
+      "landmark_crowd": 0.8
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 8,
+      "cityNightlife": 5,
+      "relaxed_intensive": 7,
+      "nature_culture": 6,
+      "transit_drive": 5,
+      "landmark_ancient_modern": 5,
+      "landmark_urban_rural": 6,
+      "landmark_crowd": 5
+    }
+  },
+  {
+    "name": "Chennai",
+    "countryCode": "IN",
+    "popularity": 0,
+    "P": {
+      "cityWealth": -0.4,
+      "cityType": 0.7,
+      "cityNightlife": -0.2,
+      "nature_culture": -1.0,
+      "relaxed_intensive": 0.9,
+      "budget_luxury": -0.6,
+      "morning_night": -0.5,
+      "landmark_ancient_modern": 0.9,
+      "landmark_urban_rural": -0.7,
+      "landmark_crowd": 1.0
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 4,
+      "nature_culture": 9,
+      "relaxed_intensive": 8,
+      "budget_luxury": 6,
+      "landmark_ancient_modern": 8,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 8
+    }
+  },
+  {
+    "name": "Denver",
+    "countryCode": "US",
+    "popularity": 1,
+    "P": {
+      "cityWealth": 0.7,
+      "cityType": 0.3,
+      "cityNightlife": 0.5,
+      "nature_culture": 0.6,
+      "transit_drive": 0.9,
+      "relaxed_intensive": -0.2,
+      "budget_luxury": 0.4,
+      "landmark_urban_rural": 0.4,
+      "landmark_ancient_modern": -0.4,
+      "landmark_crowd": 0.3
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 7,
+      "cityNightlife": 4,
+      "nature_culture": 9,
+      "transit_drive": 8,
+      "relaxed_intensive": 5,
+      "landmark_urban_rural": 7,
+      "landmark_ancient_modern": 3,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Helsinki",
+    "countryCode": "FI",
+    "popularity": 3,
+    "P": {
+      "cityWealth": 0.8,
+      "cityType": 0.4,
+      "cityNightlife": 0.3,
+      "documenter_minimalist": 1.0,
+      "nature_culture": -0.2,
+      "budget_luxury": 0.7,
+      "relaxed_intensive": -0.6,
+      "transit_drive": -0.7,
+      "landmark_ancient_modern": 0.0,
+      "landmark_urban_rural": -0.3,
+      "landmark_crowd": -0.2,
+      "landmark_budget_luxury": 0.6
+    },
+    "W": {
+      "cityWealth": 8,
+      "cityType": 7,
+      "cityNightlife": 5,
+      "documenter_minimalist": 10,
+      "nature_culture": 7,
+      "budget_luxury": 8,
+      "landmark_ancient_modern": 5,
+      "landmark_urban_rural": 6,
+      "landmark_crowd": 3
+    }
+  },
+  {
+    "name": "Karachi",
+    "countryCode": "PK",
+    "popularity": 0,
+    "P": {
+      "cityWealth": -0.7,
+      "cityType": 0.9,
+      "cityNightlife": 0.4,
+      "relaxed_intensive": 1.0,
+      "budget_luxury": -1.0,
+      "nature_culture": -0.4,
+      "solo_social": 0.7,
+      "landmark_ancient_modern": 0.0,
+      "landmark_urban_rural": -0.9,
+      "landmark_crowd": 1.0
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 8,
+      "cityNightlife": 4,
+      "relaxed_intensive": 10,
+      "budget_luxury": 9,
+      "solo_social": 6,
+      "landmark_ancient_modern": 3,
+      "landmark_urban_rural": 6,
+      "landmark_crowd": 9
+    }
+  },
+  {
+    "name": "Kunming",
+    "countryCode": "CN",
+    "popularity": 0,
+    "P": {
+      "cityWealth": 0.1,
+      "cityType": 0.2,
+      "cityNightlife": 0.2,
+      "relaxed_intensive": -0.8,
+      "nature_culture": 0.4,
+      "budget_luxury": -0.2,
+      "transit_drive": -0.4,
+      "landmark_ancient_modern": 0.5,
+      "landmark_urban_rural": 0.5,
+      "landmark_crowd": 0.4
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 4,
+      "relaxed_intensive": 9,
+      "nature_culture": 8,
+      "budget_luxury": 5,
+      "landmark_ancient_modern": 6,
+      "landmark_urban_rural": 7,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Lagos",
+    "countryCode": "NG",
+    "popularity": 0,
+    "P": {
+      "cityWealth": -0.3,
+      "cityType": 0.8,
+      "cityNightlife": 0.8,
+      "relaxed_intensive": 1.0,
+      "solo_social": 0.9,
+      "morning_night": 0.8,
+      "budget_luxury": -0.5,
+      "landmark_ancient_modern": -0.5,
+      "landmark_urban_rural": -0.7,
+      "landmark_crowd": 1.0
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 8,
+      "cityNightlife": 8,
+      "relaxed_intensive": 10,
+      "solo_social": 8,
+      "morning_night": 7,
+      "landmark_ancient_modern": 3,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 8
+    }
+  },
+  {
+    "name": "Lyon",
+    "countryCode": "FR",
+    "popularity": 1,
+    "P": {
+      "cityWealth": 0.7,
+      "cityType": 0.6,
+      "cityNightlife": 0.4,
+      "nature_culture": -0.9,
+      "transit_drive": -0.8,
+      "budget_luxury": 0.4,
+      "relaxed_intensive": -0.3,
+      "landmark_ancient_modern": 0.9,
+      "landmark_urban_rural": -0.6,
+      "landmark_crowd": 0.5
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 7,
+      "cityNightlife": 5,
+      "nature_culture": 9,
+      "transit_drive": 6,
+      "budget_luxury": 5,
+      "landmark_ancient_modern": 8,
+      "landmark_urban_rural": 5,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Manchester",
+    "countryCode": "GB",
+    "popularity": 2,
+    "P": {
+      "cityWealth": 0.6,
+      "cityType": 0.8,
+      "cityNightlife": 0.9,
+      "solo_social": 0.7,
+      "nature_culture": -0.8,
+      "morning_night": 0.8,
+      "budget_luxury": 0.2,
+      "landmark_ancient_modern": 0.4,
+      "landmark_urban_rural": -0.8,
+      "landmark_crowd": 0.7
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 8,
+      "cityNightlife": 9,
+      "solo_social": 7,
+      "morning_night": 7,
+      "nature_culture": 7,
+      "landmark_ancient_modern": 6,
+      "landmark_urban_rural": 6,
+      "landmark_crowd": 5
+    }
+  },
+  {
+    "name": "Panama City",
+    "countryCode": "PA",
+    "popularity": 1,
+    "P": {
+      "cityWealth": 0.5,
+      "cityType": 0.8,
+      "cityNightlife": 0.6,
+      "nature_culture": -0.5,
+      "relaxed_intensive": 0.3,
+      "budget_luxury": 0.3,
+      "transit_drive": 0.0,
+      "landmark_ancient_modern": -0.6,
+      "landmark_urban_rural": -0.7,
+      "landmark_crowd": 0.6
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 8,
+      "cityNightlife": 5,
+      "nature_culture": 6,
+      "relaxed_intensive": 4,
+      "budget_luxury": 5,
+      "landmark_ancient_modern": 7,
+      "landmark_urban_rural": 6,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Philadelphia",
+    "countryCode": "US",
+    "popularity": 1,
+    "P": {
+      "cityWealth": 0.5,
+      "cityType": 0.7,
+      "cityNightlife": 0.6,
+      "nature_culture": -0.9,
+      "transit_drive": -0.5,
+      "relaxed_intensive": 0.5,
+      "budget_luxury": 0.2,
+      "landmark_ancient_modern": 0.7,
+      "landmark_urban_rural": -0.8,
+      "landmark_crowd": 0.6
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 5,
+      "nature_culture": 8,
+      "transit_drive": 6,
+      "relaxed_intensive": 6,
+      "landmark_ancient_modern": 7,
+      "landmark_urban_rural": 6,
+      "landmark_crowd": 4
+    }
+  },
+  {
+    "name": "Tirana",
+    "countryCode": "AL",
+    "popularity": 0,
+    "P": {
+      "cityWealth": 0.1,
+      "cityType": 0.5,
+      "cityNightlife": 0.7,
+      "budget_luxury": -0.7,
+      "solo_social": 0.7,
+      "nature_culture": -0.5,
+      "relaxed_intensive": 0.2,
+      "landmark_ancient_modern": 0.4,
+      "landmark_urban_rural": -0.6,
+      "landmark_crowd": 0.5
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 7,
+      "cityNightlife": 8,
+      "budget_luxury": 8,
+      "landmark_ancient_modern": 5,
+      "landmark_urban_rural": 4
+    }
+  },
+  {
+    "name": "Edinburgh",
+    "countryCode": "GB",
+    "popularity": 5,
+    "P": {
+      "cityWealth": 0.7,
+      "cityType": 0.4,
+      "cityNightlife": 0.8,
+      "nature_culture": -1.0,
+      "transit_drive": -0.9,
+      "documenter_minimalist": -0.8,
+      "relaxed_intensive": 0.3,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": -0.4,
+      "landmark_crowd": 0.9
+    },
+    "W": {
+      "cityWealth": 7,
+      "cityType": 8,
+      "cityNightlife": 7,
+      "nature_culture": 10,
+      "transit_drive": 8,
+      "landmark_ancient_modern": 9,
+      "landmark_crowd": 6
+    }
+  },
+  {
+    "name": "Jeddah",
+    "countryCode": "SA",
+    "popularity": 0,
+    "P": {
+      "cityWealth": 0.8,
+      "cityType": 0.8,
+      "cityNightlife": 0.2,
+      "transit_drive": 1.0,
+      "budget_luxury": 0.7,
+      "nature_culture": -0.6,
+      "landmark_ancient_modern": 0.3,
+      "landmark_urban_rural": -0.5,
+      "landmark_crowd": 0.6,
+      "landmark_budget_luxury": 0.8
+    },
+    "W": {
+      "cityWealth": 8,
+      "cityType": 8,
+      "cityNightlife": 6,
+      "transit_drive": 10,
+      "landmark_ancient_modern": 7,
+      "landmark_budget_luxury": 6
+    }
+  },
+  {
+    "name": "Marseille",
+    "countryCode": "FR",
+    "popularity": 2,
+    "P": {
+      "cityWealth": 0.4,
+      "cityType": 0.7,
+      "cityNightlife": 0.8,
+      "relaxed_intensive": 0.7,
+      "nature_culture": -0.4,
+      "solo_social": 0.6,
+      "landmark_ancient_modern": 0.8,
+      "landmark_urban_rural": -0.3,
+      "landmark_crowd": 0.7
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 9,
+      "relaxed_intensive": 8,
+      "landmark_ancient_modern": 7,
+      "landmark_crowd": 5
+    }
+  },
+  {
+    "name": "George Town",
+    "countryCode": "MY",
+    "popularity": 1,
+    "P": {
+      "cityWealth": 0.2,
+      "cityType": 0.4,
+      "cityNightlife": 0.6,
+      "relaxed_intensive": -0.4,
+      "nature_culture": -0.7,
+      "budget_luxury": -0.6,
+      "landmark_ancient_modern": 0.9,
+      "landmark_urban_rural": -0.2,
+      "landmark_crowd": 0.5,
+      "landmark_budget_luxury": -0.7
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 6,
+      "budget_luxury": 9,
+      "landmark_ancient_modern": 8,
+      "landmark_urban_rural": 5
+    }
+  },
+  {
+    "name": "Surabaya",
+    "countryCode": "ID",
+    "popularity": 0,
+    "P": {
+      "cityWealth": -0.1,
+      "cityType": 0.9,
+      "cityNightlife": 0.6,
+      "relaxed_intensive": 0.8,
+      "transit_drive": 0.5,
+      "nature_culture": -0.3,
+      "landmark_ancient_modern": -0.4,
+      "landmark_urban_rural": -1.0,
+      "landmark_crowd": 0.8
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 9,
+      "cityNightlife": 6,
+      "relaxed_intensive": 7,
+      "transit_drive": 8,
+      "landmark_urban_rural": 7
+    }
+  },
+  {
+    "name": "Valencia",
+    "countryCode": "ES",
+    "popularity": 2,
+    "P": {
+      "cityWealth": 0.5,
+      "cityType": 0.6,
+      "cityNightlife": 0.9,
+      "relaxed_intensive": -0.5,
+      "solo_social": 0.8,
+      "morning_night": 0.8,
+      "budget_luxury": 0.0,
+      "landmark_ancient_modern": -0.7,
+      "landmark_urban_rural": -0.5,
+      "landmark_crowd": 0.6
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 7,
+      "cityNightlife": 9,
+      "solo_social": 7,
+      "landmark_ancient_modern": 8,
+      "landmark_urban_rural": 5
+    }
+  },
+  {
+    "name": "Rio de Janeiro",
+    "countryCode": "BR",
+    "popularity": 6,
+    "P": {
+      "cityWealth": 0.1,
+      "cityType": -0.2,
+      "cityNightlife": 1.0,
+      "solo_social": 0.9,
+      "nature_culture": 0.8,
+      "relaxed_intensive": 0.8,
+      "morning_night": 1.0,
+      "landmark_ancient_modern": 0.5,
+      "landmark_urban_rural": 0.6,
+      "landmark_crowd": 1.0,
+      "landmark_budget_luxury": 0.0
+    },
+    "W": {
+      "cityWealth": 7,
+      "cityType": 8,
+      "cityNightlife": 10,
+      "solo_social": 8,
+      "nature_culture": 9,
+      "landmark_crowd": 6,
+      "landmark_urban_rural": 5
+    }
+  },
+  {
+    "name": "Seattle",
+    "countryCode": "US",
+    "popularity": 3,
+    "P": {
+      "cityWealth": 0.9,
+      "cityType": -0.1,
+      "cityNightlife": 0.5,
+      "nature_culture": 0.2,
+      "transit_drive": 0.4,
+      "relaxed_intensive": -0.2,
+      "budget_luxury": 0.7,
+      "landmark_ancient_modern": -0.6,
+      "landmark_urban_rural": -0.2,
+      "landmark_crowd": 0.5,
+      "landmark_budget_luxury": 0.6
+    },
+    "W": {
+      "cityWealth": 8,
+      "cityType": 8,
+      "cityNightlife": 5,
+      "transit_drive": 6,
+      "nature_culture": 7,
+      "landmark_urban_rural": 6,
+      "landmark_ancient_modern": 4
+    }
+  },
+  {
+    "name": "Sofia",
+    "countryCode": "BG",
+    "popularity": 0,
+    "P": {
+      "cityWealth": 0.2,
+      "cityType": 0.1,
+      "cityNightlife": 0.7,
+      "budget_luxury": -0.7,
+      "solo_social": 0.6,
+      "nature_culture": -0.5,
+      "relaxed_intensive": -0.2,
+      "landmark_ancient_modern": 0.8,
+      "landmark_urban_rural": -0.5,
+      "landmark_crowd": 0.3,
+      "landmark_budget_luxury": -0.6
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 7,
+      "cityNightlife": 8,
+      "budget_luxury": 9,
+      "landmark_ancient_modern": 8,
+      "landmark_urban_rural": 4
+    }
+  },
+  {
+    "name": "Stuttgart",
+    "countryCode": "DE",
+    "popularity": 0,
+    "P": {
+      "cityWealth": 0.9,
+      "cityType": 0.6,
+      "cityNightlife": 0.4,
+      "transit_drive": 0.2,
+      "relaxed_intensive": 0.2,
+      "budget_luxury": 0.6,
+      "nature_culture": -0.4,
+      "landmark_ancient_modern": -0.8,
+      "landmark_urban_rural": -0.4,
+      "landmark_crowd": 0.4,
+      "landmark_budget_luxury": 0.7
+    },
+    "W": {
+      "cityWealth": 8,
+      "cityType": 7,
+      "cityNightlife": 5,
+      "transit_drive": 6,
+      "landmark_ancient_modern": 7,
+      "landmark_budget_luxury": 6
+    }
+  },
+  {
+    "name": "Vancouver",
+    "countryCode": "CA",
+    "popularity": 4,
+    "P": {
+      "cityWealth": 0.8,
+      "cityType": -0.6,
+      "cityNightlife": 0.5,
+      "nature_culture": 0.9,
+      "relaxed_intensive": -0.6,
+      "transit_drive": -0.3,
+      "budget_luxury": 0.8,
+      "landmark_urban_rural": 0.8,
+      "landmark_ancient_modern": -0.5,
+      "landmark_crowd": 0.4,
+      "landmark_budget_luxury": 0.8
+    },
+    "W": {
+      "cityWealth": 7,
+      "cityType": 10,
+      "cityNightlife": 5,
+      "nature_culture": 10,
+      "landmark_urban_rural": 9,
+      "landmark_budget_luxury": 7
+    }
+  },
+  {
+    "name": "Xi'an",
+    "countryCode": "CN",
+    "popularity": 2,
+    "P": {
+      "cityWealth": 0.3,
+      "cityType": 0.6,
+      "cityNightlife": 0.7,
+      "nature_culture": -1.0,
+      "relaxed_intensive": 0.7,
+      "budget_luxury": -0.3,
+      "transit_drive": -0.7,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": -0.7,
+      "landmark_crowd": 0.9,
+      "landmark_budget_luxury": -0.4
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 7,
+      "nature_culture": 10,
+      "landmark_ancient_modern": 10,
+      "landmark_crowd": 6
+    }
+  },
+  {
+    "name": "Zagreb",
+    "countryCode": "HR",
+    "popularity": 1,
+    "P": {
+      "cityWealth": 0.3,
+      "cityType": 0.4,
+      "cityNightlife": 0.5,
+      "relaxed_intensive": -0.5,
+      "transit_drive": -0.8,
+      "nature_culture": -0.7,
+      "budget_luxury": -0.2,
+      "landmark_ancient_modern": 0.7,
+      "landmark_urban_rural": -0.5,
+      "landmark_crowd": 0.4
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 7,
+      "cityNightlife": 6,
+      "relaxed_intensive": 7,
+      "landmark_ancient_modern": 7,
+      "landmark_urban_rural": 5
+    }
+  },
+  {
+    "name": "Adelaide",
+    "countryCode": "AU",
+    "popularity": 0,
+    "P": {
+      "cityWealth": 0.7,
+      "cityType": 0.2,
+      "cityNightlife": 0.4,
+      "relaxed_intensive": -0.7,
+      "nature_culture": 0.2,
+      "transit_drive": 0.4,
+      "budget_luxury": 0.4,
+      "landmark_urban_rural": 0.3,
+      "landmark_ancient_modern": 0.2,
+      "landmark_crowd": 0.2,
+      "landmark_budget_luxury": 0.5
+    },
+    "W": {
+      "cityWealth": 7,
+      "cityType": 7,
+      "cityNightlife": 5,
+      "relaxed_intensive": 8,
+      "nature_culture": 7,
+      "landmark_urban_rural": 6
+    }
+  },
+  {
+    "name": "Almaty",
+    "countryCode": "KZ",
+    "popularity": 0,
+    "P": {
+      "cityWealth": 0.1,
+      "cityType": -0.3,
+      "cityNightlife": 0.6,
+      "nature_culture": 0.6,
+      "budget_luxury": -0.6,
+      "relaxed_intensive": -0.2,
+      "solo_social": 0.5,
+      "landmark_urban_rural": 0.7,
+      "landmark_ancient_modern": 0.4,
+      "landmark_crowd": 0.3,
+      "landmark_budget_luxury": -0.5
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 9,
+      "cityNightlife": 7,
+      "nature_culture": 8,
+      "budget_luxury": 7,
+      "landmark_urban_rural": 8
+    }
+  },
+  {
+    "name": "Fuzhou",
+    "countryCode": "CN",
+    "popularity": 0,
+    "P": {
+      "cityWealth": 0.4,
+      "cityType": 0.5,
+      "cityNightlife": 0.4,
+      "nature_culture": -0.3,
+      "relaxed_intensive": 0.2,
+      "landmark_ancient_modern": 0.7,
+      "landmark_urban_rural": -0.4,
+      "landmark_crowd": 0.6
+    },
+    "W": {
+      "cityWealth": 7,
+      "cityType": 7,
+      "cityNightlife": 6,
+      "landmark_ancient_modern": 6
+    }
+  },
+  {
+    "name": "Amman",
+    "countryCode": "JO",
+    "popularity": 1,
+    "P": {
+      "cityWealth": -0.1,
+      "cityType": 0.4,
+      "cityNightlife": 0.3,
+      "nature_culture": -0.9,
+      "relaxed_intensive": 0.4,
+      "budget_luxury": -0.2,
+      "transit_drive": 0.3,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": -0.5,
+      "landmark_crowd": 0.8,
+      "landmark_budget_luxury": -0.3
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 6,
+      "cityNightlife": 5,
+      "nature_culture": 9,
+      "landmark_ancient_modern": 10,
+      "landmark_crowd": 6
+    }
+  },
+  {
+    "name": "Antwerp",
+    "countryCode": "BE",
+    "popularity": 1,
+    "P": {
+      "cityWealth": 0.7,
+      "cityType": 0.7,
+      "cityNightlife": 0.7,
+      "budget_luxury": 0.6,
+      "nature_culture": -0.8,
+      "transit_drive": -0.8,
+      "documenter_minimalist": -0.5,
+      "landmark_ancient_modern": 0.8,
+      "landmark_urban_rural": -0.7,
+      "landmark_crowd": 0.6,
+      "landmark_budget_luxury": 0.7
+    },
+    "W": {
+      "cityWealth": 7,
+      "cityType": 8,
+      "cityNightlife": 7,
+      "budget_luxury": 6,
+      "nature_culture": 7,
+      "landmark_ancient_modern": 7,
+      "landmark_urban_rural": 5
+    }
+  },
+  {
+    "name": "Austin",
+    "countryCode": "US",
+    "popularity": 1,
+    "P": {
+      "cityWealth": 0.8,
+      "cityType": 0.4,
+      "cityNightlife": 0.9,
+      "solo_social": 0.8,
+      "transit_drive": 1.0,
+      "morning_night": 0.8,
+      "landmark_ancient_modern": -0.6,
+      "landmark_urban_rural": -0.2,
+      "landmark_crowd": 0.7,
+      "landmark_budget_luxury": 0.5
+    },
+    "W": {
+      "cityWealth": 7,
+      "cityType": 7,
+      "cityNightlife": 10,
+      "transit_drive": 10,
+      "solo_social": 8,
+      "morning_night": 7,
+      "landmark_urban_rural": 4
+    }
+  },
+  {
+    "name": "Cape Town",
+    "countryCode": "ZA",
+    "popularity": 4,
+    "P": {
+      "cityWealth": 0.4,
+      "cityType": -0.5,
+      "cityNightlife": 0.7,
+      "nature_culture": 0.9,
+      "transit_drive": 0.8,
+      "landmark_urban_rural": 0.8,
+      "landmark_ancient_modern": 0.0,
+      "landmark_crowd": 0.5,
+      "landmark_budget_luxury": 0.3
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 9,
+      "cityNightlife": 6,
+      "nature_culture": 10,
+      "transit_drive": 8,
+      "landmark_urban_rural": 9
+    }
+  },
+  {
+    "name": "Colombo",
+    "countryCode": "LK",
+    "popularity": 0,
+    "P": {
+      "cityWealth": -0.2,
+      "cityType": 0.6,
+      "cityNightlife": 0.4,
+      "relaxed_intensive": 0.6,
+      "budget_luxury": -0.6,
+      "landmark_ancient_modern": 0.5,
+      "landmark_urban_rural": -0.4,
+      "landmark_crowd": 0.8
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 5,
+      "relaxed_intensive": 8,
+      "budget_luxury": 7,
+      "landmark_crowd": 6
+    }
+  },
+  {
+    "name": "Porto",
+    "countryCode": "PT",
+    "popularity": 3,
+    "P": {
+      "cityWealth": 0.3,
+      "cityType": 0.4,
+      "cityNightlife": 0.7,
+      "relaxed_intensive": -0.5,
+      "transit_drive": -0.9,
+      "nature_culture": -0.8,
+      "landmark_ancient_modern": 1.0,
+      "landmark_urban_rural": -0.5,
+      "landmark_crowd": 0.7
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 7,
+      "relaxed_intensive": 7,
+      "transit_drive": 8,
+      "landmark_ancient_modern": 9
+    }
+  },
+  {
+    "name": "Rotterdam",
+    "countryCode": "NL",
+    "popularity": 1,
+    "P": {
+      "cityWealth": 0.8,
+      "cityType": 0.9,
+      "cityNightlife": 0.6,
+      "nature_culture": -0.7,
+      "transit_drive": -0.8,
+      "landmark_ancient_modern": -1.0,
+      "landmark_urban_rural": -0.9,
+      "landmark_crowd": 0.4
+    },
+    "W": {
+      "cityWealth": 7,
+      "cityType": 9,
+      "cityNightlife": 6,
+      "transit_drive": 8,
+      "landmark_ancient_modern": 9
+    }
+  },
+  {
+    "name": "San Diego",
+    "countryCode": "US",
+    "popularity": 2,
+    "P": {
+      "cityWealth": 0.8,
+      "cityType": -0.3,
+      "cityNightlife": 0.7,
+      "relaxed_intensive": -0.8,
+      "nature_culture": 0.5,
+      "transit_drive": 0.9,
+      "landmark_urban_rural": 0.6,
+      "landmark_ancient_modern": -0.2,
+      "landmark_crowd": 0.6
+    },
+    "W": {
+      "cityWealth": 7,
+      "cityType": 8,
+      "cityNightlife": 6,
+      "relaxed_intensive": 9,
+      "transit_drive": 9,
+      "landmark_urban_rural": 7
+    }
+  },
+  {
+    "name": "Bologna",
+    "countryCode": "IT",
+    "popularity": 1,
+    "P": {
+      "cityWealth": 0.7,
+      "cityType": 0.7,
+      "cityNightlife": 0.8,
+      "solo_social": 0.7,
+      "nature_culture": -0.9,
+      "transit_drive": -0.9,
+      "landmark_ancient_modern": 0.9,
+      "landmark_urban_rural": -0.7,
+      "landmark_crowd": 0.6
+    },
+    "W": {
+      "cityWealth": 6,
+      "cityType": 8,
+      "cityNightlife": 7,
+      "nature_culture": 8,
+      "transit_drive": 8,
+      "landmark_ancient_modern": 8
+    }
+  },
+  {
+    "name": "Kuwait City",
+    "countryCode": "KW",
+    "popularity": 0,
+    "P": {
+      "cityWealth": 0.9,
+      "cityType": 0.8,
+      "cityNightlife": -0.9,
+      "transit_drive": 1.0,
+      "budget_luxury": 0.8,
+      "landmark_ancient_modern": -0.4,
+      "landmark_urban_rural": -0.8,
+      "landmark_budget_luxury": 0.9
+    },
+    "W": {
+      "cityWealth": 8,
+      "cityType": 8,
+      "cityNightlife": 10,
+      "transit_drive": 10,
+      "landmark_budget_luxury": 7
+    }
+  },
+  {
+    "name": "Lahore",
+    "countryCode": "PK",
+    "popularity": 0,
+    "P": {
+      "cityWealth": -0.5,
+      "cityType": 0.7,
+      "cityNightlife": 0.2,
+      "relaxed_intensive": 1.0,
+      "nature_culture": -0.8,
+      "budget_luxury": -0.9,
+      "landmark_ancient_modern": 0.9,
+      "landmark_urban_rural": -0.6,
+      "landmark_crowd": 1.0
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 7,
+      "cityNightlife": 4,
+      "relaxed_intensive": 10,
+      "landmark_ancient_modern": 9,
+      "landmark_crowd": 8
+    }
+  },
+  {
+    "name": "Tunis",
+    "countryCode": "TN",
+    "popularity": 0,
+    "P": {
+      "cityWealth": -0.1,
+      "cityType": 0.4,
+      "cityNightlife": 0.3,
+      "nature_culture": -0.4,
+      "budget_luxury": -0.4,
+      "landmark_ancient_modern": 0.9,
+      "landmark_urban_rural": -0.2,
+      "landmark_crowd": 0.5
+    },
+    "W": {
+      "cityWealth": 5,
+      "cityType": 6,
+      "cityNightlife": 5,
+      "landmark_ancient_modern": 8,
+      "landmark_urban_rural": 5
+    }
+  }
+]

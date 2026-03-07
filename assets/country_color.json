@@ -1,0 +1,1400 @@
+[
+  {
+    "iso_a2": "IN",
+    "continent": "Asia",
+    "theme_color": "Orange",
+    "theme_color_hex": "#FF9933"
+  },
+  {
+    "iso_a2": "XX",
+    "continent": "Africa",
+    "theme_color": "Green",
+    "theme_color_hex": "#006D21"
+  },
+  {
+    "iso_a2": "GI",
+    "continent": "Europe",
+    "theme_color": "Red",
+    "theme_color_hex": "#DA291C"
+  },
+  {
+    "iso_a2": "CN",
+    "continent": "Asia",
+    "theme_color": "Red",
+    "theme_color_hex": "#EE1C25"
+  },
+  {
+    "iso_a2": "US",
+    "continent": "North America",
+    "theme_color": "Blue",
+    "theme_color_hex": "#002868"
+  },
+  {
+    "iso_a2": "ID",
+    "continent": "Asia",
+    "theme_color": "Red",
+    "theme_color_hex": "#CE1126"
+  },
+  {
+    "iso_a2": "PK",
+    "continent": "Asia",
+    "theme_color": "Green",
+    "theme_color_hex": "#006643"
+  },
+  {
+    "iso_a2": "NG",
+    "continent": "Africa",
+    "theme_color": "Green",
+    "theme_color_hex": "#008751"
+  },
+  {
+    "iso_a2": "BR",
+    "continent": "South America",
+    "theme_color": "Green",
+    "theme_color_hex": "#009B3A"
+  },
+  {
+    "iso_a2": "BD",
+    "continent": "Asia",
+    "theme_color": "Green",
+    "theme_color_hex": "#006A4E"
+  },
+  {
+    "iso_a2": "RU",
+    "continent": "Europe",
+    "theme_color": "Red",
+    "theme_color_hex": "#D52B1E"
+  },
+  {
+    "iso_a2": "MX",
+    "continent": "North America",
+    "theme_color": "Green",
+    "theme_color_hex": "#006847"
+  },
+  {
+    "iso_a2": "JP",
+    "continent": "Asia",
+    "theme_color": "Red",
+    "theme_color_hex": "#BC002D"
+  },
+  {
+    "iso_a2": "PH",
+    "continent": "Asia",
+    "theme_color": "Blue",
+    "theme_color_hex": "#0038A8"
+  },
+  {
+    "iso_a2": "CD",
+    "continent": "Africa",
+    "theme_color": "Light Blue",
+    "theme_color_hex": "#00A9CE"
+  },
+  {
+    "iso_a2": "ET",
+    "continent": "Africa",
+    "theme_color": "Green",
+    "theme_color_hex": "#078930"
+  },
+  {
+    "iso_a2": "EG",
+    "continent": "Africa",
+    "theme_color": "Red",
+    "theme_color_hex": "#CE1126"
+  },
+  {
+    "iso_a2": "VN",
+    "continent": "Asia",
+    "theme_color": "Red",
+    "theme_color_hex": "#DA251D"
+  },
+  {
+    "iso_a2": "IR",
+    "continent": "Asia",
+    "theme_color": "Green",
+    "theme_color_hex": "#239F40"
+  },
+  {
+    "iso_a2": "TR",
+    "continent": "Asia",
+    "theme_color": "Red",
+    "theme_color_hex": "#E30A17"
+  },
+  {
+    "iso_a2": "DE",
+    "continent": "Europe",
+    "theme_color": "Red",
+    "theme_color_hex": "#DD0000"
+  },
+  {
+    "iso_a2": "FR",
+    "continent": "Europe",
+    "theme_color": "Blue",
+    "theme_color_hex": "#0055A4"
+  },
+  {
+    "iso_a2": "GB",
+    "continent": "Europe",
+    "theme_color": "Blue",
+    "theme_color_hex": "#012169"
+  },
+  {
+    "iso_a2": "TZ",
+    "continent": "Africa",
+    "theme_color": "Green",
+    "theme_color_hex": "#1EB53A"
+  },
+  {
+    "iso_a2": "TH",
+    "continent": "Asia",
+    "theme_color": "Blue",
+    "theme_color_hex": "#2D2A4A"
+  },
+  {
+    "iso_a2": "ZA",
+    "continent": "Africa",
+    "theme_color": "Yellow",
+    "theme_color_hex": "#FFB612"
+  },
+  {
+    "iso_a2": "IT",
+    "continent": "Europe",
+    "theme_color": "Green",
+    "theme_color_hex": "#009246"
+  },
+  {
+    "iso_a2": "KE",
+    "continent": "Africa",
+    "theme_color": "Black",
+    "theme_color_hex": "#000000"
+  },
+  {
+    "iso_a2": "CO",
+    "continent": "South America",
+    "theme_color": "Yellow",
+    "theme_color_hex": "#FCD116"
+  },
+  {
+    "iso_a2": "SD",
+    "continent": "Africa",
+    "theme_color": "Red",
+    "theme_color_hex": "#D21034"
+  },
+  {
+    "iso_a2": "MM",
+    "continent": "Asia",
+    "theme_color": "Yellow",
+    "theme_color_hex": "#FECB00"
+  },
+  {
+    "iso_a2": "KR",
+    "continent": "Asia",
+    "theme_color": "Blue",
+    "theme_color_hex": "#0047A0"
+  },
+  {
+    "iso_a2": "ES",
+    "continent": "Europe",
+    "theme_color": "Red",
+    "theme_color_hex": "#AA151B"
+  },
+  {
+    "iso_a2": "DZ",
+    "continent": "Africa",
+    "theme_color": "Green",
+    "theme_color_hex": "#006633"
+  },
+  {
+    "iso_a2": "AR",
+    "continent": "South America",
+    "theme_color": "Light Blue",
+    "theme_color_hex": "#75AADB"
+  },
+  {
+    "iso_a2": "IQ",
+    "continent": "Asia",
+    "theme_color": "Red",
+    "theme_color_hex": "#CE1126"
+  },
+  {
+    "iso_a2": "UG",
+    "continent": "Africa",
+    "theme_color": "Black",
+    "theme_color_hex": "#000000"
+  },
+  {
+    "iso_a2": "UA",
+    "continent": "Europe",
+    "theme_color": "Blue",
+    "theme_color_hex": "#005BBB"
+  },
+  {
+    "iso_a2": "CA",
+    "continent": "North America",
+    "theme_color": "Red",
+    "theme_color_hex": "#FF0000"
+  },
+  {
+    "iso_a2": "PL",
+    "continent": "Europe",
+    "theme_color": "Red",
+    "theme_color_hex": "#DC143C"
+  },
+  {
+    "iso_a2": "MA",
+    "continent": "Africa",
+    "theme_color": "Red",
+    "theme_color_hex": "#C1272D"
+  },
+  {
+    "iso_a2": "UZ",
+    "continent": "Asia",
+    "theme_color": "Blue",
+    "theme_color_hex": "#0072CE"
+  },
+  {
+    "iso_a2": "SA",
+    "continent": "Asia",
+    "theme_color": "Green",
+    "theme_color_hex": "#006C35"
+  },
+  {
+    "iso_a2": "PE",
+    "continent": "South America",
+    "theme_color": "Red",
+    "theme_color_hex": "#D91023"
+  },
+  {
+    "iso_a2": "AF",
+    "continent": "Asia",
+    "theme_color": "Black",
+    "theme_color_hex": "#000000"
+  },
+  {
+    "iso_a2": "VE",
+    "continent": "South America",
+    "theme_color": "Yellow",
+    "theme_color_hex": "#FCD116"
+  },
+  {
+    "iso_a2": "MY",
+    "continent": "Asia",
+    "theme_color": "Blue",
+    "theme_color_hex": "#0032A0"
+  },
+  {
+    "iso_a2": "GH",
+    "continent": "Africa",
+    "theme_color": "Red",
+    "theme_color_hex": "#CF0921"
+  },
+  {
+    "iso_a2": "NP",
+    "continent": "Asia",
+    "theme_color": "Red",
+    "theme_color_hex": "#DC143C"
+  },
+  {
+    "iso_a2": "YE",
+    "continent": "Asia",
+    "theme_color": "Red",
+    "theme_color_hex": "#CE1126"
+  },
+  {
+    "iso_a2": "AO",
+    "continent": "Africa",
+    "theme_color": "Red",
+    "theme_color_hex": "#CE1126"
+  },
+  {
+    "iso_a2": "MZ",
+    "continent": "Africa",
+    "theme_color": "Green",
+    "theme_color_hex": "#009736"
+  },
+  {
+    "iso_a2": "AU",
+    "continent": "Oceania",
+    "theme_color": "Blue",
+    "theme_color_hex": "#00008B"
+  },
+  {
+    "iso_a2": "SY",
+    "continent": "Asia",
+    "theme_color": "Red",
+    "theme_color_hex": "#CE1126"
+  },
+  {
+    "iso_a2": "CI",
+    "continent": "Africa",
+    "theme_color": "Orange",
+    "theme_color_hex": "#F77F00"
+  },
+  {
+    "iso_a2": "MG",
+    "continent": "Africa",
+    "theme_color": "Red",
+    "theme_color_hex": "#FC3D32"
+  },
+  {
+    "iso_a2": "CM",
+    "continent": "Africa",
+    "theme_color": "Green",
+    "theme_color_hex": "#007A5E"
+  },
+  {
+    "iso_a2": "NE",
+    "continent": "Africa",
+    "theme_color": "Orange",
+    "theme_color_hex": "#E05206"
+  },
+  {
+    "iso_a2": "ML",
+    "continent": "Africa",
+    "theme_color": "Green",
+    "theme_color_hex": "#14B53A"
+  },
+  {
+    "iso_a2": "TW",
+    "continent": "Asia",
+    "theme_color": "Blue",
+    "theme_color_hex": "#000095"
+  },
+  {
+    "iso_a2": "BF",
+    "continent": "Africa",
+    "theme_color": "Red",
+    "theme_color_hex": "#DE0000"
+  },
+  {
+    "iso_a2": "LK",
+    "continent": "Asia",
+    "theme_color": "Orange",
+    "theme_color_hex": "#FF5F00"
+  },
+  {
+    "iso_a2": "EC",
+    "continent": "South America",
+    "theme_color": "Yellow",
+    "theme_color_hex": "#FFDD00"
+  },
+  {
+    "iso_a2": "KZ",
+    "continent": "Asia",
+    "theme_color": "Light Blue",
+    "theme_color_hex": "#00AFCA"
+  },
+  {
+    "iso_a2": "CL",
+    "continent": "South America",
+    "theme_color": "Red",
+    "theme_color_hex": "#DA291C"
+  },
+  {
+    "iso_a2": "RO",
+    "continent": "Europe",
+    "theme_color": "Blue",
+    "theme_color_hex": "#002B7F"
+  },
+  {
+    "iso_a2": "NL",
+    "continent": "Europe",
+    "theme_color": "Orange",
+    "theme_color_hex": "#FF6700"
+  },
+  {
+    "iso_a2": "MW",
+    "continent": "Africa",
+    "theme_color": "Black",
+    "theme_color_hex": "#000000"
+  },
+  {
+    "iso_a2": "GT",
+    "continent": "North America",
+    "theme_color": "Light Blue",
+    "theme_color_hex": "#4997D0"
+  },
+  {
+    "iso_a2": "SO",
+    "continent": "Africa",
+    "theme_color": "Light Blue",
+    "theme_color_hex": "#4189DD"
+  },
+  {
+    "iso_a2": "TD",
+    "continent": "Africa",
+    "theme_color": "Blue",
+    "theme_color_hex": "#002664"
+  },
+  {
+    "iso_a2": "SN",
+    "continent": "Africa",
+    "theme_color": "Green",
+    "theme_color_hex": "#00853F"
+  },
+  {
+    "iso_a2": "KH",
+    "continent": "Asia",
+    "theme_color": "Blue",
+    "theme_color_hex": "#032EA1"
+  },
+  {
+    "iso_a2": "ZW",
+    "continent": "Africa",
+    "theme_color": "Green",
+    "theme_color_hex": "#009530"
+  },
+  {
+    "iso_a2": "RW",
+    "continent": "Africa",
+    "theme_color": "Blue",
+    "theme_color_hex": "#2060A3"
+  },
+  {
+    "iso_a2": "BJ",
+    "continent": "Africa",
+    "theme_color": "Green",
+    "theme_color_hex": "#008850"
+  },
+  {
+    "iso_a2": "BO",
+    "continent": "South America",
+    "theme_color": "Red",
+    "theme_color_hex": "#D93025"
+  },
+  {
+    "iso_a2": "BE",
+    "continent": "Europe",
+    "theme_color": "Black",
+    "theme_color_hex": "#000000"
+  },
+  {
+    "iso_a2": "CU",
+    "continent": "North America",
+    "theme_color": "Blue",
+    "theme_color_hex": "#00529B"
+  },
+  {
+    "iso_a2": "TN",
+    "continent": "Africa",
+    "theme_color": "Red",
+    "theme_color_hex": "#E70013"
+  },
+  {
+    "iso_a2": "HT",
+    "continent": "North America",
+    "theme_color": "Blue",
+    "theme_color_hex": "#00209F"
+  },
+  {
+    "iso_a2": "GR",
+    "continent": "Europe",
+    "theme_color": "Blue",
+    "theme_color_hex": "#0D5EAF"
+  },
+  {
+    "iso_a2": "CZ",
+    "continent": "Europe",
+    "theme_color": "Red",
+    "theme_color_hex": "#D7141A"
+  },
+  {
+    "iso_a2": "SE",
+    "continent": "Europe",
+    "theme_color": "Blue",
+    "theme_color_hex": "#006AA7"
+  },
+  {
+    "iso_a2": "PT",
+    "continent": "Europe",
+    "theme_color": "Red",
+    "theme_color_hex": "#DA291C"
+  },
+  {
+    "iso_a2": "AZ",
+    "continent": "Asia",
+    "theme_color": "Blue",
+    "theme_color_hex": "#0092BC"
+  },
+  {
+    "iso_a2": "DO",
+    "continent": "North America",
+    "theme_color": "Blue",
+    "theme_color_hex": "#002D62"
+  },
+  {
+    "iso_a2": "HN",
+    "continent": "North America",
+    "theme_color": "Blue",
+    "theme_color_hex": "#00BCE4"
+  },
+  {
+    "iso_a2": "BI",
+    "continent": "Africa",
+    "theme_color": "Green",
+    "theme_color_hex": "#1DB954"
+  },
+  {
+    "iso_a2": "AE",
+    "continent": "Asia",
+    "theme_color": "Red",
+    "theme_color_hex": "#FF0000"
+  },
+  {
+    "iso_a2": "AT",
+    "continent": "Europe",
+    "theme_color": "Red",
+    "theme_color_hex": "#ED2939"
+  },
+  {
+    "iso_a2": "CH",
+    "continent": "Europe",
+    "theme_color": "Red",
+    "theme_color_hex": "#FF0000"
+  },
+  {
+    "iso_a2": "BG",
+    "continent": "Europe",
+    "theme_color": "Green",
+    "theme_color_hex": "#00966E"
+  },
+  {
+    "iso_a2": "KG",
+    "continent": "Asia",
+    "theme_color": "Red",
+    "theme_color_hex": "#FF0000"
+  },
+  {
+    "iso_a2": "TJ",
+    "continent": "Asia",
+    "theme_color": "Red",
+    "theme_color_hex": "#CD2027"
+  },
+  {
+    "iso_a2": "SL",
+    "continent": "Africa",
+    "theme_color": "Green",
+    "theme_color_hex": "#1EB53A"
+  },
+  {
+    "iso_a2": "LA",
+    "continent": "Asia",
+    "theme_color": "Red",
+    "theme_color_hex": "#CE1126"
+  },
+  {
+    "iso_a2": "PG",
+    "continent": "Oceania",
+    "theme_color": "Red",
+    "theme_color_hex": "#CE1126"
+  },
+  {
+    "iso_a2": "SV",
+    "continent": "North America",
+    "theme_color": "Blue",
+    "theme_color_hex": "#0047AB"
+  },
+  {
+    "iso_a2": "LY",
+    "continent": "Africa",
+    "theme_color": "Red",
+    "theme_color_hex": "#E70013"
+  },
+  {
+    "iso_a2": "SG",
+    "continent": "Asia",
+    "theme_color": "Red",
+    "theme_color_hex": "#ED2939"
+  },
+  {
+    "iso_a2": "DK",
+    "continent": "Europe",
+    "theme_color": "Red",
+    "theme_color_hex": "#C8102E"
+  },
+  {
+    "iso_a2": "FI",
+    "continent": "Europe",
+    "theme_color": "Blue",
+    "theme_color_hex": "#002F6C"
+  },
+  {
+    "iso_a2": "NO",
+    "continent": "Europe",
+    "theme_color": "Red",
+    "theme_color_hex": "#BA0C2F"
+  },
+  {
+    "iso_a2": "IE",
+    "continent": "Europe",
+    "theme_color": "Green",
+    "theme_color_hex": "#169B62"
+  },
+  {
+    "iso_a2": "OM",
+    "continent": "Asia",
+    "theme_color": "Red",
+    "theme_color_hex": "#DC143C"
+  },
+  {
+    "iso_a2": "KW",
+    "continent": "Asia",
+    "theme_color": "Green",
+    "theme_color_hex": "#007A3D"
+  },
+  {
+    "iso_a2": "GE",
+    "continent": "Asia",
+    "theme_color": "Red",
+    "theme_color_hex": "#FF0000"
+  },
+  {
+    "iso_a2": "HR",
+    "continent": "Europe",
+    "theme_color": "Red",
+    "theme_color_hex": "#FF0000"
+  },
+  {
+    "iso_a2": "ER",
+    "continent": "Africa",
+    "theme_color": "Green",
+    "theme_color_hex": "#1DB954"
+  },
+  {
+    "iso_a2": "PA",
+    "continent": "North America",
+    "theme_color": "Blue",
+    "theme_color_hex": "#07235B"
+  },
+  {
+    "iso_a2": "UY",
+    "continent": "South America",
+    "theme_color": "Light Blue",
+    "theme_color_hex": "#75AADB"
+  },
+  {
+    "iso_a2": "MN",
+    "continent": "Asia",
+    "theme_color": "Red",
+    "theme_color_hex": "#DA2032"
+  },
+  {
+    "iso_a2": "QA",
+    "continent": "Asia",
+    "theme_color": "Maroon",
+    "theme_color_hex": "#8A1538"
+  },
+  {
+    "iso_a2": "NZ",
+    "continent": "Oceania",
+    "theme_color": "Blue",
+    "theme_color_hex": "#00247D"
+  },
+  {
+    "iso_a2": "SK",
+    "continent": "Europe",
+    "theme_color": "Blue",
+    "theme_color_hex": "#0B4EA2"
+  },
+  {
+    "iso_a2": "LB",
+    "continent": "Asia",
+    "theme_color": "Red",
+    "theme_color_hex": "#ED1C24"
+  },
+  {
+    "iso_a2": "PS",
+    "continent": "Asia",
+    "theme_color": "Green",
+    "theme_color_hex": "#009639"
+  },
+  {
+    "iso_a2": "PR",
+    "continent": "North America",
+    "theme_color": "Red",
+    "theme_color_hex": "#ED1C24"
+  },
+  {
+    "iso_a2": "LT",
+    "continent": "Europe",
+    "theme_color": "Yellow",
+    "theme_color_hex": "#FDB913"
+  },
+  {
+    "iso_a2": "AL",
+    "continent": "Europe",
+    "theme_color": "Red",
+    "theme_color_hex": "#DA291C"
+  },
+  {
+    "iso_a2": "JO",
+    "continent": "Asia",
+    "theme_color": "Green",
+    "theme_color_hex": "#007A3D"
+  },
+  {
+    "iso_a2": "EE",
+    "continent": "Europe",
+    "theme_color": "Blue",
+    "theme_color_hex": "#4891D9"
+  },
+  {
+    "iso_a2": "CY",
+    "continent": "Asia",
+    "theme_color": "Orange",
+    "theme_color_hex": "#D47600"
+  },
+  {
+    "iso_a2": "FJ",
+    "continent": "Oceania",
+    "theme_color": "Light Blue",
+    "theme_color_hex": "#62B5E5"
+  },
+  {
+    "iso_a2": "LU",
+    "continent": "Europe",
+    "theme_color": "Light Blue",
+    "theme_color_hex": "#00A1DE"
+  },
+  {
+    "iso_a2": "IS",
+    "continent": "Europe",
+    "theme_color": "Blue",
+    "theme_color_hex": "#02529C"
+  },
+  {
+    "iso_a2": "MT",
+    "continent": "Europe",
+    "theme_color": "Red",
+    "theme_color_hex": "#CF142B"
+  },
+  {
+    "iso_a2": "MV",
+    "continent": "Asia",
+    "theme_color": "Red",
+    "theme_color_hex": "#D21034"
+  },
+  {
+    "iso_a2": "BZ",
+    "continent": "North America",
+    "theme_color": "Blue",
+    "theme_color_hex": "#003F87"
+  },
+  {
+    "iso_a2": "BH",
+    "continent": "Asia",
+    "theme_color": "Red",
+    "theme_color_hex": "#CE1126"
+  },
+  {
+    "iso_a2": "GQ",
+    "continent": "Africa",
+    "theme_color": "Green",
+    "theme_color_hex": "#3E9A00"
+  },
+  {
+    "iso_a2": "GA",
+    "continent": "Africa",
+    "theme_color": "Green",
+    "theme_color_hex": "#009F6B"
+  },
+  {
+    "iso_a2": "GM",
+    "continent": "Africa",
+    "theme_color": "Green",
+    "theme_color_hex": "#1DBE5E"
+  },
+  {
+    "iso_a2": "NA",
+    "continent": "Africa",
+    "theme_color": "Blue",
+    "theme_color_hex": "#003580"
+  },
+  {
+    "iso_a2": "BW",
+    "continent": "Africa",
+    "theme_color": "Light Blue",
+    "theme_color_hex": "#75AADB"
+  },
+  {
+    "iso_a2": "GN",
+    "continent": "Africa",
+    "theme_color": "Red",
+    "theme_color_hex": "#CE1126"
+  },
+  {
+    "iso_a2": "CF",
+    "continent": "Africa",
+    "theme_color": "Blue",
+    "theme_color_hex": "#0038A8"
+  },
+  {
+    "iso_a2": "CG",
+    "continent": "Africa",
+    "theme_color": "Green",
+    "theme_color_hex": "#009543"
+  },
+  {
+    "iso_a2": "DJ",
+    "continent": "Africa",
+    "theme_color": "Light Blue",
+    "theme_color_hex": "#6AB2E7"
+  },
+  {
+    "iso_a2": "KM",
+    "continent": "Africa",
+    "theme_color": "Green",
+    "theme_color_hex": "#3A75C4"
+  },
+  {
+    "iso_a2": "LS",
+    "continent": "Africa",
+    "theme_color": "Blue",
+    "theme_color_hex": "#00209F"
+  },
+  {
+    "iso_a2": "SZ",
+    "continent": "Africa",
+    "theme_color": "Blue",
+    "theme_color_hex": "#3E5EB8"
+  },
+  {
+    "iso_a2": "CV",
+    "continent": "Africa",
+    "theme_color": "Blue",
+    "theme_color_hex": "#003893"
+  },
+  {
+    "iso_a2": "SB",
+    "continent": "Oceania",
+    "theme_color": "Blue",
+    "theme_color_hex": "#0051BA"
+  },
+  {
+    "iso_a2": "VU",
+    "continent": "Oceania",
+    "theme_color": "Green",
+    "theme_color_hex": "#009543"
+  },
+  {
+    "iso_a2": "WS",
+    "continent": "Oceania",
+    "theme_color": "Red",
+    "theme_color_hex": "#CE1126"
+  },
+  {
+    "iso_a2": "TO",
+    "continent": "Oceania",
+    "theme_color": "Red",
+    "theme_color_hex": "#C10000"
+  },
+  {
+    "iso_a2": "FM",
+    "continent": "Oceania",
+    "theme_color": "Light Blue",
+    "theme_color_hex": "#6797D6"
+  },
+  {
+    "iso_a2": "KI",
+    "continent": "Oceania",
+    "theme_color": "Blue",
+    "theme_color_hex": "#0032A0"
+  },
+  {
+    "iso_a2": "NR",
+    "continent": "Oceania",
+    "theme_color": "Blue",
+    "theme_color_hex": "#002B7F"
+  },
+  {
+    "iso_a2": "PW",
+    "continent": "Oceania",
+    "theme_color": "Light Blue",
+    "theme_color_hex": "#4AADD6"
+  },
+  {
+    "iso_a2": "MH",
+    "continent": "Oceania",
+    "theme_color": "Blue",
+    "theme_color_hex": "#0033A0"
+  },
+  {
+    "iso_a2": "TV",
+    "continent": "Oceania",
+    "theme_color": "Light Blue",
+    "theme_color_hex": "#68BBE2"
+  },
+  {
+    "iso_a2": "SM",
+    "continent": "Europe",
+    "theme_color": "Light Blue",
+    "theme_color_hex": "#74C0E3"
+  },
+  {
+    "iso_a2": "LI",
+    "continent": "Europe",
+    "theme_color": "Blue",
+    "theme_color_hex": "#002B7F"
+  },
+  {
+    "iso_a2": "MC",
+    "continent": "Europe",
+    "theme_color": "Red",
+    "theme_color_hex": "#CE1126"
+  },
+  {
+    "iso_a2": "VA",
+    "continent": "Europe",
+    "theme_color": "Yellow",
+    "theme_color_hex": "#FFE000"
+  },
+  {
+    "iso_a2": "AD",
+    "continent": "Europe",
+    "theme_color": "Blue",
+    "theme_color_hex": "#10069F"
+  },
+  {
+    "iso_a2": "IM",
+    "continent": "Europe",
+    "theme_color": "Red",
+    "theme_color_hex": "#C8102E"
+  },
+  {
+    "iso_a2": "JE",
+    "continent": "Europe",
+    "theme_color": "Red",
+    "theme_color_hex": "#DA291C"
+  },
+  {
+    "iso_a2": "GG",
+    "continent": "Europe",
+    "theme_color": "Red",
+    "theme_color_hex": "#E8112D"
+  },
+  {
+    "iso_a2": "FK",
+    "continent": "South America",
+    "theme_color": "Blue",
+    "theme_color_hex": "#012169"
+  },
+  {
+    "iso_a2": "GL",
+    "continent": "North America",
+    "theme_color": "Red",
+    "theme_color_hex": "#D00C33"
+  },
+  {
+    "iso_a2": "AX",
+    "continent": "Europe",
+    "theme_color": "Blue",
+    "theme_color_hex": "#0064AE"
+  },
+  {
+    "iso_a2": "PN",
+    "continent": "Oceania",
+    "theme_color": "Blue",
+    "theme_color_hex": "#012169"
+  },
+  {
+    "iso_a2": "WF",
+    "continent": "Oceania",
+    "theme_color": "Red",
+    "theme_color_hex": "#EF4135"
+  },
+  {
+    "iso_a2": "NC",
+    "continent": "Oceania",
+    "theme_color": "Blue",
+    "theme_color_hex": "#0036A7"
+  },
+  {
+    "iso_a2": "PF",
+    "continent": "Oceania",
+    "theme_color": "Red",
+    "theme_color_hex": "#CE1126"
+  },
+  {
+    "iso_a2": "PM",
+    "continent": "North America",
+    "theme_color": "Blue",
+    "theme_color_hex": "#00267F"
+  },
+  {
+    "iso_a2": "BL",
+    "continent": "North America",
+    "theme_color": "Blue",
+    "theme_color_hex": "#0055A4"
+  },
+  {
+    "iso_a2": "MF",
+    "continent": "North America",
+    "theme_color": "Blue",
+    "theme_color_hex": "#0055A4"
+  },
+  {
+    "iso_a2": "CW",
+    "continent": "North America",
+    "theme_color": "Blue",
+    "theme_color_hex": "#002B7F"
+  },
+  {
+    "iso_a2": "SX",
+    "continent": "North America",
+    "theme_color": "Blue",
+    "theme_color_hex": "#002B7F"
+  },
+  {
+    "iso_a2": "AW",
+    "continent": "North America",
+    "theme_color": "Blue",
+    "theme_color_hex": "#4189DD"
+  },
+  {
+    "iso_a2": "BM",
+    "continent": "North America",
+    "theme_color": "Red",
+    "theme_color_hex": "#CF142B"
+  },
+  {
+    "iso_a2": "VG",
+    "continent": "North America",
+    "theme_color": "Blue",
+    "theme_color_hex": "#012169"
+  },
+  {
+    "iso_a2": "KY",
+    "continent": "North America",
+    "theme_color": "Blue",
+    "theme_color_hex": "#012169"
+  },
+  {
+    "iso_a2": "TC",
+    "continent": "North America",
+    "theme_color": "Blue",
+    "theme_color_hex": "#012169"
+  },
+  {
+    "iso_a2": "VI",
+    "continent": "North America",
+    "theme_color": "Blue",
+    "theme_color_hex": "#002868"
+  },
+  {
+    "iso_a2": "MS",
+    "continent": "North America",
+    "theme_color": "Blue",
+    "theme_color_hex": "#012169"
+  },
+  {
+    "iso_a2": "AG",
+    "continent": "North America",
+    "theme_color": "Red",
+    "theme_color_hex": "#CE1126"
+  },
+  {
+    "iso_a2": "GD",
+    "continent": "North America",
+    "theme_color": "Red",
+    "theme_color_hex": "#CE1126"
+  },
+  {
+    "iso_a2": "LC",
+    "continent": "North America",
+    "theme_color": "Light Blue",
+    "theme_color_hex": "#65C6E8"
+  },
+  {
+    "iso_a2": "VC",
+    "continent": "North America",
+    "theme_color": "Blue",
+    "theme_color_hex": "#002868"
+  },
+  {
+    "iso_a2": "BB",
+    "continent": "North America",
+    "theme_color": "Blue",
+    "theme_color_hex": "#00267F"
+  },
+  {
+    "iso_a2": "DM",
+    "continent": "North America",
+    "theme_color": "Green",
+    "theme_color_hex": "#006B3F"
+  },
+  {
+    "iso_a2": "KN",
+    "continent": "North America",
+    "theme_color": "Green",
+    "theme_color_hex": "#009E49"
+  },
+  {
+    "iso_a2": "AI",
+    "continent": "North America",
+    "theme_color": "Blue",
+    "theme_color_hex": "#012169"
+  },
+  {
+    "iso_a2": "NF",
+    "continent": "Oceania",
+    "theme_color": "Green",
+    "theme_color_hex": "#008751"
+  },
+  {
+    "iso_a2": "CK",
+    "continent": "Oceania",
+    "theme_color": "Blue",
+    "theme_color_hex": "#00247D"
+  },
+  {
+    "iso_a2": "NU",
+    "continent": "Oceania",
+    "theme_color": "Yellow",
+    "theme_color_hex": "#FCD116"
+  },
+  {
+    "iso_a2": "AS",
+    "continent": "Oceania",
+    "theme_color": "Blue",
+    "theme_color_hex": "#002868"
+  },
+  {
+    "iso_a2": "GU",
+    "continent": "Oceania",
+    "theme_color": "Blue",
+    "theme_color_hex": "#003C71"
+  },
+  {
+    "iso_a2": "MP",
+    "continent": "Oceania",
+    "theme_color": "Blue",
+    "theme_color_hex": "#65C6E8"
+  },
+  {
+    "iso_a2": "HK",
+    "continent": "Asia",
+    "theme_color": "Red",
+    "theme_color_hex": "#DE2910"
+  },
+  {
+    "iso_a2": "MO",
+    "continent": "Asia",
+    "theme_color": "Green",
+    "theme_color_hex": "#006747"
+  },
+  {
+    "iso_a2": "MU",
+    "continent": "Africa",
+    "theme_color": "Red",
+    "theme_color_hex": "#EA2839"
+  },
+  {
+    "iso_a2": "FO",
+    "continent": "Europe",
+    "theme_color": "Blue",
+    "theme_color_hex": "#00559B"
+  },
+  {
+    "iso_a2": "SC",
+    "continent": "Africa",
+    "theme_color": "Blue",
+    "theme_color_hex": "#003F87"
+  },
+  {
+    "iso_a2": "CR",
+    "continent": "North America",
+    "theme_color": "Blue",
+    "theme_color_hex": "#002B7F"
+  },
+  {
+    "iso_a2": "NI",
+    "continent": "North America",
+    "theme_color": "Blue",
+    "theme_color_hex": "#0067C6"
+  },
+  {
+    "iso_a2": "BS",
+    "continent": "North America",
+    "theme_color": "Light Blue",
+    "theme_color_hex": "#00ABC9"
+  },
+  {
+    "iso_a2": "TT",
+    "continent": "North America",
+    "theme_color": "Red",
+    "theme_color_hex": "#E00000"
+  },
+  {
+    "iso_a2": "JM",
+    "continent": "North America",
+    "theme_color": "Green",
+    "theme_color_hex": "#009B3A"
+  },
+  {
+    "iso_a2": "IL",
+    "continent": "Asia",
+    "theme_color": "Blue",
+    "theme_color_hex": "#0038B8"
+  },
+  {
+    "iso_a2": "KP",
+    "continent": "Asia",
+    "theme_color": "Red",
+    "theme_color_hex": "#ED1C27"
+  },
+  {
+    "iso_a2": "BT",
+    "continent": "Asia",
+    "theme_color": "Orange",
+    "theme_color_hex": "#FF9933"
+  },
+  {
+    "iso_a2": "AM",
+    "continent": "Asia",
+    "theme_color": "Red",
+    "theme_color_hex": "#D90012"
+  },
+  {
+    "iso_a2": "TL",
+    "continent": "Asia",
+    "theme_color": "Red",
+    "theme_color_hex": "#DC241F"
+  },
+  {
+    "iso_a2": "BN",
+    "continent": "Asia",
+    "theme_color": "Yellow",
+    "theme_color_hex": "#FCE300"
+  },
+  {
+    "iso_a2": "TM",
+    "continent": "Asia",
+    "theme_color": "Green",
+    "theme_color_hex": "#009736"
+  },
+  {
+    "iso_a2": "SR",
+    "continent": "South America",
+    "theme_color": "Green",
+    "theme_color_hex": "#377E3F"
+  },
+  {
+    "iso_a2": "GY",
+    "continent": "South America",
+    "theme_color": "Green",
+    "theme_color_hex": "#009E49"
+  },
+  {
+    "iso_a2": "PY",
+    "continent": "South America",
+    "theme_color": "Blue",
+    "theme_color_hex": "#0038A8"
+  },
+  {
+    "iso_a2": "SS",
+    "continent": "Africa",
+    "theme_color": "Black",
+    "theme_color_hex": "#000000"
+  },
+  {
+    "iso_a2": "EH",
+    "continent": "Africa",
+    "theme_color": "Green",
+    "theme_color_hex": "#00822B"
+  },
+  {
+    "iso_a2": "ZM",
+    "continent": "Africa",
+    "theme_color": "Green",
+    "theme_color_hex": "#198D00"
+  },
+  {
+    "iso_a2": "LR",
+    "continent": "Africa",
+    "theme_color": "Blue",
+    "theme_color_hex": "#002868"
+  },
+  {
+    "iso_a2": "TG",
+    "continent": "Africa",
+    "theme_color": "Green",
+    "theme_color_hex": "#006A44"
+  },
+  {
+    "iso_a2": "GW",
+    "continent": "Africa",
+    "theme_color": "Green",
+    "theme_color_hex": "#009E49"
+  },
+  {
+    "iso_a2": "MR",
+    "continent": "Africa",
+    "theme_color": "Green",
+    "theme_color_hex": "#00A95C"
+  },
+  {
+    "iso_a2": "ST",
+    "continent": "Africa",
+    "theme_color": "Green",
+    "theme_color_hex": "#12AD2B"
+  },
+  {
+    "iso_a2": "BY",
+    "continent": "Europe",
+    "theme_color": "Red",
+    "theme_color_hex": "#CF101A"
+  },
+  {
+    "iso_a2": "LV",
+    "continent": "Europe",
+    "theme_color": "Maroon",
+    "theme_color_hex": "#9E3039"
+  },
+  {
+    "iso_a2": "MK",
+    "continent": "Europe",
+    "theme_color": "Red",
+    "theme_color_hex": "#D20000"
+  },
+  {
+    "iso_a2": "XK",
+    "continent": "Europe",
+    "theme_color": "Blue",
+    "theme_color_hex": "#244AA5"
+  },
+  {
+    "iso_a2": "HU",
+    "continent": "Europe",
+    "theme_color": "Red",
+    "theme_color_hex": "#CD2A3E"
+  },
+  {
+    "iso_a2": "RS",
+    "continent": "Europe",
+    "theme_color": "Red",
+    "theme_color_hex": "#C6363C"
+  },
+  {
+    "iso_a2": "SI",
+    "continent": "Europe",
+    "theme_color": "Blue",
+    "theme_color_hex": "#005DAA"
+  },
+  {
+    "iso_a2": "ME",
+    "continent": "Europe",
+    "theme_color": "Red",
+    "theme_color_hex": "#C40308"
+  },
+  {
+    "iso_a2": "BA",
+    "continent": "Europe",
+    "theme_color": "Blue",
+    "theme_color_hex": "#002395"
+  },
+  {
+    "iso_a2": "MD",
+    "continent": "Europe",
+    "theme_color": "Blue",
+    "theme_color_hex": "#0047AB"
+  }
+]

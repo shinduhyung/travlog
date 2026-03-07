@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Miami",
+    "country": "US",
+    "city_tourist_ratio": 16.41
+  },
+  {
+    "name": "Las Vegas",
+    "country": "US",
+    "city_tourist_ratio": 9.93
+  },
+  {
+    "name": "Dubai",
+    "country": "AE",
+    "city_tourist_ratio": 5.88
+  },
+  {
+    "name": "Edinburgh",
+    "country": "GB",
+    "city_tourist_ratio": 4.45
+  },
+  {
+    "name": "Dublin",
+    "country": "IE",
+    "city_tourist_ratio": 4.27
+  },
+  {
+    "name": "Hong Kong",
+    "country": "HK",
+    "city_tourist_ratio": 3.98
+  },
+  {
+    "name": "San Francisco",
+    "country": "US",
+    "city_tourist_ratio": 3.92
+  },
+  {
+    "name": "Vienna",
+    "country": "AT",
+    "city_tourist_ratio": 3.29
+  },
+  {
+    "name": "Singapore",
+    "country": "SG",
+    "city_tourist_ratio": 3.16
+  },
+  {
+    "name": "Washington, D.C.",
+    "country": "US",
+    "city_tourist_ratio": 2.86
+  },
+  {
+    "name": "Munich",
+    "country": "DE",
+    "city_tourist_ratio": 2.65
+  },
+  {
+    "name": "Boston",
+    "country": "US",
+    "city_tourist_ratio": 2.38
+  },
+  {
+    "name": "Bangkok",
+    "country": "TH",
+    "city_tourist_ratio": 2.29
+  },
+  {
+    "name": "London",
+    "country": "GB",
+    "city_tourist_ratio": 2.26
+  },
+  {
+    "name": "Porto",
+    "country": "PT",
+    "city_tourist_ratio": 1.83
+  },
+  {
+    "name": "Los Angeles",
+    "country": "US",
+    "city_tourist_ratio": 1.79
+  },
+  {
+    "name": "Abu Dhabi",
+    "country": "AE",
+    "city_tourist_ratio": 1.65
+  },
+  {
+    "name": "Berlin",
+    "country": "DE",
+    "city_tourist_ratio": 1.62
+  },
+  {
+    "name": "Kuala Lumpur",
+    "country": "MY",
+    "city_tourist_ratio": 1.62
+  },
+  {
+    "name": "New York City",
+    "country": "US",
+    "city_tourist_ratio": 1.57
+  },
+  {
+    "name": "Paris",
+    "country": "FR",
+    "city_tourist_ratio": 1.54
+  },
+  {
+    "name": "Birmingham",
+    "country": "GB",
+    "city_tourist_ratio": 1.32
+  },
+  {
+    "name": "Lisbon",
+    "country": "PT",
+    "city_tourist_ratio": 1.29
+  },
+  {
+    "name": "Barcelona",
+    "country": "ES",
+    "city_tourist_ratio": 1.21
+  }
+]
