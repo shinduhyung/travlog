@@ -18,11 +18,11 @@ class CitiesShare {
       final directory = await getTemporaryDirectory();
 
       // 대륙별 통계 계산
-      final continentStats = _calculateContinentStats(visitedCities);
+      final continentStats = calculateContinentStats(visitedCities);
 
-      // 단일 페이지: 지도 + 통계
+      // 단일 페이지: 통계 레이아웃
       final Uint8List statsImage = await compositeController.captureFromWidget(
-        _buildStatsLayout(context, mapImage, visitedCities, continentStats),
+        buildStatsLayout(context, mapImage, visitedCities, continentStats),
         delay: const Duration(milliseconds: 100),
         pixelRatio: 2.5,
       );
@@ -45,7 +45,7 @@ class CitiesShare {
   }
 
   // 대륙별 방문 도시 수 계산
-  static Map<String, int> _calculateContinentStats(List<City> cities) {
+  static Map<String, int> calculateContinentStats(List<City> cities) {
     final stats = <String, int>{};
     for (var city in cities) {
       final continent = city.continent;
@@ -96,8 +96,8 @@ class CitiesShare {
     }
   }
 
-  // 지도 + 통계 레이아웃
-  static Widget _buildStatsLayout(
+  // 통계 레이아웃
+  static Widget buildStatsLayout(
       BuildContext context,
       Uint8List mapImage,
       List<City> visitedCities,
@@ -191,25 +191,30 @@ class CitiesShare {
           const SizedBox(height: 12),
 
           // ========== 지도 이미지 ==========
-          ClipRRect(
-            borderRadius: BorderRadius.circular(20),
-            child: Container(
-              decoration: BoxDecoration(
-                border: Border.all(color: Colors.white, width: 3),
-                borderRadius: BorderRadius.circular(20),
-                boxShadow: [
-                  BoxShadow(
-                    color: Colors.black.withOpacity(0.15),
-                    blurRadius: 20,
-                    offset: const Offset(0, 8),
+          Container(
+            decoration: BoxDecoration(
+              borderRadius: BorderRadius.circular(20),
+              boxShadow: [
+                BoxShadow(
+                  color: Colors.black.withOpacity(0.15),
+                  blurRadius: 20,
+                  offset: const Offset(0, 8),
+                ),
+              ],
+            ),
+            child: ClipRRect(
+              borderRadius: BorderRadius.circular(20),
+              child: Container(
+                decoration: BoxDecoration(
+                  border: Border.all(color: Colors.white, width: 3),
+                  borderRadius: BorderRadius.circular(20),
+                ),
+                child: ClipRect(
+                  child: Align(
+                    alignment: const Alignment(0.0, 0.3),  // 0.0이 중앙, 숫자 높이면 아래로
+                    heightFactor: 0.75,
+                    child: Image.memory(mapImage, fit: BoxFit.cover),
                   ),
-                ],
-              ),
-              child: ClipRect(
-                child: Align(
-                  alignment: Alignment.topCenter,
-                  heightFactor: 0.75,
-                  child: Image.memory(mapImage, fit: BoxFit.cover),
                 ),
               ),
             ),

@@ -8,6 +8,7 @@ import 'package:flutter_rating_bar/flutter_rating_bar.dart';
 import 'package:intl/intl.dart';
 import 'dart:io';
 import 'package:image_picker/image_picker.dart';
+import 'package:cached_network_image/cached_network_image.dart';
 
 // Models & Providers
 import 'package:jidoapp/models/landmarks_model.dart';
@@ -96,14 +97,14 @@ class _TopLandmarksScreenState extends State<TopLandmarksScreen> {
     'Huangshan': 'Anhui Province'
   };
 
-  String _getLandmarkImagePath(String name) {
+  String _getLandmarkImageUrl(String name) {
     final snake = name
         .toLowerCase()
         .replaceAll(RegExp(r"[''`]"), '')
         .replaceAll(RegExp(r'[^a-z0-9\s]'), '')
         .trim()
         .replaceAll(RegExp(r'\s+'), '_');
-    return 'assets/top_landmarks/$snake.jpg';
+    return 'https://firebasestorage.googleapis.com/v0/b/proboscis-2025.firebasestorage.app/o/top_landmarks%2F$snake.jpg?alt=media';
   }
 
   String _getDisplayLandmarkName(String name) {
@@ -363,7 +364,7 @@ class _TopLandmarksScreenState extends State<TopLandmarksScreen> {
                       final item = topItems[index];
                       final isVisited = landmarksProvider.visitedLandmarks.contains(item.name);
                       final themeColor = Theme.of(context).primaryColor;
-                      final imagePath = _getLandmarkImagePath(item.name);
+                      final imageUrl = _getLandmarkImageUrl(item.name);
 
                       Color getRankGradientColor(int rank) {
                         if (rank <= 10) return const Color(0xFFFFD700);
@@ -409,14 +410,11 @@ class _TopLandmarksScreenState extends State<TopLandmarksScreen> {
                                   child: Stack(
                                     children: [
                                       Positioned.fill(
-                                        child: Image.asset(
-                                          imagePath,
+                                        child: CachedNetworkImage(
+                                          imageUrl: imageUrl,
                                           fit: BoxFit.cover,
-                                          errorBuilder: (context, error, stackTrace) {
-                                            return Container(
-                                              color: Colors.grey[100],
-                                            );
-                                          },
+                                          placeholder: (context, url) => Container(color: Colors.grey[100]),
+                                          errorWidget: (context, url, error) => Container(color: Colors.grey[100]),
                                         ),
                                       ),
                                       Positioned.fill(
@@ -736,7 +734,7 @@ class _TopLandmarksScreenState extends State<TopLandmarksScreen> {
         final themeColor = landmarkThemeColor ?? fallbackThemeColor;
         const headerTextColor = Colors.white;
 
-        final imagePath = _getLandmarkImagePath(freshLandmark.name);
+        final imageUrl = _getLandmarkImageUrl(freshLandmark.name);
         final displayCity = _getDisplayCityName(freshLandmark);
 
         return Container(
@@ -755,10 +753,11 @@ class _TopLandmarksScreenState extends State<TopLandmarksScreen> {
                     child: Stack(
                       children: [
                         Positioned.fill(
-                          child: Image.asset(
-                            imagePath,
+                          child: CachedNetworkImage(
+                            imageUrl: imageUrl,
                             fit: BoxFit.cover,
-                            errorBuilder: (context, error, stackTrace) => Container(
+                            placeholder: (context, url) => Container(color: Colors.grey[100]),
+                            errorWidget: (context, url, error) => Container(
                               decoration: BoxDecoration(
                                 gradient: LinearGradient(
                                   begin: Alignment.topLeft,

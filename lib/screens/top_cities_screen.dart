@@ -8,6 +8,7 @@ import 'package:jidoapp/screens/cities_screen.dart';
 import 'package:collection/collection.dart';
 import 'dart:math';
 import 'package:country_flags/country_flags.dart';
+import 'package:cached_network_image/cached_network_image.dart';
 
 class TopCitiesScreen extends StatefulWidget {
   const TopCitiesScreen({super.key});
@@ -441,14 +442,14 @@ class _GaWCRankingListState extends State<_GaWCRankingList> {
     });
   }
 
-  String _getCityImagePath(String name) {
+  String _getCityImageUrl(String name) {
     final snake = name
         .toLowerCase()
         .replaceAll(RegExp(r"[''`]"), '')
         .replaceAll(RegExp(r'[^a-z0-9\s]'), '')
         .trim()
         .replaceAll(RegExp(r'\s+'), '_');
-    return 'assets/top_cities/$snake.png';
+    return 'https://firebasestorage.googleapis.com/v0/b/proboscis-2025.firebasestorage.app/o/top_cities%2F$snake.png?alt=media';
   }
 
   String _getFlagEmoji(String countryCode) {
@@ -620,12 +621,11 @@ class _GaWCRankingListState extends State<_GaWCRankingList> {
                                       child: Stack(
                                         fit: StackFit.expand,
                                         children: [
-                                          Image.asset(
-                                            _getCityImagePath(city.name),
+                                          CachedNetworkImage(
+                                            imageUrl: _getCityImageUrl(city.name),
                                             fit: BoxFit.cover,
-                                            errorBuilder: (context, error, stackTrace) => Container(
-                                              color: const Color(0xFFF3F4F6),
-                                            ),
+                                            placeholder: (context, url) => Container(color: const Color(0xFFF3F4F6)),
+                                            errorWidget: (context, url, error) => Container(color: const Color(0xFFF3F4F6)),
                                           ),
                                           if (isVisited)
                                             Positioned(

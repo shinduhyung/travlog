@@ -547,20 +547,7 @@ class TopPicksMenuScreen extends StatelessWidget {
         ),
         child: Stack(
           children: [
-            Positioned.fill(
-              child: Opacity(
-                opacity: 0.03,
-                child: Container(
-                  decoration: BoxDecoration(
-                    borderRadius: BorderRadius.circular(20),
-                    image: const DecorationImage(
-                      image: NetworkImage('https://grainy-gradients.vercel.app/noise.svg'),
-                      repeat: ImageRepeat.repeat,
-                    ),
-                  ),
-                ),
-              ),
-            ),
+
             Padding(
               padding: const EdgeInsets.all(24),
               child: Column(

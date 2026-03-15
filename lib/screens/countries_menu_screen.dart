@@ -35,6 +35,9 @@ import 'package:screenshot/screenshot.dart'; // 지도 캡처용
 // [추가] 로딩 로고 위젯 임포트
 import 'package:jidoapp/widgets/plane_loading_logo.dart';
 
+// [추가] 홈 위젯 서비스 임포트
+import 'package:jidoapp/services/home_widget_service.dart';
+
 class CountriesMenuScreen extends StatefulWidget {
   const CountriesMenuScreen({super.key});
 
@@ -47,6 +50,7 @@ class _CountriesMenuScreenState extends State<CountriesMenuScreen> {
 
   // ⭐️ 지도 캡처 컨트롤러
   final ScreenshotController _mapScreenshotController = ScreenshotController();
+  final ScreenshotController _widgetScreenshotController = ScreenshotController();
   bool _isSharing = false;
 
   final List<Map<String, dynamic>> statisticsItems = [
@@ -57,6 +61,209 @@ class _CountriesMenuScreenState extends State<CountriesMenuScreen> {
     {'icon': Icons.terrain, 'title': 'Geography', 'screen': const GeographyStatsScreen()},
     {'icon': Icons.auto_awesome, 'title': 'Specials', 'screen': const SpecialsStatsScreen()},
   ];
+
+  @override
+  void initState() {
+    super.initState();
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      // FlutterMap 폴리곤 렌더링 시간을 위해 3000ms로 변경
+      Future.delayed(const Duration(milliseconds: 3000), () {
+        _captureAndUpdateWidget();
+      });
+    });
+  }
+
+  Future<void> _captureAndUpdateWidget() async {
+    if (!mounted) return;
+    try {
+      final provider = context.read<CountryProvider>();
+      final visitedList = provider.allCountries
+          .where((c) => provider.visitedCountries.contains(c.name))
+          .toList();
+
+      // 위젯 전체 UI (지도+통계) 캡처
+      final widgetImage = await _widgetScreenshotController.captureFromWidget(
+        _buildWidgetPreview(provider, visitedList),
+        context: context,
+        pixelRatio: 2.0,
+        targetSize: const Size(600, 300),
+      );
+
+      await HomeWidgetService.updateWidget(
+        visitedCountries: visitedList,
+        widgetImage: widgetImage,
+      );
+      debugPrint('✅ 위젯 업데이트 완료');
+    } catch (e) {
+      debugPrint('❌ 위젯 캡처 실패: $e');
+    }
+  }
+
+  Widget _buildWidgetPreview(CountryProvider provider, List<Country> visitedList) {
+    final continentTotals = {
+      'Asia': 48, 'Europe': 44, 'Africa': 54,
+      'North America': 23, 'South America': 12, 'Oceania': 14,
+    };
+
+    // 대륙별 통계 계산
+    final stats = <String, int>{};
+    for (final c in visitedList) {
+      final continent = c.continent;
+      if (continent == null || continent.isEmpty) continue;
+      String mapped;
+      if (continent.contains('Asia')) mapped = 'Asia';
+      else if (continent.contains('Europe')) mapped = 'Europe';
+      else if (continent.contains('Africa')) mapped = 'Africa';
+      else if (continent == 'North America' || continent.contains('Caribbean') || continent.contains('Central America')) mapped = 'North America';
+      else if (continent == 'South America') mapped = 'South America';
+      else if (continent.contains('Oceania') || continent.contains('Australia')) mapped = 'Oceania';
+      else mapped = continent;
+      stats[mapped] = (stats[mapped] ?? 0) + 1;
+    }
+
+    final continentItems = [
+      {'name': 'Asia', 'fullName': 'Asia', 'color': Colors.pink.shade300},
+      {'name': 'Europe', 'fullName': 'Europe', 'color': Colors.yellow.shade700},
+      {'name': 'Africa', 'fullName': 'Africa', 'color': Colors.brown.shade400},
+      {'name': 'N. America', 'fullName': 'North America', 'color': Colors.blue.shade400},
+      {'name': 'S. America', 'fullName': 'South America', 'color': Colors.green.shade400},
+      {'name': 'Oceania', 'fullName': 'Oceania', 'color': Colors.purple.shade400},
+    ];
+
+    return Container(
+      width: 600,
+      height: 300,
+      decoration: const BoxDecoration(color: Colors.white),
+      padding: const EdgeInsets.all(12),
+      child: Row(
+        children: [
+          // 지도 영역
+          Expanded(
+            flex: 6,
+            child: ClipRRect(
+              borderRadius: BorderRadius.circular(12),
+              child: SizedBox(
+                width: double.infinity,
+                height: double.infinity,
+                child: FlutterMap(
+                  options: const MapOptions(
+                    initialCenter: LatLng(0, 0),
+                    initialZoom: 0.3,
+                    interactionOptions: InteractionOptions(flags: InteractiveFlag.none),
+                  ),
+                  children: [
+                    TileLayer(urlTemplate: '', backgroundColor: Colors.white),
+                    PolygonLayer(
+                      polygons: provider.allCountries.expand((country) {
+                        final isVisited = provider.visitedCountries.contains(country.name);
+                        final color = isVisited
+                            ? (provider.continentColors[country.continent] ?? Colors.grey)
+                            : Colors.grey.withOpacity(0.15);
+                        return country.polygonsData.map((polygonData) => Polygon(
+                          points: polygonData.first,
+                          holePointsList: polygonData.length > 1 ? polygonData.sublist(1) : null,
+                          color: color,
+                          borderColor: Colors.white,
+                          borderStrokeWidth: 0.5,
+                          isFilled: true,
+                        ));
+                      }).toList(),
+                    ),
+                  ],
+                ),
+              ),
+            ),
+          ),
+          const SizedBox(width: 10),
+          // 통계 영역
+          Expanded(
+            flex: 4,
+            child: Column(
+              children: [
+                // 헤더
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                  children: [
+                    const Text('Travelog', style: TextStyle(fontSize: 14, fontWeight: FontWeight.w900)),
+                    Container(
+                      padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 3),
+                      decoration: BoxDecoration(color: Colors.blue, borderRadius: BorderRadius.circular(20)),
+                      child: Text('${visitedList.length} Countries',
+                          style: const TextStyle(color: Colors.white, fontSize: 10, fontWeight: FontWeight.bold)),
+                    ),
+                  ],
+                ),
+                const SizedBox(height: 8),
+                // 대륙 그리드
+                Expanded(
+                  child: Column(
+                    children: List.generate(3, (rowIdx) {
+                      final left = continentItems[rowIdx * 2];
+                      final right = continentItems[rowIdx * 2 + 1];
+                      return Expanded(
+                        child: Padding(
+                          padding: const EdgeInsets.only(bottom: 4),
+                          child: Row(
+                            children: [
+                              Expanded(child: _buildMiniStatItem(
+                                left['name'] as String,
+                                stats[left['fullName']] ?? 0,
+                                continentTotals[left['fullName']] ?? 1,
+                                left['color'] as Color,
+                              )),
+                              const SizedBox(width: 4),
+                              Expanded(child: _buildMiniStatItem(
+                                right['name'] as String,
+                                stats[right['fullName']] ?? 0,
+                                continentTotals[right['fullName']] ?? 1,
+                                right['color'] as Color,
+                              )),
+                            ],
+                          ),
+                        ),
+                      );
+                    }),
+                  ),
+                ),
+              ],
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+
+  Widget _buildMiniStatItem(String name, int count, int total, Color color) {
+    final ratio = (count / total).clamp(0.0, 1.0);
+    return Container(
+      padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 4),
+      decoration: BoxDecoration(
+        color: Colors.grey.shade50,
+        borderRadius: BorderRadius.circular(8),
+        border: Border.all(color: Colors.grey.shade200),
+      ),
+      child: Column(
+        mainAxisAlignment: MainAxisAlignment.center,
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Row(
+            children: [
+              Container(width: 8, height: 8, decoration: BoxDecoration(color: color, shape: BoxShape.circle)),
+              const SizedBox(width: 3),
+              Expanded(child: Text(name, style: const TextStyle(fontSize: 8, fontWeight: FontWeight.bold), overflow: TextOverflow.ellipsis)),
+            ],
+          ),
+          const SizedBox(height: 2),
+          Text('$count/$total', style: TextStyle(fontSize: 11, fontWeight: FontWeight.w900, color: color)),
+          const SizedBox(height: 2),
+          ClipRRect(
+            borderRadius: BorderRadius.circular(2),
+            child: LinearProgressIndicator(value: ratio, backgroundColor: Colors.grey.shade200, color: color, minHeight: 3),
+          ),
+        ],
+      ),
+    );
+  }
 
   Widget _buildStatCategoryChip(BuildContext context, int index) {
     final item = statisticsItems[index];
@@ -351,7 +558,7 @@ class _CountriesMenuScreenState extends State<CountriesMenuScreen> {
                                         child: IgnorePointer(
                                           child: FlutterMap(
                                             options: const MapOptions(
-                                              initialCenter: LatLng(0, 0),
+                                              initialCenter: LatLng(50, 0),
                                               initialZoom: 0.3,
                                               interactionOptions: InteractionOptions(flags: InteractiveFlag.none),
                                             ),

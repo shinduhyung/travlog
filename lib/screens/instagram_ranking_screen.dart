@@ -9,6 +9,7 @@ import 'package:country_flags/country_flags.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:intl/intl.dart';
 
+import 'package:cached_network_image/cached_network_image.dart';
 import 'package:jidoapp/models/landmarks_model.dart';
 import 'package:jidoapp/models/visit_date_model.dart';
 import 'package:jidoapp/providers/landmarks_provider.dart';
@@ -24,16 +25,16 @@ class InstagramRankingScreen extends StatefulWidget {
 
 class _InstagramRankingScreenState extends State<InstagramRankingScreen> {
   final List<Map<String, String>> _top10List = [
-    {'name': 'Eiffel Tower', 'image': 'assets/instagram/eiffel_tower.png', 'iso': 'FR'},
-    {'name': 'Big Ben', 'image': 'assets/instagram/big_ben.png', 'iso': 'GB'},
-    {'name': 'Louvre Museum', 'image': 'assets/instagram/louvre.png', 'iso': 'FR'},
-    {'name': 'Empire State Building', 'image': 'assets/instagram/empire_state.png', 'iso': 'US'},
-    {'name': 'Burj Khalifa', 'image': 'assets/instagram/burj_khalifa.png', 'iso': 'AE'},
-    {'name': 'Notre-Dame de Paris', 'image': 'assets/instagram/notre_dame.png', 'iso': 'FR'},
-    {'name': "St. Peter's Basilica", 'image': 'assets/instagram/st_peters.png', 'iso': 'VA'},
-    {'name': 'Times Square', 'image': 'assets/instagram/times_square.png', 'iso': 'US'},
-    {'name': 'Sagrada Familia', 'image': 'assets/instagram/sagrada_familia.png', 'iso': 'ES'},
-    {'name': 'Colosseum', 'image': 'assets/instagram/colosseum.png', 'iso': 'IT'},
+    {'name': 'Eiffel Tower', 'image': 'https://firebasestorage.googleapis.com/v0/b/proboscis-2025.firebasestorage.app/o/instagram%2Feiffel_tower.png?alt=media', 'iso': 'FR'},
+    {'name': 'Big Ben', 'image': 'https://firebasestorage.googleapis.com/v0/b/proboscis-2025.firebasestorage.app/o/instagram%2Fbig_ben.png?alt=media', 'iso': 'GB'},
+    {'name': 'Louvre Museum', 'image': 'https://firebasestorage.googleapis.com/v0/b/proboscis-2025.firebasestorage.app/o/instagram%2Flouvre.png?alt=media', 'iso': 'FR'},
+    {'name': 'Empire State Building', 'image': 'https://firebasestorage.googleapis.com/v0/b/proboscis-2025.firebasestorage.app/o/instagram%2Fempire_state.png?alt=media', 'iso': 'US'},
+    {'name': 'Burj Khalifa', 'image': 'https://firebasestorage.googleapis.com/v0/b/proboscis-2025.firebasestorage.app/o/instagram%2Fburj_khalifa.png?alt=media', 'iso': 'AE'},
+    {'name': 'Notre-Dame de Paris', 'image': 'https://firebasestorage.googleapis.com/v0/b/proboscis-2025.firebasestorage.app/o/instagram%2Fnotre_dame.png?alt=media', 'iso': 'FR'},
+    {'name': "St. Peter's Basilica", 'image': 'https://firebasestorage.googleapis.com/v0/b/proboscis-2025.firebasestorage.app/o/instagram%2Fst_peters.png?alt=media', 'iso': 'VA'},
+    {'name': 'Times Square', 'image': 'https://firebasestorage.googleapis.com/v0/b/proboscis-2025.firebasestorage.app/o/instagram%2Ftimes_square.png?alt=media', 'iso': 'US'},
+    {'name': 'Sagrada Familia', 'image': 'https://firebasestorage.googleapis.com/v0/b/proboscis-2025.firebasestorage.app/o/instagram%2Fsagrada_familia.png?alt=media', 'iso': 'ES'},
+    {'name': 'Colosseum', 'image': 'https://firebasestorage.googleapis.com/v0/b/proboscis-2025.firebasestorage.app/o/instagram%2Fcolosseum.png?alt=media', 'iso': 'IT'},
   ];
 
   @override
@@ -117,22 +118,20 @@ class _InstagramRankingScreenState extends State<InstagramRankingScreen> {
                                 child: SizedBox(
                                   height: 200,
                                   width: double.infinity,
-                                  child: Image.asset(
-                                    imagePath,
+                                  child: CachedNetworkImage(
+                                    imageUrl: imagePath,
                                     fit: BoxFit.cover,
-                                    errorBuilder: (context, error, stackTrace) {
-                                      return Container(
-                                        color: Colors.grey[200],
-                                        child: Column(
-                                          mainAxisAlignment: MainAxisAlignment.center,
-                                          children: [
-                                            Icon(Icons.camera_alt, size: 40, color: Colors.grey[400]),
-                                            const SizedBox(height: 8),
-                                            Text('Image Placeholder', style: TextStyle(color: Colors.grey[500])),
-                                          ],
-                                        ),
-                                      );
-                                    },
+                                    errorWidget: (context, url, error) => Container(
+                                      color: Colors.grey[200],
+                                      child: Column(
+                                        mainAxisAlignment: MainAxisAlignment.center,
+                                        children: [
+                                          Icon(Icons.camera_alt, size: 40, color: Colors.grey[400]),
+                                          const SizedBox(height: 8),
+                                          Text('Image Placeholder', style: TextStyle(color: Colors.grey[500])),
+                                        ],
+                                      ),
+                                    ),
                                   ),
                                 ),
                               ),
@@ -359,12 +358,12 @@ class _InstagramRankingScreenState extends State<InstagramRankingScreen> {
                       children: [
                         ClipRRect(
                           borderRadius: BorderRadius.circular(12),
-                          child: Image.asset(
-                            imagePath,
+                          child: CachedNetworkImage(
+                            imageUrl: imagePath,
                             width: double.infinity,
                             height: 200,
                             fit: BoxFit.cover,
-                            errorBuilder: (context, error, stackTrace) => const SizedBox.shrink(),
+                            errorWidget: (context, url, error) => const SizedBox.shrink(),
                           ),
                         ),
                         const SizedBox(height: 16),

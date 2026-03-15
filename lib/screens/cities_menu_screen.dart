@@ -23,6 +23,7 @@ import 'package:screenshot/screenshot.dart';
 
 // [추가] 로딩 로고 위젯 임포트
 import 'package:jidoapp/widgets/plane_loading_logo.dart';
+import 'package:jidoapp/services/home_widget_service.dart';
 
 class CitiesMenuScreen extends StatefulWidget {
   const CitiesMenuScreen({super.key});
@@ -37,6 +38,13 @@ class _CitiesMenuScreenState extends State<CitiesMenuScreen> {
   // ⭐️ 지도 캡처 컨트롤러
   final ScreenshotController _mapScreenshotController = ScreenshotController();
   bool _isSharing = false;
+  bool _widgetUpdated = false;
+
+  @override
+  void initState() {
+    super.initState();
+    Future.delayed(const Duration(milliseconds: 3000), _captureAndUpdateWidget);
+  }
 
   final List<Map<String, dynamic>> statisticsItems = [
     {
@@ -341,6 +349,31 @@ class _CitiesMenuScreenState extends State<CitiesMenuScreen> {
       if (mounted) {
         setState(() => _isSharing = false);
       }
+    }
+  }
+
+  Future<void> _captureAndUpdateWidget() async {
+    if (!mounted || _widgetUpdated) return;
+    _widgetUpdated = true;
+    try {
+      final cityProvider = context.read<CityProvider>();
+      final visitedCities = cityProvider.allCities
+          .where((city) => cityProvider.visitDetails.containsKey(city.name))
+          .toList();
+      final mapImage = await _mapScreenshotController.capture();
+      if (mapImage == null) return;
+      final continentStats = CitiesShare.calculateContinentStats(visitedCities);
+      final widgetImage = await ScreenshotController().captureFromWidget(
+        CitiesShare.buildStatsLayout(context, mapImage, visitedCities, continentStats),
+        context: context,
+        pixelRatio: 2.0,
+      );
+      await HomeWidgetService.updateWidget(
+        widgetImage: widgetImage,
+        widgetType: WidgetType.cities,
+      );
+    } catch (e) {
+      debugPrint('❌ cities 위젯 캡처 실패: $e');
     }
   }
 

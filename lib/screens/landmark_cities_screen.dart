@@ -7,6 +7,7 @@ import 'package:country_flags/country_flags.dart';
 import 'package:flutter_rating_bar/flutter_rating_bar.dart';
 import 'dart:io';
 import 'package:image_picker/image_picker.dart';
+import 'package:cached_network_image/cached_network_image.dart';
 
 import 'package:jidoapp/models/landmarks_model.dart';
 import 'package:jidoapp/models/visit_date_model.dart';
@@ -19,14 +20,14 @@ class LandmarkCitiesScreen extends StatelessWidget {
   const LandmarkCitiesScreen({super.key});
 
   /// 랜드마크 이름을 snake_case 파일명으로 변환합니다.
-  String _getLandmarkImagePath(String name) {
+  String _getLandmarkImageUrl(String name) {
     final snake = name
         .toLowerCase()
         .replaceAll(RegExp(r"[''`]"), '')         // 작은따옴표 제거
         .replaceAll(RegExp(r'[^a-z0-9\s]'), '')   // 특수문자 제거
         .trim()
         .replaceAll(RegExp(r'\s+'), '_');         // 공백을 언더스코어로 변경
-    return 'assets/city_landmark/$snake.png';     // png 확장자 및 경로 변경
+    return 'https://firebasestorage.googleapis.com/v0/b/proboscis-2025.firebasestorage.app/o/city_landmark%2F$snake.png?alt=media';
   }
 
   // Data structure for the cities and their top 7 landmarks
@@ -207,7 +208,7 @@ class LandmarkCitiesScreen extends StatelessWidget {
     final landmarksProvider = context.watch<LandmarksProvider>();
     final landmark = landmarksProvider.allLandmarks.firstWhereOrNull((l) => l.name == landmarkName);
     final isVisited = landmarksProvider.visitedLandmarks.contains(landmarkName);
-    final imagePath = _getLandmarkImagePath(landmarkName);
+    final imageUrl = _getLandmarkImageUrl(landmarkName);
 
     return GestureDetector(
       onTap: () {
@@ -246,12 +247,13 @@ class LandmarkCitiesScreen extends StatelessWidget {
                   borderRadius: BorderRadius.circular(isVisited ? 14 : 16),
                   child: Stack(
                     children: [
-                      Image.asset(
-                        imagePath,
+                      CachedNetworkImage(
+                        imageUrl: imageUrl,
                         fit: BoxFit.cover,
                         width: double.infinity,
                         height: double.infinity,
-                        errorBuilder: (context, error, stackTrace) => Container(
+                        placeholder: (context, url) => Container(color: Colors.grey[200]),
+                        errorWidget: (context, url, error) => Container(
                           color: Colors.grey[200],
                           child: Icon(Icons.image_not_supported, color: Colors.grey[400]),
                         ),

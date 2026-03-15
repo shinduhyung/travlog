@@ -10,6 +10,7 @@ import 'package:image_picker/image_picker.dart';
 import 'dart:io';
 import 'package:provider/provider.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:cached_network_image/cached_network_image.dart';
 
 // Models
 import 'package:jidoapp/models/country_info_model.dart';
@@ -497,19 +498,19 @@ class _CountryDetailScreenState extends State<CountryDetailScreen> {
 
   /// Converts landmark name to snake_case asset path
   /// e.g. "Taj Mahal" → "assets/countrydex/taj_mahal.jpg"
-  String _getLandmarkImagePath(String name) {
+  String _getLandmarkImageUrl(String name) {
     final snake = name
         .toLowerCase()
-        .replaceAll(RegExp(r"[''`]"), '')         // remove apostrophes
-        .replaceAll(RegExp(r'[^a-z0-9\s]'), '')   // remove special chars
+        .replaceAll(RegExp(r"[''`]"), '')
+        .replaceAll(RegExp(r'[^a-z0-9\s]'), '')
         .trim()
-        .replaceAll(RegExp(r'\s+'), '_');           // spaces → underscores
-    return 'assets/countrydex/$snake.jpg';
+        .replaceAll(RegExp(r'\s+'), '_');
+    return 'https://firebasestorage.googleapis.com/v0/b/proboscis-2025.firebasestorage.app/o/countrydex%2F$snake.jpg?alt=media';
   }
 
   Widget _buildTopLandmarkCardSimple(BuildContext context, Landmark landmark, LandmarksProvider provider, Color themeColor) {
     final isVisited = provider.visitedLandmarks.contains(landmark.name);
-    final imagePath = _getLandmarkImagePath(landmark.name);
+    final imageUrl = _getLandmarkImageUrl(landmark.name);
 
     // Derive a readable text color against themeColor background
     final luminance = themeColor.computeLuminance();
@@ -536,12 +537,16 @@ class _CountryDetailScreenState extends State<CountryDetailScreen> {
                 children: [
                   ClipRRect(
                     borderRadius: const BorderRadius.vertical(top: Radius.circular(14)),
-                    child: Image.asset(
-                      imagePath,
+                    child: CachedNetworkImage(
+                      imageUrl: imageUrl,
+                      fit: BoxFit.cover,
                       width: double.infinity,
                       height: double.infinity,
-                      fit: BoxFit.cover,
-                      errorBuilder: (_, __, ___) => Container(
+                      placeholder: (context, url) => Container(
+                        color: themeColor.withOpacity(0.12),
+                        child: Center(child: CircularProgressIndicator(color: themeColor, strokeWidth: 2)),
+                      ),
+                      errorWidget: (context, url, error) => Container(
                         width: double.infinity,
                         height: double.infinity,
                         decoration: BoxDecoration(

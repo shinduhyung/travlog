@@ -36,6 +36,7 @@ import 'package:jidoapp/providers/personality_provider.dart';
 import 'package:jidoapp/providers/unesco_provider.dart';
 import 'package:jidoapp/providers/trip_log_provider.dart';
 import 'package:jidoapp/services/ai_service.dart';
+import 'package:jidoapp/services/home_widget_service.dart';
 
 import 'package:jidoapp/screens/badge_collected_screen.dart';
 import 'package:jidoapp/screens/rank_collected_screen.dart';
@@ -262,11 +263,53 @@ class AuthGateRoot extends StatelessWidget {
             ),
           ],
           child: _buildAppShell(
-            const MainScreen(),
+            const WidgetUpdateWrapper(),
             navKey: navigatorKey,
           ),
         );
       },
+    );
+  }
+}
+
+class WidgetUpdateWrapper extends StatefulWidget {
+  const WidgetUpdateWrapper({super.key});
+
+  @override
+  State<WidgetUpdateWrapper> createState() => _WidgetUpdateWrapperState();
+}
+
+class _WidgetUpdateWrapperState extends State<WidgetUpdateWrapper> {
+  bool _widgetUpdated = false;
+
+  @override
+  Widget build(BuildContext context) {
+    final countryProvider = context.watch<CountryProvider>();
+
+    if (!_widgetUpdated &&
+        countryProvider.allCountries.isNotEmpty &&
+        countryProvider.visitedCountries.isNotEmpty) {
+      _widgetUpdated = true;
+      WidgetsBinding.instance.addPostFrameCallback((_) {
+        _triggerWidgetUpdate(countryProvider);
+      });
+    }
+
+    return const MainScreen();
+  }
+
+  void _triggerWidgetUpdate(CountryProvider countryProvider) {
+    final visitedNames = countryProvider.visitedCountries;
+    final visitedList = countryProvider.allCountries
+        .where((c) => visitedNames.contains(c.name))
+        .toList();
+
+    debugPrint('✅ Widget update: ${visitedList.length}개 국가');
+
+    // widgetImage는 null로 전달 — countries_menu_screen 진입 시 실제 캡처됨
+    HomeWidgetService.updateWidget(
+      widgetImage: null,
+      widgetType: WidgetType.countries,
     );
   }
 }
@@ -323,7 +366,6 @@ class _BadgeGlobalListenerState extends State<BadgeGlobalListener> {
       final overlayContext = navigatorKey.currentContext;
       if (overlayContext == null) return;
 
-      // [1순위] 랭크 업 알림 체크
       if (badgeProvider.newRankUnlocked != null) {
         _isShowingDialog = true;
         final rankName = badgeProvider.newRankUnlocked!;
@@ -343,7 +385,6 @@ class _BadgeGlobalListenerState extends State<BadgeGlobalListener> {
         return;
       }
 
-      // [2순위] 뱃지 알림 체크
       if (badgeProvider.newlyUnlocked.isNotEmpty) {
         final newBadge = badgeProvider.newlyUnlocked.first;
         _isShowingDialog = true;
@@ -375,7 +416,7 @@ class _BadgeGlobalListenerState extends State<BadgeGlobalListener> {
         WidgetsBinding.instance.addPostFrameCallback((_) => _checkNotifications());
       }
     } catch (e) {
-      // BadgeProvider를 찾을 수 없음 -> 무시
+
     }
 
     return widget.child ?? const SizedBox.shrink();

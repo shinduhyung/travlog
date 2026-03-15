@@ -2,6 +2,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:jidoapp/models/country_model.dart';
+import 'package:cached_network_image/cached_network_image.dart';
 import 'package:jidoapp/models/visa_data_model.dart';
 import 'package:jidoapp/providers/country_provider.dart';
 import 'package:jidoapp/providers/passport_provider.dart';
@@ -300,14 +301,12 @@ class _PassportScreenState extends State<PassportScreen> {
                     width: 90,
                     height: 125,
                     color: Colors.grey[100],
-                    child: Image.asset(
-                      'assets/passports/${provider.selectedPassportIso}.png',
+                    child: CachedNetworkImage(
+                      imageUrl: 'https://firebasestorage.googleapis.com/v0/b/proboscis-2025.firebasestorage.app/o/passports%2F${provider.selectedPassportIso}.png?alt=media',
                       fit: BoxFit.cover,
-                      errorBuilder: (context, error, stackTrace) {
-                        return const Center(
-                          child: Icon(Icons.menu_book_rounded, size: 30, color: Colors.grey),
-                        );
-                      },
+                      errorWidget: (context, url, error) => const Center(
+                        child: Icon(Icons.menu_book_rounded, size: 30, color: Colors.grey),
+                      ),
                     ),
                   ),
                 ),

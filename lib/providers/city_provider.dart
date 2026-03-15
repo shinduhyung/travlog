@@ -4,6 +4,7 @@ import 'dart:convert';
 import 'dart:math';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
+import 'package:http/http.dart' as http;
 import 'package:jidoapp/models/city_model.dart';
 import 'package:jidoapp/models/city_visit_detail_model.dart';
 import 'package:jidoapp/models/visit_details_model.dart';
@@ -414,6 +415,16 @@ class CityProvider with ChangeNotifier {
     return _largestCitiesOverrideMap[countryName] ?? '';
   }
 
+  Future<String> _loadJsonFromStorage(String fileName) async {
+    final url = 'https://firebasestorage.googleapis.com/v0/b/proboscis-2025.firebasestorage.app/o/json%2F$fileName?alt=media';
+    final response = await http.get(Uri.parse(url));
+    if (response.statusCode == 200) {
+      return response.body;
+    }
+    // 실패 시 로컬 fallback
+    return await rootBundle.loadString('assets/$fileName');
+  }
+
   // ===========================================================================
   // Initialization Logic
   // ===========================================================================
@@ -425,7 +436,7 @@ class CityProvider with ChangeNotifier {
       final String continentJsonStr = await rootBundle.loadString('assets/continent.json');
       final Map<String, String> countryToContinentMap = await compute(_parseContinents, continentJsonStr);
 
-      final String cities15000JsonStr = await rootBundle.loadString('assets/cities15000.json');
+      final String cities15000JsonStr = await _loadJsonFromStorage('cities15000.json');
       final String citiesJsonStr = await rootBundle.loadString('assets/cities.json');
 
       final Map<String, dynamic> message = {

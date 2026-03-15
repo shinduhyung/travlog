@@ -161,7 +161,7 @@
       { "name": "Blue Mountains", "local_rank": 7 },
       { "name": "Royal Exhibition Building", "local_rank": 8 },
       { "name": "Port Arthur Historic Site", "local_rank": 9 },
-      { "name": "Fraser Island (K'gari)", "local_rank": 10 }
+      { "name": "Fraser Island", "local_rank": 10 }
     ]
   },
   {
@@ -1228,7 +1228,7 @@
   {
     "country": "PAN",
     "items": [
-      { "name": "Panama Canal (Miraflores Locks)", "local_rank": 1 },
+      { "name": "Panama Canal", "local_rank": 1 },
       { "name": "Casco Viejo", "local_rank": 2 }
     ]
   },

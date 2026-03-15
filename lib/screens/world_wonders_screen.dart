@@ -1,5 +1,6 @@
 // lib/screens/world_wonders_screen.dart
 
+import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:collection/collection.dart';
@@ -21,13 +22,13 @@ class WorldWondersScreen extends StatefulWidget {
 class _WorldWondersScreenState extends State<WorldWondersScreen> {
   // 요청하신 이미지 경로가 포함된 신 세계 7대 불가사의 리스트
   final List<Map<String, String>> _wondersList = [
-    {'name': 'Great Wall of China', 'image': 'assets/wonders/great_wall.png', 'iso': 'CN'},
-    {'name': 'Petra', 'image': 'assets/wonders/petra.png', 'iso': 'JO'},
-    {'name': 'Colosseum', 'image': 'assets/wonders/colosseum.png', 'iso': 'IT'},
-    {'name': 'Chichen Itza', 'image': 'assets/wonders/chichen_itza.png', 'iso': 'MX'},
-    {'name': 'Machu Picchu', 'image': 'assets/wonders/machu_picchu.png', 'iso': 'PE'},
-    {'name': 'Taj Mahal', 'image': 'assets/wonders/taj_mahal.png', 'iso': 'IN'},
-    {'name': 'Christ the Redeemer', 'image': 'assets/wonders/christ_redeemer.png', 'iso': 'BR'},
+    {'name': 'Great Wall of China', 'image': 'https://firebasestorage.googleapis.com/v0/b/proboscis-2025.firebasestorage.app/o/wonders%2Fgreat_wall.png?alt=media', 'iso': 'CN'},
+    {'name': 'Petra', 'image': 'https://firebasestorage.googleapis.com/v0/b/proboscis-2025.firebasestorage.app/o/wonders%2Fpetra.png?alt=media', 'iso': 'JO'},
+    {'name': 'Colosseum', 'image': 'https://firebasestorage.googleapis.com/v0/b/proboscis-2025.firebasestorage.app/o/wonders%2Fcolosseum.png?alt=media', 'iso': 'IT'},
+    {'name': 'Chichen Itza', 'image': 'https://firebasestorage.googleapis.com/v0/b/proboscis-2025.firebasestorage.app/o/wonders%2Fchichen_itza.png?alt=media', 'iso': 'MX'},
+    {'name': 'Machu Picchu', 'image': 'https://firebasestorage.googleapis.com/v0/b/proboscis-2025.firebasestorage.app/o/wonders%2Fmachu_picchu.png?alt=media', 'iso': 'PE'},
+    {'name': 'Taj Mahal', 'image': 'https://firebasestorage.googleapis.com/v0/b/proboscis-2025.firebasestorage.app/o/wonders%2Ftaj_mahal.png?alt=media', 'iso': 'IN'},
+    {'name': 'Christ the Redeemer', 'image': 'https://firebasestorage.googleapis.com/v0/b/proboscis-2025.firebasestorage.app/o/wonders%2Fchrist_redeemer.png?alt=media', 'iso': 'BR'},
   ];
 
   @override
@@ -108,12 +109,12 @@ class _WorldWondersScreenState extends State<WorldWondersScreen> {
                             children: [
                               ClipRRect(
                                 borderRadius: const BorderRadius.vertical(top: Radius.circular(16)),
-                                child: Image.asset(
-                                  imagePath,
+                                child: CachedNetworkImage(
+                                  imageUrl: imagePath,
                                   height: 180,
                                   width: double.infinity,
                                   fit: BoxFit.cover,
-                                  errorBuilder: (context, error, stackTrace) => Container(
+                                  errorWidget: (context, url, error) => Container(
                                     height: 180,
                                     width: double.infinity,
                                     color: Colors.grey[300],
@@ -273,12 +274,12 @@ class _WorldWondersScreenState extends State<WorldWondersScreen> {
                         // 상세 모달 내부 이미지 섹션
                         ClipRRect(
                           borderRadius: BorderRadius.circular(12),
-                          child: Image.asset(
-                            imagePath,
+                          child: CachedNetworkImage(
+                            imageUrl: imagePath,
                             width: double.infinity,
                             height: 200,
                             fit: BoxFit.cover,
-                            errorBuilder: (context, error, stackTrace) => const SizedBox.shrink(),
+                            errorWidget: (context, url, error) => const SizedBox.shrink(),
                           ),
                         ),
                         const SizedBox(height: 16),
